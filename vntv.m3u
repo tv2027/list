@@ -655,15 +655,84 @@ https://kubolive.ddns.net/vanh_tv.php?provider=tv360&id=9958
 #KODIPROP:inputstream.adaptive.license_key=70d033252d025d719ba70a37acc0f5c8:6ca465d8b3018f1604da6d43d3395a6d
 https://kubolive.ddns.net/vanh_tv.php?provider=tv360&id=10001
 
-
-#EXTINF:-1 group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_640_360.png", TV360 Promo (va) (1080p)
-https://vietanh18h1.duckdns.org/tv360/9904/index.m3u8
-
-#EXTINF:-1 group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_640_360.png", TV360 Promo (fr) (1080p)
-https://freem3u.xyz/api/live/play.m3u8?vid=9904
-
 #EXTINF:10 N/A group-title="Sự Kiện TV360", Sự Kiện TV360 END (n/a)
 --------------------------------------------------------------------------------
+
+
+# # # ---------------------------- Sự Kiện VTVPrime --------------------------
+#EXTINF:-1 group-title="VTVPrime" group-logo="https://i.imgur.com/grcnpgs.png" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 1 (not 24/7)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT1/manifest.mpd
+
+#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 2 (not 24/7) [?]
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT2/manifest.mpd
+
+#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 3 (not 24/7) [?]
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT3/manifest.mpd
+
+#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 4 (not 24/7) [?]
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT4/manifest.mpd
+
+#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 5 (not 24/7) [?]
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT5/manifest.mpd
+
+#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 6 (not 24/7) [?]
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT6/manifest.mpd
+
+#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 7 (n/a) [?]
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT7/manifest.mpd
+
+#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 8 (not 24/7) [?]
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT8/manifest.mpd
+
+#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 9 (not 24/7) [?]
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT9/manifest.mpd
+
+#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 10 (not 24/7) [?]
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT10/manifest.mpd
+
+#EXTINF:10 N/A group-title="VTVPrime", Sự Kiện VTVPrime END (n/a)
+# # # --------------------------------------------------------------------------------
+
 
 # # # ---------------------------- Tổng hợp ----------------------------
 #EXTINF:-1 tvg-id="qpvnhd" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN - TH QUỐC PHÒNG VIỆT NAM (1080p)
@@ -710,6 +779,11 @@ https://liveh12.vtvprime.vn/hls/DAVINVY/index.m3u8
 #EXTINF:-1 tvg-id="tvbvn" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/7MBN1Mc.png", TVB Việt Nam
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 
+#EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_640_360.png", TV360 Promo (va) (1080p)
+https://vietanh18h1.duckdns.org/tv360/9904/index.m3u8
+
+#EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_640_360.png", TV360 Promo (fr) (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=9904
 
 #EXTINF:10 N/A group-title="Tổng hợp", Tổng Hợp END (n/a)
 # # # --------------------------------------------------------------------------------
@@ -1173,79 +1247,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=92
 #EXTINF:10 N/A group-title="KÊNH ĐỊA PHƯƠNG", KÊNH ĐỊA PHƯƠNG END (n/a)
 # # # --------------------------------------------------------------------------------
 
-# # # ---------------------------- Sự Kiện VTVPrime --------------------------
-#EXTINF:-1 group-title="VTVPrime" group-logo="https://i.imgur.com/grcnpgs.png" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 1 (not 24/7)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT1/manifest.mpd
-
-#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 2 (not 24/7) [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT2/manifest.mpd
-
-#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 3 (not 24/7) [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT3/manifest.mpd
-
-#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 4 (not 24/7) [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT4/manifest.mpd
-
-#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 5 (not 24/7) [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT5/manifest.mpd
-
-#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 6 (not 24/7) [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT6/manifest.mpd
-
-#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 7 (not 24/7) [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT7/manifest.mpd
-
-#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 8 (not 24/7) [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT8/manifest.mpd
-
-#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 9 (not 24/7) [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT9/manifest.mpd
-
-#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 10 (not 24/7) [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT10/manifest.mpd
-
-#EXTINF:10 N/A group-title="VTVPrime", Sự Kiện VTVPrime END (n/a)
-# # # --------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="musicbox" group-title="BOX" tvg-logo="https://i.imgur.com/BpK5hh1.png", Music Box (720p) [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
