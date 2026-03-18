@@ -413,9 +413,6 @@ https://vietanh18h1.duckdns.org/tv360/190/index.m3u8
 #EXTINF:-1 tvg-id="htv1" group-title="HTV - ĐÀI PTTH TPHCM" group-logo="https://i.postimg.cc/bw1Jv8rt/HTV-New.png" tvg-logo="https://i.postimg.cc/jSdV18FJ/HTV1.png" , HTV1 (fr) (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=190
 
-#EXTINF:-1 tvg-id="htv1" group-title="HTV - ĐÀI PTTH TPHCM" group-logo="https://i.postimg.cc/bw1Jv8rt/HTV-New.png" tvg-logo="https://i.postimg.cc/jSdV18FJ/HTV1.png" , HTV1 (pr) (720p)
-https://truyenhinhonline.trungdungmedia.com/proxy?url=https%3A%2F%2Flive.fptplay53.net%2Fepzhd1%2Fhtv1_hls.smil%2Fchunklist.m3u8
-
 
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV - ĐÀI PTTH TPHCM" tvg-logo="https://i.postimg.cc/g0rTDchv/HTV2-Vie-Channel.png" , HTV2 - Vie Channel (vatv) (1080p)
 https://vietanhtv.id.vn/vieon/vie-channel-htv2-hd/index.m3u8
@@ -438,9 +435,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=192
 
 #EXTINF:-1 tvg-id="htv3" group-title="HTV - ĐÀI PTTH TPHCM" tvg-logo="https://i.postimg.cc/VvWsBmBx/HTV3.png" , HTV3 (p) (720p)
 https://liveh12.vtvprime.vn/hls/HTV3/index.m3u8
-
-#EXTINF:-1 tvg-id="htv3" group-title="HTV - ĐÀI PTTH TPHCM" tvg-logo="https://i.postimg.cc/VvWsBmBx/HTV3.png" , HTV3 (pr) (720p)
-https://truyenhinhonline.trungdungmedia.com/proxy?url=https%3A%2F%2Flive.fptplay53.net%2Fepzhd1%2Fhtv3_hls.smil%2Fchunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="htv4" group-title="HTV - ĐÀI PTTH TPHCM" tvg-logo="https://i.postimg.cc/QMgQ2zP0/H4.png" , HTV4 (va) (1080p)
@@ -924,9 +918,6 @@ https://vietanh18h1.duckdns.org/tv360/55/index.m3u8
 
 #EXTINF:-1 tvg-id="gialai" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/9qGzykW.png", GTV - TH GIA LAI (fr) (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=55
-
-#EXTINF:-1 tvg-id="gialai" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/9qGzykW.png", GTV - TH GIA LAI (pr) (720p)
-https://truyenhinhonline.trungdungmedia.com/proxy?url=https%3A%2F%2Flive.fptplay53.net%2Fepzsd1%2Fgialai01_hls.smil%2Fchunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="quangngai" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.postimg.cc/pdnCmw7y/QNg-TV1.png", QNgTV1 - TH QUẢNG NGÃI (1080p)
