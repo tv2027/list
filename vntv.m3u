@@ -1,6 +1,8 @@
+#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz"
 #EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml"
-#EXTM3U url-tvg="https://vnepg.site/epg.xml, https://vnepg.site/epgu.xml, https://vnepg.site/epg.xml.gz"
-#EXTM3U url-tvg="https://github.com/iptv-pro/iptv-pro.github.io/raw/main/epg/epg.xml.gz"
+
+###// EXTM3U url-tvg="https://vnepg.site/epg.xml, https://vnepg.site/epgu.xml, https://vnepg.site/epg.xml.gz"
+###// EXTM3U url-tvg="https://github.com/iptv-pro/iptv-pro.github.io/raw/main/epg/epg.xml.gz"
 
 ###// EXTM3U url-tvg="https://live.fanmingming.com/e.xml,https://epg.aptv.app/pp.xml.gz,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://epg.catvod.com/epg.xml,http://epg.one/epg.xml,https://epg.pw/xmltv/epg_AU.xml,https://epg.pw/xmltv/epg_ID.xml,https://epg.pw/xmltv/epg_HK.xml,https://epg.pw/xmltv/epg_MY.xml,https://epg.pw/xmltv/epg_FR.xml, https://hnlive.dramahay.xyz/epg.xml"
 ###// EXTM3U url-tvg="https://vnepg.site/epg.xml"
