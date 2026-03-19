@@ -1264,6 +1264,9 @@ https://livevlisctcdnw.seenow.vn/mean/MUSICBOX/manifest.mpd
 
 #EXTINF:-1 tvg-id="woman" group-title="BOX" tvg-logo="https://i.imgur.com/1Cmyrke.png", WOMAN (720p) [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/livesnv2/WO/manifest.mpd
 
 
