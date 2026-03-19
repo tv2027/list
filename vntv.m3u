@@ -76,9 +76,15 @@ https://freem3u.xyz/api/live/play.m3u8?vid=110
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png" , VTV5 Tây Nam Bộ (p) (1080p)
 https://liveh12.vtvprime.vn/hls/VTV5_TNB/index.m3u8
 
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png" , VTV5 Tây Nam Bộ (pr) (1080p)
+https://truyenhinhonline.trungdungmedia.com/proxy?url=https%3A%2F%2Flive.fptplay53.net%2Ffnxhd1%2Fvtv5tnb_vhls.smil%2Fchunklist.m3u8
+
 
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png" , VTV5 Tây Nguyên (p) (1080p)
 https://liveh12.vtvprime.vn/hls/VTV5_TN/index.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png" , VTV5 Tây Nguyên (pr) (1080p)
+https://truyenhinhonline.trungdungmedia.com/proxy?url=https%3A%2F%2Flive.fptplay53.net%2Ffnxhd1%2Fvtv5taynguyen_vhls.smil%2Fchunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png" , VTV7 (va) (1080p)
