@@ -1,18 +1,20 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/Love4vn/Test/refs/heads/main/EPG.xml"
 #EXTM3U
 
-#EXTINF:-1 tvg-id="axn" group-title="Giải Trí" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"bxwJwDXqs2Mj1g0UVNs9IA", "kid":"nSn4fv3sPJ+rNo9ySmKtDg" } ], "type":"temporary"}
-https://s7772.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
-#EXTINF:-1 tvg-id="axnhd" group-title="Giải Trí" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
+#EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN (HD 4Mbps)
+udp://@225.1.4.9:30120
+#EXTINF:-1 tvg-id="axnhd" group-title="Giải Trí" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN (HD 8Mbps)
 udp://@225.1.2.225:30120
 #EXTINF:-1 tvg-id="axnhd" group-title="Giải Trí" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F163.png&w=800",AXN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bxwJwDXqs2Mj1g0UVNs9IA","kid":"nSn4fv3sPJ+rNo9ySmKtDg"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
+#EXTINF:-1 tvg-id="axn" group-title="Giải Trí" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"bxwJwDXqs2Mj1g0UVNs9IA", "kid":"nSn4fv3sPJ+rNo9ySmKtDg" } ], "type":"temporary"}
+https://s7772.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
 #EXTINF:-1 tvg-id="axnhd" group-title="Giải Trí" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN (HD 8.5Mbps)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -32,8 +34,14 @@ http://103.244.145.15/live/anita123/anita123/151036.m3u8?token=ShJcU0BbQQNHWwZaV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a6c2f1e9d7b4c5aa1f04d2b7e9c1f88:05e6bfa4b6805c46b772f35326b26b36
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_axn_sd/default/index.mpd
-#EXTINF:-1 tvg-id="AXN.id" group-title="Giải Trí" tvg-logo="https://mimipipi22.github.io/logo/entertainment/axn.jpg",AXN
+#EXTINF:-1 tvg-id="AXN.id" group-title="Giải Trí" tvg-logo="https://i.ibb.co.com/VYNm274T/IMG-20250512-151526.png",AXN 🔵
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
+#EXTINF:-1 tvg-id="axn" group-title="Giải Trí" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/568841DF-E3B3-454A-9521-11813C6C0954/0-16x9.png?width=530",AXN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4345340d92d64788bef7d99594cbe643:c67f6e21ebbd520e31d4141b771d3867
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=AXN
 #EXTINF:-1 tvg-id="axn" group-title="Giải Trí",AXN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
@@ -42,34 +50,26 @@ https://mega.z5cable.com/bpk-tv/axn_hd/default/index.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://estreams.tv.nej.cz/dash/CH_AXN_Portable.ism/playlist.mpd
-#EXTINF:-1 tvg-id="axn" group-title="Giải Trí" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/568841DF-E3B3-454A-9521-11813C6C0954/0-16x9.png?width=530",AXN
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4345340d92d64788bef7d99594cbe643:c67f6e21ebbd520e31d4141b771d3867
-https://sghost.mobileads.uno/uni5/uni5.mpd?id=AXN
-#EXTINF:-1 tvg-id="hbohd" group-title="Giải Trí" tvg-logo="https://i.postimg.cc/hPZRsTMX/hbo.png",HBO
-https://iplogger.com/Hbo
+#EXTINF:-1 tvg-id="hbohd" group-title="Giải Trí" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 8Mbps)
+udp://@225.1.2.233:30120
 #EXTINF:-1 tvg-id="hbohd" group-title="Giải Trí" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 8Mbps)
 udp://@225.1.1.112:30120
 #EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 4Mbps)
 udp://@225.1.4.90:30120
 #EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 4Mbps)
 udp://@225.1.4.183:30120
-#EXTINF:-1 tvg-id="hbo" group-title="Giải Trí" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
-https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
-#EXTINF:-1 tvg-id="hbohd" group-title="Giải Trí" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 8Mbps)
-udp://@225.1.2.233:30120
+#EXTINF:-1 tvg-id="hbohd" group-title="Giải Trí" tvg-logo="https://i.postimg.cc/hPZRsTMX/hbo.png",HBO
+https://iplogger.com/Hbo
 #EXTINF:-1 tvg-id="hbohd" group-title="Giải Trí" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F129.png&w=800",HBO
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
-#EXTINF:-1 tvg-id="HBO.East.us2" group-title="Giải Trí" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO
-http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="hbo" group-title="Giải Trí" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTINF:-1 tvg-id="hboasia.sg" group-title="Giải Trí" tvg-logo="https://dl.dropbox.com/scl/fi/11cogq3f6ewil4xavwnh3/hbo.png?rlkey=2qd8p4fzhaxy4mnk9vkn5v41c&dl=0",HBO
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -77,24 +77,22 @@ http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+#EXTINF:-1 tvg-id="HBO.East.us2" group-title="Giải Trí" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO
+http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HBO" group-title="Giải Trí" tvg-logo="https://iili.io/qopQfwB.png",HBO
 http://lunar.pm:8080/2055735047/PtuUrexwIC/122359
 #EXTINF:-1 tvg-id="HBO" group-title="Giải Trí" tvg-logo="https://iili.io/qopQfwB.png",HBO
-http://177.10.184.193:8000/play/a02z/19101048.m3u8
+http://177.10.184.193:8000/play/a02z/80840474.m3u8
+#EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO
+http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c2b7a1e95d4f4c3a8e617f9d0a2b6c18:27fca1ab042998b0c2f058b0764d7ed4
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
-#EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO
-http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png",HBO(US)
 http://tvmate.icu:8080/live/7686199/9576982/46713.m3u8
-#EXTINF:-1 tvg-id="HBO.HD.id" group-title="Giải Trí" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg",HBO
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-#EXTINF:-1 tvg-id="" group-title="Giải Trí",HBO
-http://89.105.221.127/HBO/index.m3u8?token=test
 #EXTINF:-1 tvg-id="hbohd" group-title="Giải Trí" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/HBO_White.svg/revision/latest?cb=20251215051310",HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -107,26 +105,16 @@ https://sghost.mobileads.uno/uni5/uni5.mpd?id=HBO
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ad888ee5dd6496a8c2c77a6284ff936:718716c435914901d2551930a256974e
 https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBO&kid=7ad888ee-5dd6-496a-8c2c-77a6284ff936
-#EXTINF:-1 tvg-id="hbohitsasia.sg" group-title="Giải Trí" tvg-logo="https://dl.dropbox.com/scl/fi/n7pewdemieoz3zbs39tbx/hbohits.png?rlkey=e748k2slpje7h5xy2q9pos5a3&dl=0",HBO Hits
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+#EXTINF:-1 tvg-id="HBO.HD.id" group-title="Giải Trí" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg",HBO
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+#EXTINF:-1 tvg-id="" group-title="Giải Trí",HBO
+http://89.105.221.127/HBO/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/449_144.png",HBO Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default/index.mpd
-#EXTINF:-1 tvg-id="HBO Hits.id" group-title="Giải Trí" tvg-logo="https://mimipipi22.github.io/logo/movies/hbohits.jpg",HBO HITS 🇵🇭
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
-#EXTINF:-1 tvg-id="HBO.Hits.HD.id" group-title="Giải Trí" tvg-logo="https://mimipipi22.github.io/logo/movies/hbohits.jpg",HBO HITS
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 #EXTINF:-1 tvg-id="hbohits" group-title="Giải Trí" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/HBO_Hits_logo.svg/revision/latest?cb=20250505122814",HBO Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -139,6 +127,13 @@ https://sghost.mobileads.uno/uni5/uni5.mpd?id=HBOH
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
 https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBOH&kid=437a4a8d-fb31-4f81-883c-7894c99e72bf
+#EXTINF:-1 tvg-id="HBO Hits.id" group-title="Giải Trí" tvg-logo="https://mimipipi22.github.io/logo/movies/hbohits.jpg",HBO HITS 🇵🇭
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
+#EXTINF:-1 tvg-id="HBO.Hits.HD.id" group-title="Giải Trí" tvg-logo="https://mimipipi22.github.io/logo/movies/hbohits.jpg",HBO HITS
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 #EXTINF:-1 tvg-id="hbofamilyasia.sg" group-title="Giải Trí" tvg-logo="https://dl.dropbox.com/scl/fi/huvb654fboyfnebvnzghn/hbo_family.png?rlkey=sr0deor1pxp0bxgm3x6wve1cz&dl=0",HBO family
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -156,16 +151,6 @@ http://mytvstream.net:8080/live/30550113/30550113/17772.m3u8
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
 #EXTINF:-1 tvg-id="Dummy" group-title="Giải Trí" tvg-logo="https://i.imgur.com/sSjs0lp.jpg",HBO FAMILY
 http://tvmate.icu:8080/live/7686199/9576982/17772.m3u8
-#EXTINF:-1 tvg-id="HBO.Family.HD.id" group-title="Giải Trí" tvg-logo="https://mimipipi22.github.io/logo/movies/hbofam.jpg",HBO FAMILY
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-#EXTINF:-1 tvg-id="hbo family" group-title="Giải Trí",HBO Family
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://mega.z5cable.com/bpk-tv/hbo_family_hd/default/index.mpd
-#EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/106.png",HBO Family
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 #EXTINF:-1 tvg-id="hbofamily" group-title="Giải Trí" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/HBO_Family_%28Asia%29_logo.svg/revision/latest?cb=20250505123509",HBO Family
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -178,6 +163,16 @@ https://sghost.mobileads.uno/uni5/uni5.mpd?id=HBOF
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=98e8255fae9b41aebb334645a916c82b:3b631ef06c2782808a6d53ff0e24d9e3
 https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBOF&kid=98e8255f-ae9b-41ae-bb33-4645a916c82b
+#EXTINF:-1 tvg-id="HBO.Family.HD.id" group-title="Giải Trí" tvg-logo="https://mimipipi22.github.io/logo/movies/hbofam.jpg",HBO FAMILY
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+#EXTINF:-1 tvg-id="hbo family" group-title="Giải Trí",HBO Family
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://mega.z5cable.com/bpk-tv/hbo_family_hd/default/index.mpd
+#EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/106.png",HBO Family
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 #EXTINF:-1 tvg-id="hbosignatureasia.sg" group-title="Giải Trí" tvg-logo="https://dl.dropbox.com/scl/fi/rpfe8l6bizfcn3hkvkow6/hbo-signature.png?rlkey=dano4jnm0214i6163flo4akb6&dl=0",HBO Signature
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -200,22 +195,22 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2742f4791f17231bdb933844dabfb5bc:3c49eb8a723248f87fb8c3722874557e
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o6rq3swwr4/out/v1/6a362c145af241e5a6eb45e0729ce5e6/cenc.mpd
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="Giải Trí" tvg-logo="https://i.postimg.cc/VLWvtQyD/cinemax.png",CINEMAX
-https://iplogger.com/Cinemax
-#EXTINF:-1 tvg-id="cinemax" group-title="Giải Trí" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6YaPX0c9D9hpnt5I1THCsA","kid":"rLTCNHEGMyetxzLig8CEfw"}],"type":"temporary"}
-https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="Giải Trí" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax
-udp://@225.1.3.14:30120
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="Giải Trí" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax (HD 8Mbps)
 udp://@225.1.2.86:30120
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Giải Trí" tvg-logo="https://i.postimg.cc/VLWvtQyD/cinemax.png",CINEMAX
+https://iplogger.com/Cinemax
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Giải Trí" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax
+udp://@225.1.3.14:30120
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="Giải Trí" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F130.png&w=800",CINEMAX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6YaPX0c9D9hpnt5I1THCsA","kid":"rLTCNHEGMyetxzLig8CEfw"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
+#EXTINF:-1 tvg-id="cinemax" group-title="Giải Trí" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6YaPX0c9D9hpnt5I1THCsA","kid":"rLTCNHEGMyetxzLig8CEfw"}],"type":"temporary"}
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
 #EXTINF:-1 tvg-id="cinemaxasia.sg" group-title="Giải Trí" tvg-logo="https://dl.dropbox.com/scl/fi/zsbacg5t7lorej9vx5lsa/Cinemax-hometv.png?rlkey=pe3s86fk2p7k4q9w0eoij7jzl&dl=0",CINEMAX
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -233,18 +228,6 @@ http://136.239.173.10:6610/001/2/ch00000090990000001108/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
-#EXTINF:-1 tvg-id="Cinemax.HD.id" group-title="Giải Trí" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg",CINEMAX
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
-#EXTINF:-1 tvg-id="" group-title="Giải Trí",cinemax
-http://89.105.221.127/cinemax/index.m3u8?token=test
-#EXTINF:-1 tvg-id="cinemax" group-title="Giải Trí" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/330px-Cinemax_LA.png",Cinemax
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
-https://mega.z5cable.com/bpk-tv/cinemax_hd/default/index.mpd
-#EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/107.png",Cinemax
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 #EXTINF:-1 tvg-id="cinemax" group-title="Giải Trí" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Cinemax_2011_%28Yellow%29.svg/revision/latest?cb=20201205114958",Cinemax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -257,15 +240,32 @@ https://sghost.mobileads.uno/uni5/uni5.mpd?id=Cinemax
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b83391c0f7c64142baa326b101c9f3d4:1ea53c247b115d6c3bb37a4d0485a37c
 https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Cinemax&kid=b83391c0-f7c6-4142-baa3-26b101c9f3d4
-#EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World (HD 8Mbps)
+#EXTINF:-1 tvg-id="Cinemax.HD.id" group-title="Giải Trí" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg",CINEMAX
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+#EXTINF:-1 tvg-id="cinemax" group-title="Giải Trí" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/330px-Cinemax_LA.png",Cinemax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://mega.z5cable.com/bpk-tv/cinemax_hd/default/index.mpd
+#EXTINF:-1 tvg-id="" group-title="Giải Trí",cinemax
+http://89.105.221.127/cinemax/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/107.png",Cinemax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
+#EXTINF:-1 tvg-id="cinemaworld" group-title="Giải Trí" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World (HD 8Mbps)
 udp://@225.1.1.142:30120
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="Giải Trí" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World
 udp://@225.1.3.81:30120
-#EXTINF:-1 tvg-id="dreamworks" group-title="Giải Trí" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks (HD 8Mbps)
-udp://@225.1.1.136:30120
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Giải Trí" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F164.png&w=800",CINEMA WORLD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"s14Sp1pCpvkYRyOpD/QtnA","kid":"7nkVVk10OdCb01Vv/MyHpA"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 #EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks (HD 4Mbps)
 udp://@225.1.4.39:30120
-#EXTINF:-1 tvg-id="dreamworks" group-title="Giải Trí" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks
+#EXTINF:-1 tvg-id="dreamworks" group-title="Giải Trí" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks (HD 8Mbps)
+udp://@225.1.1.136:30120
+#EXTINF:-1 tvg-id="dreamworks" group-title="Giải Trí" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F141.png&w=800",DREAMWORKS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WTKPYh1WdnvF/5QEqJQGgw","kid":"Z9riBSfGPa2qrmCaqRV3yw"}],"type":"temporary"}
@@ -350,10 +350,6 @@ http://136.239.158.18:6610/001/2/ch00000090990000001096/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f2a9c6d1e5b4c8a8d10a2b7e1c9f344:ae3d135d5ddd9e8f3a7bbfbfae0e40d1
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_warnerhd/default/index.mpd
-#EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://i.imgur.com/vGEL2Ne.png",Warner TV HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
 #EXTINF:-1 tvg-id="warnertv" group-title="Giải Trí" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Warner_TV.svg/revision/latest?cb=20191207183909",Warner TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -364,37 +360,34 @@ https://sghost.mobileads.uno/uni5/uni5.mpd?id=WarnerTV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
-#EXTINF:-1 tvg-id="cinemaworld" group-title="Giải Trí" tvg-logo="https://i.imgur.com/vFVxJx4.png",CinemaWorld
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"s14Sp1pCpvkYRyOpD/QtnA","kid":"7nkVVk10OdCb01Vv/MyHpA"}],"type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
-#EXTINF:-1 tvg-id="Cinema.World.id" group-title="Giải Trí" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemaworld.jpg",CINEMAWORLD
+#EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://i.imgur.com/vGEL2Ne.png",Warner TV HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
+#EXTINF:-1 tvg-id="Cinema.World.id" group-title="Giải Trí" tvg-logo="https://i.ibb.co.com/Q7G9CsDq/CW.png",Cinemaworld 🔴
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd
 #EXTINF:-1 tvg-id="discoveryhd" group-title="Giải Trí" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel (HD 8Mbps)
 udp://@225.1.1.238:30120
 #EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel (HD 4Mbps)
 udp://@225.1.4.24:30120
-#EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vqWgcVfgxNF7Eas5lRf5Ug","kid":"60Fg6lU6Mh2JlVPk55b+wg"}],"type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 #EXTINF:-1 tvg-id="discoveryhd" group-title="Giải Trí" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F144.png&w=800",DISCOVERY
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vqWgcVfgxNF7Eas5lRf5Ug","kid":"60Fg6lU6Mh2JlVPk55b+wg"}],"type":"temporary"}
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
+#EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vqWgcVfgxNF7Eas5lRf5Ug","kid":"60Fg6lU6Mh2JlVPk55b+wg"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 #EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115535
-#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" group-title="Giải Trí" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png",Discovery Channel
-http://23.237.104.106:8080/USA_DISCOVERY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="Giải Trí",Discovery Channel
 http://supersonictv.live:8080/611366/682256/22074
-#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" group-title="Giải Trí" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg",Discovery Channel FHD
-https://a1xs.vip/300034
-#EXTINF:-1 tvg-id="77e72f2ba472" group-title="Giải Trí" tvg-logo="https://images.toffeelive.com/images/program/18093/logo/240x240/mobile_logo_868363001673181438.png",Discovery HD
-https://sm-monirul.top/Toffee/live.php?cid=77e72f2ba472&chunks=ecba6c450a2e40ac031e3fc990b6c74b30be76ede8ccfe09e6597d710c7a9bba9f1d9dd9f2d010aed5e3f03d58afe0b05c8968b706ea2b800254460dae68614328d1b962e6c1c57f6aa4bc85a7ae0436d75aeab12ab5c90a5d2eb838c2751617
+#EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://tvassets.roarzone.info/images/43.png",discovery hd
+https://edge2.roarzone.info:8447/roarzone/edge3/discovery-hd/index.m3u8?token=a24492b5ffff98e47ca595dc05c62ccdea37bfac-2604c2c08e043874da7d7b2e82af3706-1773904135-1773900535
+#EXTINF:-1 tvg-id="DiscoveryChannel.it" group-title="Giải Trí" tvg-logo="https://i.imgur.com/5IxIFJ0.png",Discovery Channel
+https://d24aqelmrau4kx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/0a1a5c71-24af-46d8-a900-d074ed8fada4/0.m3u8
 #EXTINF:-1 tvg-id="discoveryph1" group-title="Giải Trí" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png",DISCOVERY CHANNEL(test)
 http://103.244.145.15/live/anita123/anita123/151048.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
 #EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png",Discovery Channel
@@ -403,12 +396,12 @@ http://103.244.145.15/live/anita123/anita123/151048.m3u8?token=ShJcU0BbQQNHWwZaV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9ac48f5131641a789328257e778ad3a:b6e67c37239901980c6e37e0607ceee6
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/discovery/default/index.mpd
+#EXTINF:-1 tvg-id="" group-title="Giải Trí",Discovery
+http://89.105.221.127/Discovery/index.m3u8?token=test
 #EXTINF:-1 tvg-id="discovery" group-title="Giải Trí",Discovery HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/discovery_channel_hd/default/index.mpd
-#EXTINF:-1 tvg-id="" group-title="Giải Trí",Discovery
-http://89.105.221.127/Discovery/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" group-title="Giải Trí",discovery
 http://84.17.50.102/discovery/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" group-title="Giải Trí",Discovery HD
@@ -421,13 +414,13 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/562104/index.mpd
 http://96587.premiumstream.in:80/GokselSonmez/MxxnCxr25v9w/264
 #EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia (HD 4Mbps)
 udp://@225.1.4.25:30120
-#EXTINF:-1 tvg-id="" group-title="Giải Trí",Discovery Asia
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Giải Trí" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia (HD 8Mbps)
+udp://@225.1.2.223:30120
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Giải Trí" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F145.png&w=800",DISCOVERY ASIA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eI4oNfuYVortL0e73AkVFQ","kid":"k0kHsTS+OWOmJjpFOEaSTA"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Giải Trí" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
-udp://@225.1.2.223:30120
 #EXTINF:-1 tvg-id="Dummy" group-title="Giải Trí",DISCOVERY ASIA(test)
 http://103.244.145.15/live/anita123/anita123/150984.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
 #EXTINF:-1 tvg-id="National.Geographic.HD.us2" group-title="Giải Trí" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png",National Geographic
@@ -436,26 +429,29 @@ http://23.237.104.106:8080/USA_NAT_GEO/tracks-v1a1/mono.m3u8
 http://116.90.120.151:8000/play/a0in/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://i.imgur.com/2TeKCBK.png",National Geographic Channel
 http://supersonictv.live:8080/611366/682256/22124
+#EXTINF:-1 tvg-id="" group-title="Giải Trí",National Geographic
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d647aff767c453daa5fb54a44c783c6:2f971e6a1cc58e7085afc761a3f13162
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561901/index.mpd
 #EXTINF:-1 tvg-id="" group-title="Giải Trí",National geographic
 https://a3569457567-s70378.cdn.ngenix.net/national_geographic/1/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Giải Trí",NATIONAL GEOGRAPHIC HD
 http://96587.premiumstream.in:80/GokselSonmez/MxxnCxr25v9w/286
-#EXTINF:-1 tvg-id="animalhd" group-title="Giải Trí" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet (HD 8Mbps)
-udp://@225.1.1.231:30120
 #EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet (HD 4Mbps)
 udp://@225.1.4.209:30120
-#EXTINF:-1 tvg-id="animalhd" group-title="Giải Trí" tvg-logo="https://identsandpresentation.com/animalplanet2018/stingone-d.jpg",Animal Planet
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-id="animalhd" group-title="Giải Trí" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet (HD 8Mbps)
+udp://@225.1.1.231:30120
+#EXTINF:-1 tvg-id="animalplanet" group-title="Giải Trí" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F143.png&w=800",ANIMAL PLANET
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HVOI4HgUFevOyZFPWtdYdQ","kid":"7G8HLHElN3qbwK5hWYCV9A"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HVOI4HgUFevOyZFPWtdYdQ", "kid":"7G8HLHElN3qbwK5hWYCV9A" } ], "type":"temporary" }
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
 #EXTINF:-1 tvg-id="Animal.Planet.HD.us2" group-title="Giải Trí" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png",Animal Planet
 http://23.239.31.26:8989/animalplanet/index.m3u8
-#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" group-title="Giải Trí" tvg-logo="https://i.ibb.co/k6hCxknW/Animal-Planet.png",Animal Planet FHD
-https://a1xs.vip/300035
+#EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://tvassets.roarzone.info/images/animalplanet.png",animal planet
+https://edge2.roarzone.info:8447/roarzone/edge3/animal-planet-hd/index.m3u8?token=c693cd5887313b1de631104167725d2f697387c9-87a961a1cde8b680e6f6dcd654aedb23-1773904135-1773900535
 #EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://s3.aynaott.com/storage/18d95033c5d53fc3b159141a842fdeac",Animal Planet HD
-https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/live/158-3M/chunks.m3u8?nimblesessionid=625538391
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/live/158-3M/chunks.m3u8?nimblesessionid=625577091
 #EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/animal-planet-us.png",ANIMAL PLANET(test)
 http://103.244.145.15/live/anita123/anita123/151008.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
 #EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://i.ibb.co/mBFs4RQ/pinpng-com-animal-planet-png-4851143.png",Animal Planet
@@ -464,6 +460,10 @@ http://103.244.145.15/live/anita123/anita123/151008.m3u8?token=ShJcU0BbQQNHWwZaV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c9f7a6d3b2e4e5d8a61f4d0c2b9e813:b8f52451c67a2b54f272543eef45b621
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd
+#EXTINF:-1 tvg-id="Animal Planet (HD)" group-title="Giải Trí" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png",Animal Planet
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=999c783c19f6412fbd874ed21e17c9c2:494421f360d98a7fdda924130d662272
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561803/index.mpd
 #EXTINF:-1 tvg-id="animal planet" group-title="Giải Trí",Animal Planet HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
@@ -474,10 +474,6 @@ https://mega.z5cable.com/bpk-tv/animal_planet_hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"k+SzQxHk96mVDxhIWV9Wiw","kid":"DgvwlWWPp8zkDExnE2ueIw"}],"type":"temporary"}
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ewj95eclhn/out/v1/b394624dc26a4628a6c78317f09ff4e9/cenc.mpd
-#EXTINF:-1 tvg-id="" group-title="Giải Trí",Animal Planet
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=999c783c19f6412fbd874ed21e17c9c2:494421f360d98a7fdda924130d662272
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561803/index.mpd
 #EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://image.tmdb.org/t/p/w500/xr4zAYsvgTzvMMiWu6qCAP9WBer.jpg",Man [31.01.2026]
 https://vidmody.com/vs/tt1155056/
 #EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://image.tmdb.org/t/p/w500/58BnnYeQOTzdMBghZIH1tSH0REx.jpg",Man! (2018) [27.01.2026]
@@ -493,17 +489,17 @@ https://livevlisctcdnw.seenow.vn/livesnv2/WO/manifest.mpd
 https://oipf0znpmnliv.vcdn.cloud/hls/woman/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://img.fullhdfilmizlesene.de/poster/film/woman-3-45231.jpg",WoMan [28.06.2025]
 https://s18.imagehub.pics/mv/DKMuqTSlYyEbMF5KLKxho2LhI2S0MKVhZwNlZv5KEHVgERjhZGN4ZUNhESIOGNd0zxnJ1uM2IbqJVhpTywpjs0xi18vr1
+#EXTINF:-1 tvg-id="fashionhd" group-title="Giải Trí" tvg-logo="https://i.imgur.com/ALDt1JX.png",Fashion TV (HD 8Mbps)
+udp://@225.1.2.227:30120
 #EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://i.imgur.com/ALDt1JX.png",FASHION TV (HD 4Mbps)
 udp://@225.1.4.20:30120
-#EXTINF:-1 tvg-id="fashionhd" group-title="Giải Trí" tvg-logo="https://i.imgur.com/ALDt1JX.png",Fashion TV
-udp://@225.1.2.227:30120
 #EXTINF:-1 tvg-id="fashionhd" group-title="Giải Trí" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F165.png&w=800",FASHION TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"MMNhPpsG4PfMIBAU8xv12A", "kid":"wdnyVwECNQi/pnN+OoxwAQ" } ], "type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd
 #EXTINF:-1 tvg-id="" group-title="Giải Trí",Fashion TV
-https://amg01546-ftv-fashiontv-xiaomi-i9oiw.amagi.tv/ts-us-e2-n1/playlist/amg01546-ftv-fashiontv-xiaomi/cb553d1d7e6c678d98d43d66d0ef42a0d9244ae72b43cb3671aa4a967dd16300d7da8db0f248f168429e17cc750b6e000f66ce1fda6103c4db79b550352a1669929ce42ac4c8470bbb8e5c2d78e1734b539c5e2ff81d82d9448b606ab00ef714301de11d6b5272bea908e92311e7a830b90158ab3009ac0b576721c01f19bdb02ffeaaa30416894691ab2c4a83179dd0a3915c7fe8ab50a62bb78be5a564bfd9fa0091ec61dfd3d33afa06ad170151217c9e8f43eda32580f6b9266ad22166174615caaa91c8621fc9140d0cb6ae93cd058573c4ea74d433d7daca76c12956af645b16eeb1b94cfd892a71f20f7482/153/1920x1080_4716800/index.m3u8
+https://amg01546-ftv-fashiontv-xiaomi-i9oiw.amagi.tv/ts-us-e2-n1/playlist/amg01546-ftv-fashiontv-xiaomi/cb54391c6573608a84cb3c64cef046a5f92e04fd242fd72b6fb4559f65bd460be3c082dcee55ef765d970dca350b64550e31c848c37e02c28a67a950627d0a7c9b98ba66da9f135bb48c0d7e2de52b1d33423f2ff81d82d9448b606ab00ef714301de11d6b5272bea908e92311e7a830b90158ab3009ac0b576721c01f19bdb02ffeaaa3041689468089e8d80d1d67ddf6178ac461e4d98a0edd51b94e27c505a0d2b9aa61a8b2e83cee06a853633d772dcad02ec180353ebdebfe2c1c8d59eb3a759f42f75ba16d8170e31c3f9a81d044f216dc8026802f14b3099b4e833fb015c07191cd6deffef58f0c1061e4e85263118cc6efd9b5657dec3e89c293bd791ecba3f419971be37544e969346121372fedbbe1ce95a04b5682/25/1920x1080_4716800/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://i.imgur.com/Zd5zm7C.png",Fashion TV
 http://136.158.97.2:6610/001/2/ch00000090990000001102/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Box8fi0tu1Fy8zHjKfT%2BDe7ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001236&contentid=ch00000000000000001236&videoid=ch00000090990000001102&recommendtype=0&userid=1182293234058&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UV7BK6N91UNXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://i.imgur.com/Zd5zm7C.png",Fashion TV
@@ -515,25 +511,25 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/fashiontvhd/default/index.
 #EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6857fe540a1018060ac364140ba/ce2a74e0b12149dd92e67d92281020d0.jpg",Fashion TV 🔴
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060ac364140ba/manifest.mpd
 #EXTINF:-1 tvg-id="outdoorhd" group-title="Giải Trí" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel (HD 8Mbps)
-udp://@225.1.3.85:30120
+udp://@225.1.2.215:30120
 #EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel (HD 4Mbps)
 udp://@225.1.4.210:30120
-#EXTINF:-1 tvg-id="outdoorhd" group-title="Giải Trí" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel
-udp://@225.1.2.215:30120
+#EXTINF:-1 tvg-id="outdoorhd" group-title="Giải Trí" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel (HD 8Mbps)
+udp://@225.1.3.85:30120
 #EXTINF:-1 tvg-id="Outdoor.Channel.HD.us2" group-title="Giải Trí" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png",Outdoor Channel
 http://23.237.104.106:8080/USA_OUTDOOR/mpegts
-#EXTINF:-1 tvg-id="OutdoorChannel.us@SD" group-title="Giải Trí" tvg-logo="https://i.imgur.com/Kh4MWaY.png",Outdoor Channel (1080p) (eng7)  (English) (Outdoor) - 1080P
-https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/ts-eu-w1-n2/playlist/amg00718-outdoorchannela-outdoortv-samsungau/cb553d1d7e6c678d98d43d66d0ef42a0d9244ae72b43cb3671aa4a967dd16300d7da8db0f248f168429e17cc750a69505e32cc18d66103c4db79b550352a1669c89de67ec49b430fb28c5d2e22b32c1d559c5e2ff81d82d9448b606ab00ef714301de11d6b5272bea908e92311e7a830b90158ab3009ac0b576721c01f19bdb02ffeaaa30416894691ab2c4a83179dd0a3915c7fe8ab50a62bb78be5a564bfd9fa0091ec61dfd3d33afa06ad170151217c9e8f43eda32580f6b9266ad22166174615caaa91c8621fc9140d0cb6ae93cd058573c4eb70d380564bee16e2e200ea3d71e3d6ae768cc3cfbee6911afd/52/1920x1080_4945459/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Giải Trí",Outdoor Channel
 http://supersonictv.live:8080/611366/682256/22131
+#EXTINF:-1 tvg-id="OutdoorChannel.us@SD" group-title="Giải Trí" tvg-logo="https://i.imgur.com/Kh4MWaY.png",Outdoor Channel (1080p) (eng7)  (English) (Outdoor) - 1080P
+https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/ts-eu-w1-n2/playlist/amg00718-outdoorchannela-outdoortv-samsungau/cb54391c6573608a84cb3c64cef046a5f92e04fd242fd72b6fb4559f65bd460be3c082dcee55ef765d970dca320d3f520962ce4dc37e02c28a67a950627d0a259fcabb66d19f120be48b092d7cb4281a33423f2ff81d82d9448b606ab00ef714301de11d6b5272bea908e92311e7a830b90158ab3009ac0b576721c01f19bdb02ffeaaa3041689468089e8d80d1d67ddf6178ac461e4d98a0edd51b94e27c505a0d2b9aa61a8b2e83cee06a853633d772dcad02ec180353ebdebfe2c1c8d59eb3a759f42f75ba16d8170e31c3f9a81d044f216dc8026802f14b3099b4e833fb015c07191cd6deffef58f0c1061e4e85263118cc6efd9b5657dec3e89c293bd791ecca5f419b81be375443ba442e6691ca79188a704936c2c40c5/53/1920x1080_4945459/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Giải Trí",Outdoor Channel (AU)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoorchannel-lgau/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://i.imgur.com/Kh4MWaY.png",Outdoor Channel
-https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/ts-eu-w1-n2/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/cb553d1d7e6c678d98d43d66d0ef42a0d9244ae72b43cb3671aa4a967dd16300d7da8db0f248f168429e17cc750b68515d6e9e48db6103c4db79b550352a1669cb9ab672c4cf4709e08b5d2c7fe27b19009c5e2ff81d82d9448b606ab00ef714301de11d6b5272bea908e92311e7a830b90158ab3009ac0b576721c01f19bdb02ffeaaa30416894691ab2c4a83179dd0a3915c7fe8ab50a62bb78be5a564bfd9fa0091ec61dfd3d33afa06ad170151217c9e8f43eda32580f6b9266ad22166174615caaa91c8621fc9140d0cb6ae93cd058573c4ea74d232d7dacc76c12956adab3e62894ea49338e3c447554eba82/132/1920x1080_4945459/index.m3u8
+https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/ts-eu-w1-n2/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/cb54391c6573608a84cb3c64cef046a5f92e04fd242fd72b6fb4559f65bd460be3c082dcee55ef765d970dca350e65590f60c819c37e02c28a67a950627d0a25989cbb668fcc125be18a097f7bb27d4f33423f2ff81d82d9448b606ab00ef714301de11d6b5272bea908e92311e7a830b90158ab3009ac0b576721c01f19bdb02ffeaaa3041689468089e8d80d1d67ddf6178ac461e4d98a0edd51b94e27c505a0d2b9aa61a8b2e83cee06a853633d772dcad02ec180353ebdebfe2c1c8d59eb3a759f42f75ba16d8170e31c3f9a81d044f216dc8026802f14b3099b4e833fb015c07191cd6deffef58f0c1061e4e85263118cc6efd9b5657dec3e89c293bd791fc8af4498261dbf568f4d71230a75eae3aef9be047f333b3df047/190/1920x1080_4945459/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" group-title="Giải Trí" tvg-logo="https://i.ibb.co/d73Thkh/outdoor-channel-us.png",Outdoor channel(test)
 http://103.244.145.15/live/anita123/anita123/151071.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
 #EXTINF:-1 tvg-id="Dummy" group-title="Giải Trí" tvg-logo="https://i.ibb.co/d73Thkh/outdoor-channel-us.png",Outdoor channel
-https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/ts-eu-w1-n2/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/cb553d1d7e6c678d98d43d66d0ef42a0d9244ae72b43cb3671aa4a967dd16300d7da8db0f248f168429e17cc750e6d520e34cc4c8f6103c4db79b550352a1669929db47dc49e100be6d00c2b2ae77b1e009c5e2ff81d82d9448b606ab00ef714301de11d6b5272bea908e92311e7a830b90158ab3009ac0b576721c01f19bdb02ffeaaa30416894691ab2c4a83179dd0a3915c7fe8ab50a62bb78be5a564bfd9fa0091ec61dfd3d33afa06ad170151217c9e8f43eda32580f6b9266ad22166174615caaa91c8621fc9140d0cb6ae93cd058573c4ea74d532d7da9576c12956c120396a1d145fae9300346de17a1f5d/142/1920x1080_4945459/index.m3u8
+https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/ts-eu-w1-n2/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/cb54391c6573608a84cb3c64cef046a5f92e04fd242fd72b6fb4559f65bd460be3c082dcee55ef765d970dca375e39000961c219c37e02c28a67a950627d0a7d9b9fe1668bcc115fbad00e2d7ce62c4b33423f2ff81d82d9448b606ab00ef714301de11d6b5272bea908e92311e7a830b90158ab3009ac0b576721c01f19bdb02ffeaaa3041689468089e8d80d1d67ddf6178ac461e4d98a0edd51b94e27c505a0d2b9aa61a8b2e83cee06a853633d772dcad02ec180353ebdebfe2c1c8d59eb3a759f42f75ba16d8170e31c3f9a81d044f216dc8026802f14b3099b4e833fb015c07191cd6deffef58f0c1061e4e85263118cc6efd9b5657dec3e89c293bd791ecba3f419dd1be37544ebd124e85efbc8700161e97cb48b26b8/25/1920x1080_4945459/index.m3u8
 #EXTINF:-1 tvg-id="Outdoor.Channel.id" group-title="Giải Trí" tvg-logo="https://mimipipi22.github.io/logo/knowledge/outdoor.jpg",OUTDOOR CHANNEL
 https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/index.mpd
 #EXTINF:-1 tvg-id="outdoorhd" group-title="Giải Trí" tvg-logo="https://freem3u.xyz/static/images/global/outdoor.png",Outdoor HD
@@ -591,12 +587,6 @@ https://load.perfecttv.net/mpd/prima/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=citra
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.imgur.com/k44W7jg.jpg",10:10 WIB • Live: West Ham v MUW
-http://tvmate.icu:8080/69NpyV/884735/53717
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDK5wO1M6YOy_2_IuEtYuj25ReGg3p-V3j60gGqa-cd8rz6f9xuH2o4mQVCRN1rApaVMGLT1q-bhDKcYGS4FbkseAgUhNFvAsDug1hI9wg4iFAGY6JAEEHtqsqdSK2A3CaqugX-fctkzTaywaYoaSIY1ZfFQjwdrQX_CNBMT5IpunnbZNpg2QzZuWjcPvt/s700/MUTV.png",10:10 WIB • Live: West Ham v MUW
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-http://cord-cutter.net:8080/hq3y4G/234247/53717
 #EXTINF:-1 tvg-id="AstroSensasiHD.sg" group-title="Thể Thao" tvg-logo="https://poster.starhubgo.com/Linear_channels2/123_1920x1080_HTV.png",123 Astro Sensasi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -698,3 +688,28 @@ https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&ch
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=efa6ff1acefa43048e8b7adc21d98871:5d0f448b52a92035e3763c4a60275933
 https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Bein2&kid=efa6ff1a-cefa-4304-8e8b-7adc21d98871
+#EXTINF:-1 tvg-id="Live.Event.us" group-title="Thể Thao" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",[Live Event] Barcelona vs Newcastle (OVOGOAL)
+#EXTVLCOPT:http-referrer=https://24start.net/homes/blog1/
+#EXTVLCOPT:http-origin=https://24start.net/homes/blog1/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://24start.net/s1.php
+#EXTINF:-1 tvg-id="Live.Event.us" group-title="Thể Thao" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",[Live Event] Liverpool vs Galatasaray (OVOGOAL)
+#EXTVLCOPT:http-referrer=https://24start.net/homes/blog2/
+#EXTVLCOPT:http-origin=https://24start.net/homes/blog2/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://24start.net/s2.php
+#EXTINF:-1 tvg-id="Live.Event.us" group-title="Thể Thao" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",[Live Event] Liverpool vs Galatasaray (TOTALSPRTK1)
+#EXTVLCOPT:http-referrer=https://live.totalsportekarmy.com/Liverpool-vs-Galatasaray/64109
+#EXTVLCOPT:http-origin=https://live.totalsportekarmy.com/Liverpool-vs-Galatasaray/64109
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://d34zp6yqdhb4mg.cloudfront.net/index_1.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" group-title="Thể Thao" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",[Live Event] Tottenham Hotspur vs Atletico Madrid (TOTALSPRTK1)
+#EXTVLCOPT:http-referrer=https://live.totalsportekarmy.com/Tottenham-Hotspur-vs-Atletico-Madrid/64110
+#EXTVLCOPT:http-origin=https://live.totalsportekarmy.com/Tottenham-Hotspur-vs-Atletico-Madrid/64110
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://d61cn5adczbhz.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" group-title="Thể Thao" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",[Live Event] Tottenham vs Atl Madrid (OVOGOAL)
+#EXTVLCOPT:http-referrer=https://24start.net/homes/blog4/
+#EXTVLCOPT:http-origin=https://24start.net/homes/blog4/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://24start.net/s4.php
