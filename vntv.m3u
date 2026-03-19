@@ -284,17 +284,8 @@ https://vietanhtv.id.vn/tv360/188/index.m3u8
 #EXTINF:-1 tvg-id="onlife" group-title="VTVcab" tvg-logo="https://i.imgur.com/7m3L3L1.png", On Life (fr) (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=188
 
-#EXTINF:10 N/A group-title="VTVcab" , VTVcab END (n/a)
-# # # ------------------------------------------
 
-
-# # # ---------------------------- Sports ----------------------------
-
-### //EXTINF:10 N/A group-title="Sports", Sports END (n/a)
-# # # --------------------------------------------------------------------------------
-
-
-# # # ----------------------------------- SCTV ---------------------------------------
+- - -  --------------------------------- SCTV ---------------------------------------
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" group-logo="https://i.imgur.com/1zCLFYw.png" tvg-logo="https://i.imgur.com/36DeCA7.png", SCTV1 (p) (720p)
 https://liveh12.vtvprime.vn/hls/SCTV1/index.m3u8
 
@@ -406,10 +397,8 @@ https://liveh34.vtvprime.vn/hls/SCTV22/index.m3u8
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://i.imgur.com/WiULiQj.png", SCTV Phim Tổng Hợp (p) (720p)
 https://liveh12.vtvprime.vn/hls/SCTVPHIM/index.m3u8
 
-#EXTINF:10 N/A group-title="SCTV" , SCTV END (n/a)
-# # # --------------------------------------------------------------------------------
 
-# # # ------------------------------------ HTV ---------------------------------------
+- - -  ------------------------------------ HTV - ĐÀI PTTH TPHCM -------------------------------------
 #EXTINF:-1 tvg-id="htv1" group-title="HTV - ĐÀI PTTH TPHCM" group-logo="https://i.postimg.cc/bw1Jv8rt/HTV-New.png" tvg-logo="https://i.postimg.cc/jSdV18FJ/HTV1.png" , HTV1 (va) (1080p)
 https://vietanh18h1.duckdns.org/tv360/190/index.m3u8
 
@@ -495,18 +484,16 @@ https://truyenhinhonline.trungdungmedia.com/proxy?url=https%3A%2F%2Flive.fptplay
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV - ĐÀI PTTH TPHCM" tvg-logo="https://i.postimg.cc/wvLFf1j5/HTVTT.png" , HTV THỂ THAO (pr) (1080p)
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https%3A%2F%2Flive.fptplay53.net%2Fepzhd1%2Fhtvcthethao_vhls.smil%2Fchunklist.m3u8
 
-#EXTINF:10 N/A group-title="HTV - ĐÀI PTTH TPHCM", HTV - ĐÀI PTTH TPHCM END (n/a)
-# # # --------------------------------------------------------------------------------
 
-# # # ------------------------------------ HTVC ---------------------------------------
+- - -  ---------------------------------- HTVC - ĐÀI PTTH TPHCM -------------------------------------
+#EXTINF:-1 tvg-id="htvccanhachd" group-title="HTVC - ĐÀI PTTH TPHCM" group-logo="https://i.imgur.com/5X1BPGr.png" tvg-logo="https://i.imgur.com/qWTkcZN.png" , HTVC Music (p) (1080p)
+https://liveh12.vtvprime.vn/hls/HTVCCANHAC/index.m3u8
+
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="HTVC - ĐÀI PTTH TPHCM" group-logo="https://i.imgur.com/5X1BPGr.png" tvg-logo="https://i.imgur.com/qWTkcZN.png" , HTVC Music (va) (1080p)
 https://vietanh18h1.duckdns.org/tv360/14/index.m3u8
 
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="HTVC - ĐÀI PTTH TPHCM" group-logo="https://i.imgur.com/5X1BPGr.png" tvg-logo="https://i.imgur.com/qWTkcZN.png" , HTVC Music (fr) (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=14
-
-#EXTINF:-1 tvg-id="htvccanhachd" group-title="HTVC - ĐÀI PTTH TPHCM" group-logo="https://i.imgur.com/5X1BPGr.png" tvg-logo="https://i.imgur.com/qWTkcZN.png" , HTVC Music (pr) (1080p)
-https://truyenhinhonline.trungdungmedia.com/proxy?url=https%3A%2F%2Flive.fptplay53.net%2Fepzhd1%2Fhtvcmusic_vhls.smil%2Fchunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTVC - ĐÀI PTTH TPHCM" tvg-logo="https://i.imgur.com/mDemDFL.png",HTVC DU LỊCH & CUỘC SỐNG (va) (1080p)
@@ -527,6 +514,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=11
 
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTVC - ĐÀI PTTH TPHCM" tvg-logo="https://i.imgur.com/Al6xJme.png",HTVC GIA ĐÌNH (pr) (1080p)
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https%3A%2F%2Flive.fptplay53.net%2Fepzhd1%2Fhtvcgiadinh_vhls.smil%2Fchunklist.m3u8
+
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTVC - ĐÀI PTTH TPHCM" tvg-logo="https://i.imgur.com/Al6xJme.png",HTVC GIA ĐÌNH (p) (720p)
+https://liveh34.vtvprime.vn/hls/HTVGIADINH/index.m3u8
 
 
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="HTVC - ĐÀI PTTH TPHCM" tvg-logo="https://i.imgur.com/P0wqvmu.png",HTVC Movie (va) (1080p)
