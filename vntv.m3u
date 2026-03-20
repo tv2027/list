@@ -1308,7 +1308,7 @@ http://23.237.104.106:8080/USA_OUTDOOR/mpegts
 #EXTINF:-1 tvg-id="Outdoor.Channel.HD.us2" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/htqkKWD.png", Outdoor Channel (1080p)
 http://supersonictv.live:8080/611366/682256/22131
 
-#EXTINF:-1 tvg-id="OutdoorChannel" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/htqkKWD.png", Outdoor Channel (1080p)
+#EXTINF:-1 tvg-id="OutdoorChannel" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/htqkKWD.png", Outdoor Channel 2 (1080p)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
 
@@ -1324,11 +1324,11 @@ https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" group-title="Quốc Tế" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="outdoor",Love Nature (1080p)
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LoveNature.ca" group-title="Quốc Tế" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="outdoor",Love Nature (1080p)
-https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="LoveNature.ca" group-title="Quốc Tế" tvg-name="Quốc Tế" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="outdoor",Love Nature (1080p)
 https://bamus-klowdtv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" group-title="Quốc Tế" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="outdoor",Love Nature 2 (1080p)
+https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8
 
 
 #EXTINF:0
