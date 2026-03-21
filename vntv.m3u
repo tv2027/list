@@ -13,13 +13,13 @@
 ###// EXTM3U url-tvg="https://lichphatsong.xyz/schedule/epg.xml"
 
 
----  --------------------------------- VTV ----------------------------------------
+# # #  --------------------------------- VTV ----------------------------------------
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" group-logo="https://i.imgur.com/NB53sZL.png" tvg-logo="https://i.imgur.com/vJKF3BW.png" , VTV1 (l) (1080p50)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
 https://live-a.fptplay53.net/live/media/VTV1HD/live_hls_avc/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" group-logo="https://i.imgur.com/NB53sZL.png" tvg-logo="https://i.imgur.com/vJKF3BW.png" , VTV1 (v) (1080p50)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0
 https://vips-livecdn.fptplay.net/live/media/VTV1HD/live_hls_avc/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/vJKF3BW.png" , VTV1 (va) (1080p25)
@@ -33,11 +33,11 @@ https://livevlisctcdnw.seenow.vn/livesnv2/VTV1_HD/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png" , VTV2 (l) (1080p)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
 https://live-a.fptplay53.net/live/media/VTV2HD/live_hls_avc/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png" , VTV2 (v) (1080p)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
 https://vips-livecdn.fptplay.net/live/media/VTV2HD/live_hls_avc/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png" , VTV2 (va) (1080p)
@@ -45,11 +45,11 @@ https://vietanh18h1.duckdns.org/tv360/3/index.m3u8
 
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png" , VTV3 (l) (1080p)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
 https://live-a.fptplay53.net/live/media/VTV3HD/live_hls_avc/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png" , VTV3 (v) (1080p)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
 https://vips-livecdn.fptplay.net/live/media/VTV3HD/live_hls_avc/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png" , VTV3 (va) (1080p)
@@ -67,7 +67,7 @@ https://livevlisctcdnw.seenow.vn/livesnv2/VTV3_HD/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png" , VTV4 (pr) (1080p)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https%3A%2F%2Flive.fptplay53.net%2Ffnxch2%2Fvtv4hd_abr.smil%2Fchunklist.m3u8
 
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png" , VTV4 (1080p) [?]
@@ -1329,9 +1329,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9904
 
 #EXTINF:0  group-title="Tổng hợp"
 
-# # # ------------------------------------- Quốc Tế ----------------------------------------------------
+# # # ------------------------------------- 📦| In The Box ----------------------------------------------------
 
-#EXTINF:-1 tvg-id="musicbox" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/zgU1pj4.png", Music Box (720p) [?]
+#EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/zgU1pj4.png", Music Box (720p) [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1339,7 +1339,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9904
 https://livevlisctcdnw.seenow.vn/mean/MUSICBOX/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="woman" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/1Cmyrke.png", WOMAN (720p) [?]
+#EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/1Cmyrke.png", WOMAN (720p) [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1347,7 +1347,7 @@ https://livevlisctcdnw.seenow.vn/mean/MUSICBOX/manifest.mpd
 https://livevlisctcdnw.seenow.vn/livesnv2/WO/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="boxmovie1" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/leWw1zz.png", Box Movie 1 (720p) [?]
+#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/leWw1zz.png", Box Movie 1 (720p) [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1355,7 +1355,7 @@ https://livevlisctcdnw.seenow.vn/livesnv2/WO/manifest.mpd
 https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="boxhits" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/XMiPRWx.png", Box Hits (720p) [?]
+#EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/XMiPRWx.png", Box Hits (720p) [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1363,13 +1363,17 @@ https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd
 https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="hollywoodclassic" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/ZKY0TCt.png", Hollywood Classics (720p) [?]
+#EXTINF:-1 tvg-id="hollywoodclassic" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/ZKY0TCt.png", Hollywood Classics (720p) [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd
 
+
+#EXTINF:0  group-title="📦| In The Box"
+
+# # # ------------------------------------- Quốc Tế ----------------------------------------------------
 
 #EXTINF:-1 tvg-id="fashiontv" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/ALDt1JX.png" ,Fashion TV (1080p)
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
