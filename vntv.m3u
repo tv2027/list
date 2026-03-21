@@ -1379,9 +1379,6 @@ https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="StingrayNaturescape.ca" group-title="Quốc Tế" tvg-name="Stingray Naturescape" tvg-logo="https://i.imgur.com/882kd90.png" group-title="music",Stingray Naturescape
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/naturescape-a003-montreal/distrotv/master.m3u8?ads.vf=KV9HuIoiFAu
-
-#EXTINF:-1 tvg-id="StingrayNaturescape.ca" group-title="Quốc Tế" tvg-name="Stingray Naturescape" tvg-logo="https://i.imgur.com/882kd90.png" group-title="music",Stingray Naturescape
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056
 
 #EXTINF:-1 tvg-id="StingrayNaturescape.ca" group-title="Quốc Tế" tvg-name="Stingray Naturescape" tvg-logo="https://i.imgur.com/882kd90.png" group-title="music",Stingray Naturescape
@@ -1389,4 +1386,3 @@ https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/mast
 
 
 #EXTINF:0
-# # # --------------------------------------------------------------------------------
