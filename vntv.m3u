@@ -58,12 +58,23 @@ https://vietanh18h1.duckdns.org/tv360/4/index.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png" , VTV3 (va) (1080p)
 https://vietanh18h1.duckdns.org/tv360/9912/index.m3u8
 
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png" , VTV3 (1080p) [?]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/VTV3_HD/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png" , VTV4 (pr) (1080p)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https%3A%2F%2Flive.fptplay53.net%2Ffnxch2%2Fvtv4hd_abr.smil%2Fchunklist.m3u8
 
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png" , VTV4 (1080p) [?]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/livesnv2/VTV4_HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png" , VTV5 (l) (1080p)
@@ -104,7 +115,12 @@ https://truyenhinhonline.trungdungmedia.com/proxy?url=https%3A%2F%2Flive.fptplay
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https%3A%2F%2Flive.fptplay53.net%2Fepzhd1%2Fvtv8hd_vhls.smil%2Fchunklist.m3u8
 
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png" , VTV8 (1080p) [?]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73a685e226374dc7b756a12c270744b5:95504c377fb04cab81ba5e955f4ae189
 https://livevlisctcdnw.seenow.vn/livesnv2/VTV8_HD/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" , VTV9 (va) (1080p)
 https://vietanh18h1.duckdns.org/tv360/8/index.m3u8
@@ -133,6 +149,10 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9951
 #EXTINF:0
 
 - - - ---------------------------- VTVcab ---------------------------------
+#EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" group-logo="https://i.imgur.com/eqZMYx0.png" tvg-logo="https://i.imgur.com/PznYHT5.png",  ON Football (fr) (1080p)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?oid=onfootball
+
 #EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" group-logo="https://i.imgur.com/eqZMYx0.png" tvg-logo="https://i.imgur.com/PznYHT5.png",  ON Football (1080p) [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -140,6 +160,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9951
 #KODIPROP:inputstream.adaptive.license_key=f69bf028397e4ecfafce84abb7c5fe2b:25028aad0e2003b2785cf5196a4e2fa1
 https://livevlisctcdnw.seenow.vn/mean/BONGDA_HD/manifest.mpd
 
+
+#EXTINF:-1 tvg-id="onsports" group-title="VTVcab" group-logo="https://i.imgur.com/eqZMYx0.png" tvg-logo="https://i.imgur.com/mlKtEjW.png", ON Sports (fr) (1080p)
+https://freem3u.xyz/api/live/play.m3u8?oid=onsports
 
 #EXTINF:-1 tvg-id="onsports" group-title="VTVcab" group-logo="https://i.imgur.com/eqZMYx0.png" tvg-logo="https://i.imgur.com/mlKtEjW.png", ON Sports (1080p) [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
