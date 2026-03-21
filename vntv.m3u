@@ -1300,9 +1300,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9904
 
 #EXTINF:0
 
-# # # ------------------------------------- Quốc Tế  ----------------------------------------------------
+# # # ------------------------------------- Quốc Tế ----------------------------------------------------
 
-#EXTINF:-1 tvg-id="musicbox" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/zgU1pj4.png", Music Box (720p) [?]
+#EXTINF:-1 tvg-id="musicbox" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/zgU1pj4.png", Music Box (720p) [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1310,7 +1310,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9904
 https://livevlisctcdnw.seenow.vn/mean/MUSICBOX/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="woman" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/1Cmyrke.png", WOMAN (720p) [?]
+#EXTINF:-1 tvg-id="woman" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/1Cmyrke.png", WOMAN (720p) [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1318,7 +1318,7 @@ https://livevlisctcdnw.seenow.vn/mean/MUSICBOX/manifest.mpd
 https://livevlisctcdnw.seenow.vn/livesnv2/WO/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="boxmovie1" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/leWw1zz.png", Box Movie 1 (720p) [?]
+#EXTINF:-1 tvg-id="boxmovie1" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/leWw1zz.png", Box Movie 1 (720p) [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1326,7 +1326,7 @@ https://livevlisctcdnw.seenow.vn/livesnv2/WO/manifest.mpd
 https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="boxhits" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/XMiPRWx.png", Box Hits (720p) [?]
+#EXTINF:-1 tvg-id="boxhits" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/XMiPRWx.png", Box Hits (720p) [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1334,7 +1334,7 @@ https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd
 https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="hollywoodclassic" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/ZKY0TCt.png", Hollywood Classics (720p) [?]
+#EXTINF:-1 tvg-id="hollywoodclassic" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/ZKY0TCt.png", Hollywood Classics (720p) [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1342,7 +1342,7 @@ https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
 https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="fashiontv" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/ALDt1JX.png" ,Fashion TV (1080p)
+#EXTINF:-1 tvg-id="fashiontv" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/ALDt1JX.png" ,Fashion TV (1080p)
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 
 #EXTINF:-1 tvg-id="fashiontv" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/ALDt1JX.png" ,Fashion TV (1080p)
@@ -1371,7 +1371,7 @@ https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" group-title="Quốc Tế" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="outdoor",Love Nature (1080p)
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LoveNature.ca" group-title="Quốc Tế" tvg-name="Quốc Tế" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="outdoor",Love Nature (1080p)
+#EXTINF:-1 tvg-id="LoveNature.ca" group-title="Quốc Tế" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="outdoor",Love Nature (1080p)
 https://bamus-klowdtv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LoveNature.ca" group-title="Quốc Tế" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="outdoor",Love Nature 2 (1080p)
