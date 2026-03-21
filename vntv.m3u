@@ -145,10 +145,9 @@ https://vietanh18h1.duckdns.org/tv360/9951/index.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://i.imgur.com/p9bWxfm.png" , VietNam Today (fr) (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
 
+#EXTINF:0 group-title="VTV"
 
-#EXTINF:0
-
-- - - ---------------------------- VTVcab ---------------------------------
+# # # ---------------------------- VTVcab ---------------------------------
 #EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" group-logo="https://i.imgur.com/eqZMYx0.png" tvg-logo="https://i.imgur.com/PznYHT5.png",  ON Football (fr) (1080p30)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?oid=onfootball
@@ -331,9 +330,9 @@ https://vietanhtv.id.vn/tv360/188/index.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=188
 
 
-#EXTINF:0
+#EXTINF:0 group-title="VTVcab"
 
-- - -  ------------------------------------ HTV - ĐÀI PTTH TPHCM -------------------------------------
+# # #  ------------------------------------ HTV - ĐÀI PTTH TPHCM -------------------------------------
 #EXTINF:-1 tvg-id="htv1" group-title="HTV - ĐÀI PTTH TPHCM" group-logo="https://i.postimg.cc/bw1Jv8rt/HTV-New.png" tvg-logo="https://i.postimg.cc/jSdV18FJ/HTV1.png" , HTV1 (va) (1080p)
 https://vietanh18h1.duckdns.org/tv360/190/index.m3u8
 
@@ -420,9 +419,9 @@ https://truyenhinhonline.trungdungmedia.com/proxy?url=https%3A%2F%2Flive.fptplay
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https%3A%2F%2Flive.fptplay53.net%2Fepzhd1%2Fhtvcthethao_vhls.smil%2Fchunklist.m3u8
 
 
-#EXTINF:0
+#EXTINF:0 group-title="HTV - ĐÀI PTTH TPHCM"
 
-- - -  ---------------------------------- HTVC - ĐÀI PTTH TPHCM -------------------------------------
+# # #  ---------------------------------- HTVC - ĐÀI PTTH TPHCM -------------------------------------
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="HTVC - ĐÀI PTTH TPHCM" group-logo="https://i.imgur.com/5X1BPGr.png" tvg-logo="https://i.imgur.com/qWTkcZN.png" , HTVC Music (p) (1080p)
 https://liveh12.vtvprime.vn/hls/HTVCCANHAC/index.m3u8
 
@@ -502,9 +501,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=132
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https%3A%2F%2Flive.fptplay53.net%2Fepzhd1%2Fhtvcplus_vhls.smil%2Fchunklist.m3u8
 
 
-#EXTINF:0
+#EXTINF:0 group-title="HTVC - ĐÀI PTTH TPHCM"
 
-- - -  --------------------------------- TV360+ (not 24/7) -----------------------------------
+# # #  --------------------------------- TV360+ (not 24/7) -----------------------------------
 #EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" group-logo="https://i.imgur.com/YObdWs5.png" tvg-logo="https://i.imgur.com/Rcry4w9.png", TV360+ 1 (1080p50) [?]
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -592,9 +591,9 @@ https://vietanh18h1.duckdns.org/tv360/9958/index.m3u8
 https://kubolive.ddns.net/vanh_tv.php?provider=tv360&id=10001
 
 
-#EXTINF:0
+#EXTINF:0 group-title="Sự Kiện TV360"
 
-- - - ---------------------------- Sự Kiện VTVPrime (not 24/7) --------------------------
+# # # ---------------------------- Sự Kiện VTVPrime (not 24/7) --------------------------
 #EXTINF:-1 group-title="VTVPrime" group-logo="https://i.imgur.com/grcnpgs.png" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 1 (1080p50) [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -666,9 +665,30 @@ https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT9/manifest.mpd
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT10/manifest.mpd
 
 
-#EXTINF:0
+#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 11 (1080p)
+https://liveh34byt.vtvprime.vn/hls/SKSS1/index.m3u8
 
-- - -  --------------------------------- SCTV ---------------------------------------
+
+#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 12 (1080p)
+https://liveh34byt.vtvprime.vn/hls/SKSS2/index.m3u8
+
+
+#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 13 (1080p)
+https://liveh34byt.vtvprime.vn/hls/SKSS3/index.m3u8
+
+
+#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 14 (1080p)
+https://liveh34byt.vtvprime.vn/hls/SKSS4/index.m3u8
+
+
+#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 15 (1080p)
+https://liveh34byt.vtvprime.vn/hls/SKSS5/index.m3u8
+
+
+#EXTINF:0 group-title="VTVPrime"
+
+# # #  --------------------------------- SCTV ---------------------------------------
+
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" group-logo="https://i.imgur.com/1zCLFYw.png" tvg-logo="https://i.imgur.com/36DeCA7.png", SCTV1 (p) (720p)
 https://liveh12.vtvprime.vn/hls/SCTV1/index.m3u8
 
@@ -781,9 +801,9 @@ https://liveh34.vtvprime.vn/hls/SCTV22/index.m3u8
 https://liveh12.vtvprime.vn/hls/SCTVPHIM/index.m3u8
 
 
-#EXTINF:0
+#EXTINF:0  group-title="SCTV"
 
-- - - ---------------------------- KÊNH ĐỊA PHƯƠNG---------------------------
+# # # ---------------------------- KÊNH ĐỊA PHƯƠNG---------------------------
 #EXTINF:-1 tvg-id="camau" group-title="KÊNH ĐỊA PHƯƠNG" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/ZKV1ok2.png", CTV - TH CÀ MAU (va) (1080p)
 https://vietanh18h1.duckdns.org/tv360/46/index.m3u8
 
@@ -792,6 +812,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=46
 
 #EXTINF:-1 tvg-id="camau" group-title="KÊNH ĐỊA PHƯƠNG" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/ZKV1ok2.png", CTV - TH CÀ MAU (pr) (1080p)
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https%3A%2F%2Flive.fptplay53.net%2Fepzsd1%2Fcamau_hls.smil%2Fchunklist.m3u8
+
+#EXTINF:-1 tvg-id="camau" group-title="KÊNH ĐỊA PHƯƠNG" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/ZKV1ok2.png", CTV - TH CÀ MAU (720p)
+https://tv.ctvcamau.vn/live/tv/tv.m3u8
 
 
 #EXTINF:-1 tvg-id="angiang1" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/mgp6RAU.png", ATV1 - TH AN GIANG 1 (1080p)
@@ -1243,9 +1266,9 @@ https://vietanh18h1.duckdns.org/tv360/92/index.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=92
 
 
-#EXTINF:0
+#EXTINF:0  group-title="KÊNH ĐỊA PHƯƠNG"
 
-- - - ---------------------------- Tổng hợp ----------------------------
+# # # ---------------------------- Tổng hợp ----------------------------
 #EXTINF:-1 tvg-id="qpvnhd" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN - TH QUỐC PHÒNG VIỆT NAM (1080p)
 https://qpvn.vn/live/qpvn/master.m3u8
 
@@ -1298,7 +1321,7 @@ https://vietanh18h1.duckdns.org/tv360/9904/index.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=9904
 
 
-#EXTINF:0
+#EXTINF:0  group-title="Tổng hợp"
 
 # # # ------------------------------------- Quốc Tế ----------------------------------------------------
 
@@ -1385,4 +1408,4 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
 
 
-#EXTINF:0
+#EXTINF:0 group-title="Quốc Tế"
