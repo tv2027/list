@@ -1388,22 +1388,22 @@ http://supersonictv.live:8080/611366/682256/22131
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="AdventureEarth.de" tvg-name="Adventure Earth" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/94Pq9Io.png" group-title="documentary",Adventure Earth (1080p)
+#EXTINF:-1 tvg-id="AdventureEarth.de" tvg-name="Adventure Earth" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/94Pq9Io.png" , Adventure Earth (1080p)
 https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AdventureEarth.de" tvg-name="Adventure Earth" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/94Pq9Io.png" group-title="documentary",Adventure Earth (1080p)
+#EXTINF:-1 tvg-id="AdventureEarth.de" tvg-name="Adventure Earth" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/94Pq9Io.png" , Adventure Earth (1080p)
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LoveNature.ca" group-title="Quốc Tế" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="outdoor",Love Nature (4K)
+#EXTINF:-1 tvg-id="LoveNature.ca" group-title="Quốc Tế" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" , Love Nature (4K)
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 
-#EXTINF:-1 tvg-id="LoveNature.ca" group-title="Quốc Tế" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="outdoor",Love Nature (1080p)
+#EXTINF:-1 tvg-id="LoveNature.ca" group-title="Quốc Tế" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" , Love Nature (1080p)
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LoveNature.ca" group-title="Quốc Tế" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="outdoor",Love Nature (1080p)
+#EXTINF:-1 tvg-id="LoveNature.ca" group-title="Quốc Tế" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" , Love Nature (1080p)
 https://bamus-klowdtv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LoveNature.ca" group-title="Quốc Tế" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="outdoor",Love Nature 2 (1080p)
+#EXTINF:-1 tvg-id="LoveNature.ca" group-title="Quốc Tế" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" , Love Nature 2 (1080p)
 https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8
 
 
@@ -1421,22 +1421,21 @@ https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/mast
 #EXTINF:0 group-title="Thể Thao Quốc Tế  UHD 4K"
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="UK: Sky Sports Main Event UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="Thể Thao Quốc Tế  UHD 4K" , UK: Sky Sports Main Event UHD
 https://a1xs.vip/2000015
+
 #EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="UK: Sky Sports F1 UHD" tvg-logo="https://i.ibb.co/1tmrNyj9/Sky-Sport-F1-UHD.png" group-title="Thể Thao Quốc Tế  UHD 4K", UK: Sky Sports F1 UHD
 https://a1xs.vip/2000016
+
 #EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-name="UK: TNT Sports Ultimate UHD" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="Thể Thao Quốc Tế  UHD 4K", UK: TNT Sports Ultimate UHD
 https://a1xs.vip/2000031
+
 #EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-name="MY: Astro Sports UHD" tvg-logo="https://i.ibb.co/3hW45Pb/Astro-Sports-UHD.png" group-title="Thể Thao Quốc Tế  UHD 4K", MY: Astro Sports UHD
 https://a1xs.vip/9000001
-#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk" tvg-name="HK: Now Sports 1 4k" tvg-logo="https://www.nowtv.now.com/media/s-logo/611_e.png" group-title="Thể Thao Quốc Tế  UHD 4K", HK: Now Sports 1 4k
-https://a1xs.vip/9000011
-#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-name="SG: Hub Premier 2 UHD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Hubp2.png" group-title="Thể Thao Quốc Tế  UHD 4K" , SG: Hub Premier 2 UHD
-https://a1xs.vip/9000012
+
 #EXTINF:-1 tvg-id="V.Sport.Ultra.HD.se" tvg-name="SE: V Sport Ultra HD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/v-sport-ultra.png" group-title="Thể Thao Quốc Tế  UHD 4K" , SE: V Sport Ultra HD
 https://a1xs.vip/9000013
+
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HD.us2" tvg-name="US: NESN UHD" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="Thể Thao Quốc Tế  UHD 4K" , US: NESN UHD
 https://a1xs.vip/4000080
-#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-name="Eleven Sports 1 4K" tvg-logo="https://i.imgur.com/k6MErsv.png" group-title="Thể Thao Quốc Tế  UHD 4K" , Eleven Sports 1 4K
-https://a1xs.vip/14001
 
 
 #EXTINF:0 group-title="Thể Thao Quốc Tế  UHD 4K"
