@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz"
-#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml"
+#EXTM3U x-tvg-url="https://7pal.short.gy/alex-epg" tvg-shift=0
+
+###// EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml"
 #EXTM3U Disclaimer: Links were collected on the internet by search engine like Google. For legal issues, please contact appropriate media file owners/hosters.
 
 ###// EXTM3U url-tvg="https://vnepg.site/epg.xml, https://vnepg.site/epgu.xml, https://vnepg.site/epg.xml.gz"
@@ -1301,7 +1303,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9904
 
 # # # ------------------------------------- 📦 | In The Box ----------------------------------------------------
 
-#EXTINF:-1 tvg-id="musicbox" group-title="📦 | In The Box" tvg-logo="https://i.imgur.com/zgU1pj4.png", Music Box (720p) [?]
+#EXTINF:-1 tvg-id="musicbox" group-title="📦 | In The Box" tvg-logo="https://i.imgur.com/zgU1pj4.png", Music Box (1080p) [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1309,7 +1311,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9904
 https://livevlisctcdnw.seenow.vn/mean/MUSICBOX/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="woman" group-title="📦 | In The Box" tvg-logo="https://i.imgur.com/1Cmyrke.png", WOMAN (720p) [?]
+#EXTINF:-1 tvg-id="woman" group-title="📦 | In The Box" tvg-logo="https://i.imgur.com/1Cmyrke.png", WOMAN (1080p) [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1325,7 +1327,7 @@ https://livevlisctcdnw.seenow.vn/livesnv2/WO/manifest.mpd
 https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="boxhits" group-title="📦 | In The Box" tvg-logo="https://i.imgur.com/XMiPRWx.png", Box Hits (720p) [?]
+#EXTINF:-1 tvg-id="boxhits" group-title="📦 | In The Box" tvg-logo="https://i.imgur.com/XMiPRWx.png", Box Hits (1080p) [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1357,6 +1359,9 @@ https://bamus-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" group-title="Quốc Tế" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" , Love Nature 2 (1080p)
 https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="AutenticTravel.de" tvg-name="Autentic Travel" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png" group-title="Quốc Tế" , Autentic Travel (1080p)
+https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="fashiontv" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/ALDt1JX.png" ,Fashion TV (1080p)
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
@@ -1408,20 +1413,58 @@ https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playl
 
 #EXTINF:0 group-title="Quốc Tế"
 
-# # # Collected from https://bit.ly/a1xstream
+# # # Collected from https://bit.ly/a1xstream, https://7pal.short.gy/sports4kuhd, https://bit.ly/sports4kuhd
+
+
 # # # ------------------------------------- 📺 UHD | 4K Channels -------------------------------------
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="UK: Sky Sports Main Event UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="UHD | 4K",UK: Sky Sports Main Event UHD
+#EXTINF:-1 tvg-id="Info.Guide.Dummy.us" tvg-logo="https://i.imgur.com/3XIe0au.png" group-title="UHD | 4K",🌍 Intro 🌍
+https://7pal.short.gy/intro
+
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Main Event UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="UHD | 4K", UK: Sky Sports Main Event UHD
 https://a1xs.vip/2000015
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Main Event UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="UHD | 4K", UK: Sky Sports Main Event UHD (7p)
+https://7pal.short.gy/SSMEuhd
+
 #EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="UK: Sky Sports F1 UHD" tvg-logo="https://i.ibb.co/1tmrNyj9/Sky-Sport-F1-UHD.png" group-title="UHD | 4K",UK: Sky Sports F1 UHD
 https://a1xs.vip/2000016
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="UK: Sky Sports F1 UHD" tvg-logo="https://i.ibb.co/1tmrNyj9/Sky-Sport-F1-UHD.png" group-title="UHD | 4K",UK: Sky Sports F1 UHD (7p)
+https://7pal.short.gy/SSF1uhd
+
 #EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-name="UK: TNT Sports Ultimate UHD" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="UHD | 4K",UK: TNT Sports Ultimate UHD
 https://a1xs.vip/2000031
+#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-name="UK: TNT Sports Ultimate UHD" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="UHD | 4K",UK: TNT Sports Ultimate UHD (7p)
+https://7pal.short.gy/TNTUltimate
+
 #EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-name="MY: Astro Sports UHD" tvg-logo="https://i.ibb.co/3hW45Pb/Astro-Sports-UHD.png" group-title="UHD | 4K",MY: Astro Sports UHD
 https://a1xs.vip/9000001
+#EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-name="MY: Astro Sports UHD" tvg-logo="https://i.ibb.co/3hW45Pb/Astro-Sports-UHD.png" group-title="UHD | 4K",MY: Astro Sports UHD (7p)
+https://7pal.short.gy/astrouhd
+
 #EXTINF:-1 tvg-id="V.Sport.Ultra.HD.se" tvg-name="SE: V Sport Ultra HD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/v-sport-ultra.png" group-title="UHD | 4K",SE: V Sport Ultra HD
 https://a1xs.vip/9000013
-#EXTINF:-1 tvg-id="New.England.Sports.Network.HD.us2" tvg-name="US: NESN UHD" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="UHD | 4K",US: NESN UHD
+#EXTINF:-1 tvg-id="V.Sport.Ultra.HD.se" tvg-name="SE: V Sport Ultra HD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/v-sport-ultra.png" group-title="UHD | 4K",SE: V Sport Ultra HD (7p)
+https://7pal.short.gy/VSportUHD
+
+#EXTINF:-1 tvg-id="New.England.Sports.Network.HD.us2" tvg-name="US: NESN UHD" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="UHD | 4K" , US: NESN UHD
 https://a1xs.vip/4000080
+#EXTINF:-1 tvg-id="New.England.Sports.Network.HD.us2" tvg-name="US: NESN UHD" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="UHD | 4K" , US: NESN UHD (7p)
+https://7pal.short.gy/nesnuhd
+
+#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk" tvg-logo="https://i.postimg.cc/TP5pTkgg/611-e.png" group-title="UHD | 4K" , Now Sports 1 4k (7p)
+https://7pal.short.gy/nowsport4k
+
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" group-title="UHD | 4K" , Hub Premier 2 UHD (7p)
+https://7pal.short.gy/HubP2uhd
+
+#EXTINF:-1 tvg-id="4k_DIGITAL_Mono_EN.bein" tvg-logo="https://i.imgur.com/eb3S5pZ.png" group-title="UHD | 4K", beIN 4K (7p)
+https://7pal.short.gy/bein-uhd
+
+#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/PUaJPaE.png" group-title="UHD | 4K", ElevenSport1 4K (7p)
+https://7pal.short.gy/11sports1
+
+#EXTINF:-1 tvg-id="Sport.5.4K.il" tvg-logo="https://pixvid.org/images/2025/01/23/Sport5.png" group-title="UHD | 4K",Sport5 4K (7p)
+
+
 #EXTINF:0 group-title="UHD | 4K"
 
 # # # -------------------------------------  ⚽️ EPL  -------------------------------------
