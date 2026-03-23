@@ -1401,7 +1401,7 @@ https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd
 #EXTINF:0  group-title="📦 | In The Box"
 
 # # # ------------------------------------- Quốc Tế ----------------------------------------------------
-#EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/uPLURi3.png", HBO (1080) [?]
+#EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/uPLURi3.png", HBO HD [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1420,17 +1420,17 @@ http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776089&exten
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776085&extension=ts&play_token=aEwVlYvLMR
 
 
-#EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/dyadcpZ.png", Asian Food Network (va) (1080p)
+#EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/dyadcpZ.png", Asian Food Network HD (va)
 https://vietanh18h1.duckdns.org/tv360/215/index.m3u8
 
-#EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/dyadcpZ.png", Asian Food Network (fr) (1080p)
+#EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/dyadcpZ.png", Asian Food Network HD (fr)
 https://freem3u.xyz/api/live/play.m3u8?vid=215
 
-#EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/dyadcpZ.png", Asian Food Network (pr) (1080p)
+#EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/dyadcpZ.png", Asian Food Network HD (pr)
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https%3A%2F%2Flive.fptplay53.net%2Ffnxhd2%2Fafchd_vhls.smil%2Fchunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/3R5nI4Y.png", Cinemax (1080) [?]
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/3R5nI4Y.png", Cinemax HD [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1438,7 +1438,7 @@ https://truyenhinhonline.trungdungmedia.com/proxy?url=https%3A%2F%2Flive.fptplay
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/G28NK5T.png", Cinema World (1080) [?]
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/G28NK5T.png", Cinema World HD [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1446,15 +1446,23 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 
 
-#EXTINF:-1  group-title="Quốc Tế" tvg-id="fashiontv" tvg-logo="https://i.imgur.com/OfKs02o.png",FASHION TV (1080p) [?]
+#EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/GVna9Xn.png", Animal Planet HD [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c1d9f25701023508bfa6737e3a8c7001:30c3613e9b06e0f7cc201014f31bf5d8
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=ec6f072c7125377a9bc0ae61598095f4:1d5388e0781415ebcec9914f5ad75875
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="discovery" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/8tmns9l.png", Discovery (1080p) [?]
+#EXTINF:-1 tvg-id="outdoorhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Z0b6UsB.png", Outdoor Channel HD [?]
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/mean/OUTDOORCHANNEL/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/8tmns9l.png", Discovery Channel HD [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1462,15 +1470,42 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 
 
-#EXTINF:-1  tvg-id="cartoonnetwork" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Zld44aX.png",CARTOON NETWORK (1080p) [?]
+#EXTINF:-1 tvg-id="tlchd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Urjj6jJ.png", Travel & Living HD [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6908629732639ada4814a6208296d9c:7ca9bf03623f77b5e2f16df0b53f274d
+https://s129135.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/A6uNsnw.png", Discovery Asia HD [?]
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=934907b134be3963a6263a453846924c:788e2835fb98568aed2f47bbdc091515
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
+
+
+#EXTINF:-1  group-title="Quốc Tế" tvg-id="fashionhd" tvg-logo="https://i.imgur.com/OfKs02o.png" , Fashion TV HD [?]
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1d9f25701023508bfa6737e3a8c7001:30c3613e9b06e0f7cc201014f31bf5d8
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd
+
+
+#EXTINF:-1  tvg-id="cartoonnetwork" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Zld44aX.png", Cartoon Network HD [?]
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c20166660a93a75ac77db81567389f7:3cc1add43aecce3fe31c9c6a2a5b8c21
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="youtv" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/3d4Hfh8.png", YouTV HD (va) (1080p)
+#EXTINF:-1 tvg-id="youtv" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/3d4Hfh8.png", YouTV HD (va)
 https://vietanh18h1.duckdns.org/tv360/31/index.m3u8
 
-#EXTINF:-1 tvg-id="youtv" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/3d4Hfh8.png", YouTV HD (fr) (1080p)
+#EXTINF:-1 tvg-id="youtv" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/3d4Hfh8.png", YouTV HD (fr)
 https://freem3u.xyz/api/live/play.m3u8?vid=31
 
 
