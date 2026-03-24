@@ -551,14 +551,14 @@ https://vietanh18h1.duckdns.org/tv360/9867/index.m3u8
 https://kubolive.ddns.net/vanh_tv.php?provider=tv360&id=9867
 
 
-#EXTINF:-1 tvg-id="tv360plus6" group-title="Sự Kiện TV360" tvg-logo="https://i.imgur.com/DEOaLBH.png",TV360+ 6 (va) (1080p50) [?]
+#EXTINF:-1 tvg-id="tv360plus6" group-title="Sự Kiện TV360" tvg-logo="https://i.imgur.com/DEOaLBH.png", TV360+ 6 (va) (1080p50) [?]
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b0f9e1892864641aa17f02b2e7b0b2d:6c06f96a6296d05442466d5b09e58192
 https://vietanh18h1.duckdns.org/tv360/9868/index.m3u8
 
-#EXTINF:-1 tvg-id="tv360plus6" group-title="Sự Kiện TV360" tvg-logo="https://i.imgur.com/DEOaLBH.png",TV360+ 6 (kb) (1080p50) [?]
+#EXTINF:-1 tvg-id="tv360plus6" group-title="Sự Kiện TV360" tvg-logo="https://i.imgur.com/DEOaLBH.png", TV360+ 6 (kb) (1080p50) [?]
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -566,14 +566,14 @@ https://vietanh18h1.duckdns.org/tv360/9868/index.m3u8
 https://kubolive.ddns.net/vanh_tv.php?provider=tv360&id=9868
 
 
-#EXTINF:-1 tvg-id="tv360plus7" group-title="Sự Kiện TV360" tvg-logo="https://i.imgur.com/5GvuoE9.png",TV360+ 7 (va) (1080p) [?]
+#EXTINF:-1 tvg-id="tv360plus7" group-title="Sự Kiện TV360" tvg-logo="https://i.imgur.com/5GvuoE9.png", TV360+ 7 (va) (1080p) [?]
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=072f0a0d4eda40cbb04dfadf521a2b9f:2fb11373b36e018573d3b07132df050e
 https://vietanh18h1.duckdns.org/tv360/9869/index.m3u8
 
-#EXTINF:-1 tvg-id="tv360plus7" group-title="Sự Kiện TV360" tvg-logo="https://i.imgur.com/5GvuoE9.png",TV360+ 7 (kb) (1080p) [?]
+#EXTINF:-1 tvg-id="tv360plus7" group-title="Sự Kiện TV360" tvg-logo="https://i.imgur.com/5GvuoE9.png", TV360+ 7 (kb) (1080p) [?]
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -581,14 +581,14 @@ https://vietanh18h1.duckdns.org/tv360/9869/index.m3u8
 https://kubolive.ddns.net/vanh_tv.php?provider=tv360&id=9869
 
 
-#EXTINF:-1 tvg-id="tv360plus8" group-title="Sự Kiện TV360" tvg-logo="https://i.imgur.com/WHBCpVl.png",TV360+ 8 (va) (1080p) [?]
+#EXTINF:-1 tvg-id="tv360plus8" group-title="Sự Kiện TV360" tvg-logo="https://i.imgur.com/WHBCpVl.png", TV360+ 8 (va) (1080p) [?]
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=72a793a108f04d68858f2075616b6b98:76650cf89c991b0d26e9c50de2087891
 https://vietanh18h1.duckdns.org/tv360/9870/index.m3u8
 
-#EXTINF:-1 tvg-id="tv360plus8" group-title="Sự Kiện TV360" tvg-logo="https://i.imgur.com/WHBCpVl.png",TV360+ 8 (kb) (1080p) [?]
+#EXTINF:-1 tvg-id="tv360plus8" group-title="Sự Kiện TV360" tvg-logo="https://i.imgur.com/WHBCpVl.png", TV360+ 8 (kb) (1080p) [?]
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -596,29 +596,29 @@ https://vietanh18h1.duckdns.org/tv360/9870/index.m3u8
 https://kubolive.ddns.net/vanh_tv.php?provider=tv360&id=9870
 
 
-#EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://i.imgur.com/0RabHI3.png",TV360+ 9 (va) (1080p)
+#EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://i.imgur.com/0RabHI3.png", TV360+ 9 (va) (1080p)
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 https://vietanh18h1.duckdns.org/tv360/9887/index.m3u8
 
-#EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://i.imgur.com/0RabHI3.png",TV360+ 9 (kb) (1080p)
+#EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://i.imgur.com/0RabHI3.png", TV360+ 9 (kb) (1080p)
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 https://kubolive.ddns.net/vanh_tv.php?provider=tv360&id=9887
 
 
-#EXTINF:-1 tvg-id="tv360plus10" group-title="Sự Kiện TV360" tvg-logo="https://i.imgur.com/DbCa8OU.png",TV360+ 10 (va) (1080p)
+#EXTINF:-1 tvg-id="tv360plus10" group-title="Sự Kiện TV360" tvg-logo="https://i.imgur.com/DbCa8OU.png", TV360+ 10 (va) (1080p)
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 https://vietanh18h1.duckdns.org/tv360/9957/index.m3u8
 
-#EXTINF:-1 tvg-id="tv360plus10" group-title="Sự Kiện TV360" tvg-logo="https://i.imgur.com/DbCa8OU.png",TV360+ 10 (kb) (1080p)
+#EXTINF:-1 tvg-id="tv360plus10" group-title="Sự Kiện TV360" tvg-logo="https://i.imgur.com/DbCa8OU.png", TV360+ 10 (kb) (1080p)
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 https://kubolive.ddns.net/vanh_tv.php?provider=tv360&id=9957
 
 
-#EXTINF:-1 tvg-id="tv360plus11" group-title="Sự Kiện TV360" tvg-logo="https://i.imgur.com/6BZ2Sbh.png",TV360+ 11 (va) (1080p)
+#EXTINF:-1 tvg-id="tv360plus11" group-title="Sự Kiện TV360" tvg-logo="https://i.imgur.com/6BZ2Sbh.png", TV360+ 11 (va) (1080p)
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 https://vietanh18h1.duckdns.org/tv360/9958/index.m3u8
 
-#EXTINF:-1 tvg-id="tv360plus11" group-title="Sự Kiện TV360" tvg-logo="https://i.imgur.com/6BZ2Sbh.png",TV360+ 11 (kb) (1080p)
+#EXTINF:-1 tvg-id="tv360plus11" group-title="Sự Kiện TV360" tvg-logo="https://i.imgur.com/6BZ2Sbh.png", TV360+ 11 (kb) (1080p)
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 https://kubolive.ddns.net/vanh_tv.php?provider=tv360&id=9958
 
@@ -742,17 +742,17 @@ https://liveh34byt.vtvprime.vn/hls/SKSS6/index.m3u8
 
 # # #  --------------------------------- SCTV ---------------------------------------
 
-#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" group-logo="https://i.imgur.com/1zCLFYw.png" tvg-logo="https://i.imgur.com/36DeCA7.png", SCTV1 (p) (720p)
+#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" group-logo="https://i.imgur.com/1zCLFYw.png" tvg-logo="https://i.imgur.com/LNuTodS.png", SCTV1 (p) (720p)
 https://liveh12.vtvprime.vn/hls/SCTV1/index.m3u8
 
 
-#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.imgur.com/Pd8I81K.png", SCTV2 Today TV (va) (1080p)
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.imgur.com/oBjAkGB.png", SCTV2 Today TV (va) (1080p)
 https://vietanh18h1.duckdns.org/tv360/201/index.m3u8
 
-#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.imgur.com/Pd8I81K.png", SCTV2 Today TV (fr) (1080p)
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.imgur.com/oBjAkGB.png", SCTV2 Today TV (fr) (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=201
 
-#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.imgur.com/Pd8I81K.png", SCTV2 Today TV (p) (720p)
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.imgur.com/oBjAkGB.png", SCTV2 Today TV (p) (720p)
 https://liveh12.vtvprime.vn/hls/SCTV2/index.m3u8
 
 
@@ -1771,4 +1771,3 @@ https://a1xs.vip/2000024
 
 #EXTINF:0 group-title="UK Sports"
 # # # -----------------------------------------------
-
