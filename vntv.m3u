@@ -1491,7 +1491,7 @@ https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="cnn" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/cnn.png", CNN [?]
+#EXTINF:-1 tvg-id="cnn" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/cnn.png", CNN (1080p) [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1499,7 +1499,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="abcaustralia" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/mCFR0n7.png", ABC Australia
+#EXTINF:-1 tvg-id="abcaustralia" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/mCFR0n7.png", ABC Australia (1080p) [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1532,14 +1532,11 @@ https://vietanh18h1.duckdns.org/tv360/215/index.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/dyadcpZ.png", Asian Food Network HD (fr)
 https://freem3u.xyz/api/live/play.m3u8?vid=215
 
-#EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/dyadcpZ.png", Asian Food Network HD (pr)
-https://truyenhinhonline.trungdungmedia.com/proxy?url=https%3A%2F%2Flive.fptplay53.net%2Ffnxhd2%2Fafchd_vhls.smil%2Fchunklist.m3u8
-
 
 #EXTINF:-1 tvg-id="hgtv" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/fglu1PU.png", HGTV (va) (10800p)
 https://vietanh18h1.duckdns.org/tv360/99/index.m3u8
 
-#EXTINF:-1 tvg-id="hgtv" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/fglu1PU.png", HGTV (fr) (10800p)
+#EXTINF:-1 tvg-id="hgtv" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/bEfTtHo.png", HGTV (fr) (10800p)
 https://freem3u.xyz/api/live/play.m3u8?vid=99
 
 #EXTINF:-1 tvg-id="hgtv" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/bEfTtHo.png", HGTV (p) (720p)
@@ -1570,6 +1567,56 @@ https://vietanh18h1.duckdns.org/tv360/106/index.m3u8
 #EXTINF:-1 tvg-id="nhkworld" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/rqShzZZ.png", NHK World Japan (fr) (1080p)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=106
+
+
+#EXTINF:-1 tvg-id="france24eng" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/4Zpnq69.png", France 24 (va) (1080p)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vietanh18h1.duckdns.org/tv360/96/index.m3u8
+
+#EXTINF:-1 tvg-id="france24eng" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/4Zpnq69.png", France 24 (fr) (1080p)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=96
+
+
+#EXTINF:-1 tvg-id="tv5monde" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/0yrttiw.png", TV5 Monde (va) (1080p)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vietanh18h1.duckdns.org/tv360/9852/index.m3u8
+
+#EXTINF:-1 tvg-id="tv5monde" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/0yrttiw.png", TV5 Monde (fr) (1080p)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=9852
+
+#EXTINF:-1 tvg-id="tv5monde" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/0yrttiw.png", TV5 Monde (p) (720p)
+https://liveh12.vtvprime.vn/hls/TV5/index.m3u8
+
+
+#EXTINF:-1 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Sx1noe0.png", CNBC (va) (1080p)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vietanh18h1.duckdns.org/tv360/9855/index.m3u8
+
+#EXTINF:-1 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Sx1noe0.png", CNBC (fr) (1080p)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=9855
+
+#EXTINF:-1 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Sx1noe0.png", CNBC (p) (720p)
+https://liveh34.vtvprime.vn/hls/CNBC/index.m3u8
+
+
+#EXTINF:-1 tvg-id="history" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/8Tv5hmq.png", History HD (va) (1080p)
+https://vietanh18h1.duckdns.org/tv360/9856/index.m3u8
+
+#EXTINF:-1 tvg-id="history" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/8Tv5hmq.png", History HD (fr) (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=9856
+
+
+#EXTINF:-1 tvg-id="davinci" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/WWsqPoV.png", Da Vinci Asia Vietnam (p) (1080p)
+https://liveh12.vtvprime.vn/hls/DAVINVY/index.m3u8
+
+#EXTINF:-1 tvg-id="davinci" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/WWsqPoV.png", Da Vinci Asia Vietnam (va) (1080p)
+https://vietanh18h1.duckdns.org/tv360/214/index.m3u8
+
+#EXTINF:-1 tvg-id="davinci" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/WWsqPoV.png", Da Vinci Asia Vietnam (fr) (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=214
 
 
 #EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/GVna9Xn.png", Animal Planet HD [?]
@@ -1608,23 +1655,6 @@ https://vietanh18h1.duckdns.org/tv360/32/index.m3u8
 
 #EXTINF:-1 tvg-id="hitv" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/gMeGXeL.png", HiTV HD (fr) (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=32
-
-
-#EXTINF:-1 tvg-id="davinci" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/WWsqPoV.png", Da Vinci Asia Vietnam (p) (1080p)
-https://liveh12.vtvprime.vn/hls/DAVINVY/index.m3u8
-
-#EXTINF:-1 tvg-id="davinci" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/WWsqPoV.png", Da Vinci Asia Vietnam (va) (1080p)
-https://vietanh18h1.duckdns.org/tv360/214/index.m3u8
-
-#EXTINF:-1 tvg-id="davinci" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/WWsqPoV.png", Da Vinci Asia Vietnam (fr) (1080p)
-https://freem3u.xyz/api/live/play.m3u8?vid=214
-
-
-#EXTINF:-1 tvg-id="history" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/8Tv5hmq.png", History HD (va) (1080p)
-https://vietanh18h1.duckdns.org/tv360/9856/index.m3u8
-
-#EXTINF:-1 tvg-id="history" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/8Tv5hmq.png", History HD (fr) (1080p)
-https://freem3u.xyz/api/live/play.m3u8?vid=9856
 
 
 #EXTINF:-1 tvg-id="tvbvn" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/7MBN1Mc.png", TVB Việt Nam
