@@ -318,6 +318,16 @@ https://vietanhtv.id.vn/tv360/188/index.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=188
 
 
+#EXTINF:-1 tvg-id="anvienhd" group-title="VTVcab" tvg-logo="https://i.imgur.com/LdCU6vg.png" , BTV9 Bchannel (An Viên HD) (va) (1080p)
+https://vietanh18h1.duckdns.org/tv360/151/index.m3u8
+
+#EXTINF:-1 tvg-id="anvienhd" group-title="VTVcab" tvg-logo="https://i.imgur.com/LdCU6vg.png" , BTV9 Bchannel (An Viên HD) (fr) (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=151
+
+#EXTINF:-1 tvg-id="anvienhd" group-title="VTVcab" tvg-logo="https://i.imgur.com/LdCU6vg.png" , BTV9 Bchannel (An Viên HD) (pr) (1080p)
+https://truyenhinhonline.trungdungmedia.com/proxy?url=https%3A%2F%2Flive.fptplay53.net%2Ffnxsd1%2Fbtv9_hls.smil%2Fchunklist.m3u8
+
+
 #EXTINF:0 group-title="VTVcab"
 
 # # #  ------------------------------------ HTV - ĐÀI PTTH TPHCM -------------------------------------
@@ -351,27 +361,17 @@ https://freem3u.xyz/api/live/play.m3u8?vid=192
 https://liveh12.vtvprime.vn/hls/HTV3/index.m3u8
 
 
-#EXTINF:-1 tvg-id="htv4" group-title="HTV - ĐÀI PTTH TPHCM" tvg-logo="https://i.postimg.cc/QMgQ2zP0/H4.png" , HTV4 (va) (1080p)
+#EXTINF:-1 tvg-id="htvkey" group-title="HTV - ĐÀI PTTH TPHCM" tvg-logo="https://i.postimg.cc/QMgQ2zP0/H4.png" , HTV Key (va) (1080p)
 https://vietanh18h1.duckdns.org/tv360/9/index.m3u8
 
-#EXTINF:-1 tvg-id="htv4" group-title="HTV - ĐÀI PTTH TPHCM" tvg-logo="https://i.postimg.cc/QMgQ2zP0/H4.png" , HTV4 (fr) (1080p)
+#EXTINF:-1 tvg-id="htvkey" group-title="HTV - ĐÀI PTTH TPHCM" tvg-logo="https://i.postimg.cc/QMgQ2zP0/H4.png" , HTV Key (fr) (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=9
 
-#EXTINF:-1 tvg-id="htv4" group-title="HTV - ĐÀI PTTH TPHCM" tvg-logo="https://i.postimg.cc/QMgQ2zP0/H4.png" , HTV4 (p) (720p)
+#EXTINF:-1 tvg-id="htvkey" group-title="HTV - ĐÀI PTTH TPHCM" tvg-logo="https://i.postimg.cc/QMgQ2zP0/H4.png" , HTV Key (p) (720p)
 https://liveh12.vtvprime.vn/hls/HTVKey/index.m3u8
 
-#EXTINF:-1 tvg-id="htv4" group-title="HTV - ĐÀI PTTH TPHCM" tvg-logo="https://i.postimg.cc/QMgQ2zP0/H4.png" , HTV4 (pr) (1080p)
+#EXTINF:-1 tvg-id="htvkey" group-title="HTV - ĐÀI PTTH TPHCM" tvg-logo="https://i.postimg.cc/QMgQ2zP0/H4.png" , HTV Key (pr) (1080p)
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https%3A%2F%2Flive.fptplay53.net%2Fepzhd1%2Fhtv4_hls.smil%2Fchunklist.m3u8
-
-
-#EXTINF:-1 tvg-id="htv5" group-title="HTV - ĐÀI PTTH TPHCM" tvg-logo="https://i.imgur.com/LdCU6vg.png" , HTV5 (va) (1080p)
-https://vietanh18h1.duckdns.org/tv360/151/index.m3u8
-
-#EXTINF:-1 tvg-id="htv5" group-title="HTV - ĐÀI PTTH TPHCM" tvg-logo="https://i.imgur.com/LdCU6vg.png" , HTV5 (fr) (1080p)
-https://freem3u.xyz/api/live/play.m3u8?vid=151
-
-#EXTINF:-1 tvg-id="htv5" group-title="HTV - ĐÀI PTTH TPHCM" tvg-logo="https://i.imgur.com/LdCU6vg.png" , HTV5 (pr) (1080p)
-https://truyenhinhonline.trungdungmedia.com/proxy?url=https%3A%2F%2Flive.fptplay53.net%2Ffnxsd1%2Fbtv9_hls.smil%2Fchunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV - ĐÀI PTTH TPHCM" tvg-logo="https://i.postimg.cc/ZKjKWYq4/htv7.png" , HTV7 (vatv) (1080p)
