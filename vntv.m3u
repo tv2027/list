@@ -22,10 +22,16 @@ https://live-a.fptplay53.net/live/media/VTV1HD/live_hls_avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" group-logo="https://i.imgur.com/NB53sZL.png" tvg-logo="https://i.imgur.com/vJKF3BW.png" , VTV1 (v) (1080p50)
 https://vips-livecdn.fptplay.net/live/media/VTV1HD/live_hls_avc/index.m3u8
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/vJKF3BW.png" , VTV1 (va) (1080p25)
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/vJKF3BW.png" , VTV1 (vatv) (1080p)
+https://vietanhtv.id.vn/vieon/vtv1-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/vJKF3BW.png" , VTV1 (dl) (1080p)
+https://livecdn-vthcm-bp.vieon.vn/64aadf50d56c2179e0aa51f4496bb79a/1774817839000/livetv/group-03/3b0d13cc45a5e637e4672ba354d7e8b5/playlist.m3u8?c=a
+
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/vJKF3BW.png" , VTV1 (va) (1080p)
 https://vietanh18h1.duckdns.org/tv360/2/index.m3u8
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/vJKF3BW.png" , VTV1 (fr) (1080p25)
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/vJKF3BW.png" , VTV1 (fr) (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 
 
@@ -233,8 +239,10 @@ https://freem3u.xyz/api/live/play.m3u8?vid=176
 
 
 #EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://i.imgur.com/MpETNzV.png", ON Vie Dramas (vatv) (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vietanhtv.id.vn/vieon/vie-dramas-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://i.imgur.com/MpETNzV.png", ON Vie Dramas (dl) (1080p)
+https://livecdn-vthcm-bp.vieon.vn/74bc07ab23d8aeb5e38b958fd44005de/1774817606000/livetv/group-06/9416aa65cec57d5b01ed0e2297e1b4e3/playlist.m3u8?c=a
 
 #EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://i.imgur.com/MpETNzV.png", ON Vie Dramas (va) (1080p)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -260,8 +268,10 @@ https://freem3u.xyz/api/live/play.m3u8?vid=179
 
 
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://i.imgur.com/TIip675.png", ON Vie Giải Trí (vatv) (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vietanhtv.id.vn/vieon/vie-giai-tri-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://i.imgur.com/TIip675.png", ON Vie Giải Trí (dl) (1080p)
+https://livecdn-vthcm-bp.vieon.vn/9d51f26fcaaa64fd9efdf807ffcdaf98/1774817674000/livetv/group-06/e1866a2319433853e08a3ab662932c34/playlist.m3u8?c=a
 
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://i.imgur.com/TIip675.png", ON Vie Giải Trí (va) (1080p)
 https://vietanh18h1.duckdns.org/tv360/180/index.m3u8
@@ -354,6 +364,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=190
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV - ĐÀI PTTH TPHCM" tvg-logo="https://i.imgur.com/2npoF3Q.png" , HTV2 - Vie Channel (vatv) (1080p)
 https://vietanhtv.id.vn/vieon/vie-channel-htv2-hd/index.m3u8
 
+#EXTINF:-1 tvg-id="htv2hd" group-title="HTV - ĐÀI PTTH TPHCM" tvg-logo="https://i.imgur.com/2npoF3Q.png" , HTV2 - Vie Channel (dl) (1080p)
+https://livecdn-vthcm-bp.vieon.vn/da1362aed858fdc7f49a01e527f4b5b9/1774817705000/livetv/group-04/84e39f2158e950a0d63d783260f7ea75/playlist.m3u8?c=a
+
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV - ĐÀI PTTH TPHCM" tvg-logo="https://i.imgur.com/2npoF3Q.png" , HTV2 - Vie Channel (va) (1080p)
 https://vietanh18h1.duckdns.org/tv360/191/index.m3u8
 
@@ -390,6 +403,9 @@ https://truyenhinhonline.trungdungmedia.com/proxy?url=https%3A%2F%2Flive.fptplay
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV - ĐÀI PTTH TPHCM" tvg-logo="https://i.postimg.cc/ZKjKWYq4/htv7.png" , HTV7 (vatv) (1080p)
 http://vietanhtv.id.vn/vieon/htv7-hd/index.m3u8
 
+#EXTINF:-1 tvg-id="htv7hd" group-title="HTV - ĐÀI PTTH TPHCM" tvg-logo="https://i.postimg.cc/ZKjKWYq4/htv7.png" , HTV7 (dl) (1080p)
+https://livecdn-vthcm-bp.vieon.vn/4244c7dfedff2a197cf92b4b44d1b05e/1774817741000/livetv/group-05/60efe6198ce953ae1411fb164e334367/playlist.m3u8?c=a
+
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV - ĐÀI PTTH TPHCM" tvg-logo="https://i.postimg.cc/ZKjKWYq4/htv7.png" , HTV7 (va) (1080p)
 https://vietanh18h1.duckdns.org/tv360/193/index.m3u8
 
@@ -405,6 +421,9 @@ https://liveh12.vtvprime.vn/hls/HTV7HD/index.m3u8
 
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV - ĐÀI PTTH TPHCM" tvg-logo="https://i.postimg.cc/ZRrJ44gt/HTV9.png" , HTV9 (vatv) (1080p)
 http://vietanhtv.id.vn/vieon/htv9-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="htv9hd" group-title="HTV - ĐÀI PTTH TPHCM" tvg-logo="https://i.postimg.cc/ZRrJ44gt/HTV9.png" , HTV9 (dl) (1080p)
+https://livecdn-vthcm-bp.vieon.vn/4a069bbf72376f7dc57c4379d707bfa0/1774817758000/livetv/group-04/6d8dfd97165650a8935c57262d9be67f/playlist.m3u8?c=a
 
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV - ĐÀI PTTH TPHCM" tvg-logo="https://i.postimg.cc/ZRrJ44gt/HTV9.png" , HTV9 (va) (1080p)
 https://vietanh18h1.duckdns.org/tv360/194/index.m3u8
