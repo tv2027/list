@@ -1688,7 +1688,7 @@ https://vietanh18h1.duckdns.org/tv360/214/index.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=214
 
 
-#EXTINF:-1 tvg-id="warnertv" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/nqiVBVM.png", Warner TV (1080p) [?]
+#EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/nqiVBVM.png", Warner TV HD [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1736,7 +1736,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="bbc-cbeebies" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/uuzg7ha.png", BBC Cbeebies (1080p) [?]
+#EXTINF:-1 tvg-id="cbeebies" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/uuzg7ha.png", BBC Cbeebies (1080p) [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1752,7 +1752,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="bbcnews" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/ciWNcYn.png", BBC World News (1080p) [?]
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/ciWNcYn.png", BBC World News (1080p) [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
