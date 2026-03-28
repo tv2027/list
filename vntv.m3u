@@ -1369,10 +1369,10 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9905
 https://vietanh18h1.duckdns.org/tv360/9905/index.m3u8
 
 
-#EXTINF:-1 tvg-id="fm96" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/kSUpHoe.png", FM96 Thời sự Hà Nội (va)
+#EXTINF:-1 tvg-id="fm96" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/kSUpHoe.png", FM96 Thời sự Tổng hợp (va)
 https://freem3u.xyz/api/live/play.m3u8?vid=9906
 
-#EXTINF:-1 tvg-id="fm96" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/kSUpHoe.png", FM96 Thời sự Hà Nội (fr)
+#EXTINF:-1 tvg-id="fm96" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/kSUpHoe.png", FM96 Thời sự Tổng hợp (fr)
 https://vietanh18h1.duckdns.org/tv360/9906/index.m3u8
 
 
@@ -1458,11 +1458,11 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTINF:-1 tvg-id="hbohits" group-title="Quốc Tế" tvg-logo="https://cms.cignal.tv/Upload/Images/HBO%20Hits-1.jpg" , HBO Hits (1080)
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776088&extension=ts&play_token=DDOOCF3plZ
 
-#EXTINF:-1 tvg-id="hbofamily" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png", HBO Family (1080)
+#EXTINF:-1 tvg-id="hbofamily" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/czKSQ9T.png", HBO Family (1080)
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776089&extension=ts&play_token=xf9Vl3Lrhl
 
 
-#EXTINF:-1 tvg-id="hbosignaturehd" group-title="Quốc Tế" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_425_305", HBO Signature HD (1080)
+#EXTINF:-1 tvg-id="hbosignaturehd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/e639eZC.png", HBO Signature HD (1080)
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776085&extension=ts&play_token=aEwVlYvLMR
 
 
@@ -1474,7 +1474,7 @@ http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776085&exten
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="axnhd" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/axn.png", AXN HD [?]
+#EXTINF:-1 tvg-id="axnhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/jHB1iaJ.png", AXN HD [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1490,7 +1490,7 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/dreamworks.png", Dreamworks HD [?]
+#EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Xw8Agf4.png", Dreamworks HD [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1514,20 +1514,20 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="bloomberg" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/bloomberg.png", Bloomberg [?]
+#EXTINF:-1 tvg-id="bloomberg" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Rt3vjrV.png", Bloomberg [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1071393f8fc237f3a9a28028142110f7:7a0f8c3c72e0ffff811d534c929c57c2
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bloomberg.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="bloomberg" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/bloomberg.png", Bloomberg (4K)
+#EXTINF:-1 tvg-id="bloomberg" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Rt3vjrV.png", Bloomberg (4K)
 https://d2d98ykcmmhgd4.cloudfront.net/v1/bloomberg_bloombergtv_2/samsungheadend_us/latest/main/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="bloomberg" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/bloomberg.png", Bloomberg US (1080p)
+#EXTINF:-1 tvg-id="bloomberg" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Rt3vjrV.png", Bloomberg US (1080p)
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
 
-#EXTINF:-1 tvg-id="bloomberg" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/bloomberg.png", Bloomberg Asia (1080p)
+#EXTINF:-1 tvg-id="bloomberg" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Rt3vjrV.png", Bloomberg Asia (1080p)
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 
 
@@ -1539,7 +1539,7 @@ https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="cnn" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/cnn.png", CNN (1080p) [?]
+#EXTINF:-1 tvg-id="cnn" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/xEylvZk.png", CNN (1080p) [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1605,7 +1605,9 @@ https://vietanh18h1.duckdns.org/tv360/109/index.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/6CMNQDw.png", DW - Deutsche Welle (pr) (1080p)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https%3A%2F%2Flive.fptplay53.net%2Ffnxhd2%2Fdwenglish_hls.smil%2Fchunklist.m3u8
-https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="dw" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/6CMNQDw.png", DW - Deutsche Welle (p) (720p)
+https://liveh12.vtvprime.vn/hls/DW/index.m3u8
 
 
 #EXTINF:-1 tvg-id="nhkworld" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/IGrphFs.png", NHK World Japan (va) (1080p)
@@ -1656,6 +1658,8 @@ https://vietanh18h1.duckdns.org/tv360/9856/index.m3u8
 #EXTINF:-1 tvg-id="history" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/8Tv5hmq.png", History HD (fr) (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
 
+#EXTINF:-1 tvg-id="history" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/8Tv5hmq.png", History HD (p) (720p)
+https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8
 
 #EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/MVYDi0L.png", Kix HD (va) (1080p)
 https://vietanh18h1.duckdns.org/tv360/9901/index.m3u8
