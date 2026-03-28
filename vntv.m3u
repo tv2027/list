@@ -1362,11 +1362,42 @@ https://vietanh18h1.duckdns.org/tv360/20/index.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=20
 
 
+#EXTINF:-1 tvg-id="fm90" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/AQFKRoN.png", FM90 Tin tức giao thông Hà Nội (va)
+https://freem3u.xyz/api/live/play.m3u8?vid=9905
+
+#EXTINF:-1 tvg-id="fm90" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/AQFKRoN.png", FM90 Tin tức giao thông Hà Nội (fr)
+https://vietanh18h1.duckdns.org/tv360/9905/index.m3u8
+
+
+#EXTINF:-1 tvg-id="fm96" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/kSUpHoe.png", FM96 Thời sự Hà Nội (va)
+https://freem3u.xyz/api/live/play.m3u8?vid=9906
+
+#EXTINF:-1 tvg-id="fm96" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/kSUpHoe.png", FM96 Thời sự Hà Nội (fr)
+https://vietanh18h1.duckdns.org/tv360/9906/index.m3u8
+
+
+#EXTINF:-1 tvg-id="phimviet" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/umtJROh.png", Phim Việt (va) (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=9902
+
+#EXTINF:-1 tvg-id="phimviet" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/umtJROh.png", Phim Việt (fr) (1080p)
+https://vietanh18h1.duckdns.org/tv360/9902/index.m3u8
+
+
+#EXTINF:-1 tvg-id="hoathinh" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/L7Vb2EV.png", Hoạt Hình (va) (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=9934
+
+#EXTINF:-1 tvg-id="hoathinh" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/L7Vb2EV.png", Hoạt Hình (fr) (1080p)
+https://vietanh18h1.duckdns.org/tv360/9934/index.m3u8
+
+
 #EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/hr3wFmL.png", TV360 Promo (va) (1080p)
 https://vietanh18h1.duckdns.org/tv360/9904/index.m3u8
 
 #EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/hr3wFmL.png", TV360 Promo (fr) (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=9904
+
+#EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/hr3wFmL.png", TV360 Quảng Cáo (va) (1080p)
+https://vietanh18h1.duckdns.org/tv360/9888/index.m3u8
 
 
 #EXTINF:0  group-title="Tổng hợp"
@@ -1624,6 +1655,23 @@ https://vietanh18h1.duckdns.org/tv360/9856/index.m3u8
 
 #EXTINF:-1 tvg-id="history" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/8Tv5hmq.png", History HD (fr) (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
+
+
+#EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/MVYDi0L.png", Kix HD (va) (1080p)
+https://vietanh18h1.duckdns.org/tv360/9901/index.m3u8
+
+#EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/MVYDi0L.png", Kix HD (fr) (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=9901
+
+
+#EXTINF:-1 tvg-id="arirang" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/OBfPDMn.png", Arirang (va) (1080p)
+https://vietanh18h1.duckdns.org/tv360/111/index.m3u8
+
+#EXTINF:-1 tvg-id="arirang" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/OBfPDMn.png", Arirang (fr) (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=111
+
+#EXTINF:-1 tvg-id="arirang" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/OBfPDMn.png", Arirang (p) (720p)
+https://liveh12.vtvprime.vn/hls/ARIRANG/index.m3u8
 
 
 #EXTINF:-1 tvg-id="davinci" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/WWsqPoV.png", Da Vinci Asia Vietnam (p) (1080p)
