@@ -780,49 +780,49 @@ https://kubolive.ddns.net/vanh_tv.php?provider=tv360&id=10001
 #EXTINF:0 group-title="Sự Kiện TV360"
 
 # # # ---------------------------- Sự Kiện VTVPrime (not 24/7) --------------------------
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" group-logo="https://i.imgur.com/grcnpgs.png" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 1 (1080p50) [?]
+#EXTINF:-1 group-title="Sự Kiện VTVPrime" group-logo="https://i.imgur.com/grcnpgs.png" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 1 (1080p50) [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT1/manifest.mpd
 
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 2 (1080p) [?]
+#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 2 (1080p) [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT2/manifest.mpd
 
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 3 (1080p) [?]
+#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 3 (1080p) [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT3/manifest.mpd
 
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 4 (1080p) [?]
+#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 4 (1080p) [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT4/manifest.mpd
 
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 5 (1080p) [?]
+#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 5 (1080p) [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT5/manifest.mpd
 
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 6 (1080p) [?]
+#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 6 (1080p) [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT6/manifest.mpd
 
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 7 (1080p) [??]
+#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 7 (1080p) [??]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -830,7 +830,7 @@ https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT6/manifest.mpd
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT7/manifest.mpd
 
 
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 8 (1080p) [?]
+#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 8 (1080p) [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -838,7 +838,7 @@ https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT7/manifest.mpd
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT8/manifest.mpd
 
 
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 9 (1080p) [?]
+#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 9 (1080p) [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -846,7 +846,7 @@ https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT8/manifest.mpd
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT9/manifest.mpd
 
 
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 10 (1080p) [?]
+#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 10 (1080p) [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -854,27 +854,27 @@ https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT9/manifest.mpd
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT10/manifest.mpd
 
 
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 11 (1080p)
+#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 11 (1080p)
 https://liveh34.vtvprime.vn/hls/SKSS1/index.m3u8
 
 
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 12 (1080p)
+#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 12 (1080p)
 https://liveh34.vtvprime.vn/hls/SKSS2/index.m3u8
 
 
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 13 (1080p)
+#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 13 (1080p)
 https://liveh34byt.vtvprime.vn/hls/SKSS3/index.m3u8
 
 
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 14 (1080p)
+#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 14 (1080p)
 https://liveh34byt.vtvprime.vn/hls/SKSS4/index.m3u8
 
 
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 15 (1080p)
+#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 15 (1080p)
 https://liveh34byt.vtvprime.vn/hls/SKSS5/index.m3u8
 
 
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", Sự Kiện VTVPrime 16 (1080p)
+#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 16 (1080p)
 https://liveh34byt.vtvprime.vn/hls/SKSS6/index.m3u8
 
 
@@ -882,19 +882,19 @@ https://liveh34byt.vtvprime.vn/hls/SKSS6/index.m3u8
 
 # # #  --------------------------------- Sự Kiện FPT Play (not 24/7) ---------------------------------------
 
-#EXTINF:-1 group-title="Sự Kiện FPT Play" tvg-logo="https://i.imgur.com/OX4bTBg.png", Sự Kiện 1
+#EXTINF:-1 group-title="Sự Kiện FPT Play" group-logo="https://i.imgur.com/OX4bTBg.png" tvg-logo="https://i.imgur.com/OX4bTBg.png", FPT Play 1 (1080p50)
 https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 
-#EXTINF:-1 group-title="Sự Kiện FPT Play" tvg-logo="https://i.imgur.com/OX4bTBg.png", Sự Kiện 2
+#EXTINF:-1 group-title="Sự Kiện FPT Play" tvg-logo="https://i.imgur.com/OX4bTBg.png", FPT Play 2 (1080p50)
 https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 
-#EXTINF:-1 group-title="Sự Kiện FPT Play" tvg-logo="https://i.imgur.com/OX4bTBg.png", Sự Kiện 3
+#EXTINF:-1 group-title="Sự Kiện FPT Play" tvg-logo="https://i.imgur.com/OX4bTBg.png", FPT Play 3 (1080p50)
 https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
 
-#EXTINF:-1 group-title="Sự Kiện FPT Play" tvg-logo="https://i.imgur.com/OX4bTBg.png", Sự Kiện 4 (1080p)
+#EXTINF:-1 group-title="Sự Kiện FPT Play" tvg-logo="https://i.imgur.com/OX4bTBg.png", FPT Play 4 (1080p50)
 https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
 
-#EXTINF:-1 group-title="Sự Kiện FPT Play" tvg-logo="https://i.imgur.com/OX4bTBg.png", Sự Kiện 5
+#EXTINF:-1 group-title="Sự Kiện FPT Play" tvg-logo="https://i.imgur.com/OX4bTBg.png", FPT Play 5 (1080p50)
 https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
 
 
