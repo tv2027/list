@@ -1,6 +1,5 @@
 #EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz"
 #EXTM3U x-tvg-url="https://bit.ly/a1xepg" tvg-shift=0
-#EXTM3U tvg-url="https://tvbvn.quanlehong539.workers.dev/epg.xml"
 
 ###// EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml"
 #EXTM3U Disclaimer: Links were collected on the internet by search engine like Google. For legal issues, please contact appropriate media file owners/hosters.
@@ -1941,7 +1940,7 @@ https://vietanh18h1.duckdns.org/tv360/32/index.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=32
 
 
-#EXTINF:-1 tvg-id="tvbvn" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/7MBN1Mc.png", TVB Việt Nam
+#EXTINF:-1 tvg-id="tvbvn" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/7MBN1Mc.png" tvg-url="https://tvbvn.quanlehong539.workers.dev/epg.xml" , TVB Việt Nam
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 
 
