@@ -1,4 +1,5 @@
-#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz"
+#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz" m3uautoload=1
+#EXTM3U url-tvg="https://tvbvn.quanlehong539.workers.dev/xml" tvg-shift=0 m3uautoload=1
 #EXTM3U x-tvg-url="https://bit.ly/a1xepg" tvg-shift=0
 
 ###// EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml"
@@ -1520,10 +1521,10 @@ https://vietanh18h1.duckdns.org/tv360/20/index.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=20
 
 
-#EXTINF:-1 tvg-id="fm90" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/AQFKRoN.png", FM90 Tin tức giao thông Hà Nội (va)
+#EXTINF:-1 tvg-id="fm90" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/AQFKRoN.png" radio=true , FM90 Tin tức giao thông Hà Nội (va)
 https://freem3u.xyz/api/live/play.m3u8?vid=9905
 
-#EXTINF:-1 tvg-id="fm90" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/AQFKRoN.png", FM90 Tin tức giao thông Hà Nội (fr)
+#EXTINF:-1 tvg-id="fm90" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/AQFKRoN.png" radio=true , FM90 Tin tức giao thông Hà Nội (fr)
 https://vietanh18h1.duckdns.org/tv360/9905/index.m3u8
 
 
@@ -1940,7 +1941,7 @@ https://vietanh18h1.duckdns.org/tv360/32/index.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=32
 
 
-#EXTINF:-1 tvg-id="tvbvn" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/7MBN1Mc.png" tvg-url="https://tvbvn.quanlehong539.workers.dev/epg.xml" , TVB Việt Nam
+#EXTINF:-1 tvg-id="tvbvn" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/7MBN1Mc.png" , TVB Việt Nam
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 
 
