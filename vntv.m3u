@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz"
-#EXTM3U url-tvg="https://tvbvn.quanlehong539.workers.dev/xml" tvg-shift=7
+#EXTM3U url-tvg="https://tvbvn.quanlehong539.workers.dev/xml"
 #EXTM3U x-tvg-url="https://bit.ly/a1xepg" tvg-shift=0
 
 ###// EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml"
