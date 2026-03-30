@@ -2155,10 +2155,10 @@ http://79.127.207.193:80/ArtSport5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OneWQ24.png" group-title="World Sports", Art Sport 6 HD
 http://79.127.207.193:80/ArtSport6/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.worldvectorlogo.com/logos/eurosport-1-logo-2015.svg" group-title="World Sports", Euro Sport 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rjPUd5K.png" group-title="World Sports", Euro Sport 1 HD
 http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eurosport_2_Logo_2015.png" group-title="World Sports", Euro Sport 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3GJzW5W.png" group-title="World Sports", Euro Sport 2 HD
 http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
 
 
