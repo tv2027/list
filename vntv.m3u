@@ -2129,7 +2129,7 @@ https://a1xs.vip/140003
 # # # Collected from https://github.com/k33n26/iptv/blob/master/Sport.m3u
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NMbteWK.png" group-title="World Sports", Arena Premium 1 HD
-http://79.127.207.193:80/ArenaPremiumHR1HD/playlist.m3u8
+http://79.127.207.193:80/ArenaPremium1HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3JVMedy.png" group-title="World Sports", Arena Premium 2 HD
 http://79.127.207.193:80/ArenaPremium2HD/playlist.m3u8
