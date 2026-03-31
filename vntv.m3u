@@ -1937,7 +1937,7 @@ https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playl
 #EXTINF:0 group-title="Quốc Tế"
 # # # -------------------------------------
 
-# # # World Sports Channels. Collected from https://bit.ly/a1xstream, https://7pal.short.gy/sports4kuhd, https://bit.ly/sports4kuhd
+# # # World Sports Channels. Collected from https://bit.ly/a1xstream, https://7pal.short.gy/sports4kuhd, https://bit.ly/sports4kuhd, Love4vn, k33n26
 # # # ------------------------------------- 📺 UHD | 4K Channels -------------------------------------
 #EXTINF:-1 tvg-id="Info.Guide.Dummy.us" tvg-logo="https://i.imgur.com/3XIe0au.png" group-title="UHD | 4K",🌍 Intro 🌍
 https://7pal.short.gy/intro
@@ -2122,6 +2122,81 @@ https://a1xs.vip/2000024
 
 
 #EXTINF:0 group-title="UK Sports"
+
+# # # ---------------------------------------- 📺 Canal +  ----------------------------------------
+#EXTINF:-1 tvg-id="CANAL+FOOT.fr" group-title="Canal +" tvg-logo="https://i.imgur.com/XJtaq4F.png", Canal + Foot (as) (720p)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=394814&extension=ts
+#EXTINF:-1 tvg-id="CANAL+FOOT.fr" group-title="Canal +" tvg-logo="https://i.imgur.com/XJtaq4F.png", Canal + Foot (ch) (720p)
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1071923&extension=ts&play_token=vcQAIeKouv
+
+
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 1 FHD (as)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170885&extension=ts
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 1 FHD (ch)
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122056&extension=ts&play_token=223GgKAnFY
+
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 2 FHD (as)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170884&extension=ts
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 2 FHD (ch)
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122022&extension=ts&play_token=iSj2dolRme
+
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 3 FHD (ch)
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122024&extension=ts&play_token=CybqwfSLOa
+
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 4 FHD (as)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170882&extension=ts
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 4 FHD (ch)
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122939&extension=ts&play_token=HIEGNfDnjh
+
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 5 FHD (ch)
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122028&extension=ts&play_token=kFra0tQEzm
+
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 6 FHD (as)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170880&extension=ts
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 6 FHD (ch)
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122030&extension=ts&play_token=JO8O3NwIu3
+
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 7 FHD (ch)
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122032&extension=ts&play_token=v6BlP5EabS
+
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 8 FHD (ch)
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122034&extension=ts&play_token=x6iYHVWSH9
+
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 9 FHD (ch)
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122036&extension=ts&play_token=kuZ8wahbOG
+
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 10 FHD (as)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170876&extension=ts
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 10 FHD (ch)
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122038&extension=ts&play_token=Pop6uUQR3I
+
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 11 FHD (ch)
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122040&extension=ts&play_token=hTZeyPAfkN
+
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 12 FHD (ch)
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122042&extension=ts&play_token=1MtcjI5wmF
+
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 13 FHD (ch)
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122044&extension=ts&play_token=g168GcxJY4
+
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 14 FHD (ch)
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122046&extension=ts&play_token=ehR6K7NzS8
+
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 15 FHD (ch)
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122048&extension=ts&play_token=jR2N0mt5SZ
+
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 16 FHD (ch)
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122050&extension=ts&play_token=pgbrtZxiUM
+
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 17 FHD (ch)
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122052&extension=ts&play_token=o7h6R125hi
+
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 18 FHD (ch)
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122054&extension=ts&play_token=XPmBZyeTRp
+
+
+#EXTINF:0 group-title="Canal +"
+
 # # # ---------------------------------------- 📺 CA Sports  ----------------------------------------
 #EXTINF:-1 tvg-id="TSN.1.ca2" tvg-name="TSN1" tvg-logo="https://i.ibb.co/MyTbNgYX/TSN1.png" group-title="CA Sports" , TSN1 [n/a]
 https://a1xs.vip/6000001
@@ -2200,7 +2275,6 @@ https://a1xs.vip/140003
 #EXTINF:0 group-title="EU Sports"
 
 # # # ---------------------------------------- 📺 World Sports ----------------------------------------
-# # # Collected from https://github.com/k33n26/iptv/blob/master/Sport.m3u
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NMbteWK.png" group-title="World Sports", Arena Premium 1 HD
 http://79.127.207.193:80/ArenaPremium1HD/playlist.m3u8
