@@ -1942,15 +1942,23 @@ https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playl
 #EXTINF:-1 tvg-id="Info.Guide.Dummy.us" tvg-logo="https://i.imgur.com/3XIe0au.png" group-title="UHD | 4K",🌍 Intro 🌍
 https://7pal.short.gy/intro
 
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Main Event UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="UHD | 4K", UK: Sky Sports Main Event UHD [n/a]
-https://a1xs.vip/2000015
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Main Event UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="UHD | 4K", UK: Sky Sports Main Event UHD (as)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527597&extension=ts
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Main Event UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="UHD | 4K", UK: Sky Sports Main Event UHD (7p)
 https://7pal.short.gy/SSMEuhd
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Main Event UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="UHD | 4K", UK: Sky Sports Main Event UHD [n/a]
+https://a1xs.vip/2000015
 
-#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="UK: Sky Sports F1 UHD" tvg-logo="https://i.ibb.co/1tmrNyj9/Sky-Sport-F1-UHD.png" group-title="UHD | 4K",UK: Sky Sports F1 UHD [n/a]
-https://a1xs.vip/2000016
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="UK: Sky Sports News UHD" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="UHD | 4K", UK: Sky Sports News UHD (as)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527598&extension=ts
+
+
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="UK: Sky Sports F1 UHD" tvg-logo="https://i.ibb.co/1tmrNyj9/Sky-Sport-F1-UHD.png" group-title="UHD | 4K",UK: Sky Sports F1 UHD (as)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527595&extension=ts
 #EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="UK: Sky Sports F1 UHD" tvg-logo="https://i.ibb.co/1tmrNyj9/Sky-Sport-F1-UHD.png" group-title="UHD | 4K",UK: Sky Sports F1 UHD (7p)
 https://7pal.short.gy/SSF1uhd
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="UK: Sky Sports F1 UHD" tvg-logo="https://i.ibb.co/1tmrNyj9/Sky-Sport-F1-UHD.png" group-title="UHD | 4K",UK: Sky Sports F1 UHD [n/a]
+https://a1xs.vip/2000016
 
 #EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-name="UK: TNT Sports Ultimate UHD" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="UHD | 4K",UK: TNT Sports Ultimate UHD [n/a]
 https://a1xs.vip/2000031
@@ -2009,11 +2017,14 @@ https://a1xs.vip/1100044
 #EXTINF:0 group-title="EPL"
 
 # # # ------------------------------------- 📺 UK Sports  -------------------------------------
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="UK Sports",Sky Sports Main Event UHD [n/a]
-https://a1xs.vip/2000015
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="UK Sports",Sky Sports Main Event UHD (as)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527596&extension=ts
 
-#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="Sky Sports F1 UHD" tvg-logo="https://i.ibb.co/1tmrNyj9/Sky-Sport-F1-UHD.png" group-title="UK Sports",Sky Sports F1 UHD [n/a]
-https://a1xs.vip/2000016
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="Sky Sports F1 UHD" tvg-logo="https://i.ibb.co/1tmrNyj9/Sky-Sport-F1-UHD.png" group-title="UK Sports",Sky Sports F1 UHD (as)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527595&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports News FHD" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="UK Sports",Sky Sports News UHD (as)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527598&extension=ts
 
 #EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-name="TNT Sports Ultimate UHD" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="UK Sports",TNT Sports Ultimate UHD [n/a]
 https://a1xs.vip/2000031
@@ -2037,11 +2048,11 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527635&exten
 #EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-name="Sky Sports Football FHD" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="UK Sports",Sky Sports Football FHD [n/a]
 https://a1xs.vip/2000003
 
-#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="UK Sports",Sky Sports News FHD (as)
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports News FHD" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="UK Sports",Sky Sports News FHD (as)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527641&extension=ts
-#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="UK Sports",Sky Sports News FHD (ze)
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports News FHD" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="UK Sports",Sky Sports News FHD (ze)
 https://zebua.short.gy/skysportsnews
-#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="UK Sports",Sky Sports News FHD [n/a]
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports News FHD" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="UK Sports",Sky Sports News FHD [n/a]
 https://a1xs.vip/2000004
 
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="UK Sports",Sky Sports F1 FHD (as)
