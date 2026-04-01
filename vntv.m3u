@@ -2044,8 +2044,6 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/58925.ts
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2179
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event FHD" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="UK Sports",Sky Sports Main Event FHD (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2184
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event FHD" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="UK Sports",Sky Sports Main Event FHD (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2185
 
 
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League FHD" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="UK Sports",Sky Sports Premier League FHD (as)
@@ -2075,7 +2073,7 @@ http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527641&extensio
 #EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports News FHD" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="UK Sports",Sky Sports News FHD (ze)
 https://zebua.short.gy/skysportsnews
 #EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports News FHD" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="UK Sports",Sky Sports News FHD (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2196
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2185
 
 #EXTINF:-1 tvg-id="SkySp.Plus.HD.ie" tvg-name="Sky Sports News FHD" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="UK Sports",Sky Sports Plus FHD (k)
 http://kstv.us:8080/Freshcobar23/83261331891/47863
@@ -2321,46 +2319,57 @@ https://a1xs.vip/140003
 
 # # # ---------------------------------------- 📺 World Sports ----------------------------------------
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NMbteWK.png" group-title="World Sports", Arena Premium 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NMbteWK.png" group-title="World Sports", Arena Premium 1 FHD
 http://79.127.207.193:80/ArenaPremium1HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3JVMedy.png" group-title="World Sports", Arena Premium 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3JVMedy.png" group-title="World Sports", Arena Premium 2 FHD
 http://79.127.207.193:80/ArenaPremium2HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WhT78pi.png" group-title="World Sports", Arena Premium 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WhT78pi.png" group-title="World Sports", Arena Premium 3 FHD
 http://79.127.207.193:80/ArenaPremium3HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yrl2rLZ.png" group-title="World Sports", Art Sport 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aWYqu4B.png" group-title="World Sports", Arena Sport 5 FFHD
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/171338.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yrl2rLZ.png" group-title="World Sports", Art Sport 1 FHD
 http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MFPzqSg.png" group-title="World Sports", Art Sport 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MFPzqSg.png" group-title="World Sports", Art Sport 2 FHD
 http://79.127.207.193:80/ArtSport2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IZtzF5n.png" group-title="World Sports", Art Sport 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IZtzF5n.png" group-title="World Sports", Art Sport 3 FHD
 http://79.127.207.193:80/ArtSport3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YKroJkR.png" group-title="World Sports", Art Sport 4 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YKroJkR.png" group-title="World Sports", Art Sport 4 FHD
 http://79.127.207.193:80/ArtSport4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Xh3tZ7F.png" group-title="World Sports", Art Sport 5 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Xh3tZ7F.png" group-title="World Sports", Art Sport 5 FHD
 http://79.127.207.193:80/ArtSport5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OneWQ24.png" group-title="World Sports", Art Sport 6 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OneWQ24.png" group-title="World Sports", Art Sport 6 FHD
 http://79.127.207.193:80/ArtSport6/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VJuwjaD.png" group-title="World Sports", Euro Sport 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VJuwjaD.png" group-title="World Sports", Euro Sport 1 FHD (k)
+http://kstv.us:8080/Freshcobar23/83261331891/47854
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VJuwjaD.png" group-title="World Sports", Euro Sport 1 FHD (k)
+http://kstv.us:8080/Freshcobar23/83261331891/47855
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VJuwjaD.png" group-title="World Sports", Euro Sport 1 FHD (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/911
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VJuwjaD.png" group-title="World Sports", Euro Sport 1 FHD (ip)
 http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3GJzW5W.png" group-title="World Sports", Euro Sport 2 HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3GJzW5W.png" group-title="World Sports", Euro Sport 2 FHD (ip)
 http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xhu0Gqg.png" group-title="World Sports", TVRI Sport HD (ze)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xhu0Gqg.png" group-title="World Sports", TVRI Sport FHD (ze)
 https://zebua.short.gy/tvrisport
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eOlysDj.png" group-title="World Sports", BeIn Sport HD (ze)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eOlysDj.png" group-title="World Sports", BeIn Sport FHD (ze)
 https://zebua.short.gy/beinsports
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ipgmF4F.png" group-title="World Sports", Sports Grid HD (ze)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ipgmF4F.png" group-title="World Sports", Sports Grid FHD (ze)
 https://zebua.short.gy/sportsgrid
 
 #EXTINF:0 group-title="World Sports"
