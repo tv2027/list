@@ -136,6 +136,10 @@ https://vietanh18h1.duckdns.org/tv360/8/index.m3u8
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https%3A%2F%2Flive.fptplay53.net%2Fepzch2%2Fvtv9hd_abr.smil%2Fchunklist.m3u8
 
 
+#EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://i.imgur.com/0DFnQRF.png" , VTV10 (va) (1080p)
+https://vietanh18h1.duckdns.org/tv360/98/index.m3u8
+
+
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://i.imgur.com/p9bWxfm.png" , VietNam Today (1080p)
 https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
 
