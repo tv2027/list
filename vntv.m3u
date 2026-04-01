@@ -2350,16 +2350,16 @@ http://79.127.207.193:80/ArtSport5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OneWQ24.png" group-title="World Sports", Art Sport 6 FHD
 http://79.127.207.193:80/ArtSport6/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VJuwjaD.png" group-title="World Sports", Euro Sport 1 FHD (k)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jP8rw67.png" group-title="World Sports", Euro Sport 1 FHD (k)
 http://kstv.us:8080/Freshcobar23/83261331891/47854
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VJuwjaD.png" group-title="World Sports", Euro Sport 1 FHD (k)
-http://kstv.us:8080/Freshcobar23/83261331891/47855
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VJuwjaD.png" group-title="World Sports", Euro Sport 1 FHD (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/911
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VJuwjaD.png" group-title="World Sports", Euro Sport 1 FHD (ip)
 http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3GJzW5W.png" group-title="World Sports", Euro Sport 2 FHD (k)
+http://kstv.us:8080/Freshcobar23/83261331891/47855
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3GJzW5W.png" group-title="World Sports", Euro Sport 2 FHD (ip)
 http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
 
