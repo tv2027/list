@@ -1937,7 +1937,7 @@ https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playl
 #EXTINF:0 group-title="Quốc Tế"
 # # # -------------------------------------
 
-# # # World Sports Channels. Collected from https://bit.ly/a1xstream, https://7pal.short.gy/sports4kuhd, https://bit.ly/sports4kuhd, Love4vn, k33n26
+# # # World Sports Channels. Collected from https://bit.ly/a1xstream, https://7pal.short.gy/sports4kuhd, https://bit.ly/sports4kuhd, Love4vn, k33n26, vmttv
 # # # ------------------------------------- 📺 UHD | 4K Channels -------------------------------------
 #EXTINF:-1 tvg-id="Info.Guide.Dummy.us" tvg-logo="https://i.imgur.com/3XIe0au.png" group-title="UHD | 4K",🌍 Intro 🌍
 https://7pal.short.gy/intro
@@ -2165,34 +2165,26 @@ http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122034&exten
 #EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 9 FHD (ch)
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122036&extension=ts&play_token=kuZ8wahbOG
 
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 10 FHD (as)
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 10 (as)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170876&extension=ts
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 10 FHD (ch)
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122038&extension=ts&play_token=Pop6uUQR3I
 
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 11 FHD (ch)
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 11 (ch)
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122040&extension=ts&play_token=hTZeyPAfkN
 
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 12 FHD (ch)
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 12 (ch)
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122042&extension=ts&play_token=1MtcjI5wmF
 
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 13 FHD (ch)
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122044&extension=ts&play_token=g168GcxJY4
-
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 14 FHD (ch)
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 14 (ch)
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122046&extension=ts&play_token=ehR6K7NzS8
 
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 15 FHD (ch)
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 15 (ch)
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122048&extension=ts&play_token=jR2N0mt5SZ
 
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 16 FHD (ch)
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 16 (ch)
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122050&extension=ts&play_token=pgbrtZxiUM
 
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 17 FHD (ch)
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 17 (ch)
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122052&extension=ts&play_token=o7h6R125hi
-
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 18 FHD (ch)
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122054&extension=ts&play_token=XPmBZyeTRp
 
 
 #EXTINF:0 group-title="Canal +"
