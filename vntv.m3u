@@ -2140,6 +2140,8 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170884&exten
 #EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 2 FHD (ch)
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122022&extension=ts&play_token=iSj2dolRme
 
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 3 FHD (as)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170883&extension=ts
 #EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 3 FHD (ch)
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122024&extension=ts&play_token=CybqwfSLOa
 
@@ -2148,6 +2150,8 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170882&exten
 #EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 4 FHD (ch)
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122939&extension=ts&play_token=HIEGNfDnjh
 
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 5 FHD (as)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170881&extension=ts
 #EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 5 FHD (ch)
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122028&extension=ts&play_token=kFra0tQEzm
 
@@ -2156,18 +2160,26 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170880&exten
 #EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 6 FHD (ch)
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122030&extension=ts&play_token=JO8O3NwIu3
 
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 7 (as) ?
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170879&extension=ts
 #EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 7 FHD (ch)
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122032&extension=ts&play_token=v6BlP5EabS
 
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 8 (as) ?
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170878&extension=ts
 #EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 8 FHD (ch)
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122034&extension=ts&play_token=x6iYHVWSH9
 
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 9 (as) ?
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170877&extension=ts
 #EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 9 FHD (ch)
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122036&extension=ts&play_token=kuZ8wahbOG
 
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 10 (as)
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 10 (as) ?
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170876&extension=ts
 
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 11 (as) ?
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170875&extension=ts
 #EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 11 (ch)
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122040&extension=ts&play_token=hTZeyPAfkN
 
