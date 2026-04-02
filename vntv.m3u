@@ -1767,14 +1767,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=214
 
 #EXTINF:-1 tvg-id="spotv" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/ijiZ7Px.png" , SPOTV (576p)
 http://iptv.4666888.xyz/iptv2A.php?id=2
-#EXTINF:-1 tvg-id="spotv" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/ijiZ7Px.png" , SPOTV
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 
-#EXTINF:-1 tvg-id="spotv" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/P73CI9H.png" , SPOTV2 (576p)
+#EXTINF:-1 tvg-id="spotv2" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/P73CI9H.png" , SPOTV2 (576p)
 http://iptv.4666888.xyz/iptv2A.php?id=1
-#EXTINF:-1 tvg-id="spotv" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/P73CI9H.png" , SPOTV2
-https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-
 
 
 #EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/nqiVBVM.png", Warner TV HD [?]
@@ -1785,7 +1780,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/GVna9Xn.png", Animal Planet HD [?]
+#EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/GVna9Xn.png", Animal Planet FHD [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1793,7 +1788,7 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="tlchd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Urjj6jJ.png", Travel & Living HD [?]
+#EXTINF:-1 tvg-id="tlchd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Urjj6jJ.png", Travel & Living FHD [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1870,11 +1865,13 @@ https://vietanh18h1.duckdns.org/tv360/32/index.m3u8
 #EXTINF:-1 tvg-id="hitv" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/gMeGXeL.png", HiTV HD (fr) (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=32
 
-#EXTINF:-1 tvg-id="NationalGeographic.in" group-title="Quốc Tế" tvg-name="National Geographic" tvg-logo="https://i.imgur.com/uX9mb3F.png" , Discovery HD (1080p)
+#EXTINF:-1 tvg-id="AnimalPlanet.in" group-title="Quốc Tế" tvg-name="Animal Planet HD" tvg-logo="https://i.imgur.com/GVna9Xn.png", Animal Planet HD (1080p)
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9391
+
+#EXTINF:-1 tvg-id="Discovery.in" group-title="Quốc Tế" tvg-name="Discovery HD" tvg-logo="https://i.imgur.com/uX9mb3F.png" , Discovery HD (1080p)
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9393
 
-
-#EXTINF:-1 tvg-id="NationalGeographic.in" group-title="Quốc Tế" tvg-name="National Geographic" tvg-logo="https://i.imgur.com/WGKJ8Yr.png" , National Geographic HD (1080p)
+#EXTINF:-1 tvg-id="NationalGeographic.in" group-title="Quốc Tế" tvg-name="National Geographic HD" tvg-logo="https://i.imgur.com/WGKJ8Yr.png" , National Geographic HD (1080p)
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9394
 
 #EXTINF:-1 tvg-id="LoveNature.ca" group-title="Quốc Tế" tvg-name="Love Nature" tvg-logo="https://i.imgur.com/Cj5a1JF.png" , Love Nature (4K)
