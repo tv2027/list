@@ -1947,16 +1947,11 @@ https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.ama
 # # # World Sports Channels. Collected from https://bit.ly/a1xstream, https://7pal.short.gy/sports4kuhd, https://bit.ly/sports4kuhd, lamtung16, Love4vn, k33n26, vmttv
 # # # ------------------------------------- 📺 UHD | 4K Channels -------------------------------------
 
-#EXTINF:-1 tvg-id="Now.Sports.Premier.League.1.hk" tvg-name="Now Sports PL 1 FHD" tvg-logo="https://i.imgur.com/TGoqoQx.png" group-title="UHD | 4K" , Now Sports PL 1 UHD (g)
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.1.hk" tvg-name="Now Sports PL 1 FHD" tvg-logo="https://i.imgur.com/TGoqoQx.png" group-title="UHD | 4K" , HK: Now Sports PL 1 UHD (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/50172.ts
-#EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-name="Now Sports PL 2 FHD" tvg-logo="https://i.imgur.com/hS6IPiP.png" group-title="UHD | 4K" , Now Sports PL 2 UHD (g)
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-name="Now Sports PL 2 FHD" tvg-logo="https://i.imgur.com/hS6IPiP.png" group-title="UHD | 4K" , HK: Now Sports PL 2 UHD (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/61688.ts
 
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Event 1 UHD" tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="UHD | 4K", UK: Sky Sports Event 1 UHD (as)
-http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527597&extension=ts
-
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Event 2 UHD" tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="UHD | 4K", UK: Sky Sports Event 2 UHD (as)
-http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527596&extension=ts
 
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Main Event UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="UHD | 4K", UK: Sky Sports Main Event UHD (as)
 http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527598&extension=ts
@@ -1964,6 +1959,13 @@ http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527598&extensio
 https://7pal.short.gy/SSMEuhd
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Main Event UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="UHD | 4K", UK: Sky Sports Main Event UHD [n/a]
 https://a1xs.vip/2000015
+
+
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Event 1 UHD" tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="UHD | 4K", UK: Sky Sports Event 1 UHD (as)
+http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527597&extension=ts
+
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Event 2 UHD" tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="UHD | 4K", UK: Sky Sports Event 2 UHD (as)
+http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527596&extension=ts
 
 
 #EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="UK: Sky Sports F1 UHD" tvg-logo="https://i.ibb.co/1tmrNyj9/Sky-Sport-F1-UHD.png" group-title="UHD | 4K", UK: Sky Sports F1 UHD (g)
@@ -1983,10 +1985,10 @@ https://7pal.short.gy/TNTUltimate
 https://a1xs.vip/2000031
 
 
-#EXTINF:-1 tvg-id="Sportsnet.ca2" tvg-logo="https://i.imgur.com/j8e8Hjo.png" group-title="UHD | 4K", Sportsnet UHD (g)
+#EXTINF:-1 tvg-id="Sportsnet.ca2" tvg-logo="https://i.imgur.com/j8e8Hjo.png" group-title="UHD | 4K", CA: Sportsnet UHD (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/61683.ts
 
-#EXTINF:-1 tvg-id="Sportsnet.One.ca2" tvg-logo="https://i.imgur.com/9N3QiZe.png" group-title="UHD | 4K", Sportsnet One UHD (g)
+#EXTINF:-1 tvg-id="Sportsnet.One.ca2" tvg-logo="https://i.imgur.com/9N3QiZe.png" group-title="UHD | 4K", CA: Sportsnet One UHD (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/61684.ts
 
 
@@ -2008,66 +2010,64 @@ https://7pal.short.gy/nesnuhd
 https://a1xs.vip/4000080
 
 
-#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk" tvg-logo="https://i.postimg.cc/TP5pTkgg/611-e.png" group-title="UHD | 4K" , Now Sports 1 UHD (g)
+#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk" tvg-logo="https://i.postimg.cc/TP5pTkgg/611-e.png" group-title="UHD | 4K" , HK: Now Sports 1 UHD (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/61689.ts
-#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk" tvg-logo="https://i.postimg.cc/TP5pTkgg/611-e.png" group-title="UHD | 4K" , Now Sports 1 4k (7p) [n/a]
+#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk" tvg-logo="https://i.postimg.cc/TP5pTkgg/611-e.png" group-title="UHD | 4K" , HK: Now Sports 1 4k (7p) [n/a]
 https://7pal.short.gy/nowsport4k
 
 
-#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://i.imgur.com/SM7GQAM.png" group-title="UHD | 4K" , Hub Premier 2 UHD (7p)
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://i.imgur.com/SM7GQAM.png" group-title="UHD | 4K" , SG: Hub Premier 2 UHD (7p)
 https://7pal.short.gy/HubP2uhd
-
 
 #EXTINF:-1 tvg-id="4k_DIGITAL_Mono_EN.bein" tvg-logo="https://i.imgur.com/eb3S5pZ.png" group-title="UHD | 4K", beIN 4K (7p)
 https://7pal.short.gy/bein-uhd
 
-
-#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/PUaJPaE.png" group-title="UHD | 4K", ElevenSport1 4K (7p)
+#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/PUaJPaE.png" group-title="UHD | 4K", PL: ElevenSport1 4K (7p)
 https://7pal.short.gy/11sports1
 
-
-#EXTINF:-1 tvg-id="Sport.5.4K.il" tvg-logo="https://i.imgur.com/I0FDJGL.png" group-title="UHD | 4K", Sport5 4K (7p)
+#EXTINF:-1 tvg-id="Sport.5.4K.il" tvg-logo="https://i.imgur.com/I0FDJGL.png" group-title="UHD | 4K", Sport5 4K IL: (7p)
 
 
 #EXTINF:0 group-title="UHD | 4K"
 
 # # # -------------------------------------  ⚽️ EPL  -------------------------------------
-#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk" tvg-name="Now Sports PL 1 FHD" tvg-logo="https://i.imgur.com/TGoqoQx.png" group-title="EPL" , Now Sports PL 1 UHD (g)
+#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk" tvg-name="Now Sports PL 1 FHD" tvg-logo="https://i.imgur.com/TGoqoQx.png" group-title="EPL" , HK: Now Sports PL 1 UHD (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/50172.ts
-#EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-name="Now Sports PL 2 FHD" tvg-logo="https://i.imgur.com/hS6IPiP.png" group-title="EPL" , Now Sports PL 2 UHD (g)
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-name="Now Sports PL 2 FHD" tvg-logo="https://i.imgur.com/hS6IPiP.png" group-title="EPL" , HK: Now Sports PL 2 UHD (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/61688.ts
+#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk" tvg-logo="https://i.postimg.cc/TP5pTkgg/611-e.png" group-title="EPL" , HK: Now Sports 1 UHD (g)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/61689.ts
 
-
-#EXTINF:-1 tvg-id="Astro.Premier.League.2.my" tvg-name="Astro Premier League 2" tvg-logo="https://i.imgur.com/X5fichT.png" group-title="EPL", Astro Premier League 2 (a1) [n/a]
+#EXTINF:-1 tvg-id="Astro.Premier.League.2.my" tvg-name="Astro Premier League 2" tvg-logo="https://i.imgur.com/X5fichT.png" group-title="EPL", MY: Astro Premier League 2 (a1) [n/a]
 https://a1xs.vip/1100031
-#EXTINF:-1 tvg-id="Astro.Premier.League.3.my" tvg-name="Astro Grandstand" tvg-logo="https://i.imgur.com/QjAo2JG.png" group-title="EPL", Astro Grandstand [n/a]
+#EXTINF:-1 tvg-id="Astro.Premier.League.3.my" tvg-name="Astro Grandstand" tvg-logo="https://i.imgur.com/QjAo2JG.png" group-title="EPL", MY: Astro Grandstand [n/a]
 https://a1xs.vip/1100032
 
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network FHD" tvg-logo="https://i.imgur.com/1lFfKR4.png" group-title="EPL", USA Network FHD (ks)
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network FHD" tvg-logo="https://i.imgur.com/1lFfKR4.png" group-title="EPL", US: USA Network FHD (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/15905
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network FHD" tvg-logo="https://i.imgur.com/1lFfKR4.png" group-title="EPL", USA Network FHD (g)
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network FHD" tvg-logo="https://i.imgur.com/1lFfKR4.png" group-title="EPL", US: USA Network FHD (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/43964.ts
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network FHD" tvg-logo="https://i.imgur.com/1lFfKR4.png" group-title="EPL", USA Network FHD (a1) [n/a]
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network FHD" tvg-logo="https://i.imgur.com/1lFfKR4.png" group-title="EPL", US: USA Network FHD (a1) [n/a]
 https://a1xs.vip/1100020
 
-#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://i.imgur.com/v0mKVGU.png" group-title="EPL", Hub Premier 1 HD (g)
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://i.imgur.com/v0mKVGU.png" group-title="EPL", SG: Hub Premier 1 HD (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/57435.ts
-#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-name="Hub Premier 2 FHD" tvg-logo="https://i.imgur.com/SM7GQAM.png" group-title="EPL", Hub Premier 2 FHD (g)
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-name="Hub Premier 2 FHD" tvg-logo="https://i.imgur.com/SM7GQAM.png" group-title="EPL", SG: Hub Premier 2 FHD (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/57436.ts
 
-#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-name="Hub Premier 3 FHD" tvg-logo="https://i.imgur.com/neZXR5T.png" group-title="EPL", Hub Premier 3 FHD (g)
+#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-name="Hub Premier 3 FHD" tvg-logo="https://i.imgur.com/neZXR5T.png" group-title="EPL", SG: Hub Premier 3 FHD (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/57437.ts
-#EXTINF:-1 tvg-id="Hub.Premier.4.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://i.imgur.com/Ft8xVJ0.png" group-title="EPL", Hub Premier 4 FHD (g)
+#EXTINF:-1 tvg-id="Hub.Premier.4.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://i.imgur.com/Ft8xVJ0.png" group-title="EPL", SG: Hub Premier 4 FHD (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/57438.ts
-#EXTINF:-1 tvg-id="Hub.Premier.5.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://i.imgur.com/XhX3oUI.png" group-title="EPL", Hub Premier 5 FHD (g)
+#EXTINF:-1 tvg-id="Hub.Premier.5.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://i.imgur.com/XhX3oUI.png" group-title="EPL", SG: Hub Premier 5 FHD (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/57439.ts
-#EXTINF:-1 tvg-id="Hub.Premier.6.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://i.imgur.com/9F7wNgI.png" group-title="EPL", Hub Premier 6 FHD (g)
+#EXTINF:-1 tvg-id="Hub.Premier.6.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://i.imgur.com/9F7wNgI.png" group-title="EPL", SG: Hub Premier 6 FHD (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/57440.ts
-#EXTINF:-1 tvg-id="Hub.Premier.7.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://i.imgur.com/bVOyKEV.png" group-title="EPL", Hub Premier 7 FHD (g)
+#EXTINF:-1 tvg-id="Hub.Premier.7.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://i.imgur.com/bVOyKEV.png" group-title="EPL", SG: Hub Premier 7 FHD (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/57441.ts
-#EXTINF:-1 tvg-id="Hub.Premier.8.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://i.imgur.com/stYijJ1.png" group-title="EPL", Hub Premier 8 FHD (g)
+#EXTINF:-1 tvg-id="Hub.Premier.8.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://i.imgur.com/stYijJ1.png" group-title="EPL", SG: Hub Premier 8 FHD (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/57442.ts
-#EXTINF:-1 tvg-id="Hub.Premier.11.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://i.imgur.com/l0rGLan.png" group-title="EPL", Hub Premier 11 FHD (g)
+#EXTINF:-1 tvg-id="Hub.Premier.11.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://i.imgur.com/l0rGLan.png" group-title="EPL", SG: Hub Premier 11 FHD (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/57445.ts
 
 #EXTINF:0 group-title="EPL"
@@ -2082,10 +2082,10 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/61668.ts
 #EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="Sky Sports F1 UHD" tvg-logo="https://i.ibb.co/1tmrNyj9/Sky-Sport-F1-UHD.png" group-title="Sky Sports", UK: Sky Sports F1 UHD (as)
 http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527595&extension=ts
 
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Event 1 UHD" tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="UHD | 4K", UK: Sky Sports Event 1 UHD (as)
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Event 1 UHD" tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="Sky Sports", UK: Sky Sports Now 1 UHD (as)
 http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527597&extension=ts
 
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Event 2 UHD" tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="UHD | 4K", UK: Sky Sports Event 2 UHD (as)
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Event 2 UHD" tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="Sky Sports", UK: Sky Sports Now 2 UHD (as)
 http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527596&extension=ts
 
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event FHD" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="Sky Sports", Sky Sports Main Event FHD (as)
@@ -2579,6 +2579,96 @@ http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122052&exten
 
 #EXTINF:0 group-title="Canal +"
 
+# # # ---------------------------------------- 📺 Eurosport  ----------------------------------------
+
+#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", Eurosport 1 UK FHD (ip)
+http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", Eurosport 1 UK FHD (k)
+http://kstv.us:8080/Freshcobar23/83261331891/47854
+
+#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", Eurosport 1 UK (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2286
+
+#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", Eurosport 1 UK (b)
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19432/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", Eurosport 1 UK (b)
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/228/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", Eurosport 1 UK (b)
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/5075/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport.1.HD.pt" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", Eurosport 1 PT (k)
+http://kstv.us:8080/Freshcobar23/83261331891/48449
+
+#EXTINF:-1 tvg-id="Eurosport.1.HD.pt" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", Eurosport 1 PT (g)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/60001.ts
+
+#EXTINF:-1 tvg-id="Eurosport.1.HD.pt" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", Eurosport 1 PT FHD (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/911
+
+
+#EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", Eurosport 2 UK FHD (ip)
+http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", Eurosport 2 UK FHD (k)
+http://kstv.us:8080/Freshcobar23/83261331891/47855
+
+#EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", Eurosport 2 UK (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2285
+
+#EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", Eurosport 2 UK (b)
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19431/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", Eurosport 2 UK (b)
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/234/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", Eurosport 2 UK (b)
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/5076/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport.2.HD.pt" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", Eurosport 2 PT (k)
+http://kstv.us:8080/Freshcobar23/83261331891/48450
+
+#EXTINF:-1 tvg-id="Eurosport.2.HD.pt" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", Eurosport 2 PT (g)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/60002.ts
+
+#EXTINF:-1 tvg-id="Eurosport.2.HD.pt" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", Eurosport 2 PT SD (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/910
+
+#EXTINF:0 group-title="Eurosport"
+
+# # # ---------------------------------------- 📺 Tennis  ----------------------------------------
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis" tvg-logo="https://i.imgur.com/LP0kWWX.png", Tennis Channel (k)
+http://kstv.us:8080/Freshcobar23/83261331891/22467
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis" tvg-logo="https://i.imgur.com/LP0kWWX.png", Tennis Channel (k)
+http://kstv.us:8080/Freshcobar23/83261331891/15940
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis" tvg-logo="https://i.imgur.com/LP0kWWX.png", Tennis Channel (g)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/43978.ts
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis" tvg-logo="https://i.imgur.com/LP0kWWX.png", Tennis Channel (g)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/20970.ts
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis" tvg-logo="https://i.imgur.com/LP0kWWX.png", Tennis Channel (x)
+http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/20184
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis" tvg-logo="https://i.imgur.com/LP0kWWX.png", Tennis Channel (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2386
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis" tvg-logo="https://i.imgur.com/LP0kWWX.png", Tennis Channel (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/21607
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis" tvg-logo="https://i.imgur.com/LP0kWWX.png", Tennis Channel (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/3762
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis" tvg-logo="https://i.imgur.com/LP0kWWX.png", Tennis Channel (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/3685
+
+#EXTINF:0 group-title="Tennis"
+
 # # # ---------------------------------------- 📺 Sportsnet  ----------------------------------------
 #EXTINF:-1 tvg-id="Sportsnet.ca2" group-title="Sportsnet" tvg-logo="https://i.imgur.com/j8e8Hjo.png", Sportsnet UHD (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/61683.ts
@@ -2722,18 +2812,6 @@ http://79.127.207.193:80/ArtSport5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OneWQ24.png" group-title="World Sports", Art Sport 6 FHD
 http://79.127.207.193:80/ArtSport6/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/36EL7oi.png" group-title="World Sports", Euro Sport 1 FHD (ks)
-http://kstv.us:8080/Freshcobar23/83261331891/47854
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/36EL7oi.png" group-title="World Sports", Euro Sport 1 FHD (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/911
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/36EL7oi.png" group-title="World Sports", Euro Sport 1 FHD (ip)
-http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/u7QrAyh.png" group-title="World Sports", Euro Sport 2 FHD (ks)
-http://kstv.us:8080/Freshcobar23/83261331891/47855
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/u7QrAyh.png" group-title="World Sports", Euro Sport 2 FHD (ip)
-http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xhu0Gqg.png" group-title="World Sports", TVRI Sport FHD (ze)
 https://zebua.short.gy/tvrisport
