@@ -1971,11 +1971,12 @@ http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527596&extensio
 
 #EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="UK: Sky Sports F1 UHD" tvg-logo="https://i.ibb.co/1tmrNyj9/Sky-Sport-F1-UHD.png" group-title="UHD | 4K", UK: Sky Sports F1 UHD 50fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/61668.ts
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="UK: Sky Sports F1 UHD" tvg-logo="https://i.ibb.co/1tmrNyj9/Sky-Sport-F1-UHD.png" group-title="UHD | 4K", UK: Sky Sports F1 UHD 50fps (g)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/59264.ts
 #EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="UK: Sky Sports F1 UHD" tvg-logo="https://i.ibb.co/1tmrNyj9/Sky-Sport-F1-UHD.png" group-title="UHD | 4K", UK: Sky Sports F1 UHD 50fps (as)
 http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527595&extension=ts
 
-
-#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-name="UK: TNT Sports 5 UHD" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="UHD | 4K", UK: TNT Sports 5 UHD 60fps (g)
+#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="UHD | 4K" tvg-logo="https://i.imgur.com/3QnA16Y.png", CA: TSN 5 UHD 60fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/61686.ts
 
 
