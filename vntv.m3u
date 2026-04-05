@@ -1954,10 +1954,8 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/61688.ts
 
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.HD.ie" tvg-logo="https://i.imgur.com/UlwVQr4.png" group-title="UHD | 4K", IE: Sky Sports Main Event UHD 50fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/59265.ts
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Main Event UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="UHD | 4K", UK: Sky Sports Main Event UHD 50fps (as)
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.HD.ie" tvg-name="UK: Sky Sports Main Event UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="UHD | 4K", UK: Sky Sports Main Event UHD 50fps (as)
 http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527598&extension=ts
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Main Event UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="UHD | 4K", UK: Sky Sports Main Event UHD (7p) [n/a]
-https://7pal.short.gy/SSMEuhd
 
 
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Event 1 UHD" tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="UHD | 4K", UK: Sky Sports Now Event 1 UHD 50fps (g)
@@ -2285,10 +2283,6 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/16549.ts
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/57420.ts
 
 
-#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-name="UK: TNT Sports 5 UHD" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="TNT Sports" , UK: TNT Sports 5 UHD 60fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/61686.ts
-
-
 #EXTINF:0 group-title="TNT Sports"
 
 # # # ---------------------------------------- 📺 USA Network  ----------------------------------------
@@ -2313,31 +2307,34 @@ http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31124/index.m3u8
 #EXTINF:0 group-title="USA Network"
 
 # # # ---------------------------------------- 📺 Setanta Sports ----------------------------------------
-
-#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", Setanta Sports 1 (b)
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6541/index.m3u8
-#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", Setanta Sports 1 (b)
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6543/index.m3u8
-#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", Setanta Sports 1 (b)
+#EXTINF:-1 tvg-id="Setanta.Sports.HD.ua" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/fLgsVsj.png", UA: Setanta Sports FHD 50fps (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/15183/index.m3u8
-#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", Setanta Sports 1 (b)
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/20065/index.m3u8
-#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", Setanta Sports 1 (b)
+#EXTINF:-1 tvg-id="Setanta.Sports.HD.ua" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/fLgsVsj.png", UA: Setanta Sports FHD 50fps (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31755/index.m3u8
-#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", Setanta Sports 1 (b)
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/271/index.m3u8
-#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", Setanta Sports 1 (b)
+#EXTINF:-1 tvg-id="Setanta.Sports.HD.ua" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/fLgsVsj.png", UA: Setanta Sports FHD 25fps (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/272/index.m3u8
-#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", Setanta Sports 1 (b)
+
+#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.ua" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", UA: Setanta Sports 1 FHD 50fps (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/5069/index.m3u8
 
-
-#EXTINF:-1 tvg-id="Setanta.Sports.2.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/ZGsNPOZ.png", Setanta Sports 2 (b)
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6542/index.m3u8
-#EXTINF:-1 tvg-id="Setanta.Sports.2.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/ZGsNPOZ.png", Setanta Sports 2 (b)
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6544/index.m3u8
-#EXTINF:-1 tvg-id="Setanta.Sports.2.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/ZGsNPOZ.png", Setanta Sports 2 (b)
+#EXTINF:-1 tvg-id="Setanta.Sports.2.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/ZGsNPOZ.png", Setanta Sports 2 FHD 25fps (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/270/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", Setanta Sports 1 FHD 60fps (b)
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/20065/index.m3u8
+#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", Setanta Sports 1 FHD 25fps (b)
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6541/index.m3u8
+#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", Setanta Sports 1 FHD 25fps (b)
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/271/index.m3u8
+#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", Setanta Sports 1 SD 25fps (b)
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6543/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Setanta.Sports.2.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/ZGsNPOZ.png", Setanta Sports 2 FHD 25fps (b)
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6542/index.m3u8
+#EXTINF:-1 tvg-id="Setanta.Sports.2.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/ZGsNPOZ.png", Setanta Sports 2 SD 25fps (b)
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6544/index.m3u8
 
 
 #EXTINF:0 group-title="Setanta Sports"
@@ -2410,7 +2407,8 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/3143
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="TSN Sports" tvg-logo="https://i.imgur.com/zGQkRKW.png", TSN 4 (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6445/index.m3u8
 
-
+#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="TNT Sports" tvg-logo="https://i.imgur.com/3QnA16Y.png", CA: TSN 5 UHD 60fps (g)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/61686.ts
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="TSN Sports" tvg-logo="https://i.imgur.com/3QnA16Y.png", TSN 5 (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/15925
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="TSN Sports" tvg-logo="https://i.imgur.com/3QnA16Y.png", TSN 5 (ks)
