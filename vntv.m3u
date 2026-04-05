@@ -1952,16 +1952,21 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/50172.ts
 #EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-name="Now Sports PL 2 FHD" tvg-logo="https://i.imgur.com/hS6IPiP.png" group-title="UHD | 4K" , HK: Now Sports PL 2 UHD 50fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/61688.ts
 
-
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.HD.ie" tvg-logo="https://i.imgur.com/UlwVQr4.png" group-title="UHD | 4K", IE: Sky Sports Main Event UHD 50fps (g)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/59265.ts
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Main Event UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="UHD | 4K", UK: Sky Sports Main Event UHD 50fps (as)
 http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527598&extension=ts
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Main Event UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="UHD | 4K", UK: Sky Sports Main Event UHD (7p) [n/a]
 https://7pal.short.gy/SSMEuhd
 
 
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Event 1 UHD" tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="UHD | 4K", UK: Sky Sports Now Event 1 UHD 50fps (g)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/59263.ts
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Event 1 UHD" tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="UHD | 4K", UK: Sky Sports Now Event 1 UHD 50fps (as)
 http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527597&extension=ts
 
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Event 2 UHD" tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="UHD | 4K", UK: Sky Sports Now Event 2 UHD 50fps (g)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/59262.ts
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Event 2 UHD" tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="UHD | 4K", UK: Sky Sports Now Event 2 UHD 50fps (as)
 http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527596&extension=ts
 
@@ -2026,65 +2031,93 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/57445.ts
 #EXTINF:0 group-title="EPL"
 
 # # # ------------------------------------- 📺 Sky Sports  -------------------------------------
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.HD.ie" group-title="Sky Sports" tvg-logo="https://i.imgur.com/UlwVQr4.png", IE: Sky Sports Main Event UHD 50fps (g)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/59265.ts
+
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="Sky Sports" , UK: Sky Sports Main Event UHD 50fps (as)
 http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527598&extension=ts
 
 #EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="UK: Sky Sports F1 UHD" tvg-logo="https://i.ibb.co/1tmrNyj9/Sky-Sport-F1-UHD.png" group-title="Sky Sports", UK: Sky Sports F1 UHD 50fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/61668.ts
-
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="UK: Sky Sports F1 UHD" tvg-logo="https://i.ibb.co/1tmrNyj9/Sky-Sport-F1-UHD.png" group-title="Sky Sports", UK: Sky Sports F1 UHD 50fps (g)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/59264.ts
 #EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="Sky Sports F1 UHD" tvg-logo="https://i.ibb.co/1tmrNyj9/Sky-Sport-F1-UHD.png" group-title="Sky Sports", UK: Sky Sports F1 UHD 50fps (as)
 http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527595&extension=ts
 
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="UHD | 4K", UK: Sky Sports Now Event 1 UHD 50fps (g)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/59263.ts
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Event 1 UHD" tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="Sky Sports", UK: Sky Sports Now 1 UHD 50fps (as)
 http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527597&extension=ts
 
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="UHD | 4K", UK: Sky Sports Now Event 2 UHD 50fps (g)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/59262.ts
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Event 2 UHD" tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="Sky Sports", UK: Sky Sports Now 2 UHD 50fps (as)
 http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527596&extension=ts
 
+
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event FHD" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="Sky Sports", Sky Sports Main Event FHD 50fps (g)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/58925.ts
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.HD.ie" tvg-name="Sky Sports Main Event FHD" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="Sky Sports", Sky Sports Main Event FHD 50fps (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2184
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.HD.ie" tvg-name="Sky Sports Main Event FHD" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="Sky Sports", Sky Sports Main Event FHD 50fps (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2185
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event FHD" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="Sky Sports", Sky Sports Main Event FHD 50fps (as)
 http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527639&extension=ts
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event FHD" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="Sky Sports", Sky Sports Main Event FHD 50fps (ze)
 https://zebua.short.gy/skysportsmainevent
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.HD.ie" tvg-name="Sky Sports Main Event FHD" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="Sky Sports", Sky Sports Main Event FHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/58925.ts
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.HD.ie" tvg-name="Sky Sports Main Event FHD" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="Sky Sports", Sky Sports Main Event FHD 50fps (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2184
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.HD.ie" tvg-name="Sky Sports Main Event FHD" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="Sky Sports", Sky Sports Main Event FHD 25fps (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2185
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.HD.ie" group-title="Sky Sports" tvg-logo="https://i.imgur.com/UlwVQr4.png", Sky Sports Main Event FHD 25fps (k)
+http://kstv.us:8080/Freshcobar23/83261331891/47868
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Sky Sports" tvg-logo="https://i.imgur.com/UlwVQr4.png", Sky Sports Main Event FHD 30fps (b) ?
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/9308/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Sky Sports" tvg-logo="https://i.imgur.com/UlwVQr4.png", Sky Sports Main Event FHD 30fps (b) ?
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/7337/index.m3u8
 
 
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League FHD" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="Sky Sports", Sky Sports Premier League FHD 50fps (g)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/58924.ts
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League FHD" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="Sky Sports", Sky Sports Premier League FHD 50fps (as)
 http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527637&extension=ts
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League FHD" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="Sky Sports", Sky Sports Premier League FHD 50fps (ze)
 https://zebua.short.gy/skysportspremierleague
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League FHD" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="Sky Sports", Sky Sports Premier League FHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/58924.ts
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League FHD" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="Sky Sports", Sky Sports Premier League FHD 50fps (r)
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.HD.ie" tvg-name="Sky Sports Premier League FHD" tvg-logo="https://i.imgur.com/jUNWDBA.png" group-title="Sky Sports", Sky Sports Premier League FHD 50fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2181
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League FHD" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="Sky Sports", Sky Sports Premier League FHD 50fps (r)
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.HD.ie" tvg-name="Sky Sports Premier League FHD" tvg-logo="https://i.imgur.com/jUNWDBA.png" group-title="Sky Sports", Sky Sports Premier League FHD 50fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2182
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League FHD" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="Sky Sports", Sky Sports Premier League FHD 50fps (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/47871
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Sky Sports" tvg-logo="https://i.imgur.com/jUNWDBA.png", Sky Sports Premier League FHD 25fps (g)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/16559.ts
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.HD.ie" group-title="Sky Sports" tvg-logo="https://i.imgur.com/jUNWDBA.png", Sky Sports Premier League FHD 30fps (b)
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/9334/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Sky Sports" tvg-logo="https://i.imgur.com/jUNWDBA.png", Sky Sports Premier League FHD 30fps (b)
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/7335/index.m3u8
 
 
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.ie" tvg-name="Sky Sports Football FHD" tvg-logo="https://i.imgur.com/0T40zcs.png" group-title="Sky Sports", Sky Sports Football FHD 50fps (g)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/58923.ts
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.ie" tvg-name="Sky Sports Football FHD" tvg-logo="https://i.imgur.com/0T40zcs.png" group-title="Sky Sports", Sky Sports Football FHD 50fps (ks)
+http://kstv.us:8080/Freshcobar23/83261331891/47866
 #EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-name="Sky Sports Football FHD" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="Sky Sports", Sky Sports Football FHD 50fps (as)
 http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527635&extension=ts
-#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-name="Sky Sports Football FHD" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="Sky Sports", Sky Sports Football FHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/58923.ts
-#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-name="Sky Sports Football FHD" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="Sky Sports", Sky Sports Football FHD 50fps (ks)
-http://kstv.us:8080/Freshcobar23/83261331891/47866
 #EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-name="Sky Sports Football FHD" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="Sky Sports", Sky Sports Football FHD 25fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2188
 #EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-name="Sky Sports Football FHD" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="Sky Sports", Sky Sports Football FHD 25fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/30822
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.ie" group-title="Sky Sports" tvg-logo="https://i.imgur.com/0T40zcs.png", Sky Sports Football FHD 25fps (g)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/48551.ts
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.ie" group-title="Sky Sports" tvg-logo="https://i.imgur.com/0T40zcs.png", Sky Sports Football FHD 30fps (b)
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/9289/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.ie" group-title="Sky Sports" tvg-logo="https://i.imgur.com/0T40zcs.png", Sky Sports Football FHD 30fps (b)
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/7336/index.m3u8
 
 
 #EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports News FHD" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="Sky Sports", Sky Sports News FHD 50fps (as)
 http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527641&extension=ts
 #EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports News FHD" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="Sky Sports", Sky Sports News FHD 25fps (ze)
 https://zebua.short.gy/skysportsnews
-#EXTINF:-1 tvg-id="Sky.Sports.News.HD.ie" tvg-name="Sky Sports News FHD" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="Sky Sports", Sky Sports News FHD  25fps (r)
+#EXTINF:-1 tvg-id="Sky.Sports.News.HD.ie" tvg-name="Sky Sports News FHD" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="Sky Sports", Sky Sports News FHD 25fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2179
+
 
 #EXTINF:-1 tvg-id="SkySp.Plus.HD.ie" tvg-name="Sky Sports News FHD" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="Sky Sports", Sky Sports Plus FHD (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/47863
@@ -2094,6 +2127,8 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/2193
 
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sky Sports", Sky Sports F1 FHD 50fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/61670.ts
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sky Sports", Sky Sports F1 FHD 50fps (ks)
+http://kstv.us:8080/Freshcobar23/83261331891/47865
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sky Sports", Sky Sports F1 FHD 50fps (as)
 http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527633&extension=ts
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sky Sports", Sky Sports F1 FHD 50fps (ze)
@@ -2102,8 +2137,7 @@ https://zebua.short.gy/skysportsf1
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2189
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sky Sports", Sky Sports F1 FHD 50fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2190
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sky Sports", Sky Sports F1 FHD 50fps (ks)
-http://kstv.us:8080/Freshcobar23/83261331891/47865
+
 
 #EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-name="Sky Sports Cricket FHD" tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="Sky Sports", Sky Sports Cricket FHD (as)
 http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527626&extension=ts
@@ -2114,6 +2148,7 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/2192
 #EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-name="Sky Sports Cricket FHD" tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="Sky Sports", Sky Sports Cricket FHD (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/47864
 
+
 #EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-name="Sky Sports Mix FHD" tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="Sky Sports", Sky Sports Mix FHD (as)
 http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527621&extension=ts
 #EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-name="Sky Sports Mix FHD" tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="Sky Sports", Sky Sports Mix FHD (ze)
@@ -2123,22 +2158,25 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/2180
 #EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-name="Sky Sports Mix FHD" tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="Sky Sports", Sky Sports Mix FHD (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/47869
 
-#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-name="Sky Sports Golf FHD" tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png" group-title="Sky Sports", Sky Sports Golf FHD (as)
-http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527623&extension=ts
+
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-name="Sky Sports Golf FHD" tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png" group-title="Sky Sports", Sky Sports Golf FHD (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/47867
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-name="Sky Sports Golf FHD" tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png" group-title="Sky Sports", Sky Sports Golf FHD (as)
+http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527623&extension=ts
 
 #EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-name="Sky Sports Racing FHD" tvg-logo="https://i.ibb.co/Hnp1hBz/sky-racing.png" group-title="Sky Sports", Sky Sports Racing FHD (as)
 http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527631&extension=ts
 
+
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-name="Sky Sports Action FHD" tvg-logo="https://i.ibb.co/VqtQrDq/sky-action.png" group-title="Sky Sports", Sky Sports Action FHD (ks)
+http://kstv.us:8080/Freshcobar23/83261331891/47860
 #EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-name="Sky Sports Action FHD" tvg-logo="https://i.ibb.co/VqtQrDq/sky-action.png" group-title="Sky Sports", Sky Sports Action FHD (as)
 http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527627&extension=ts
 #EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-name="Sky Sports Action FHD" tvg-logo="https://i.ibb.co/VqtQrDq/sky-action.png" group-title="Sky Sports", Sky Sports Action FHD (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2194
 #EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-name="Sky Sports Action FHD" tvg-logo="https://i.ibb.co/VqtQrDq/sky-action.png" group-title="Sky Sports", Sky Sports Action FHD (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2195
-#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-name="Sky Sports Action FHD" tvg-logo="https://i.ibb.co/VqtQrDq/sky-action.png" group-title="Sky Sports", Sky Sports Action FHD (ks)
-http://kstv.us:8080/Freshcobar23/83261331891/47860
+
 
 #EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-name="Sky Sports Tennis FHD" tvg-logo="https://i.ibb.co/kVtPg1F5/Sky-Sports-Tennis.png" group-title="Sky Sports", Sky Sports Tennis FHD (as)
 http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527629&extension=ts
