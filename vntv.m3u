@@ -1988,6 +1988,8 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/61684.ts
 #EXTINF:-1 tvg-id="Now.Sports.4K.1.hk" tvg-logo="https://i.postimg.cc/TP5pTkgg/611-e.png" group-title="UHD | 4K" , HK: Now Sports 1 UHD 50fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/61689.ts
 
+#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/PUaJPaE.png" group-title="UHD | 4K", PL: ElevenSport1 4K (cb)
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/20068/index.m3u8
 
 #EXTINF:0 group-title="UHD | 4K"
 
@@ -2117,9 +2119,9 @@ https://zebua.short.gy/skysportsnews
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2179
 
 
-#EXTINF:-1 tvg-id="SkySp.Plus.HD.ie" tvg-name="Sky Sports News FHD" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="Sky Sports", Sky Sports Plus FHD (ks)
+#EXTINF:-1 tvg-id="Sky.Sports.Plus.HD.ie" tvg-name="Sky Sports News FHD" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="Sky Sports", Sky Sports Plus FHD (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/47863
-#EXTINF:-1 tvg-id="SkySp.Plus.HD.ie" tvg-name="Sky Sports News FHD" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="Sky Sports", Sky Sports Plus FHD (r)
+#EXTINF:-1 tvg-id="Sky.Sports.Plus.HD.ie" tvg-name="Sky Sports News FHD" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="Sky Sports", Sky Sports Plus FHD (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2193
 
 
@@ -2314,11 +2316,8 @@ http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31755/index.m3u8
 #EXTINF:-1 tvg-id="Setanta.Sports.HD.ua" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/fLgsVsj.png", UA: Setanta Sports FHD 25fps (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/272/index.m3u8
 
-#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.ua" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", UA: Setanta Sports 1 FHD 50fps (b)
+#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", UA: Setanta Sports 1 FHD 50fps (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/5069/index.m3u8
-
-#EXTINF:-1 tvg-id="Setanta.Sports.2.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/ZGsNPOZ.png", Setanta Sports 2 FHD 25fps (b)
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/270/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", Setanta Sports 1 FHD 60fps (b)
@@ -2327,14 +2326,12 @@ http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/20065/index.m3u8
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6541/index.m3u8
 #EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", Setanta Sports 1 FHD 25fps (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/271/index.m3u8
-#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", Setanta Sports 1 SD 25fps (b)
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6543/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Setanta.Sports.2.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/ZGsNPOZ.png", Setanta Sports 2 FHD 25fps (b)
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/270/index.m3u8
+#EXTINF:-1 tvg-id="Setanta.Sports.2.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/ZGsNPOZ.png", Setanta Sports 2 FHD 25fps (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6542/index.m3u8
-#EXTINF:-1 tvg-id="Setanta.Sports.2.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/ZGsNPOZ.png", Setanta Sports 2 SD 25fps (b)
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6544/index.m3u8
 
 
 #EXTINF:0 group-title="Setanta Sports"
@@ -2604,8 +2601,8 @@ http://kstv.us:8080/Freshcobar23/83261331891/48450
 #EXTINF:-1 tvg-id="Eurosport.2.HD.pt" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", PT: Eurosport 2 (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/60002.ts
 
-#EXTINF:-1 tvg-id="Eurosport.2.HD.pt" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", PT: Eurosport 2 SD (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/910
+#EXTINF:-1 tvg-id="Eurosport.2.HD.pt" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", PT: Eurosport 2 FHD 25fps (b)
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/20066/index.m3u8
 
 #EXTINF:0 group-title="Eurosport"
 
