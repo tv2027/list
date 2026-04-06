@@ -799,18 +799,33 @@ https://liveh34byt.vtvprime.vn/hls/SKSS6/index.m3u8
 
 #EXTINF:-1 group-title="Sự Kiện FPT Play" group-logo="https://i.imgur.com/OX4bTBg.png" tvg-logo="https://i.imgur.com/OX4bTBg.png", FPT Play 1 (1080p50)
 https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT Play" group-logo="https://i.imgur.com/OX4bTBg.png" tvg-logo="https://i.imgur.com/OX4bTBg.png", FPT Play 1 UHD
+https://live.fptplay53.net/live/media/su-kien-01-4k/hls_avc_v6/index.m3u8
+
+#EXTINF:-1 group-title="Sự Kiện FPT Play" tvg-logo="https://i.imgur.com/OX4bTBg.png", FPT Play 1 (e) (1080p50)
+https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT Play" tvg-logo="https://i.imgur.com/OX4bTBg.png", FPT Play 1 (e) UHD
+https://live.fptplay53.net/live/media/event-01-4k/hls_avc_v6/index.m3u8
 
 #EXTINF:-1 group-title="Sự Kiện FPT Play" tvg-logo="https://i.imgur.com/OX4bTBg.png", FPT Play 2 (1080p50)
 https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT Play" tvg-logo="https://i.imgur.com/OX4bTBg.png", FPT Play 2 (e) (1080p50)
+https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
 
 #EXTINF:-1 group-title="Sự Kiện FPT Play" tvg-logo="https://i.imgur.com/OX4bTBg.png", FPT Play 3 (1080p50)
 https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT Play" tvg-logo="https://i.imgur.com/OX4bTBg.png", FPT Play 3 (e) (1080p50)
+https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
 
 #EXTINF:-1 group-title="Sự Kiện FPT Play" tvg-logo="https://i.imgur.com/OX4bTBg.png", FPT Play 4 (1080p50)
 https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT Play" tvg-logo="https://i.imgur.com/OX4bTBg.png", FPT Play 4 (e) (1080p50)
+https://live.fptplay53.net/live/media/event-04/hls_avc_v6/index.m3u8
 
 #EXTINF:-1 group-title="Sự Kiện FPT Play" tvg-logo="https://i.imgur.com/OX4bTBg.png", FPT Play 5 (1080p50)
 https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT Play" tvg-logo="https://i.imgur.com/OX4bTBg.png", FPT Play 5 (e) (1080p50)
+https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
 
 #EXTINF:-1 group-title="Sự Kiện FPT Play" tvg-logo="https://i.imgur.com/OX4bTBg.png", FPT Play 6 (1080p50)
 https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
@@ -826,6 +841,13 @@ https://live.fptplay53.net/live/media/su-kien-09/hls_avc_v6/index.m3u8
 
 #EXTINF:-1 group-title="Sự Kiện FPT Play" tvg-logo="https://i.imgur.com/OX4bTBg.png", FPT Play 10 (1080p50)
 https://live.fptplay53.net/live/media/su-kien-10/hls_avc_v6/index.m3u8
+
+#EXTINF:-1 group-title="Sự Kiện FPT Play" tvg-logo="https://i.imgur.com/OX4bTBg.png", FPT Play 83
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cec2888bc5c14664955eebeae80704c4:a84755eaea32ee2b44fb12feef216b6f
+https://vips-livecdn.fptplay.net/live/media/su-kien-83/dash_a_drm/index.mpd
 
 
 #EXTINF:0 group-title="Sự Kiện FPT Play"
@@ -1949,8 +1971,18 @@ https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.ama
 
 #EXTINF:-1 tvg-id="Now.Sports.Premier.League.1.hk" tvg-name="Now Sports PL 1 FHD" tvg-logo="https://i.imgur.com/TGoqoQx.png" group-title="UHD | 4K" , HK: Now Sports PL 1 UHD 50fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/50172.ts
+
 #EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-name="Now Sports PL 2 FHD" tvg-logo="https://i.imgur.com/hS6IPiP.png" group-title="UHD | 4K" , HK: Now Sports PL 2 UHD 50fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/61688.ts
+
+#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk" tvg-logo="https://i.imgur.com/uAB6wbt.png" group-title="UHD | 4K" , HK: Now Sports 1 UHD 50fps (g)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/61689.ts
+
+#EXTINF:-1 tvg-id="nowhknowsports4k616" tvg-name="Now HK Now Sports 4K 616" tvg-logo=https://i.imgur.com/uAB6wbt.png" group-title="UHD | 4K", HK: Now Sports 4K 616 UHD 50fps (xp)
+http://myxpanel.pro:80/live/Martin/Martin/715558.ts
+#EXTINF:-1 tvg-id="nowhknowsports4k617" tvg-name="Now HK Now Sports 4K 617" tvg-logo="https://i.imgur.com/uAB6wbt.png" group-title="UHD | 4K", HK: Now Sports 4K 617 UHD 50fps (xp)
+http://myxpanel.pro:80/live/Martin/Martin/715557.ts
+
 
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.HD.ie" tvg-logo="https://i.imgur.com/UlwVQr4.png" group-title="UHD | 4K", IE: Sky Sports Main Event UHD 50fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/59265.ts
@@ -1958,14 +1990,16 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/59265.ts
 http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527598&extension=ts
 
 
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Event 1 UHD" tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="UHD | 4K", UK: Sky Sports Now Event 1 UHD 50fps (g)
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Event 1 UHD" tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="UHD | 4K", UK: Sky Sports Event 1 UHD 50fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/59263.ts
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Event 1 UHD" tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="UHD | 4K", UK: Sky Sports Now Event 1 UHD 50fps (as)
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Event 1 UHD" tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="UHD | 4K", UK: Sky Sports Event 1 UHD 50fps (as)
 http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527597&extension=ts
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Event 1 UHD" tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="UHD | 4K", UK: Sky Sports Event 1 UHD 50fps (xp)
+http://myxpanel.pro:80/live/Martin/Martin/620665.ts
 
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Event 2 UHD" tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="UHD | 4K", UK: Sky Sports Now Event 2 UHD 50fps (g)
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Event 2 UHD" tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="UHD | 4K", UK: Sky Sports Event 2 UHD 50fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/59262.ts
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Event 2 UHD" tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="UHD | 4K", UK: Sky Sports Now Event 2 UHD 50fps (as)
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: Sky Sports Event 2 UHD" tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="UHD | 4K", UK: Sky Sports Event 2 UHD 50fps (as)
 http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527596&extension=ts
 
 
@@ -1986,11 +2020,22 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/61683.ts
 #EXTINF:-1 tvg-id="Sportsnet.One.ca2" tvg-logo="https://i.imgur.com/9N3QiZe.png" group-title="UHD | 4K", CA: Sportsnet One UHD 60fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/61684.ts
 
-#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk" tvg-logo="https://i.postimg.cc/TP5pTkgg/611-e.png" group-title="UHD | 4K" , HK: Now Sports 1 UHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/61689.ts
 
-#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/PUaJPaE.png" group-title="UHD | 4K", PL: ElevenSport1 4K (cb)
+#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-name="UK: TNT Sports Ultimate UHD" tvg-logo="https://i.imgur.com/p8MRVSd.png" group-title="UHD | 4K", UK: TNT Sports Ultimate UHD 50fps (xp)
+http://myxpanel.pro:80/live/Martin/Martin/276789.ts
+
+#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/PUaJPaE.png" group-title="UHD | 4K", PL: ElevenSport 1 UHD 50fps (cb)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/20068/index.m3u8
+
+#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/PUaJPaE.png" group-title="UHD | 4K", PL: ElevenSport 1 UHD 50fps (xp)
+http://myxpanel.pro:80/live/Martin/Martin/795783.ts
+
+#EXTINF:-1 tvg-id="Eurosport.E.ch" group-title="UHD | 4K" tvg-logo="https://imgur.com/rrNLZma", UK: Eurosport UHD 50fps (xp)
+http://myxpanel.pro:80/live/Martin/Martin/786834.ts
+
+#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="UHD | 4K" tvg-logo="https://i.imgur.com/36EL7oi.png", UK: Eurosport 1 UHD 25fps (b)
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19432/index.m3u8
+
 
 #EXTINF:0 group-title="UHD | 4K"
 
@@ -2749,6 +2794,9 @@ https://a1xs.vip/140003
 #EXTINF:0 group-title="EU Sports"
 
 # # # ---------------------------------------- 📺 World Sports ----------------------------------------
+
+#EXTINF:-1 tvg-id="V.Sport.Ultra.HD.se" tvg-logo="https://i.imgur.com/WpKSGVh.png" group-title="World Sports", SE: V Sport FHD 50fps (xp)
+http://myxpanel.pro:80/live/Martin/Martin/276789.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NMbteWK.png" group-title="World Sports", Arena Premium 1 FHD
 http://79.127.207.193:80/ArenaPremium1HD/playlist.m3u8
