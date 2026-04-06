@@ -2621,21 +2621,21 @@ http://kstv.us:8080/Freshcobar23/83261331891/48449
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2286
 
 
-#EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", RU: Eurosport 2 UHD 25fps (b)
+#EXTINF:-1 tvg-id="Eurosport.2.HD.at" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", RU: Eurosport 2 UHD 25fps (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19431/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", UK: Eurosport 2 FHD 50fps (b)
+#EXTINF:-1 tvg-id="Eurosport.2.HD.at" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", UK: Eurosport 2 FHD 50fps (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/5076/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport.2.HD.pt" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", UK: Eurosport 2 FHD 25fps (b)
+#EXTINF:-1 tvg-id="Eurosport.2.HD.pt" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", PT: Eurosport 2 FHD 25fps [en] (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/20066/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", UK: Eurosport 2 FHD 25fps (b)
+#EXTINF:-1 tvg-id="Eurosport.2.HD.at" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", UK: Eurosport 2 FHD 25fps (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/234/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", SR: Eurosport 2 FHD 50fps (ip)
+#EXTINF:-1 tvg-id="Eurosport.2.HD.at" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", SR: Eurosport 2 FHD 50fps (ip)
 http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
-#EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", RU: Eurosport 2 FHD 25fps (ks)
+#EXTINF:-1 tvg-id="Eurosport.2.I.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", RU: Eurosport 2 FHD 25fps (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/47855
 #EXTINF:-1 tvg-id="Eurosport.2.HD.pt" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", PT: Eurosport 2 HD 50fps (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/48450
-#EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", UK: Eurosport 2 (r) ??
+#EXTINF:-1 tvg-id="Eurosport.2.HD.at" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", UK: Eurosport 2 (r) ??
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2285
 #EXTINF:-1 tvg-id="Eurosport.2.HD.pt" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", PT: Eurosport 2 (g) ??
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/60002.ts
