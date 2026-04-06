@@ -2193,8 +2193,6 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/2191
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2192
 #EXTINF:-1 tvg-id="SkySpCricket.HD.uk"  tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="Sky Sports", Sky Sports Cricket FHD 50fps (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/47864
-#EXTINF:-1 tvg-id="SkySpCricket.HD.uk"  tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="Sky Sports", Sky Sports Cricket HD 25fps (as)
-http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527626&extension=ts
 
 
 #EXTINF:-1 tvg-id="SkySp.Mix.HD.uk"  tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="Sky Sports", Sky Sports Mix FHD 50fps (as)
@@ -2216,14 +2214,14 @@ http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527623&extensio
 http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527631&extension=ts
 
 
-#EXTINF:-1 tvg-id="SkySp.ActionHD.uk"  tvg-logo="https://i.ibb.co/VqtQrDq/sky-action.png" group-title="Sky Sports", Sky Sports Action HD 50fps (ks)
-http://kstv.us:8080/Freshcobar23/83261331891/47860
 #EXTINF:-1 tvg-id="SkySp.ActionHD.uk"  tvg-logo="https://i.ibb.co/VqtQrDq/sky-action.png" group-title="Sky Sports", Sky Sports Action FHD 50fps (as)
 http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527627&extension=ts
 #EXTINF:-1 tvg-id="SkySp.ActionHD.uk"  tvg-logo="https://i.ibb.co/VqtQrDq/sky-action.png" group-title="Sky Sports", Sky Sports Action FHD 50fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2194
 #EXTINF:-1 tvg-id="SkySp.ActionHD.uk"  tvg-logo="https://i.ibb.co/VqtQrDq/sky-action.png" group-title="Sky Sports", Sky Sports Action FHD 50fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2195
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk"  tvg-logo="https://i.ibb.co/VqtQrDq/sky-action.png" group-title="Sky Sports", Sky Sports Action HD 50fps (ks)
+http://kstv.us:8080/Freshcobar23/83261331891/47860
 
 
 #EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk"  tvg-logo="https://i.ibb.co/kVtPg1F5/Sky-Sports-Tennis.png" group-title="Sky Sports", Sky Sports Tennis FHD 50fps (as)
@@ -2246,14 +2244,11 @@ http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/7322/index.m3u8
 http://kstv.us:8080/Freshcobar23/83261331891/15948
 #EXTINF:-1 tvg-id="FS1.HD.us2" group-title="Fox Sports" tvg-logo="https://i.imgur.com/Wwsojdh.png", Fox Sports 1 HD 60fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/32931.ts
-#EXTINF:-1 tvg-id="FS1.HD.us2" group-title="Fox Sports" tvg-logo="https://i.imgur.com/Wwsojdh.png", Fox Sports 1 HD 30fps (tv)
-http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/1846
-#EXTINF:-1 tvg-id="FS1.HD.us2" group-title="Fox Sports" tvg-logo="https://i.imgur.com/Wwsojdh.png", Fox Sports 1 HD 30fps (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2501
 #EXTINF:-1 tvg-id="FS1.HD.us2" group-title="Fox Sports" tvg-logo="https://i.imgur.com/Wwsojdh.png", Fox Sports 1 HD 60fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/3732
-#EXTINF:-1 tvg-id="FS1.HD.us2" group-title="Fox Sports" tvg-logo="https://i.imgur.com/Wwsojdh.png", Fox Sports 1 HD 30fps (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3645
+#EXTINF:-1 tvg-id="FS1.HD.us2" group-title="Fox Sports" tvg-logo="https://i.imgur.com/Wwsojdh.png", Fox Sports 1 HD 30fps (tv)
+http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/1846
+
 
 #EXTINF:-1 tvg-id="FS2.HD.us2" group-title="Fox Sports" tvg-logo="https://i.imgur.com/BmxkGDe.png", Fox Sports 2 FHD 60fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/44034.ts
@@ -2265,12 +2260,10 @@ http://kstv.us:8080/Freshcobar23/83261331891/22525
 http://kstv.us:8080/Freshcobar23/83261331891/15947
 #EXTINF:-1 tvg-id="FS2.HD.us2" group-title="Fox Sports" tvg-logo="https://i.imgur.com/BmxkGDe.png", Fox Sports 2 HD 60fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/14117.ts
-#EXTINF:-1 tvg-id="FS2.HD.us2" group-title="Fox Sports" tvg-logo="https://i.imgur.com/BmxkGDe.png", Fox Sports 2 HD 30fps (tv)
-http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/1847
 #EXTINF:-1 tvg-id="FS2.HD.us2" group-title="Fox Sports" tvg-logo="https://i.imgur.com/BmxkGDe.png", Fox Sports 2 HD 60fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2500
-#EXTINF:-1 tvg-id="FS2.HD.us2" group-title="Fox Sports" tvg-logo="https://i.imgur.com/BmxkGDe.png", Fox Sports 2 HD 30fps (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3646
+#EXTINF:-1 tvg-id="FS2.HD.us2" group-title="Fox Sports" tvg-logo="https://i.imgur.com/BmxkGDe.png", Fox Sports 2 HD 30fps (tv)
+http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/1847
 
 
 #EXTINF:0 group-title="Fox Sports"
@@ -2285,12 +2278,8 @@ http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527617&extensio
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/43128.ts
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-title="TNT Sports" tvg-logo="https://i.imgur.com/V3qfxeG.png", TNT Sports 1 HD 25fps (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/47850
-#EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="TNT Sports" tvg-logo="https://i.imgur.com/V3qfxeG.png", TNT Sports 1 HD 25fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/16552.ts
 #EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="TNT Sports" tvg-logo="https://i.imgur.com/V3qfxeG.png", TNT Sports 1 HD 25fps (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6566/index.m3u8
-#EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="TNT Sports" tvg-logo="https://i.imgur.com/V3qfxeG.png", TNT Sports 1 HD 25fps (b)
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2505/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="TNT Sports" tvg-logo="https://i.imgur.com/Qq5D6bY.png", TNT Sports 2 FHD 50fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/43126.ts
@@ -2300,8 +2289,6 @@ http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2506/index.m3u8
 http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527615&extension=ts
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" group-title="TNT Sports" tvg-logo="https://i.imgur.com/Qq5D6bY.png", TNT Sports 2 FHD 25fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2336
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" group-title="TNT Sports" tvg-logo="https://i.imgur.com/Qq5D6bY.png", TNT Sports 2 HD 25fps (ks)
-http://kstv.us:8080/Freshcobar23/83261331891/47851
 #EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="TNT Sports" tvg-logo="https://i.imgur.com/Qq5D6bY.png", TNT Sports 2 FHD 25fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/16551.ts
 
@@ -2314,11 +2301,6 @@ http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527613&extensio
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/43124.ts
 #EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="TNT Sports" tvg-logo="https://i.imgur.com/YIWGDix.png", TNT Sports 3 FHD 25fps (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6564/index.m3u8
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" group-title="TNT Sports" tvg-logo="https://i.imgur.com/YIWGDix.png", TNT Sports 3 HD 25fps (ks)
-http://kstv.us:8080/Freshcobar23/83261331891/47852
-#EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="TNT Sports" tvg-logo="https://i.imgur.com/YIWGDix.png", TNT Sports 3 HD 25fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/16550.ts
-
 
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" group-title="TNT Sports" tvg-logo="https://i.imgur.com/KJZszMA.png", TNT Sports 4 FHD 50fps (r)
@@ -2329,8 +2311,6 @@ http://assarao4k.com/play/live.php?mac=00:1A:79:83:02:56&stream=1527611&extensio
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/16549.ts
 #EXTINF:-1 tvg-id="TNT.Sports.4.ie" group-title="TNT Sports" tvg-logo="https://i.imgur.com/KJZszMA.png", TNT Sports 4 FHD 50fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/57420.ts
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" group-title="TNT Sports" tvg-logo="https://i.imgur.com/KJZszMA.png", TNT Sports 4 HD 25fps (ks)
-http://kstv.us:8080/Freshcobar23/83261331891/47853
 
 
 #EXTINF:0 group-title="TNT Sports"
@@ -2344,14 +2324,12 @@ http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/10252
 http://kstv.us:8080/Freshcobar23/83261331891/15905
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="USA Network" tvg-logo="https://i.imgur.com/1lFfKR4.png", USA Network HD 60fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/19270.ts
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="USA Network" tvg-logo="https://i.imgur.com/1lFfKR4.png", USA Network HD 30fps (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3767
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="USA Network" tvg-logo="https://i.imgur.com/1lFfKR4.png", USA Network HD 30fps (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3694
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="USA Network" tvg-logo="https://i.imgur.com/1lFfKR4.png", USA Network HD 60fps (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/1101/index.m3u8
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="USA Network" tvg-logo="https://i.imgur.com/1lFfKR4.png", USA Network HD 60fps (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31124/index.m3u8
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="USA Network" tvg-logo="https://i.imgur.com/1lFfKR4.png", USA Network HD 30fps (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/3767
 
 #EXTINF:0 group-title="USA Network"
 
@@ -2393,12 +2371,8 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/57428.ts
 http://kstv.us:8080/Freshcobar23/83261331891/15929
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="TSN Sports" tvg-logo="https://i.imgur.com/fs7QEno.png", TSN 1 HD 30fps (tv)
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/57292
-#EXTINF:-1 tvg-id="TSN.1.ca2" group-title="TSN Sports" tvg-logo="https://i.imgur.com/fs7QEno.png", TSN 1 HD 30fps (tv)
-http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/47440
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="TSN Sports" tvg-logo="https://i.imgur.com/fs7QEno.png", TSN 1 HD 30fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/3146
-#EXTINF:-1 tvg-id="TSN.1.ca2" group-title="TSN Sports" tvg-logo="https://i.imgur.com/fs7QEno.png", TSN 1 HD 30fps (b)
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6521/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="TSN Sports" tvg-logo="https://i.imgur.com/kBQXl8d.png", TSN 2 FHD 60fps (ks)
@@ -2413,8 +2387,6 @@ http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/47442
 https://restream-live.realiptv.to/MotherOfPins3/8746645/3145
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="TSN Sports" tvg-logo="https://i.imgur.com/kBQXl8d.png", TSN 2 HD 60fps (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/15928
-#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="TSN Sports" tvg-logo="https://i.imgur.com/kBQXl8d.png", TSN 2 HD 30fps (b)
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6492/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TSN.3.ca2" group-title="TSN Sports" tvg-logo="https://i.imgur.com/X4erIdG.png", TSN 3 FHD 60fps (ks)
@@ -2447,8 +2419,6 @@ http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/47446
 https://restream-live.realiptv.to/MotherOfPins3/8746645/3143
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="TSN Sports" tvg-logo="https://i.imgur.com/zGQkRKW.png", TSN 4 FHD 60fps (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6445/index.m3u8
-#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="TSN Sports" tvg-logo="https://i.imgur.com/zGQkRKW.png", TSN 4 HD 30fps (tv)
-http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/66783
 
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="TSN Sports" tvg-logo="https://i.imgur.com/3QnA16Y.png", CA: TSN 5 UHD 60fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/61686.ts
@@ -2467,8 +2437,6 @@ http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/57467
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/16131
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="TSN Sports" tvg-logo="https://i.imgur.com/3QnA16Y.png", TSN 5 HD 30fps (tv)
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/57295
-#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="TSN Sports" tvg-logo="https://i.imgur.com/3QnA16Y.png", TSN 5 SD 30fps (ks)
-http://kstv.us:8080/Freshcobar23/83261331891/15925
 
 
 #EXTINF:0 group-title="TSN Sports"
@@ -2493,8 +2461,6 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/923
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2532/index.m3u8
 #EXTINF:-1 tvg-id="DAZN.2.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/mrUt8LC.png", PT: DAZN 2 HD 50fps (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31955/index.m3u8
-#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/mrUt8LC.png", PT: DAZN 2 HD 25fps (ks)
-http://kstv.us:8080/Freshcobar23/83261331891/48444
 
 
 #EXTINF:-1 tvg-id="DAZN.3.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/Nuy9JzZ.png", PT: DAZN 3 FHD 50fps (ks)
@@ -2503,8 +2469,6 @@ http://kstv.us:8080/Freshcobar23/83261331891/48445
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/7062/index.m3u8
 #EXTINF:-1 tvg-id="DAZN.3.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/Nuy9JzZ.png", PT: DAZN 3 HD 50fps (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31956/index.m3u8
-#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/Nuy9JzZ.png", PT: DAZN 3 HD 25fps (tv)
-http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/167748
 
 
 #EXTINF:-1 tvg-id="DAZN.4.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/azR9uiE.png", PT: DAZN 4 FHD 60fps (tv)
@@ -2615,27 +2579,25 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/60001.ts
 http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", UK: Eurosport 1 FHD 25fps (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/228/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport.1.HD.pt" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", PT: Eurosport 1 SD (ks)
-http://kstv.us:8080/Freshcobar23/83261331891/48449
 #EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", UK: Eurosport 1 (r) ??
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2286
 
 
-#EXTINF:-1 tvg-id="Eurosport.2.HD.at" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", RU: Eurosport 2 UHD 25fps (b)
+#EXTINF:-1 tvg-id="Eurosport.2.HD.lv" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", RU: Eurosport 2 UHD 25fps (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19431/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport.2.HD.at" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", UK: Eurosport 2 FHD 50fps (b)
+#EXTINF:-1 tvg-id="Eurosport.2.I.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", UK: Eurosport 2 FHD 50fps (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/5076/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport.2.HD.pt" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", PT: Eurosport 2 FHD 25fps [en] (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/20066/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport.2.HD.at" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", UK: Eurosport 2 FHD 25fps (b)
+#EXTINF:-1 tvg-id="Eurosport.2.I.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", UK: Eurosport 2 FHD 25fps (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/234/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport.2.HD.at" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", SR: Eurosport 2 FHD 50fps (ip)
+#EXTINF:-1 tvg-id="Eurosport.2.I.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", SR: Eurosport 2 FHD 50fps (ip)
 http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport.2.I.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", RU: Eurosport 2 FHD 25fps (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/47855
-#EXTINF:-1 tvg-id="Eurosport.2.HD.pt" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", PT: Eurosport 2 HD 50fps (ks)
+#EXTINF:-1 tvg-id="Eurosport.2.F.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", PT: Eurosport 2 HD 50fps (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/48450
-#EXTINF:-1 tvg-id="Eurosport.2.HD.at" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", UK: Eurosport 2 (r) ??
+#EXTINF:-1 tvg-id="Eurosport.2.I.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", UK: Eurosport 2 (r) ??
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2285
 #EXTINF:-1 tvg-id="Eurosport.2.HD.pt" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", PT: Eurosport 2 (g) ??
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/60002.ts
