@@ -2035,6 +2035,9 @@ http://myxpanel.pro:80/live/Martin/Martin/786834.ts
 #EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="UHD | 4K" tvg-logo="https://i.imgur.com/36EL7oi.png", UK: Eurosport 1 UHD 25fps (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19432/index.m3u8
 
+#EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="UHD | 4K" tvg-logo="https://i.imgur.com/u7QrAyh.png", UK: Eurosport 2 UHD 25fps (b)
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19431/index.m3u8
+
 
 #EXTINF:0 group-title="UHD | 4K"
 
@@ -2472,121 +2475,125 @@ http://kstv.us:8080/Freshcobar23/83261331891/15925
 
 # # # ---------------------------------------- 📺 DAZN  ----------------------------------------
 
-#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/4Rq6kRB.png", DAZN 1 (ks)
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/4Rq6kRB.png", PT: DAZN 1 FHD 50fps (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/48443
-#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/4Rq6kRB.png", DAZN 1 (tv)
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/4Rq6kRB.png", PT: DAZN 1 FHD 50fps (tv)
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/35264
-#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/4Rq6kRB.png", DAZN 1 (r)
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/4Rq6kRB.png", PT: DAZN 1 FHD 50fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/925
-#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/4Rq6kRB.png", DAZN 1 (b)
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/4Rq6kRB.png", PT: DAZN 1 HD 50fps (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31954/index.m3u8
 
-#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/mrUt8LC.png", DAZN 2 (ks)
-http://kstv.us:8080/Freshcobar23/83261331891/48444
-#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/mrUt8LC.png", DAZN 2 (r)
+
+#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/mrUt8LC.png", PT: DAZN 2 FHD 50fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/924
-#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/mrUt8LC.png", DAZN 2 (r)
+#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/mrUt8LC.png", PT: DAZN 2 FHD 50fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/923
-#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/mrUt8LC.png", DAZN 2 (b)
+#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/mrUt8LC.png", PT: DAZN 2 HD 50fps (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2532/index.m3u8
-#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/mrUt8LC.png", DAZN 2 (b)
+#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/mrUt8LC.png", PT: DAZN 2 HD 50fps (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31955/index.m3u8
+#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/mrUt8LC.png", PT: DAZN 2 HD 25fps (ks)
+http://kstv.us:8080/Freshcobar23/83261331891/48444
 
-#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/Nuy9JzZ.png", DAZN 3 (ks)
+
+#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/Nuy9JzZ.png", PT: DAZN 3 FHD 50fps (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/48445
-#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/Nuy9JzZ.png", DAZN 3 (tv)
-http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/167748
-#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/Nuy9JzZ.png", DAZN 3 (b)
+#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/Nuy9JzZ.png", PT: DAZN 3 FHD 50fps (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/7062/index.m3u8
-#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/Nuy9JzZ.png", DAZN 3 (b)
+#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/Nuy9JzZ.png", PT: DAZN 3 HD 50fps (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31956/index.m3u8
+#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/Nuy9JzZ.png", PT: DAZN 3 HD 25fps (tv)
+http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/167748
 
-#EXTINF:-1 tvg-id="DAZN.4.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/azR9uiE.png", DAZN 4 (ks)
-http://kstv.us:8080/Freshcobar23/83261331891/48446
-#EXTINF:-1 tvg-id="DAZN.4.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/azR9uiE.png", DAZN 4 (tv)
+
+#EXTINF:-1 tvg-id="DAZN.4.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/azR9uiE.png", PT: DAZN 4 FHD 60fps (tv)
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/167749
-#EXTINF:-1 tvg-id="DAZN.4.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/azR9uiE.png", DAZN 4 (r)
+#EXTINF:-1 tvg-id="DAZN.4.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/azR9uiE.png", PT: DAZN 4 FHD 50fps (ks)
+http://kstv.us:8080/Freshcobar23/83261331891/48446
+#EXTINF:-1 tvg-id="DAZN.4.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/azR9uiE.png", PT: DAZN 4 FHD 50fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/920
-#EXTINF:-1 tvg-id="DAZN.4.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/azR9uiE.png", DAZN 4 (b)
+#EXTINF:-1 tvg-id="DAZN.4.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/azR9uiE.png", PT: DAZN 4 FHD 50fps (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2534/index.m3u8
-#EXTINF:-1 tvg-id="DAZN.4.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/azR9uiE.png", DAZN 4 (b)
+#EXTINF:-1 tvg-id="DAZN.4.pt" group-title="DAZN" tvg-logo="https://i.imgur.com/azR9uiE.png", PT: DAZN 4 HD 50fps (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31957/index.m3u8
+
 
 #EXTINF:0 group-title="DAZN"
 
 # # # ---------------------------------------- 📺 Canal +  ----------------------------------------
-#EXTINF:-1 tvg-id="CANAL+FOOT.fr" group-title="Canal +" tvg-logo="https://i.imgur.com/XJtaq4F.png", Canal + Foot (as) (720p)
+#EXTINF:-1 tvg-id="CANAL+FOOT.fr" group-title="Canal +" tvg-logo="https://i.imgur.com/XJtaq4F.png", Canal + Foot HD 50fps (as)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=394814&extension=ts
-#EXTINF:-1 tvg-id="CANAL+FOOT.fr" group-title="Canal +" tvg-logo="https://i.imgur.com/XJtaq4F.png", Canal + Foot (ch) (720p)
+#EXTINF:-1 tvg-id="CANAL+FOOT.fr" group-title="Canal +" tvg-logo="https://i.imgur.com/XJtaq4F.png", Canal + Foot HD 25fps (ch)
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1071923&extension=ts&play_token=vcQAIeKouv
 
 
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 1 FHD (as)
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 1 FHD 50fps (as)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170885&extension=ts
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 1 FHD (ch)
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 1 FHD 50fps (ch)
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122056&extension=ts&play_token=223GgKAnFY
 
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 2 FHD (as)
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170884&extension=ts
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 2 FHD (ch)
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 2 FHD 50fps (ch)
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122022&extension=ts&play_token=iSj2dolRme
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 2 HD (as) ?
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170884&extension=ts
 
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 3 FHD (as)
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 3 HD 50fps (as)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170883&extension=ts
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 3 FHD (ch)
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 3 FHD 50fps (ch)
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122024&extension=ts&play_token=CybqwfSLOa
 
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 4 FHD (as)
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 4 HD 50fps (as)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170882&extension=ts
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 4 FHD (ch)
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 4 FHD 50fps (ch)
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122939&extension=ts&play_token=HIEGNfDnjh
 
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 5 FHD (as)
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 5 FHD 50fps (as)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170881&extension=ts
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 5 FHD (ch)
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 5 FHD 50fps (ch)
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122028&extension=ts&play_token=kFra0tQEzm
 
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 6 FHD (as)
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170880&extension=ts
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 6 FHD (ch)
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 6 FHD 50fps (ch)
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122030&extension=ts&play_token=JO8O3NwIu3
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 6 HD 25fps (as) ?
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170880&extension=ts
 
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 7 (as) ?
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170879&extension=ts
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 7 FHD (ch)
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 7 FHD 50fps (ch)
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122032&extension=ts&play_token=v6BlP5EabS
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 7 HD (as) ?
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170879&extension=ts
 
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 8 (as) ?
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170878&extension=ts
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 8 FHD (ch)
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 8 FHD 50fps (ch)
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122034&extension=ts&play_token=x6iYHVWSH9
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 8 HD (as) ?
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170878&extension=ts
 
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 9 (as) ?
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 9 HD (as) ?
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170877&extension=ts
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 9 FHD (ch)
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 9 FHD 50fps (ch) ??
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122036&extension=ts&play_token=kuZ8wahbOG
 
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 10 (as) ?
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 10 HD (as) ?
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170876&extension=ts
 
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 11 (as) ?
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 11 HD (as) ?
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170875&extension=ts
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 11 (ch)
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 11 HD (ch) ?
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122040&extension=ts&play_token=hTZeyPAfkN
 
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 12 (ch)
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 12 HD (ch) ?
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122042&extension=ts&play_token=1MtcjI5wmF
 
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 14 (ch)
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 14 HD (ch) ?
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122046&extension=ts&play_token=ehR6K7NzS8
 
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 15 (ch)
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 15 HD (ch) ?
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122048&extension=ts&play_token=jR2N0mt5SZ
 
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 16 (ch)
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 16 HD (ch) ?
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122050&extension=ts&play_token=pgbrtZxiUM
 
-#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 17 (ch)
+#EXTINF:-1 tvg-id="" group-title="Canal +" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal + Live 17 HD (ch) ?
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122052&extension=ts&play_token=o7h6R125hi
 
 
@@ -2594,60 +2601,45 @@ http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122052&exten
 
 # # # ---------------------------------------- 📺 Eurosport  ----------------------------------------
 
-#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", UK: Eurosport 1 FHD (ip)
-http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", UK: Eurosport 1 FHD (ks)
+#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", RU: Eurosport 1 UHD 25fps (b)
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19432/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", UK: Eurosport 1 FHD 50fps (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/47854
-
-#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", UK: Eurosport 1 (r)
+#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", UK: Eurosport 1 FHD 50fps (b)
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/5075/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport.1.HD.pt" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", PT: Eurosport 1 FHD 60fps (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/911
+#EXTINF:-1 tvg-id="Eurosport.1.HD.pt" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", PT: Eurosport 1 FHD 50fps (g)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/60001.ts
+#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", SR: Eurosport 1 FHD 50fps (ip)
+http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", UK: Eurosport 1 FHD 25fps (b)
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/228/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport.1.HD.pt" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", PT: Eurosport 1 SD (ks)
+http://kstv.us:8080/Freshcobar23/83261331891/48449
+#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", UK: Eurosport 1 (r) ??
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2286
 
-#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", UK: Eurosport 1 UHD 25fps (b)
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19432/index.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", UK: Eurosport 1 (b)
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/228/index.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", UK: Eurosport 1 (b)
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/5075/index.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport.1.HD.pt" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", PT: Eurosport 1 (ks)
-http://kstv.us:8080/Freshcobar23/83261331891/48449
-
-#EXTINF:-1 tvg-id="Eurosport.1.HD.pt" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", PT: Eurosport 1 (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/60001.ts
-
-#EXTINF:-1 tvg-id="Eurosport.1.HD.pt" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", PT: Eurosport 1 FHD (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/911
-
-
-#EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", UK: Eurosport 2 FHD (ip)
-http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", UK: Eurosport 2 FHD (ks)
-http://kstv.us:8080/Freshcobar23/83261331891/47855
-
-#EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", UK: Eurosport 2 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2285
-
-#EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", UK: Eurosport 2 UHD 25fps (b)
+#EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", RU: Eurosport 2 UHD 25fps (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19431/index.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", UK: Eurosport 2 (b)
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/234/index.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", UK: Eurosport 2 (b)
+#EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", UK: Eurosport 2 FHD 50fps (b)
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/5076/index.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport.2.HD.pt" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", PT: Eurosport 2 (ks)
+#EXTINF:-1 tvg-id="Eurosport.2.HD.pt" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", UK: Eurosport 2 FHD 25fps (b)
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/20066/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", UK: Eurosport 2 FHD 25fps (b)
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/234/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", SR: Eurosport 2 FHD 50fps (ip)
+http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", RU: Eurosport 2 FHD 25fps (ks)
+http://kstv.us:8080/Freshcobar23/83261331891/47855
+#EXTINF:-1 tvg-id="Eurosport.2.HD.pt" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", PT: Eurosport 2 HD 50fps (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/48450
-
-#EXTINF:-1 tvg-id="Eurosport.2.HD.pt" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", PT: Eurosport 2 (g)
+#EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", UK: Eurosport 2 (r) ??
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2285
+#EXTINF:-1 tvg-id="Eurosport.2.HD.pt" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", PT: Eurosport 2 (g) ??
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/60002.ts
 
-#EXTINF:-1 tvg-id="Eurosport.2.HD.pt" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", PT: Eurosport 2 FHD 25fps (b)
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/20066/index.m3u8
 
 #EXTINF:0 group-title="Eurosport"
 
