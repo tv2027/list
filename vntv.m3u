@@ -2698,49 +2698,172 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/88060
 #EXTINF:0 group-title="Sportsnet"
 
 
-# # # ---------------------------------------- 📺 AU Sports  ----------------------------------------
-#EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Sports 501 FHD" tvg-logo="https://i.ibb.co/hvxssSM/Fox-Cricket-501.png" group-title="AU Sports", Fox Sports 501 FHD [n/a]
-https://a1xs.vip/700001
-#EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="Fox Sports 502 FHD" tvg-logo="https://i.ibb.co/XZpHFsBh/Fox502HD.png" group-title="AU Sports", Fox Sports 502 FHD [n/a]
-https://a1xs.vip/700002
-#EXTINF:-1 tvg-id="FoxSports503.au" tvg-name="Fox Sports 503 FHD" tvg-logo="https://i.ibb.co/Z60SQPG9/Fox-503.png" group-title="AU Sports", Fox Sports 503 FHD [n/a]
-https://a1xs.vip/700003
-#EXTINF:-1 tvg-id="FoxSports505.au" tvg-name="Fox Sports 505 FHD" tvg-logo="https://i.ibb.co/RpxSzY1R/Fox-Footy504.png" group-title="AU Sports", Fox Sports 505 FHD [n/a]
-https://a1xs.vip/700005
-#EXTINF:-1 tvg-id="FoxSports506.au" tvg-name="Fox Sports 506 FHD" tvg-logo="https://i.ibb.co/Y65j4s1/Fox505.png" group-title="AU Sports", Fox Sports 506 FHD [n/a]
-https://a1xs.vip/700006
+# # # ---------------------------------------- 📺 Sport TV  ----------------------------------------
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="Sport TV" tvg-logo="https://i.imgur.com/7bl3LyY.png", Sport TV 1 (k)
+http://kstv.us:8080/Freshcobar23/83261331891/48496
 
-#EXTINF:0 group-title="AU Sports"
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="Sport TV" tvg-logo="https://i.imgur.com/7bl3LyY.png", Sport TV 1 (g)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/60014.ts
 
-# # # ---------------------------------------- 📺 NZ Sports  ----------------------------------------
-#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-name="SKY Sport 1 NZ" tvg-logo="https://i.ibb.co/TqkBV40v/SSNZ1.png" group-title="NZ Sports",SKY Sport 1 NZ (7p)
-https://7pal.short.gy/skyspt1nz
-#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-name="SKY Sport 1 NZ" tvg-logo="https://i.ibb.co/TqkBV40v/SSNZ1.png" group-title="NZ Sports",SKY Sport 1 NZ [n/a]
-https://a1xs.vip/700031
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="Sport TV" tvg-logo="https://i.imgur.com/7bl3LyY.png", Sport TV 1 (x)
+http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/167742
 
-#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-name="SKY Sport 2 NZ" tvg-logo="https://i.ibb.co/Gvn46BMS/SSNZ2.png" group-title="NZ Sports",SKY Sport 2 NZ (7p)
-https://7pal.short.gy/skyspt2nz
-#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-name="SKY Sport 2 NZ" tvg-logo="https://i.ibb.co/Gvn46BMS/SSNZ2.png" group-title="NZ Sports",SKY Sport 2 NZ [n/a]
-https://a1xs.vip/700032
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="Sport TV" tvg-logo="https://i.imgur.com/7bl3LyY.png", Sport TV 1 (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/848
 
-#EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-name="SKY Sport 3 NZ" tvg-logo="https://i.ibb.co/Fq4FLn9m/SSNZ3.png" group-title="NZ Sports",SKY Sport 3 NZ [n/a]
-https://a1xs.vip/700033
-#EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-name="SKY Sport 4 NZ" tvg-logo="https://i.ibb.co/qY3cr3zG/SSNZ4.png" group-title="NZ Sports",SKY Sport 4 NZ [n/a]
-https://a1xs.vip/700034
-#EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-name="SKY Sport 5 NZ" tvg-logo="https://i.ibb.co/WNhhmNN3/SSNZ5.png" group-title="NZ Sports",SKY Sport 5 NZ [n/a]
-https://a1xs.vip/700035
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="Sport TV" tvg-logo="https://i.imgur.com/7bl3LyY.png", Sport TV 1 (b)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/2525/index.m3u8
 
-#EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-name="SKY Sport 6 NZ" tvg-logo="https://i.ibb.co/4Z68jKjy/SSNZ6.png" group-title="NZ Sports",SKY Sport 6 NZ (7p) ?
-https://7pal.short.gy/skyspt6nz
-#EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-name="SKY Sport 6 NZ" tvg-logo="https://i.ibb.co/4Z68jKjy/SSNZ6.png" group-title="NZ Sports",SKY Sport 6 NZ [n/a]
-https://a1xs.vip/700036
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="Sport TV" tvg-logo="https://i.imgur.com/7bl3LyY.png", Sport TV 1 (b)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/31942/index.m3u8
 
-#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-name="SKY Sport 7 NZ" tvg-logo="https://i.ibb.co/d4hjNjmz/SSNZ7.png" group-title="NZ Sports",SKY Sport 7 NZ (7p)
-https://7pal.short.gy/skyspt7nz
-#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-name="SKY Sport 7 NZ" tvg-logo="https://i.ibb.co/d4hjNjmz/SSNZ7.png" group-title="NZ Sports",SKY Sport 7 NZ [n/a]
-https://a1xs.vip/700037
+#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="Sport TV" tvg-logo="https://i.imgur.com/9NktQrQ.png", Sport TV 2 (k)
+http://kstv.us:8080/Freshcobar23/83261331891/48497
 
-#EXTINF:0 group-title="NZ Sports"
+#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="Sport TV" tvg-logo="https://i.imgur.com/9NktQrQ.png", Sport TV 2 (g)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/60017.ts
+
+#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="Sport TV" tvg-logo="https://i.imgur.com/9NktQrQ.png", Sport TV 2 (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/847
+
+#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="Sport TV" tvg-logo="https://i.imgur.com/9NktQrQ.png", Sport TV 2 (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/846
+
+#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="Sport TV" tvg-logo="https://i.imgur.com/9NktQrQ.png", Sport TV 2 (b)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/2526/index.m3u8
+
+#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="Sport TV" tvg-logo="https://i.imgur.com/9NktQrQ.png", Sport TV 2 (b)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/31943/index.m3u8
+
+#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="Sport TV" tvg-logo="https://i.imgur.com/p2gpIWt.png", Sport TV 3 (k)
+http://kstv.us:8080/Freshcobar23/83261331891/48498
+
+#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="Sport TV" tvg-logo="https://i.imgur.com/p2gpIWt.png", Sport TV 3 (g)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/60019.ts
+
+#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="Sport TV" tvg-logo="https://i.imgur.com/p2gpIWt.png", Sport TV 3 (x)
+http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/167744
+
+#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="Sport TV" tvg-logo="https://i.imgur.com/p2gpIWt.png", Sport TV 3 (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/845
+
+#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="Sport TV" tvg-logo="https://i.imgur.com/p2gpIWt.png", Sport TV 3 (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/844
+
+#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="Sport TV" tvg-logo="https://i.imgur.com/p2gpIWt.png", Sport TV 3 (b)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/2527/index.m3u8
+
+#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="Sport TV" tvg-logo="https://i.imgur.com/p2gpIWt.png", Sport TV 3 (b)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/31944/index.m3u8
+
+#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="Sport TV" tvg-logo="https://i.imgur.com/o5RjQBz.png", Sport TV 4 (k)
+http://kstv.us:8080/Freshcobar23/83261331891/48499
+
+#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="Sport TV" tvg-logo="https://i.imgur.com/o5RjQBz.png", Sport TV 4 (g)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/60021.ts
+
+#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="Sport TV" tvg-logo="https://i.imgur.com/o5RjQBz.png", Sport TV 4 (x)
+http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/167745
+
+#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="Sport TV" tvg-logo="https://i.imgur.com/o5RjQBz.png", Sport TV 4 (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/843
+
+#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="Sport TV" tvg-logo="https://i.imgur.com/o5RjQBz.png", Sport TV 4 (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/842
+
+#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="Sport TV" tvg-logo="https://i.imgur.com/o5RjQBz.png", Sport TV 4 (b)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/31945/index.m3u8
+
+#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="Sport TV" tvg-logo="https://i.imgur.com/gdJSVCj.png", Sport TV 5 (k)
+http://kstv.us:8080/Freshcobar23/83261331891/48500
+
+#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="Sport TV" tvg-logo="https://i.imgur.com/gdJSVCj.png", Sport TV 5 (g)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/60022.ts
+
+#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="Sport TV" tvg-logo="https://i.imgur.com/gdJSVCj.png", Sport TV 5 (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/840
+
+#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="Sport TV" tvg-logo="https://i.imgur.com/gdJSVCj.png", Sport TV 5 (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/839
+
+#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="Sport TV" tvg-logo="https://i.imgur.com/gdJSVCj.png", Sport TV 5 (b)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/2529/index.m3u8
+
+#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="Sport TV" tvg-logo="https://i.imgur.com/gdJSVCj.png", Sport TV 5 (b)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/31946/index.m3u8
+
+
+#EXTINF:0 group-title="Sport TV"
+
+# # # ---------------------------------------- 📺 Arena Sports  ----------------------------------------
+
+#EXTINF:-1 tvg-id="Arena.Premium.1.HD.(RS).rs" tvg-logo="https://i.imgur.com/NMbteWK.png" group-title="Arena Sports", 🇷🇸 Arena Premium 1 FHD (ip)
+http://79.127.207.193:80/ArenaPremium1HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Arena.Premium.2.HD.(RS).rs" tvg-logo="https://i.imgur.com/3JVMedy.png" group-title="Arena Sports", 🇷🇸 Arena Premium 2 FHD (ip)
+http://79.127.207.193:80/ArenaPremium2HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Arena.Premium.3.HD.(RS).rs" tvg-logo="https://i.imgur.com/WhT78pi.png" group-title="Arena Sports", 🇷🇸 Arena Premium 3 FHD (ip)
+http://79.127.207.193:80/ArenaPremium3HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Arena.Sport.1.cz" tvg-logo="https://i.imgur.com/zgm3m3t.png" group-title="Arena Sports", 🇨🇿 Arena Sport 1 FHD 50fps (ip)
+http://88.212.15.19/live/test_arenasport/playlist.m3u8
+#EXTINF:-1 tvg-id="Arena.Sport.2.cz" tvg-logo="https://i.imgur.com/LDFbqOW.png" group-title="Arena Sports", 🇨🇿 Arena Sport 2 FHD 50fps (ip) 
+http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Arena.Sport.1.HD.(RS).rs" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="Arena Sports", 🇷🇸 Arena Sport 1 FHD 25fps (fe)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1177
+#EXTINF:-1 tvg-id="Arena.Sport.1.HD.hr" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="Arena Sports", 🇭🇷 Arena Sport 1 FHD 25fps (fe)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1189
+
+#EXTINF:-1 tvg-id="Arena.Sport.2.HD.(RS).rs" tvg-logo="https://i.imgur.com/aqlECBj.png" group-title="Arena Sports", 🇷🇸 Arena Sport 2 FHD 25fps (fe)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1176
+#EXTINF:-1 tvg-id="Arena.Sport.2.HD.hr" tvg-logo="https://i.imgur.com/aqlECBj.png" group-title="Arena Sports", 🇭🇷 Arena Sport 2 FHD 25fps (fe)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1187
+
+#EXTINF:-1 tvg-id="Arena.Sport.3.HD.(RS).rs" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="Arena Sports", 🇷🇸 Arena Sport 3 FHD 25fps (fe)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1175
+#EXTINF:-1 tvg-id="Arena.Sport.3.HD.hr" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="Arena Sports", 🇭🇷 Arena Sport 3 FHD 25fps (fe)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1185
+
+#EXTINF:-1 tvg-id="Arena.Sport.4.HD.(RS).rs" tvg-logo="https://i.imgur.com/h1XhGkz.png" group-title="Arena Sports", 🇷🇸 Arena Sport 4 FHD 25fps (fe)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1174
+#EXTINF:-1 tvg-id="Arena.Sport.4.HD.hr" tvg-logo="https://i.imgur.com/h1XhGkz.png" group-title="Arena Sports", 🇭🇷 Arena Sport 4 SD 25fps (fe)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1183
+
+#EXTINF:-1 tvg-id="Arena.Sport.5.HD.hr" tvg-logo="https://i.imgur.com/aWYqu4B.png" group-title="Arena Sports", 🇭🇷 Arena Sport 5 FHD 50fps (bo)
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/171338.m3u8
+
+#EXTINF:-1 tvg-id="Arena.Sport.6.HD.hr" tvg-logo="https://i.imgur.com/CUhgHWn.png" group-title="Arena Sports", 🇭🇷 Arena Sport 6 FHD 25fps (fe)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1179
+#EXTINF:-1 tvg-id="Arena.Sport.7.HD.hr" tvg-logo="https://i.imgur.com/VQ2LO94.png" group-title="Arena Sports", 🇭🇷 Arena Sport 7 FHD 25fps (fe)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17669
+#EXTINF:-1 tvg-id="Arena.Sport.8.HD.hr" tvg-logo="https://i.imgur.com/aWYqu4B.png" group-title="Arena Sports", 🇭🇷 Arena Sport 8 FHD 25fps (fe)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17670
+#EXTINF:-1 tvg-id="Arena.Sport.9.HD.hr" tvg-logo="https://i.imgur.com/6kpMNLc.png" group-title="Arena Sports", 🇭🇷 Arena Sport 9 FHD 25fps (fe)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17671
+#EXTINF:-1 tvg-id="Arena.Sport.10.HD.hr" tvg-logo="https://i.imgur.com/oGGffys.png" group-title="Arena Sports", 🇭🇷 Arena Sport 10 FHD 25fps (fe)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17672
+
+
+#EXTINF:0 group-title="Arena Sports"
+
+# # # ---------------------------------------- 📺 Art Sports ----------------------------------------
+
+#EXTINF:-1 tvg-id="Sport.1.HD.at" tvg-logo="https://i.imgur.com/yrl2rLZ.png" group-title="Art Sports", 🇽🇰 Art Sport 1 FHD (ip)
+http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
+#EXTINF:-1 tvg-id="Sport.2.at" tvg-logo="https://i.imgur.com/MFPzqSg.png" group-title="Art Sports", 🇽🇰 Art Sport 2 FHD (ip)
+http://79.127.207.193:80/ArtSport2/playlist.m3u8
+#EXTINF:-1 tvg-id="Sport.3.at" tvg-logo="https://i.imgur.com/IZtzF5n.png" group-title="Art Sports", 🇽🇰 Art Sport 3 FHD (ip)
+http://79.127.207.193:80/ArtSport3/playlist.m3u8
+#EXTINF:-1 tvg-id="Sport.4.at" tvg-logo="https://i.imgur.com/YKroJkR.png" group-title="Art Sports", 🇽🇰 Art Sport 4 FHD (ip)
+http://79.127.207.193:80/ArtSport4/playlist.m3u8
+#EXTINF:-1 tvg-id="Sport.5.at" tvg-logo="https://i.imgur.com/Xh3tZ7F.png" group-title="Art Sports", 🇽🇰 Art Sport 5 FHD (ip)
+http://79.127.207.193:80/ArtSport5/playlist.m3u8
+#EXTINF:-1 tvg-id="Sport.6.xk" tvg-logo="https://i.imgur.com/OneWQ24.png" group-title="Art Sports", 🇽🇰 Art Sport 6 FHD (ip)
+http://79.127.207.193:80/ArtSport6/playlist.m3u8
+
+#EXTINF:0 group-title="Art Sports"
 
 # # # ---------------------------------------- 📺 EU Sports ----------------------------------------
 #EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" tvg-name="Premier Sports 1 FHD" tvg-logo="https://i.imgur.com/StTYm4F.png" group-title="EU Sports" , IRE: Premier Sports 1 FHD (ks)
@@ -2748,69 +2871,6 @@ http://kstv.us:8080/Freshcobar23/83261331891/47858
 
 #EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-name="Premier Sports 2 FHD" tvg-logo="https://i.imgur.com/4W9acIk.png" group-title="EU Sports" , IRE: Premier Sports 2 FHD (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/47859
-
-
-#EXTINF:-1 tvg-id="Arena.Premium.1.HD.(RS).rs" tvg-logo="https://i.imgur.com/NMbteWK.png" group-title="EU Sports", 🇷🇸 Arena Premium 1 FHD (ip)
-http://79.127.207.193:80/ArenaPremium1HD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Arena.Premium.2.HD.(RS).rs" tvg-logo="https://i.imgur.com/3JVMedy.png" group-title="EU Sports", 🇷🇸 Arena Premium 2 FHD (ip)
-http://79.127.207.193:80/ArenaPremium2HD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Arena.Premium.3.HD.(RS).rs" tvg-logo="https://i.imgur.com/WhT78pi.png" group-title="EU Sports", 🇷🇸 Arena Premium 3 FHD (ip)
-http://79.127.207.193:80/ArenaPremium3HD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Arena.Sport.1.cz" tvg-logo="https://i.imgur.com/zgm3m3t.png" group-title="EU Sports", 🇨🇿 Arena Sport 1 FHD 50fps (ip)
-http://88.212.15.19/live/test_arenasport/playlist.m3u8
-#EXTINF:-1 tvg-id="Arena.Sport.2.cz" tvg-logo="https://i.imgur.com/LDFbqOW.png" group-title="EU Sports", 🇨🇿 Arena Sport 2 FHD 50fps (ip) 
-http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Arena.Sport.1.HD.(RS).rs" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="EU Sports", 🇷🇸 Arena Sport 1 FHD 25fps (fe)
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1177
-#EXTINF:-1 tvg-id="Arena.Sport.1.HD.hr" tvg-logo="https://i.imgur.com/rK3sPDf.png" group-title="EU Sports", 🇭🇷 Arena Sport 1 FHD 25fps (fe)
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1189
-
-#EXTINF:-1 tvg-id="Arena.Sport.2.HD.(RS).rs" tvg-logo="https://i.imgur.com/aqlECBj.png" group-title="EU Sports", 🇷🇸 Arena Sport 2 FHD 25fps (fe)
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1176
-#EXTINF:-1 tvg-id="Arena.Sport.2.HD.hr" tvg-logo="https://i.imgur.com/aqlECBj.png" group-title="EU Sports", 🇭🇷 Arena Sport 2 FHD 25fps (fe)
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1187
-
-#EXTINF:-1 tvg-id="Arena.Sport.3.HD.(RS).rs" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="EU Sports", 🇷🇸 Arena Sport 3 FHD 25fps (fe)
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1175
-#EXTINF:-1 tvg-id="Arena.Sport.3.HD.hr" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="EU Sports", 🇭🇷 Arena Sport 3 FHD 25fps (fe)
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1185
-
-#EXTINF:-1 tvg-id="Arena.Sport.4.HD.(RS).rs" tvg-logo="https://i.imgur.com/h1XhGkz.png" group-title="EU Sports", 🇷🇸 Arena Sport 4 FHD 25fps (fe)
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1174
-#EXTINF:-1 tvg-id="Arena.Sport.4.HD.hr" tvg-logo="https://i.imgur.com/h1XhGkz.png" group-title="EU Sports", 🇭🇷 Arena Sport 4 FHD 25fps (fe)
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1183
-
-#EXTINF:-1 tvg-id="Arena.Sport.5.HD.hr" tvg-logo="https://i.imgur.com/aWYqu4B.png" group-title="EU Sports", 🇭🇷 Arena Sport 5 FHD 50fps (bo)
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/171338.m3u8
-
-#EXTINF:-1 tvg-id="Arena.Sport.6.HD.hr" tvg-logo="https://i.imgur.com/CUhgHWn.png" group-title="EU Sports", 🇭🇷 Arena Sport 6 FHD 25fps (fe)
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1179
-#EXTINF:-1 tvg-id="Arena.Sport.7.HD.hr" tvg-logo="https://i.imgur.com/VQ2LO94.png" group-title="EU Sports", 🇭🇷 Arena Sport 7 FHD 25fps (fe)
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17669
-#EXTINF:-1 tvg-id="Arena.Sport.8.HD.hr" tvg-logo="https://i.imgur.com/aWYqu4B.png" group-title="EU Sports", 🇭🇷 Arena Sport 8 FHD 25fps (fe)
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17670
-#EXTINF:-1 tvg-id="Arena.Sport.9.HD.hr" tvg-logo="https://i.imgur.com/6kpMNLc.png" group-title="EU Sports", 🇭🇷 Arena Sport 9 FHD 25fps (fe)
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17671
-#EXTINF:-1 tvg-id="Arena.Sport.10.HD.hr" tvg-logo="https://i.imgur.com/oGGffys.png" group-title="EU Sports", 🇭🇷 Arena Sport 10 FHD 25fps (fe)
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17672
-
-
-#EXTINF:-1 tvg-id="Sport.1.HD.at" tvg-logo="https://i.imgur.com/yrl2rLZ.png" group-title="EU Sports", 🇽🇰 Art Sport 1 FHD (ip)
-http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
-#EXTINF:-1 tvg-id="Sport.2.at" tvg-logo="https://i.imgur.com/MFPzqSg.png" group-title="EU Sports", 🇽🇰 Art Sport 2 FHD (ip)
-http://79.127.207.193:80/ArtSport2/playlist.m3u8
-#EXTINF:-1 tvg-id="Sport.3.at" tvg-logo="https://i.imgur.com/IZtzF5n.png" group-title="EU Sports", 🇽🇰 Art Sport 3 FHD (ip)
-http://79.127.207.193:80/ArtSport3/playlist.m3u8
-#EXTINF:-1 tvg-id="Sport.4.at" tvg-logo="https://i.imgur.com/YKroJkR.png" group-title="EU Sports", 🇽🇰 Art Sport 4 FHD (ip)
-http://79.127.207.193:80/ArtSport4/playlist.m3u8
-#EXTINF:-1 tvg-id="Sport.5.at" tvg-logo="https://i.imgur.com/Xh3tZ7F.png" group-title="EU Sports", 🇽🇰 Art Sport 5 FHD (ip)
-http://79.127.207.193:80/ArtSport5/playlist.m3u8
-#EXTINF:-1 tvg-id="Sport.6.xk" tvg-logo="https://i.imgur.com/OneWQ24.png" group-title="EU Sports", 🇽🇰 Art Sport 6 FHD (ip)
-http://79.127.207.193:80/ArtSport6/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Polsat.Sport.HD.pl" group-title="EU Sports" tvg-logo="https://i.imgur.com/uPfCSKl.png", 🇵🇱 Polsat Sport 1 FHD 50fps (ch)
