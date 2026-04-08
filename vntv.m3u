@@ -1957,7 +1957,7 @@ https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.ama
 # # # World Sports Channels. Collected from https://bit.ly/a1xstream, https://7pal.short.gy/sports4kuhd, https://bit.ly/sports4kuhd, lamtung16, Love4vn, k33n26, vmttv
 # # # ------------------------------------- 📺 UHD | 4K Channels -------------------------------------
 
-#EXTINF:-1 tvg-id="Now.Sports.Premier.League.1.hk"  tvg-logo="https://i.imgur.com/TGoqoQx.png" group-title="UHD | 4K" , HK: Now Sports PL 1 UHD 50fps (g)
+#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk"  tvg-logo="https://i.imgur.com/TGoqoQx.png" group-title="UHD | 4K" , HK: Now Sports PL 1 UHD 50fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/50172.ts
 
 #EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk"  tvg-logo="https://i.imgur.com/hS6IPiP.png" group-title="UHD | 4K" , HK: Now Sports PL 2 UHD 50fps (g)
@@ -1966,9 +1966,9 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/61688.ts
 #EXTINF:-1 tvg-id="Now.Sports.4K.1.hk" tvg-logo="https://i.imgur.com/uAB6wbt.png" group-title="UHD | 4K" , HK: Now Sports 1 UHD 50fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/61689.ts
 
-#EXTINF:-1 tvg-id="nowhknowsports4k616"  tvg-logo=https://i.imgur.com/uAB6wbt.png" group-title="UHD | 4K", HK: Now Sports 4K 616 UHD 50fps (xp)
+#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk"  tvg-logo=https://i.imgur.com/uAB6wbt.png" group-title="UHD | 4K", HK: Now Sports 4K 616 UHD 50fps (xp)
 http://myxpanel.pro:80/live/Martin/Martin/715558.ts
-#EXTINF:-1 tvg-id="nowhknowsports4k617"  tvg-logo="https://i.imgur.com/uAB6wbt.png" group-title="UHD | 4K", HK: Now Sports 4K 617 UHD 50fps (xp)
+#EXTINF:-1 tvg-id="Now.Sports.4K.2.hk"  tvg-logo="https://i.imgur.com/uAB6wbt.png" group-title="UHD | 4K", HK: Now Sports 4K 617 UHD 50fps (xp)
 http://myxpanel.pro:80/live/Martin/Martin/715557.ts
 
 
