@@ -2750,13 +2750,13 @@ http://kstv.us:8080/Freshcobar23/83261331891/47858
 http://kstv.us:8080/Freshcobar23/83261331891/47859
 
 
-#EXTINF:-1 tvg-id="Arena.Premium.1.HD.(RS).rs" tvg-logo="https://i.imgur.com/NMbteWK.png" group-title="EU Sports", 🇭🇷 Arena Premium 1 FHD (ip)
+#EXTINF:-1 tvg-id="Arena.Premium.1.HD.(RS).rs" tvg-logo="https://i.imgur.com/NMbteWK.png" group-title="EU Sports", 🇷🇸 Arena Premium 1 FHD (ip)
 http://79.127.207.193:80/ArenaPremium1HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Arena.Premium.2.HD.(RS).rs" tvg-logo="https://i.imgur.com/3JVMedy.png" group-title="EU Sports", 🇭🇷 Arena Premium 2 FHD (ip)
+#EXTINF:-1 tvg-id="Arena.Premium.2.HD.(RS).rs" tvg-logo="https://i.imgur.com/3JVMedy.png" group-title="EU Sports", 🇷🇸 Arena Premium 2 FHD (ip)
 http://79.127.207.193:80/ArenaPremium2HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Arena.Premium.3.HD.(RS).rs" tvg-logo="https://i.imgur.com/WhT78pi.png" group-title="EU Sports", 🇭🇷 Arena Premium 3 FHD (ip)
+#EXTINF:-1 tvg-id="Arena.Premium.3.HD.(RS).rs" tvg-logo="https://i.imgur.com/WhT78pi.png" group-title="EU Sports", 🇷🇸 Arena Premium 3 FHD (ip)
 http://79.127.207.193:80/ArenaPremium3HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Arena.Sport.1.cz" tvg-logo="https://i.imgur.com/zgm3m3t.png" group-title="EU Sports", 🇨🇿 Arena Sport 1 FHD 50fps (ip)
@@ -2764,20 +2764,29 @@ http://88.212.15.19/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 tvg-id="Arena.Sport.2.cz" tvg-logo="https://i.imgur.com/LDFbqOW.png" group-title="EU Sports", 🇨🇿 Arena Sport 2 FHD 50fps (ip) 
 http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Arena.Sport.1.HD.hr" tvg-logo="https://i.imgur.com/rK3sPDf.png" group-title="EU Sports", 🇭🇷 Arena Sport 1 FHD 25fps (fe)
+#EXTINF:-1 tvg-id="Arena.Sport.1.HD.(RS).rs" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="EU Sports", 🇷🇸 Arena Sport 1 FHD 25fps (fe)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1177
 #EXTINF:-1 tvg-id="Arena.Sport.1.HD.hr" tvg-logo="https://i.imgur.com/rK3sPDf.png" group-title="EU Sports", 🇭🇷 Arena Sport 1 FHD 25fps (fe)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1189
+
+#EXTINF:-1 tvg-id="Arena.Sport.2.HD.(RS).rs" tvg-logo="https://i.imgur.com/aqlECBj.png" group-title="EU Sports", 🇷🇸 Arena Sport 2 FHD 25fps (fe)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1176
 #EXTINF:-1 tvg-id="Arena.Sport.2.HD.hr" tvg-logo="https://i.imgur.com/aqlECBj.png" group-title="EU Sports", 🇭🇷 Arena Sport 2 FHD 25fps (fe)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1187
-#EXTINF:-1 tvg-id="Arena.Sport.3.HD.hr" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="EU Sports", 🇭🇷 Arena Sport 3 FHD 25fps (fe)
+
+#EXTINF:-1 tvg-id="Arena.Sport.3.HD.(RS).rs" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="EU Sports", 🇷🇸 Arena Sport 3 FHD 25fps (fe)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1175
 #EXTINF:-1 tvg-id="Arena.Sport.3.HD.hr" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="EU Sports", 🇭🇷 Arena Sport 3 FHD 25fps (fe)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1185
-#EXTINF:-1 tvg-id="Arena.Sport.4.HD.hr" tvg-logo="https://i.imgur.com/h1XhGkz.png" group-title="EU Sports", 🇭🇷 Arena Sport 4 FHD 25fps (fe)
+
+#EXTINF:-1 tvg-id="Arena.Sport.4.HD.(RS).rs" tvg-logo="https://i.imgur.com/h1XhGkz.png" group-title="EU Sports", 🇷🇸 Arena Sport 4 FHD 25fps (fe)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1174
+#EXTINF:-1 tvg-id="Arena.Sport.4.HD.hr" tvg-logo="https://i.imgur.com/h1XhGkz.png" group-title="EU Sports", 🇭🇷 Arena Sport 4 FHD 25fps (fe)
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1183
+
 #EXTINF:-1 tvg-id="Arena.Sport.5.HD.hr" tvg-logo="https://i.imgur.com/aWYqu4B.png" group-title="EU Sports", 🇭🇷 Arena Sport 5 FHD 50fps (bo)
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/171338.m3u8
+
 #EXTINF:-1 tvg-id="Arena.Sport.6.HD.hr" tvg-logo="https://i.imgur.com/CUhgHWn.png" group-title="EU Sports", 🇭🇷 Arena Sport 6 FHD 25fps (fe)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1179
 #EXTINF:-1 tvg-id="Arena.Sport.7.HD.hr" tvg-logo="https://i.imgur.com/VQ2LO94.png" group-title="EU Sports", 🇭🇷 Arena Sport 7 FHD 25fps (fe)
