@@ -2661,9 +2661,9 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/61684.ts
 http://kstv.us:8080/Freshcobar23/83261331891/40618
 #EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" group-title="Sportsnet" tvg-logo="https://i.imgur.com/j8e8Hjo.png", Sportsnet 360 (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/21233.ts
-#EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" group-title="Sportsnet" tvg-logo="https://i.imgur.com/j8e8Hjo.png", Sportsnet 360 (tv)
+#EXTINF:-1 tvg-id="Sportsnet.360.ca2" group-title="Sportsnet" tvg-logo="https://i.imgur.com/j8e8Hjo.png", Sportsnet 360 (tv)
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/57299
-#EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" group-title="Sportsnet" tvg-logo="https://i.imgur.com/j8e8Hjo.png", Sportsnet 360 (r)
+#EXTINF:-1 tvg-id="Sportsnet.360.ca2" group-title="Sportsnet" tvg-logo="https://i.imgur.com/j8e8Hjo.png", Sportsnet 360 (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/3073
 
 #EXTINF:-1 tvg-id="Sportsnet.One.HD.ca2" group-title="Sportsnet" tvg-logo="https://i.imgur.com/9N3QiZe.png", Sportsnet One (g)
@@ -2672,18 +2672,18 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/21235.ts
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/10247
 #EXTINF:-1 tvg-id="Sportsnet.One.HD.ca2" group-title="Sportsnet" tvg-logo="https://i.imgur.com/9N3QiZe.png", Sportsnet One (tv)
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/57297
-#EXTINF:-1 tvg-id="Sportsnet.One.HD.ca2" group-title="Sportsnet" tvg-logo="https://i.imgur.com/9N3QiZe.png", Sportsnet One (tv)
+#EXTINF:-1 tvg-id="Sportsnet.One.ca2" group-title="Sportsnet" tvg-logo="https://i.imgur.com/9N3QiZe.png", Sportsnet One (tv)
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/47379
-#EXTINF:-1 tvg-id="Sportsnet.One.HD.ca2" group-title="Sportsnet" tvg-logo="https://i.imgur.com/9N3QiZe.png", Sportsnet One (r)
+#EXTINF:-1 tvg-id="Sportsnet.One.ca2" group-title="Sportsnet" tvg-logo="https://i.imgur.com/9N3QiZe.png", Sportsnet One (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/3071
 
 #EXTINF:-1 tvg-id="Sportsnet.World.HD.ca2" group-title="Sportsnet" tvg-logo="https://i.imgur.com/QvUIQRb.png", Sportsnet World (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/15936
 #EXTINF:-1 tvg-id="Sportsnet.World.HD.ca2" group-title="Sportsnet" tvg-logo="https://i.imgur.com/QvUIQRb.png", Sportsnet World (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/21239.ts
-#EXTINF:-1 tvg-id="Sportsnet.World.HD.ca2" group-title="Sportsnet" tvg-logo="https://i.imgur.com/QvUIQRb.png", Sportsnet World (tv)
+#EXTINF:-1 tvg-id="Sportsnet.World.ca2" group-title="Sportsnet" tvg-logo="https://i.imgur.com/QvUIQRb.png", Sportsnet World (tv)
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/75675
-#EXTINF:-1 tvg-id="Sportsnet.World.HD.ca2" group-title="Sportsnet" tvg-logo="https://i.imgur.com/QvUIQRb.png", Sportsnet World (r)
+#EXTINF:-1 tvg-id="Sportsnet.World.ca2" group-title="Sportsnet" tvg-logo="https://i.imgur.com/QvUIQRb.png", Sportsnet World (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/88060
 
 
