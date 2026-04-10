@@ -2841,13 +2841,17 @@ http://88.212.15.19/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 tvg-id="Arena.Sport.2.cz" tvg-logo="https://i.imgur.com/LDFbqOW.png" group-title="Arena Sports", 🇨🇿 Arena Sport 2 FHD 50fps (ip) 
 http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Arena.Sport.1.HD" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="Arena Sports", Arena Sport 1 FHD 50fps (xd)
+#EXTINF:-1 tvg-id="Arena.Sport.1.HD.sk" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="Arena Sports", 🇰🇷 Arena Sport 1 FHD 50fps (xd)
 http://xdgo.live:8080/rogeliopty/YhhqPpCAru/159101
+#EXTINF:-1 tvg-id="Arena.Sport.1.HD.sl" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="Arena Sports", 🇸🇮 Arena Sport 1 FHD 50fps (xp)
+http://myxpanel.pro:80/Martin/Martin/803097
 #EXTINF:-1 tvg-id="Arena.Sport.1.HD.(RS).rs" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="Arena Sports", 🇷🇸 Arena Sport 1 FHD 25fps (fe)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1177
 #EXTINF:-1 tvg-id="Arena.Sport.1.HD.hr" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="Arena Sports", 🇭🇷 Arena Sport 1 FHD 25fps (fe)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1189
 
+#EXTINF:-1 tvg-id="Arena.Sport.2.HD.sl" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="Arena Sports", 🇸🇮 Arena Sport 2 FHD 50fps (xp)
+http://myxpanel.pro:80/Martin/Martin/803098
 #EXTINF:-1 tvg-id="Arena.Sport.2.HD.(RS).rs" tvg-logo="https://i.imgur.com/aqlECBj.png" group-title="Arena Sports", 🇷🇸 Arena Sport 2 FHD 25fps (fe)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1176
 #EXTINF:-1 tvg-id="Arena.Sport.2.HD.hr" tvg-logo="https://i.imgur.com/aqlECBj.png" group-title="Arena Sports", 🇭🇷 Arena Sport 2 FHD 25fps (fe)
@@ -2884,7 +2888,7 @@ http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17672
 
 #EXTINF:-1 tvg-id="Sport.1.al" tvg-logo="https://i.imgur.com/yrl2rLZ.png" group-title="Art Sports", 🇽🇰 Art Sport 1 FHD (ip)
 http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
-#EXTINF:-1 tvg-id="Sport.3.al" tvg-logo="https://i.imgur.com/MFPzqSg.png" group-title="Art Sports", 🇽🇰 Art Sport 2 FHD (ip)
+#EXTINF:-1 tvg-id="Sport.2.al" tvg-logo="https://i.imgur.com/MFPzqSg.png" group-title="Art Sports", 🇽🇰 Art Sport 2 FHD (ip)
 http://79.127.207.193:80/ArtSport2/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport.3.al" tvg-logo="https://i.imgur.com/IZtzF5n.png" group-title="Art Sports", 🇽🇰 Art Sport 3 FHD (ip)
 http://79.127.207.193:80/ArtSport3/playlist.m3u8
