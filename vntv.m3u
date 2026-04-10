@@ -1820,7 +1820,7 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527595&exten
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/61686.ts
 
 
-#EXTINF:-1 tvg-id="Sportsnet.East.HD.ca2" tvg-logo="https://i.imgur.com/j8e8Hjo.png" group-title="UHD | 4K", CA: Sportsnet UHD 60fps (g)
+#EXTINF:-1 tvg-id="Sportsnet.East.HD.ca2" tvg-logo="https://i.imgur.com/j8e8Hjo.png" group-title="UHD | 4K", CA: Sportsnet East UHD 60fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/61683.ts
 
 #EXTINF:-1 tvg-id="Sportsnet.One.ca2" tvg-logo="https://i.imgur.com/9N3QiZe.png" group-title="UHD | 4K", CA: Sportsnet One UHD 60fps (g)
@@ -2975,15 +2975,15 @@ http://myxpanel.pro:80/live/Martin/Martin/288361.ts
 #EXTINF:-1 tvg-id="Hub.Sports.4.HD.sg"  tvg-logo="https://i.imgur.com/cvqJupU.png" group-title="World Sports", SG: Hub Sports 4 SD (xp)
 http://myxpanel.pro:80/live/Martin/Martin/288360.ts
 
-#EXTINF:-1 tvg-id="Hub.Sports.5.HD.sg"  tvg-logo="https://i.imgur.com/AcFtMXm.png" group-title="World Sports", SG: Hub Sports 5 SD (xp)
+#EXTINF:-1 tvg-id="Hub.Sports.5.HD.sg"  tvg-logo="https://i.imgur.com/XmztOG9.png" group-title="World Sports", SG: Hub Sports 5 SD (xp)
 http://myxpanel.pro:80/live/Martin/Martin/288359.ts
 
-#EXTINF:-1 tvg-id="Hub.Sports.7.HD.sg"  tvg-logo=https://i.imgur.com/cvqJupU.png" group-title="World Sports", SG: Hub Sports 7 (Hub Premier 9?) FHD 50fps (g)
+#EXTINF:-1 tvg-id="Hub.Sports.7.HD.sg"  tvg-logo="https://i.imgur.com/VkzYH9r.png" group-title="World Sports", SG: Hub Sports 7 (Hub Premier 9?) FHD 50fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/57443.ts
-#EXTINF:-1 tvg-id="Hub.Sports.7.HD.sg"  tvg-logo="https://i.imgur.com/cvqJupU.png" group-title="World Sports", SG: Hub Sports 7 (Hub Premier 9?) FHD 50fps (xp)
+#EXTINF:-1 tvg-id="Hub.Sports.7.HD.sg"  tvg-logo="https://i.imgur.com/VkzYH9r.png" group-title="World Sports", SG: Hub Sports 7 (Hub Premier 9?) FHD 50fps (xp)
 http://myxpanel.pro:80/live/Martin/Martin/288367.ts
 
-#EXTINF:-1 tvg-id="Hub.Sports.8.HD.sg"  tvg-logo="https://i.imgur.com/7H0Tbxy.png" group-title="World Sports", SG: Hub Sports 8 (Hub Premier 10?) FHD 50fps (g)
+#EXTINF:-1 tvg-id="Hub.Sports.8.HD.sg"  tvg-logo="https://i.imgur.com/TDMdlud.png" group-title="World Sports", SG: Hub Sports 8 (Hub Premier 10?) FHD 50fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/57444.ts
 
 
