@@ -1549,7 +1549,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=214
 
 #EXTINF:-1 tvg-id="spotv1" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/ijiZ7Px.png" , 🇹🇭 SPOTV (1080p)
 http://119.59.118.168/live/ch18/irannahee/index.m3u8
-#EXTINF:-1 tvg-id="spotv1" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/ijiZ7Px.png" , 🇵🇭 SPOTV (1080p) (xp)
+#EXTINF:-1 tvg-id="SPOTV.HD.id" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/ijiZ7Px.png" , 🇵🇭 SPOTV (1080p) (xp)
 http://myxpanel.pro:80/Martin/Martin/705803
 
 #EXTINF:-1 tvg-id="spotv1" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/ijiZ7Px.png", 🇵🇭 SpoTV  (720p) [?]
@@ -1566,23 +1566,23 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 
-#EXTINF:-1 tvg-id="spotv1" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/ijiZ7Px.png" , 🇮🇩 SPOTV (720p)
+#EXTINF:-1 tvg-id="SPOTV.HD.id" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/ijiZ7Px.png" , 🇮🇩 SPOTV (720p)
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/165105
 #EXTINF:-1 tvg-id="spotv1" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/ijiZ7Px.png" , SPOTV (576p)
 http://iptv.4666888.xyz/iptv2A.php?id=2
 
 
-#EXTINF:-1 tvg-id="SPOTV2.id"  group-title="Quốc Tế" tvg-logo="https://i.imgur.com/P73CI9H.png" , 🇵🇭 SPOTV 2 (1080p) (xp)
+#EXTINF:-1 tvg-id="spotv2"  group-title="Quốc Tế" tvg-logo="https://i.imgur.com/P73CI9H.png" , 🇵🇭 SPOTV 2 (1080p) (xp)
 http://myxpanel.pro:80/Martin/Martin/705804
 
-#EXTINF:-1 tvg-id="spotv2" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/P73CI9H.png" , 🇵🇭 SpoTV 2  (720p) [?]
+#EXTINF:-1 tvg-id="SPOTV.2.HD.id" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/P73CI9H.png" , 🇵🇭 SpoTV 2 (720p) [?]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cignalplay.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
-#EXTINF:-1 tvg-id="SPOTV2.id"  group-title="Quốc Tế" tvg-logo="https://i.imgur.com/P73CI9H.png" , 🇮🇩 SPOTV 2 (720p) [?]
+#EXTINF:-1 tvg-id="SPOTV.2.HD.id"  group-title="Quốc Tế" tvg-logo="https://i.imgur.com/P73CI9H.png" , 🇮🇩 SPOTV 2 (720p) [?]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
@@ -1590,11 +1590,11 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 
-#EXTINF:-1 tvg-id="spotv2" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/P73CI9H.png" , 🇮🇩 SPOTV2 (720p)
+#EXTINF:-1 tvg-id="spotv.2.id" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/P73CI9H.png" , 🇮🇩 SPOTV2 (720p)
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/298506
 #EXTINF:-1 tvg-id="spotv2" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/P73CI9H.png" , SPOTV2 (576p)
 http://iptv.4666888.xyz/iptv2A.php?id=1
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/P73CI9H.png", 🇹🇭 SPOTV 2 (540p)
+#EXTINF:-1 tvg-id="spotv2" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/P73CI9H.png", 🇹🇭 SPOTV 2 (540p)
 http://119.59.118.168/live/ch19/irannahee/index.m3u8
 
 
