@@ -2650,7 +2650,7 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/88060
 
 #EXTINF:0 group-title="Sportsnet"
 
-# # # ---------------------------------------- 📺 SE: V Sports  ----------------------------------------
+# # # ---------------------------------------- 📺 SE: Sweden Sports  ----------------------------------------
 #EXTINF:-1 tvg-id="V.sport.ultra.HD.dk" tvg-logo="https://i.imgur.com/WpKSGVh.png" group-title="SE: Sweden Sports", SE: V Sport UHD 50fps (xp)
 http://myxpanel.pro:80/Martin/Martin/321
 
@@ -2662,7 +2662,7 @@ http://myxpanel.pro:80/Martin/Martin/318
 
 #EXTINF:-1 tvg-id="[VGOLFHD].V.Sport.Golf.HD.se" group-title="SE: Sweden Sports" tvg-logo="https://i.imgur.com/I99nUER.png", SE: V Sport Golf HD 50 FPS (xp)
 http://myxpanel.pro:80/Martin/Martin/286749
-#EXTINF:-1 tvg-id="[VGOLFHD].V.Sport.Golf.HD.se" group-title="SE: Sweden Sports" tvg-logo="https://i.imgur.com/I99nUER.png", SE: V Golf (xp)
+#EXTINF:-1 tvg-id="[VGOLFHD].V.Sport.Golf.HD.se" group-title="SE: Sweden Sports" tvg-logo="https://i.imgur.com/I99nUER.png", SE: V Sport Golf (xp)
 http://myxpanel.pro:80/Martin/Martin/320
 
 #EXTINF:-1 tvg-id="[VIASPHD].V.Sport.1.HD.se" group-title="SE: Sweden Sports" tvg-logo="https://i.imgur.com/poxqHUT.png", SE: V Sport 1 HD 50 FPS (xp)
