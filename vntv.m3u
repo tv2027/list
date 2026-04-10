@@ -2458,6 +2458,12 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/31957/ind
 #EXTINF:0 group-title="🟢 DAZN"
 
 # # # ---------------------------------------- 📺 Canal +  ----------------------------------------
+#EXTINF:-1 tvg-id="CANAL+FOOT.fr" group-title="🟢 Canal +" tvg-logo="https://i.imgur.com/XJtaq4F.png", Canal + Foot FHD 50fps (xp)
+http://myxpanel.pro:80/live/Martin/Martin/723952.ts
+#EXTINF:-1 tvg-id="CANAL+FOOT.fr" group-title="🟢 Canal +" tvg-logo="https://i.imgur.com/XJtaq4F.png", Canal + Foot HD 25fps (xp)
+http://myxpanel.pro:80/live/Martin/Martin/723954.ts
+#EXTINF:-1 tvg-id="CANAL+FOOT.fr" group-title="🟢 Canal +" tvg-logo="https://i.imgur.com/XJtaq4F.png", Canal + Foot HD 25fps (xp)
+http://myxpanel.pro:80/live/Martin/Martin/723953.ts
 #EXTINF:-1 tvg-id="CANAL+FOOT.fr" group-title="🟢 Canal +" tvg-logo="https://i.imgur.com/XJtaq4F.png", Canal + Foot HD 25fps (ch)
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1071923&extension=ts&play_token=vcQAIeKouv
 #EXTINF:-1 tvg-id="CANAL+FOOT.fr" group-title="🟢 Canal +" tvg-logo="https://i.imgur.com/XJtaq4F.png", Canal + Foot HD 50fps (as) ??
