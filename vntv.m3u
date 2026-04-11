@@ -1782,9 +1782,9 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/61688.ts
 #EXTINF:-1 tvg-id="Now.Sports.4K.3.hk" tvg-logo="https://i.imgur.com/uAB6wbt.png" group-title="UHD | 4K" , HK: Now Sports 3 (EPL) UHD 50fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/61689.ts
 
-#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk"  tvg-logo=https://i.imgur.com/uAB6wbt.png" group-title="UHD | 4K", HK: Now Sports 4K 616 UHD 50fps (xp)
+#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk"  tvg-logo="https://i.imgur.com/ALXSgbB.png" group-title="UHD | 4K", HK: Now Sports 4K 616 UHD 50fps (xp) WC 2026?
 http://myxpanel.pro:80/live/Martin/Martin/715558.ts
-#EXTINF:-1 tvg-id="Now.Sports.4K.2.hk"  tvg-logo="https://i.imgur.com/uAB6wbt.png" group-title="UHD | 4K", HK: Now Sports 4K 617 UHD 50fps (xp)
+#EXTINF:-1 tvg-id="Now.Sports.4K.2.hk"  tvg-logo="https://i.imgur.com/nk45wMi.png" group-title="UHD | 4K", HK: Now Sports 4K 617 UHD 50fps (xp) WC 2026?
 http://myxpanel.pro:80/live/Martin/Martin/715557.ts
 
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg"  tvg-logo="https://i.imgur.com/SM7GQAM.png" group-title="UHD | 4K", SG: Hub Premier 2 UHD 50fps (g)
@@ -1875,6 +1875,23 @@ http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/10252
 
 #EXTINF:-1 tvg-id="Now.Sports.Premier.League.1.hk" tvg-logo="https://i.imgur.com/u6uCLM1.png" group-title="⚽️ EPL" , HK: Now Sports PL 1 FHD 50fps (ev)
 https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.1.hk" tvg-logo="https://i.imgur.com/u6uCLM1.png" group-title="⚽️ EPL" , HK: Now Sports PL 1 FHD 50fps (xd)
+http://xdgo.live:8080/rogeliopty/YhhqPpCAru/108576
+
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-logo="https://i.imgur.com/5KiDlD4.png" group-title="⚽️ EPL" , HK: Now Sports PL 2 FHD 50fps (xd)
+http://xdgo.live:8080/rogeliopty/YhhqPpCAru/108577
+
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.3.hk" tvg-logo="https://i.imgur.com/Yzhdw5i.png" group-title="⚽️ EPL" , HK: Now Sports PL 3 FHD 50fps (xd)
+http://xdgo.live:8080/rogeliopty/YhhqPpCAru/108578
+
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.4.hk" tvg-logo="https://i.imgur.com/Z8Gaa7N.png" group-title="⚽️ EPL" , HK: Now Sports PL 4 FHD 50fps (xd)
+http://xdgo.live:8080/rogeliopty/YhhqPpCAru/108579
+
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.5.hk" tvg-logo="https://i.imgur.com/rY4DGDp.png" group-title="⚽️ EPL" , HK: Now Sports PL 5 FHD 50fps (xd)
+http://xdgo.live:8080/rogeliopty/YhhqPpCAru/108580
+
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.6.hk" tvg-logo="https://i.imgur.com/Gfq7JLy.png" group-title="⚽️ EPL" , HK: Now Sports PL 6 FHD 50fps (xd)
+http://xdgo.live:8080/rogeliopty/YhhqPpCAru/108581
 
 
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://i.imgur.com/v0mKVGU.png" group-title="⚽️ EPL", SG: Hub Premier 1 FHD 50fps (xp)
@@ -3036,27 +3053,30 @@ https://a1xs.vip/140003
 
 # # # ---------------------------------------- 📺 World Sports ----------------------------------------
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xhu0Gqg.png" group-title="World Sports", TVRI Sport FHD (ze)
-https://zebua.short.gy/tvrisport
+#EXTINF:-1 tvg-id="Now.Sports.7.hk"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5kotbd1659623121.png" group-title="World Sports", HK: Now Sports PRIME FHD 50fps (xp)
+http://myxpanel.pro:80/Martin/Martin/715559
 
 
-#EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://i.imgur.com/tDDl4E6.png" , Star Sports 1 FHD (ip)
-http://103.229.254.25:7001/play/a0a0/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://i.imgur.com/O0rlKay.png" , Star Sports 1 FHD (dh)
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9397
-#EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://i.imgur.com/O0rlKay.png" , Star Sports 1 Tamil FHD (dh)
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9399
+#EXTINF:-1 tvg-id="Now.Sports.1.hk"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/oia4ff1659623044.png" group-title="World Sports", HK: Now Sports 1 FHD 50fps (xp)
+http://myxpanel.pro:80/Martin/Martin/715566
 
-#EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://i.imgur.com/3ww1nKz.png" , Star Sports 2 FHD Tamil (dh)
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9398
+#EXTINF:-1 tvg-id="Now.Sports.2.hk"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sifo961659623059.png" group-title="World Sports", HK: Now Sports 2 FHD 50fps (xp)
+http://myxpanel.pro:80/Martin/Martin/715565
 
-#EXTINF:-1 tvg-id="starsportsselect1.in" group-title="World Sports" tvg-logo="https://i.imgur.com/YiNhjKY.png" , Star Sports Select 1 FHD (mf)
-https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8
-#EXTINF:-1 tvg-id="starsportsselect1.in" group-title="World Sports" tvg-logo="https://i.imgur.com/Os1I0MN.png" , Star Sports Select 1 FHD (dh)
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9400
+#EXTINF:-1 tvg-id="Now.Sports.3.hk"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qxvciw1659623071.png" group-title="World Sports", HK: Now Sports 3 FHD 50fps (xp)
+http://myxpanel.pro:80/Martin/Martin/715564
 
-#EXTINF:-1 tvg-id="starsportsselect2.in" group-title="World Sports" tvg-logo="https://i.imgur.com/Os1I0MN.png" , Star Sports Select 2 FHD (dh)
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9401
+#EXTINF:-1 tvg-id="Now.Sports.4.hk"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/guncdv1659623082.png" group-title="World Sports", HK: Now Sports 4 FHD 50fps (xp)
+http://myxpanel.pro:80/Martin/Martin/715563
+
+#EXTINF:-1 tvg-id="Now.Sports.5.hk"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4bs9w51659623090.png" group-title="World Sports", HK: Now Sports 5 FHD 50fps (xp)
+http://myxpanel.pro:80/Martin/Martin/715562
+
+#EXTINF:-1 tvg-id="Now.Sports.6.hk"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ycjj541659623099.png" group-title="World Sports", HK: Now Sports 6 FHD 50fps (xp)
+http://myxpanel.pro:80/Martin/Martin/715561
+
+#EXTINF:-1 tvg-id="Now.Sports.7.hk"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pd3hla1659623109.png" group-title="World Sports", HK: Now Sports 7 FHD 50fps (xp)
+http://myxpanel.pro:80/Martin/Martin/715560
 
 
 #EXTINF:-1 tvg-id="Hub.Sports.1.HD.sg"  tvg-logo="https://i.imgur.com/bhxPddO.png" group-title="World Sports", SG: Hub Sports 1 HD 50fps (xp)
@@ -3083,6 +3103,29 @@ http://myxpanel.pro:80/live/Martin/Martin/288367.ts
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/57444.ts
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xhu0Gqg.png" group-title="World Sports", TVRI Sport FHD (ze)
+https://zebua.short.gy/tvrisport
+
+
+#EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://i.imgur.com/tDDl4E6.png" , Star Sports 1 FHD (ip)
+http://103.229.254.25:7001/play/a0a0/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://i.imgur.com/O0rlKay.png" , Star Sports 1 FHD (dh)
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9397
+#EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://i.imgur.com/O0rlKay.png" , Star Sports 1 Tamil FHD (dh)
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9399
+
+#EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://i.imgur.com/3ww1nKz.png" , Star Sports 2 FHD Tamil (dh)
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9398
+
+#EXTINF:-1 tvg-id="starsportsselect1.in" group-title="World Sports" tvg-logo="https://i.imgur.com/YiNhjKY.png" , Star Sports Select 1 FHD (mf)
+https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8
+#EXTINF:-1 tvg-id="starsportsselect1.in" group-title="World Sports" tvg-logo="https://i.imgur.com/Os1I0MN.png" , Star Sports Select 1 FHD (dh)
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9400
+
+#EXTINF:-1 tvg-id="starsportsselect2.in" group-title="World Sports" tvg-logo="https://i.imgur.com/Os1I0MN.png" , Star Sports Select 2 FHD (dh)
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9401
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ipgmF4F.png" group-title="World Sports", Sports Grid HD (ze) (720p)
 https://zebua.short.gy/sportsgrid
 
@@ -3101,11 +3144,10 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/61688.ts
 #EXTINF:-1 tvg-id="Now.Sports.4K.3.hk" tvg-logo="https://i.imgur.com/uAB6wbt.png" group-title="🟢 Live ⚽| Football" , HK: Now Sports 3 UHD 50fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/61689.ts
 
-#EXTINF:-1 tvg-id="nowhknowsports4k616"  tvg-logo=https://i.imgur.com/uAB6wbt.png" group-title="🟢 Live ⚽| Football", HK: Now Sports 4K 616 UHD 50fps (xp)
+#EXTINF:-1 tvg-id="nowhknowsports4k616"  tvg-logo=https://i.imgur.com/ALXSgbB.png" group-title="🟢 Live ⚽| Football", HK: Now Sports 4K 616 UHD 50fps (xp) WC 2026?
 http://myxpanel.pro:80/live/Martin/Martin/715558.ts
-#EXTINF:-1 tvg-id="nowhknowsports4k617"  tvg-logo="https://i.imgur.com/uAB6wbt.png" group-title="🟢 Live ⚽| Football", HK: Now Sports 4K 617 UHD 50fps (xp)
+#EXTINF:-1 tvg-id="nowhknowsports4k617"  tvg-logo="https://i.imgur.com/nk45wMi.png" group-title="🟢 Live ⚽| Football", HK: Now Sports 4K 617 UHD 50fps (xp) WC 2026?
 http://myxpanel.pro:80/live/Martin/Martin/715557.ts
-
 
 
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.HD.ie" tvg-logo="https://i.imgur.com/6xCKKhn.png" group-title="🟢 Live ⚽| Football", UK: Sky Sports Main Event UHD 50fps (g)
