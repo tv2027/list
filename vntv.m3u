@@ -2862,7 +2862,7 @@ http://88.212.15.19/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 tvg-id="Arena.Sport.2.cz" tvg-logo="https://i.imgur.com/LDFbqOW.png" group-title="Arena Sports", 🇨🇿 Arena Sport 2 FHD 50fps (ip) 
 http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Arena.Sport.1.HD.sk" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="Arena Sports", 🇰🇷 Arena Sport 1 FHD 50fps (xd)
+#EXTINF:-1 tvg-id="Arena.Sport.1.HD.sk" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="Arena Sports", 🇸🇰 Arena Sport 1 FHD 50fps (xd)
 http://xdgo.live:8080/rogeliopty/YhhqPpCAru/159101
 #EXTINF:-1 tvg-id="Arena.Sport.1.HD.sl" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="Arena Sports", 🇸🇮 Arena Sport 1 FHD 50fps (xp)
 http://myxpanel.pro:80/Martin/Martin/803097
