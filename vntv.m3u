@@ -2831,10 +2831,31 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/60022.ts
 
 #EXTINF:-1 tvg-id="Arena.Premium.1.HD.(RS).rs" tvg-logo="https://i.imgur.com/NMbteWK.png" group-title="Arena Sports", 🇷🇸 Arena Premium 1 FHD 50fps (xd)
 http://xdgo.live:8080/rogeliopty/YhhqPpCAru/159098
+#EXTINF:-1 tvg-id="Arena.Premium.1.HD.(RS).rs" tvg-logo="https://i.imgur.com/NMbteWK.png" group-title="Arena Sports", 🇷🇸 Arena Premium 1 FHD 50fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786870
+#EXTINF:-1 tvg-id="Arena.Premium.1.HD.ba" tvg-logo="https://i.imgur.com/NMbteWK.png" group-title="Arena Sports", 🇧🇦 Arena Premium 1 FHD 25fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786930
+#EXTINF:-1 tvg-id="Arena.Premium.1.HD.ba" tvg-logo="https://i.imgur.com/NMbteWK.png" group-title="Arena Sports", 🇧🇦 Arena Premium 1 HD 25fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786929
+
+
 #EXTINF:-1 tvg-id="Arena.Premium.2.HD.(RS).rs" tvg-logo="https://i.imgur.com/3JVMedy.png" group-title="Arena Sports", 🇷🇸 Arena Premium 2 FHD 50fps (xd)
 http://xdgo.live:8080/rogeliopty/YhhqPpCAru/159099
+#EXTINF:-1 tvg-id="Arena.Premium.2.HD.(RS).rs" tvg-logo="https://i.imgur.com/3JVMedy.png" group-title="Arena Sports", 🇷🇸 Arena Premium 2 FHD 50fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786867
+#EXTINF:-1 tvg-id="Arena.Premium.2.HD.ba" tvg-logo="https://i.imgur.com/3JVMedy.png" group-title="Arena Sports", 🇧🇦 Arena Premium 2 FHD 25fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786928
+#EXTINF:-1 tvg-id="Arena.Premium.2.HD.ba" tvg-logo="https://i.imgur.com/3JVMedy.png" group-title="Arena Sports", 🇧🇦 Arena Premium 2 HD 25fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786927
+
 #EXTINF:-1 tvg-id="Arena.Premium.3.HD.(RS).rs" tvg-logo="https://i.imgur.com/WhT78pi.png" group-title="Arena Sports", 🇷🇸 Arena Premium 3 FHD 50fps (xd)
 http://xdgo.live:8080/rogeliopty/YhhqPpCAru/159100
+#EXTINF:-1 tvg-id="Arena.Premium.3.HD.(RS).rs" tvg-logo="https://i.imgur.com/WhT78pi.png" group-title="Arena Sports", 🇷🇸 Arena Premium 3 FHD 50fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786864
+#EXTINF:-1 tvg-id="Arena.Premium.3.HD.ba" tvg-logo="https://i.imgur.com/WhT78pi.png" group-title="Arena Sports", 🇷🇸 Arena Premium 3 FHD 25fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786926
+#EXTINF:-1 tvg-id="Arena.Premium.3.HD.ba" tvg-logo="https://i.imgur.com/WhT78pi.png" group-title="Arena Sports", 🇷🇸 Arena Premium 3 HD 25fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786925
 
 #EXTINF:-1 tvg-id="Arena.Sport.1.cz" tvg-logo="https://i.imgur.com/zgm3m3t.png" group-title="Arena Sports", 🇨🇿 Arena Sport 1 FHD 50fps (ip)
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
@@ -2847,40 +2868,102 @@ http://xdgo.live:8080/rogeliopty/YhhqPpCAru/159101
 http://myxpanel.pro:80/Martin/Martin/803097
 #EXTINF:-1 tvg-id="Arena.Sport.1.HD.(RS).rs" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="Arena Sports", 🇷🇸 Arena Sport 1 FHD 25fps (fe)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1177
+#EXTINF:-1 tvg-id="Arena.Sport.1.HD.(RS).rs" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="Arena Sports", 🇷🇸 Arena Sport 1 FHD 25fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786871
+#EXTINF:-1 tvg-id="Arena.Sport.1.HD.hr" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="Arena Sports", 🇭🇷 Arena Sport 1 FHD 50fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786914
 #EXTINF:-1 tvg-id="Arena.Sport.1.HD.hr" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="Arena Sports", 🇭🇷 Arena Sport 1 FHD 25fps (fe)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1189
+#EXTINF:-1 tvg-id="Arena.Sport.1.HD.ba" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="Arena Sports", 🇧🇦 Arena Sport 1 FHD 50fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786924
+#EXTINF:-1 tvg-id="Arena.Sport.1.HD.ba" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="Arena Sports", 🇧🇦 Arena Sport 1 HD 50fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786923
+
 
 #EXTINF:-1 tvg-id="Arena.Sport.2.HD.sl" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="Arena Sports", 🇸🇮 Arena Sport 2 FHD 50fps (xp)
 http://myxpanel.pro:80/Martin/Martin/803098
+#EXTINF:-1 tvg-id="Arena.Sport.2.HD.ba" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="Arena Sports", 🇧🇦 Arena Sport 2 FHD 50fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786922
 #EXTINF:-1 tvg-id="Arena.Sport.2.HD.(RS).rs" tvg-logo="https://i.imgur.com/aqlECBj.png" group-title="Arena Sports", 🇷🇸 Arena Sport 2 FHD 25fps (fe)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1176
+#EXTINF:-1 tvg-id="Arena.Sport.2.HD.hr" tvg-logo="https://i.imgur.com/aqlECBj.png" group-title="Arena Sports", 🇭🇷 Arena Sport 2 FHD 50fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786912
 #EXTINF:-1 tvg-id="Arena.Sport.2.HD.hr" tvg-logo="https://i.imgur.com/aqlECBj.png" group-title="Arena Sports", 🇭🇷 Arena Sport 2 FHD 25fps (fe)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1187
 
+#EXTINF:-1 tvg-id="Arena.Sport.3.HD.ba" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="Arena Sports", 🇧🇦 Arena Sport 3 FHD 50fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786921
+#EXTINF:-1 tvg-id="Arena.Sport.3.HD.(RS).rs" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="Arena Sports", 🇷🇸 Arena Sport 3 FHD 25fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786863
 #EXTINF:-1 tvg-id="Arena.Sport.3.HD.(RS).rs" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="Arena Sports", 🇷🇸 Arena Sport 3 FHD 25fps (fe)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1175
+#EXTINF:-1 tvg-id="Arena.Sport.3.HD.hr" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="Arena Sports", 🇭🇷 Arena Sport 3 FHD 50fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786910
 #EXTINF:-1 tvg-id="Arena.Sport.3.HD.hr" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="Arena Sports", 🇭🇷 Arena Sport 3 FHD 25fps (fe)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1185
 
+#EXTINF:-1 tvg-id="Arena.Sport.4.HD.ba" tvg-logo="https://i.imgur.com/h1XhGkz.png" group-title="Arena Sports", 🇧🇦 Arena Sport 4 FHD 50fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786920
+#EXTINF:-1 tvg-id="Arena.Sport.4.HD.(RS).rs" tvg-logo="https://i.imgur.com/h1XhGkz.png" group-title="Arena Sports", 🇷🇸 Arena Sport 4 FHD 25fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786861
 #EXTINF:-1 tvg-id="Arena.Sport.4.HD.(RS).rs" tvg-logo="https://i.imgur.com/h1XhGkz.png" group-title="Arena Sports", 🇷🇸 Arena Sport 4 FHD 25fps (fe)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1174
+#EXTINF:-1 tvg-id="Arena.Sport.4.HD.hr" tvg-logo="https://i.imgur.com/h1XhGkz.png" group-title="Arena Sports", 🇭🇷 Arena Sport 4 FHD 50fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786909
 #EXTINF:-1 tvg-id="Arena.Sport.4.HD.hr" tvg-logo="https://i.imgur.com/h1XhGkz.png" group-title="Arena Sports", 🇭🇷 Arena Sport 4 SD 25fps (fe)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1183
 
+#EXTINF:-1 tvg-id="Arena.Sport.5.HD.ba" tvg-logo="https://i.imgur.com/aWYqu4B.png" group-title="Arena Sports", 🇧🇦 Arena Sport 5 FHD 50fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786919
+#EXTINF:-1 tvg-id="Arena.Sport.5.HD.(RS).rs" tvg-logo="https://i.imgur.com/aWYqu4B.png" group-title="Arena Sports", 🇷🇸 Arena Sport 5 FHD 25fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786859
+#EXTINF:-1 tvg-id="Arena.Sport.5.HD.hr" tvg-logo="https://i.imgur.com/aWYqu4B.png" group-title="Arena Sports", 🇭🇷 Arena Sport 5 FHD 25fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786905
+#EXTINF:-1 tvg-id="Arena.Sport.5.HD.hr" tvg-logo="https://i.imgur.com/aWYqu4B.png" group-title="Arena Sports", 🇭🇷 Arena Sport 5 HD 25fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786907
 #EXTINF:-1 tvg-id="Arena.Sport.5.HD.hr" tvg-logo="https://i.imgur.com/aWYqu4B.png" group-title="Arena Sports", 🇭🇷 Arena Sport 5 FHD 50fps (bo)
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/171338.m3u8
 
+#EXTINF:-1 tvg-id="Arena.Sport.6.HD.ba" tvg-logo="https://i.imgur.com/CUhgHWn.png" group-title="Arena Sports", 🇧🇦 Arena Sport 6 FHD 25fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786918
+#EXTINF:-1 tvg-id="Arena.Sport.6.HD.(RS).rs" tvg-logo="https://i.imgur.com/CUhgHWn.png" group-title="Arena Sports", 🇷🇸 Arena Sport 6 FHD 25fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786856
+#EXTINF:-1 tvg-id="Arena.Sport.6.HD.hr" tvg-logo="https://i.imgur.com/CUhgHWn.png" group-title="Arena Sports", 🇭🇷 Arena Sport 6 FHD 50fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786906
 #EXTINF:-1 tvg-id="Arena.Sport.6.HD.hr" tvg-logo="https://i.imgur.com/CUhgHWn.png" group-title="Arena Sports", 🇭🇷 Arena Sport 6 FHD 25fps (fe)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1179
+
+#EXTINF:-1 tvg-id="Arena.Sport.7.HD.(RS).rs" tvg-logo="https://i.imgur.com/VQ2LO94.png" group-title="Arena Sports", 🇷🇸 Arena Sport 7 FHD 50fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786854
+#EXTINF:-1 tvg-id="Arena.Sport.7.HD.hr" tvg-logo="https://i.imgur.com/VQ2LO94.png" group-title="Arena Sports", 🇭🇷 Arena Sport 7 (5?) FHD 50fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786905
 #EXTINF:-1 tvg-id="Arena.Sport.7.HD.hr" tvg-logo="https://i.imgur.com/VQ2LO94.png" group-title="Arena Sports", 🇭🇷 Arena Sport 7 FHD 25fps (fe)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17669
+
+#EXTINF:-1 tvg-id="Arena.Sport.8.HD.(RS).rs" tvg-logo="https://i.imgur.com/aWYqu4B.png" group-title="Arena Sports", 🇷🇸 Arena Sport 8 FHD 50fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786852
+#EXTINF:-1 tvg-id="Arena.Sport.8.HD.hr" tvg-logo="https://i.imgur.com/aWYqu4B.png" group-title="Arena Sports", 🇭🇷 Arena Sport 8 FHD 50fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786904
 #EXTINF:-1 tvg-id="Arena.Sport.8.HD.hr" tvg-logo="https://i.imgur.com/aWYqu4B.png" group-title="Arena Sports", 🇭🇷 Arena Sport 8 FHD 25fps (fe)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17670
+
+#EXTINF:-1 tvg-id="Arena.Sport.9.HD.(RS).rs" tvg-logo="https://i.imgur.com/6kpMNLc.png" group-title="Arena Sports", 🇷🇸 Arena Sport 9 FHD 50fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786851
+#EXTINF:-1 tvg-id="Arena.Sport.9.HD.hr" tvg-logo="https://i.imgur.com/6kpMNLc.png" group-title="Arena Sports", 🇭🇷 Arena Sport 9 FHD 50fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786903
 #EXTINF:-1 tvg-id="Arena.Sport.9.HD.hr" tvg-logo="https://i.imgur.com/6kpMNLc.png" group-title="Arena Sports", 🇭🇷 Arena Sport 9 FHD 25fps (fe)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17671
+
+#EXTINF:-1 tvg-id="Arena.Sport.10.HD.(RS).rs" tvg-logo="https://i.imgur.com/oGGffys.png" group-title="Arena Sports", 🇷🇸 Arena Sport 10 fHD 50fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786850
 #EXTINF:-1 tvg-id="Arena.Sport.10.HD.hr" tvg-logo="https://i.imgur.com/oGGffys.png" group-title="Arena Sports", 🇭🇷 Arena Sport 10 FHD 25fps (fe)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17672
+#EXTINF:-1 tvg-id="Arena.Sport.10.HD.hr" tvg-logo="https://i.imgur.com/oGGffys.png" group-title="Arena Sports", 🇭🇷 Arena Sport 10 HD 50fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786902
 
+
+#EXTINF:-1 tvg-id="Arena.Sport.1X2.HD.(RS).rs" tvg-logo="https://i.imgur.com/WUN5wzt.png" group-title="Arena Sports", 🇷🇸 Arena Sport 1x2 FHD 50fps (xp)
+http://myxpanel.pro:80/Martin/Martin/786849
 
 #EXTINF:0 group-title="Arena Sports"
 
