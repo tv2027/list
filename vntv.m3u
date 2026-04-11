@@ -1872,6 +1872,26 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/43964.ts
 #EXTINF:-1 tvg-id="USA.Network.HD.us2"  tvg-logo="https://i.imgur.com/1lFfKR4.png" group-title="⚽️ EPL", US: USA Network FHD 60fps (tv)
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/10252
 
+
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.1.hk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sozpry1659623131.png" group-title="⚽️ EPL" , HK: Now Sports 616 FHD 50fps (ev) ??
+https://eventcdn02-nowe.akamaized.net/hls/CH616/index.m3u8
+
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.1.hk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sozpry1659623131.png" group-title="⚽️ EPL" , HK: Now Sports 617 FHD 50fps (ev) ??
+https://eventcdn02-nowe.akamaized.net/hls/CH617/index.m3u8
+
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.1.hk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sozpry1659623131.png" group-title="⚽️ EPL" , HK: Now Sports 620 FHD 50fps (ev) ??
+https://eventcdn02-nowe.akamaized.net/hls/CH620/index.m3u8
+
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.1.hk" tvg-logo="https://i.imgur.com/u6uCLM1.png" group-title="⚽️ EPL" , HK: Now Sports PL 1 FHD 50fps (ev)
+https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
+
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-logo="https://i.imgur.com/5KiDlD4.png" group-title="⚽️ EPL" , HK: Now Sports PL 2 FHD 50fps (ev) ?? 
+https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
+
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.3.hk" tvg-logo="https://i.imgur.com/Yzhdw5i.png" group-title="⚽️ EPL" , HK: Now Sports PL 3 FHD 50fps (ev) ??
+https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
+
+
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://i.imgur.com/v0mKVGU.png" group-title="⚽️ EPL", SG: Hub Premier 1 FHD 50fps (xp)
 http://myxpanel.pro:80/live/Martin/Martin/288375.ts
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://i.imgur.com/v0mKVGU.png" group-title="⚽️ EPL", SG: Hub Premier 1 HD 50fps (g)
