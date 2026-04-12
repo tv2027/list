@@ -422,14 +422,14 @@ https://vietanh18h1.duckdns.org/tv360/1/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.id.vn/tv/cleankey.php?id=tv360plus2
+#KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.id.vn/tv/cleankey.php?id=tv360plus3
 https://vietanhtv.id.vn/tv360/148/index.mpd
 
 #EXTINF:-1 tvg-id="tv360plus3" group-title="Sự Kiện TV360" tvg-logo="https://i.imgur.com/PKGSQET.png", TV360+ C1 Châu Âu (va) (1080p) [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.id.vn/tv/cleankey.php?id=tv360plus1
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"MgJf610fUPybnTqDsRdmcA","k":"dXibJiTFjAc4W1o3aCye_A"}],"type":"temporary"}
 https://vietanh18h1.duckdns.org/tv360/148/index.m3u8
 
 
