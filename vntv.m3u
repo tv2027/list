@@ -1773,20 +1773,26 @@ https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.ama
 # # # World Sports Channels. Collected from https://bit.ly/a1xstream, https://7pal.short.gy/sports4kuhd, https://bit.ly/sports4kuhd, lamtung16, Love4vn, k33n26, vmttv
 # # # ------------------------------------- 📺 UHD | 4K Channels -------------------------------------
 
-#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk"  tvg-logo="https://i.postimg.cc/TP5pTkgg/611-e.png" group-title="UHD | 4K" , HK: Now Sports 1 (EPL) UHD 50fps (g)
+#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk"  tvg-logo="https://i.imgur.com/D0GgEQR.png" group-title="UHD | 4K" , HK: Now Sports 1 (EPL) UHD 50fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/50172.ts
-#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk"  tvg-logo="https://i.postimg.cc/TP5pTkgg/611-e.png" group-title="UHD | 4K" , HK: Now Sports 1 (EPL) UHD 50fps (ev) ?
+#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk"  tvg-logo="https://i.imgur.com/D0GgEQR.png" group-title="UHD | 4K" , HK: Now Sports 1 (EPL) UHD 50fps (ev) ?
 http://eventcdn02-nowe.akamaized.net/hls/CH611/index.m3u8
+#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk"  tvg-logo="https://i.imgur.com/D0GgEQR.png" group-title="UHD | 4K" , HK: Now Sports 1 (EPL) UHD 50fps (cl) ?
+http://dko29we9nm1rd.cloudfront.net/hls/CH611/index.m3u8
 
 #EXTINF:-1 tvg-id="Now.Sports.4K.2.hk"  tvg-logo="https://i.imgur.com/NYGpUzO.png" group-title="UHD | 4K" , HK: Now Sports 2 (EPL) UHD 50fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/61688.ts
 #EXTINF:-1 tvg-id="Now.Sports.4K.2.hk"  tvg-logo="https://i.imgur.com/NYGpUzO.png" group-title="UHD | 4K" , HK: Now Sports 2 (EPL) UHD 50fps (ev) ?
 http://eventcdn02-nowe.akamaized.net/hls/CH612/index.m3u8
+#EXTINF:-1 tvg-id="Now.Sports.4K.2.hk"  tvg-logo="https://i.imgur.com/NYGpUzO.png" group-title="UHD | 4K" , HK: Now Sports 2 (EPL) UHD 50fps (ev) ?
+http://dko29we9nm1rd.cloudfront.net/hls/CH612/index.m3u8
 
 #EXTINF:-1 tvg-id="Now.Sports.4K.3.hk" tvg-logo="https://i.imgur.com/2f4DNXz.png" group-title="UHD | 4K" , HK: Now Sports 3 (EPL) UHD 50fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/61689.ts
 #EXTINF:-1 tvg-id="Now.Sports.4K.3.hk" tvg-logo="https://i.imgur.com/2f4DNXz.png" group-title="UHD | 4K" , HK: Now Sports 3 (EPL) UHD 50fps (ev) ?
 http://eventcdn02-nowe.akamaized.net/hls/CH613/index.m3u8
+#EXTINF:-1 tvg-id="Now.Sports.4K.3.hk" tvg-logo="https://i.imgur.com/2f4DNXz.png" group-title="UHD | 4K" , HK: Now Sports 3 (EPL) UHD 50fps (ev) ?
+http://dko29we9nm1rd.cloudfront.net/hls/CH613/index.m3u8
 
 #EXTINF:-1 tvg-id="Now.Sports.4K.1.hk"  tvg-logo="https://i.imgur.com/ALXSgbB.png" group-title="UHD | 4K", HK: Now Sports 4K 616 UHD 50fps (xp) for WC26 only ?
 http://myxpanel.pro:80/live/Martin/Martin/715558.ts
@@ -1889,17 +1895,21 @@ http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/10252
 
 #EXTINF:-1 tvg-id="Now.Sports.Premier.League.1.hk" tvg-logo="https://i.imgur.com/u6uCLM1.png" group-title="⚽️ EPL" , HK: Now Sports PL 1 FHD 50fps (ev)
 https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.1.hk" tvg-logo="https://i.imgur.com/u6uCLM1.png" group-title="⚽️ EPL" , HK: Now Sports PL 1 FHD 50fps (cl)
+http://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
 #EXTINF:-1 tvg-id="Now.Sports.Premier.League.1.hk" tvg-logo="https://i.imgur.com/u6uCLM1.png" group-title="⚽️ EPL" , HK: Now Sports PL 1 FHD 50fps (xd)
 http://xdgo.live:8080/rogeliopty/YhhqPpCAru/108576
 
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-logo="https://i.imgur.com/5KiDlD4.png" group-title="⚽️ EPL" , HK: Now Sports PL 2 FHD 50fps (ev)
+https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-logo="https://i.imgur.com/5KiDlD4.png" group-title="⚽️ EPL" , HK: Now Sports PL 2 FHD 50fps (cl)
+http://dko29we9nm1rd.cloudfront.net/hls/CH622/index.m3u8
 #EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-logo="https://i.imgur.com/5KiDlD4.png" group-title="⚽️ EPL" , HK: Now Sports PL 2 FHD 50fps (xd)
 http://xdgo.live:8080/rogeliopty/YhhqPpCAru/108577
-#EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-logo="https://i.imgur.com/5KiDlD4.png" group-title="⚽️ EPL" , HK: Now Sports PL 2 FHD 50fps (ev) ?
-https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
 
 #EXTINF:-1 tvg-id="Now.Sports.Premier.League.3.hk" tvg-logo="https://i.imgur.com/Yzhdw5i.png" group-title="⚽️ EPL" , HK: Now Sports PL 3 FHD 50fps (xd)
 http://xdgo.live:8080/rogeliopty/YhhqPpCAru/108578
-#EXTINF:-1 tvg-id="Now.Sports.Premier.League.3.hk" tvg-logo="https://i.imgur.com/Yzhdw5i.png" group-title="⚽️ EPL" , HK: Now Sports PL 3 FHD 50fps (ev) ???
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.3.hk" tvg-logo="https://i.imgur.com/Yzhdw5i.png" group-title="⚽️ EPL" , HK: Now Sports PL 3 FHD 50fps (ev) ?
 https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
 
 #EXTINF:-1 tvg-id="Now.Sports.Premier.League.4.hk" tvg-logo="https://i.imgur.com/Z8Gaa7N.png" group-title="⚽️ EPL" , HK: Now Sports PL 4 FHD 50fps (xd)
