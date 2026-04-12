@@ -1547,8 +1547,10 @@ https://vietanh18h1.duckdns.org/tv360/214/index.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=214
 
 
-#EXTINF:-1 tvg-id="spotv1" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/ijiZ7Px.png" , 🇹🇭 SPOTV (1080p)
+#EXTINF:-1 tvg-id="spotv1" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/ijiZ7Px.png" , 🇹🇭 SPOTV (1080p) (ip)
 http://119.59.118.168/live/ch18/irannahee/index.m3u8
+#EXTINF:-1 tvg-id="SPOTV.HD.id" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/ijiZ7Px.png" , SPOTV (1080p) (il)
+https://hls.iill.top/api/Spotv-1/index.m3u8
 #EXTINF:-1 tvg-id="SPOTV.HD.id" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/ijiZ7Px.png" , 🇵🇭 SPOTV (1080p) (xp)
 http://myxpanel.pro:80/Martin/Martin/705803
 
@@ -1572,6 +1574,8 @@ http://aflaxtv.xyz:8080/F36591/3f1a2b5c/165105
 http://iptv.4666888.xyz/iptv2A.php?id=2
 
 
+#EXTINF:-1 tvg-id="spotv2"  group-title="Quốc Tế" tvg-logo="https://i.imgur.com/P73CI9H.png" , SPOTV 2 (1080p) (il)
+https://hls.iill.top/api/Spotv-2/index.m3u8
 #EXTINF:-1 tvg-id="spotv2"  group-title="Quốc Tế" tvg-logo="https://i.imgur.com/P73CI9H.png" , 🇵🇭 SPOTV 2 (1080p) (xp)
 http://myxpanel.pro:80/Martin/Martin/705804
 
@@ -1588,7 +1592,6 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-
 
 #EXTINF:-1 tvg-id="spotv.2.id" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/P73CI9H.png" , 🇮🇩 SPOTV2 (720p)
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/298506
@@ -1799,6 +1802,8 @@ http://myxpanel.pro:80/live/Martin/Martin/715558.ts
 #EXTINF:-1 tvg-id="Now.Sports.4K.2.hk"  tvg-logo="https://i.imgur.com/nk45wMi.png" group-title="UHD | 4K", HK: Now Sports 4K 617 UHD 50fps (xp) for WC26 only ?
 http://myxpanel.pro:80/live/Martin/Martin/715557.ts
 
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg"  tvg-logo="https://i.imgur.com/SM7GQAM.png" group-title="UHD | 4K", SG: Hub Premier 2 UHD 50fps (il)
+https://hls.iill.top/api/Hub-Premier-2/index.m3u8
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg"  tvg-logo="https://i.imgur.com/SM7GQAM.png" group-title="UHD | 4K", SG: Hub Premier 2 UHD 50fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/59401.ts
 
@@ -1884,6 +1889,8 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/61689.ts
 #EXTINF:-1 tvg-id="Now.Sports.4K.3.hk" tvg-logo="https://i.imgur.com/2f4DNXz.png" group-title="⚽️ EPL" , HK: Now Sports PL 3 UHD 50fps (ev) ?
 http://eventcdn02-nowe.akamaized.net/hls/CH613/index.m3u8
 
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg"  tvg-logo="https://i.imgur.com/SM7GQAM.png" group-title="⚽️ EPL", SG: Hub Premier 2 UHD 50fps (il)
+https://hls.iill.top/api/Hub-Premier-2/index.m3u8
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg"  tvg-logo="https://i.imgur.com/SM7GQAM.png" group-title="⚽️ EPL", SG: Hub Premier 2 UHD 50fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/59401.ts
 
@@ -1940,7 +1947,8 @@ https://eventcdn02-nowe.akamaized.net/hls/CH626/index.m3u8
 #EXTINF:-1 tvg-id="Now.Sports.Premier.League.7.hk" tvg-logo="https://i.imgur.com/krbF5au.png" group-title="⚽️ EPL" , HK: Now Sports PL 7 FHD 50fps (ev) ?
 https://eventcdn02-nowe.akamaized.net/hls/CH627/index.m3u8
 
-
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://i.imgur.com/v0mKVGU.png" group-title="⚽️ EPL", SG: Hub Premier 1 FHD 50fps (il)
+https://hls.iill.top/api/Hub-Premier-1/index.m3u8
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://i.imgur.com/v0mKVGU.png" group-title="⚽️ EPL", SG: Hub Premier 1 FHD 50fps (xp)
 http://myxpanel.pro:80/live/Martin/Martin/288375.ts
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://i.imgur.com/v0mKVGU.png" group-title="⚽️ EPL", SG: Hub Premier 1 HD 50fps (g)
@@ -1951,11 +1959,15 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/57436.ts
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg"  tvg-logo="https://i.imgur.com/SM7GQAM.png" group-title="⚽️ EPL", SG: Hub Premier 2 FHD 50fps (xp)
 http://myxpanel.pro:80/live/Martin/Martin/288374.ts
 
+#EXTINF:-1 tvg-id="Hub.Premier.3.sg"  tvg-logo="https://i.imgur.com/neZXR5T.png" group-title="⚽️ EPL", SG: Hub Premier 3 FHD 50fps (il)
+https://hls.iill.top/api/Hub-Premier-3/index.m3u8
 #EXTINF:-1 tvg-id="Hub.Premier.3.sg"  tvg-logo="https://i.imgur.com/neZXR5T.png" group-title="⚽️ EPL", SG: Hub Premier 3 FHD 50fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/57437.ts
 #EXTINF:-1 tvg-id="Hub.Premier.3.sg"  tvg-logo="https://i.imgur.com/neZXR5T.png" group-title="⚽️ EPL", SG: Hub Premier 3 HD 50fps (xp)
 http://myxpanel.pro:80/live/Martin/Martin/288373.ts
 
+#EXTINF:-1 tvg-id="Hub.Premier.4.sg"  tvg-logo="https://i.imgur.com/Ft8xVJ0.png" group-title="⚽️ EPL", SG: Hub Premier 4 FHD 50fps (il)
+https://hls.iill.top/api/Hub-Premier-4/index.m3u8
 #EXTINF:-1 tvg-id="Hub.Premier.4.sg"  tvg-logo="https://i.imgur.com/Ft8xVJ0.png" group-title="⚽️ EPL", SG: Hub Premier 4 FHD 50fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/57438.ts
 #EXTINF:-1 tvg-id="Hub.Premier.4.sg"  tvg-logo="https://i.imgur.com/Ft8xVJ0.png" group-title="⚽️ EPL", SG: Hub Premier 4 HD 50fps (xp)
@@ -3141,16 +3153,23 @@ http://myxpanel.pro:80/Martin/Martin/715560
 #EXTINF:-1 tvg-id="Now.Sports.7.hk"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pd3hla1659623109.png" group-title="World Sports", HK: Now Sports 7 FHD 50fps (ev) ?
 https://eventcdn02-nowe.akamaized.net/hls/CH637/index.m3u8
 
-
+#EXTINF:-1 tvg-id="Hub.Sports.1.HD.sg"  tvg-logo="https://i.imgur.com/bhxPddO.png" group-title="World Sports", SG: Hub Sports 1 FHD 50fps (il)
+https://hls.iill.top/api/Hub-Sports-1/index.m3u8
 #EXTINF:-1 tvg-id="Hub.Sports.1.HD.sg"  tvg-logo="https://i.imgur.com/bhxPddO.png" group-title="World Sports", SG: Hub Sports 1 HD 50fps (xp)
 http://myxpanel.pro:80/live/Martin/Martin/288363.ts
 
+#EXTINF:-1 tvg-id="Hub.Sports.2.HD.sg"  tvg-logo="https://i.imgur.com/NceGpxl.png" group-title="World Sports", SG: Hub Sports 2 FHD 50fps (il)
+https://hls.iill.top/api/Hub-Sports-2/index.m3u8
 #EXTINF:-1 tvg-id="Hub.Sports.2.HD.sg"  tvg-logo="https://i.imgur.com/NceGpxl.png" group-title="World Sports", SG: Hub Sports 2 HD 50fps (xp)
 http://myxpanel.pro:80/live/Martin/Martin/288362.ts
 
+#EXTINF:-1 tvg-id="Hub.Sports.3.HD.sg"  tvg-logo="https://i.imgur.com/7H0Tbxy.png" group-title="World Sports", SG: Hub Sports 3 FHD 50fps (il)
+https://hls.iill.top/api/Hub-Sports-3/index.m3u8
 #EXTINF:-1 tvg-id="Hub.Sports.3.HD.sg"  tvg-logo="https://i.imgur.com/7H0Tbxy.png" group-title="World Sports", SG: Hub Sports 3 SD (xp)
 http://myxpanel.pro:80/live/Martin/Martin/288361.ts
 
+#EXTINF:-1 tvg-id="Hub.Sports.4.HD.sg"  tvg-logo="https://i.imgur.com/cvqJupU.png" group-title="World Sports", SG: Hub Sports 4 FHD 50fps (il)
+https://hls.iill.top/api/Hub-Sports-4/index.m3u8
 #EXTINF:-1 tvg-id="Hub.Sports.4.HD.sg"  tvg-logo="https://i.imgur.com/cvqJupU.png" group-title="World Sports", SG: Hub Sports 4 SD (xp)
 http://myxpanel.pro:80/live/Martin/Martin/288360.ts
 
