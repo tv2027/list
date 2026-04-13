@@ -2651,7 +2651,45 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/31957/ind
 
 #EXTINF:0 group-title="🟢 DAZN"
 
+# # # ---------------------------------------- 📺 🇳🇱 Ziggo Sport  ----------------------------------------
+
+EXTINF:-1 tvg-id="ZiggoSport.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.ibb.co/ycdhBFGj/Ziggo-Sport.png", Ziggo Sport 1 FHD 50fps (as)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537597&extension=ts
+#EXTINF:-1 tvg-id="ZiggoSport2.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.ibb.co/hxTy5fJw/Ziggo-Sport2.png", Ziggo Sport 2 FHD 50fps (as)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537596&extension=ts
+#EXTINF:-1 tvg-id="ZiggoSport3.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.ibb.co/JF0cRyBQ/Ziggo-Sport3.png", Ziggo Sport 3 FHD 50fps (as)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537595&extension=ts
+#EXTINF:-1 tvg-id="ZiggoSport4.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.ibb.co/ycdhBFGj/Ziggo-Sport.png", Ziggo Sport 4 FHD 50fps (as)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537594&extension=ts
+#EXTINF:-1 tvg-id="ZiggoSport5.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.ibb.co/ycdhBFGj/Ziggo-Sport.png", Ziggo Sport 5 FHD 50fps (as)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537593&extension=ts
+#EXTINF:-1 tvg-id="ZiggoSport6.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.ibb.co/ycdhBFGj/Ziggo-Sport.png", Ziggo Sport 6 FHD 50fps (as)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537592&extension=ts
+
+#EXTINF:0 group-title="🇳🇱 Ziggo Sport"
+
+# # # ---------------------------------------- 📺 Eleven Sports  ----------------------------------------
+
+#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/PUaJPaE.png" group-title="🇵🇱 Eleven Sports", PL: ElevenSport 1 UHD 50fps (b)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/20068/index.m3u8
+#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/PUaJPaE.png" group-title="🇵🇱 Eleven Sports", PL: ElevenSport 1 UHD 50fps (xp)
+http://myxpanel.pro:80/live/Martin/Martin/795783.ts
+
+
+#EXTINF:-1 tvg-id="ElevenSports1.pl" group-title="🇵🇱 Eleven Sports" tvg-logo="https://i.imgur.com/AOu4FXH.png" , Eleven Sports 1 FHD 50fps (as)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1512429&extension=ts
+#EXTINF:-1 tvg-id="ElevenSports2.pl" group-title="🇵🇱 Eleven Sports" tvg-logo="https://i.imgur.com/bTIRgqG.png" , Eleven Sports 2 FHD 50fps (as)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1512428&extension=ts
+#EXTINF:-1 tvg-id="ElevenSports3.pl" group-title="🇵🇱 Eleven Sports" tvg-logo="https://i.imgur.com/bWjGol4.png" , Eleven Sports 3 FHD 50fps (as)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1512427&extension=ts
+#EXTINF:-1 tvg-id="ElevenSports4.pl" group-title="🇵🇱 Eleven Sports" tvg-logo="https://i.imgur.com/SEKXaAW.png" , Eleven Sports 4 FHD 50fps (as)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1512426&extension=ts
+
+#EXTINF:0 group-title="🇵🇱 Eleven Sports"
+
+
 # # # ---------------------------------------- 📺 🇫🇷 Canal +  ----------------------------------------
+
 #EXTINF:-1 tvg-id="CANAL+FOOT.fr" group-title="🇫🇷 Canal +" tvg-logo="https://i.imgur.com/XJtaq4F.png", Canal + Foot FHD 50fps (xp)
 http://myxpanel.pro:80/live/Martin/Martin/723952.ts
 #EXTINF:-1 tvg-id="CANAL+FOOT.fr" group-title="🇫🇷 Canal +" tvg-logo="https://i.imgur.com/XJtaq4F.png", Canal + Foot HD 25fps (xp)
@@ -3185,13 +3223,6 @@ https://a1xs.vip/120002
 https://a1xs.vip/120003
 #EXTINF:-1 tvg-id="Sky.Sport.Premier.League.de" tvg-name="Sky Sport PL DE" tvg-logo="https://i.ibb.co/27BS63GG/Sky-Sports-PL.png" group-title="EU Sports",DE: Sky Sport Premier League FHD [n/a]
 https://a1xs.vip/120004
-
-#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="NL: Ziggo Sport FHD" tvg-logo="https://i.ibb.co/ycdhBFGj/Ziggo-Sport.png" group-title="EU Sports",NL: Ziggo Sport FHD [n/a]
-https://a1xs.vip/140001
-#EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" tvg-name="NL: Ziggo Sport 2 FHD" tvg-logo="https://i.ibb.co/hxTy5fJw/Ziggo-Sport2.png" group-title="EU Sports",NL: Ziggo Sport 2 FHD [n/a]
-https://a1xs.vip/140002
-#EXTINF:-1 tvg-id="Ziggo.Sport.3.nl" tvg-name="NL: Ziggo Sport 3 FHD" tvg-logo="https://i.ibb.co/JF0cRyBQ/Ziggo-Sport3.png" group-title="EU Sports",NL: Ziggo Sport 3 FHD [n/a]
-https://a1xs.vip/140003
 
 #EXTINF:0 group-title="EU Sports"
 
