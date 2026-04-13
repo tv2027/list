@@ -2456,31 +2456,28 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/19061/ind
 
 # # # ---------------------------------------- 📺 beIN SPORTS ----------------------------------------
 
-#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/HKfUqi7.png", beIN SPORTS 1 HD 25fps (k)
-http://kstv.us:8080/Freshcobar23/83261331891/12554
-#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/HKfUqi7.png", beIN SPORTS 1 HD 25fps (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/659436
-#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/HKfUqi7.png", HK: beIN SPORTS 1 FHD 50fps (il)
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.hk" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/HKfUqi7.png", HK: beIN SPORTS 1 FHD 50fps (il)
 https://hls.iill.top/api/beIN-Sports-1/index.m3u8
-#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/HKfUqi7.png", beIN SPORTS 1 (b) ?
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.fr" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/HKfUqi7.png", beIN SPORTS 1 FHD 30fps (k)
+http://kstv.us:8080/Freshcobar23/83261331891/12554
+#EXTINF:-1 tvg-id="beIN.Sports.1.HD.id" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/HKfUqi7.png", beIN SPORTS 1 FHD 30fps (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/659436
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.my" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/HKfUqi7.png", beIN SPORTS 1 (b) ?
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/6123/index.m3u8
-#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/HKfUqi7.png", beIN SPORTS 1 FHD 25fps (r) ?
+#EXTINF:-1 tvg-id="BEIN.SPORTS.1.HD.ph" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/HKfUqi7.png", beIN SPORTS 1 FHD 25fps (r) ?
 https://restream-live.realiptv.to/MotherOfPins3/8746645/714411
 
-#EXTINF:-1 tvg-id="beIN_SPORTS2_DIGITAL_Mono_AR.bein" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/mcrgaM7.png", HK: beIN SPORTS 2 FHD 50fps (il)
+#EXTINF:-1 tvg-id="beIN.SPORTS.2.hk" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/mcrgaM7.png", HK: beIN SPORTS 2 FHD 50fps (il)
 https://hls.iill.top/api/beIN-Sports-2/index.m3u8
-#EXTINF:-1 tvg-id="beIN_SPORTS2_DIGITAL_Mono_AR.bein" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/mcrgaM7.png", AR: beIN SPORTS 2 FHD 30fps (k)
+#EXTINF:-1 tvg-id="beIN.Sports.2.HD.id" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/mcrgaM7.png", AR: beIN SPORTS 2 FHD 30fps (k)
 http://kstv.us:8080/Freshcobar23/83261331891/12553
-#EXTINF:-1 tvg-id="beIN_SPORTS2_DIGITAL_Mono_AR.bein" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/mcrgaM7.png", beIN SPORTS 2 FHD 30fps (r)
+#EXTINF:-1 tvg-id="beIN.SPORTS.2.(HD).sg" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/mcrgaM7.png", beIN SPORTS 2 FHD 30fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/659428
-#EXTINF:-1 tvg-id="beIN_SPORTS2_DIGITAL_Mono_AR.bein" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/mcrgaM7.png", AR: beIN SPORTS 2 FHD 30fps (r)
+#EXTINF:-1 tvg-id="beIN.SPORTS.2.fr" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/mcrgaM7.png", AR: beIN SPORTS 2 FHD 30fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/659437
 
-#EXTINF:-1 tvg-id="beIN_SPORTS3_DIGITAL_Mono_AR.bein" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/mcrgaM7.png", HK: beIN SPORTS 3 FHD 50fps (il)
+#EXTINF:-1 tvg-id="beIN.SPORTS.3.hk" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/mcrgaM7.png", HK: beIN SPORTS 3 FHD 50fps (il)
 https://hls.iill.top/api/beIN-Sports-3/index.m3u8
-
-#EXTINF:-1 tvg-id="beIN_SPORTS4_DIGITAL_Mono_AR.bein" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/mcrgaM7.png", HK: beIN SPORTS 4 FHD 25fps (il) ?
-https://hls.iill.top/api/beIN-Sports-4/index.m3u8
 
 #EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-logo="https://i.imgur.com/eOlysDj.png" group-title="beIN SPORTS", beIN SPORTS FHD (ze)
 https://zebua.short.gy/beinsports
@@ -3420,6 +3417,9 @@ https://hls.iill.top/api/Hub-Sports-6/index.m3u8
 https://hls.iill.top/api/Hub-Sports-7/index.m3u8
 #EXTINF:-1 tvg-id="Hub.Sports.8.HD.sg"  tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-8.png" group-title="Tesing only", SG: Hub Sports 8 FHD (il) ?
 https://hls.iill.top/api/Hub-Sports-8/index.m3u8
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.4.hk" group-title="Tesing only" tvg-logo="https://i.imgur.com/mcrgaM7.png", HK: beIN SPORTS 4 FHD 25fps (il) ?
+https://hls.iill.top/api/beIN-Sports-4/index.m3u8
 
 
 #EXTINF:0 group-title="Tesing only"
