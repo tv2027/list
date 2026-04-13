@@ -2297,6 +2297,19 @@ http://myxpanel.pro:80/Martin/Martin/715561
 http://myxpanel.pro:80/Martin/Martin/715560
 
 
+#EXTINF:-1 tvg-id="Now新聞台" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch332_340_244" group-title="🇭🇰 Hong Kong Sports" , Now NEWS
+https://t.ttvb.eu.org/tvb/now-332/index.m3u8
+#EXTINF:-1 tvg-id="Now財經台" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch333_340_244" group-title="🇭🇰 Hong Kong Sports" , Now Business News Channel
+https://t.ttvb.eu.org/tvb/now-333/index.m3u8
+#EXTINF:-1 tvg-id="ViuTV" tvg-logo="https://epg.iill.top/logo/ViuTV.png" group-title="🇭🇰 Hong Kong Sports" , ViuTV
+https://t.ttvb.eu.org/tvb/ViuTV/index.m3u8
+#EXTINF:-1 tvg-id="ViuTVsix" tvg-logo="https://epg.iill.top/logo/ViuTVsix.png" group-title="🇭🇰 Hong Kong Sports" , ViuTVsix
+https://t.ttvb.eu.org/tvb/ViuTVsix/index.m3u8
+
+#EXTINF:-1 tvg-id="fashionhd" tvg-logo="https://epg.iill.top/logo/FashionTV.png" http-user-agent="okhttp/1.9.89" group-title="🇭🇰 Hong Kong Sports" , Fashion TV HD
+https://v.iill.top/tw/4gtv-live085/index.m3u8
+
+
 #EXTINF:0 group-title="🇭🇰 Hong Kong Sports"
 
 # # # ---------------------------------------- 📺 Singapore Sports ----------------------------------------
