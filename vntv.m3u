@@ -1315,16 +1315,24 @@ https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist10
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 
+#EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/uPLURi3.png" , HBO HD (720p) (il)
+https://hls.iill.top/api/HBO/index.m3u8
+
 
 #EXTINF:-1 tvg-id="hbohits" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/7cLopLb.jpeg" , HBO Hits (1080p) (ch)
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776088&extension=ts&play_token=DDOOCF3plZ
+#EXTINF:-1 tvg-id="hbohits" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/7cLopLb.jpeg" , HBO Hits (720p)  (il)
+https://hls.iill.top/api/HBO-Hits/index.m3u8
 
-#EXTINF:-1 tvg-id="hbofamily" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/czKSQ9T.png", HBO Family (1080) (ch)
+#EXTINF:-1 tvg-id="hbofamily" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/czKSQ9T.png", HBO Family (1080p) (ch)
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776089&extension=ts&play_token=xf9Vl3Lrhl
+#EXTINF:-1 tvg-id="hbofamily" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/czKSQ9T.png", HBO Family (720p) (il)
+https://hls.iill.top/api/HBO-Family/index.m3u8
 
 #EXTINF:-1 tvg-id="hbosignaturehd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/e639eZC.png", HBO Signature HD (1080p) (ch)
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776085&extension=ts&play_token=aEwVlYvLMR
-
+#EXTINF:-1 tvg-id="hbosignaturehd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/e639eZC.png", HBO Signature HD (720p) (il)
+https://hls.iill.top/api/HBO-Signature/index.m3u8
 
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/3R5nI4Y.png", Cinemax HD [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -1372,6 +1380,9 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1d9f25701023508bfa6737e3a8c7001:30c3613e9b06e0f7cc201014f31bf5d8
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd
+
+#EXTINF:-1  group-title="Quốc Tế" tvg-id="fashionhd" tvg-logo="https://i.imgur.com/OfKs02o.png http-user-agent="okhttp/1.9.89" , Fashion TV HD
+https://v.iill.top/tw/4gtv-live085/index.m3u8
 
 
 #EXTINF:-1 tvg-id="bloomberg" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Rt3vjrV.png", Bloomberg [?]
@@ -1704,28 +1715,31 @@ http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9393
 #EXTINF:-1 tvg-id="NationalGeographic.in" group-title="Quốc Tế" tvg-name="National Geographic HD" tvg-logo="https://i.imgur.com/V0E0GVm.png" , National Geographic FHD [in]
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9394
 
-#EXTINF:-1 tvg-id="LoveNature.ca" group-title="Quốc Tế" tvg-name="Love Nature" tvg-logo="https://i.imgur.com/Cj5a1JF.png" , Love Nature UHD (4K)
+#EXTINF:-1 tvg-id="LoveNature.ca" group-title="Quốc Tế"  tvg-logo="https://i.imgur.com/Cj5a1JF.png" , Love Nature UHD (4K)
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 
-#EXTINF:-1 tvg-id="LoveNature.ca" group-title="Quốc Tế" tvg-name="Love Nature" tvg-logo="https://i.imgur.com/Cj5a1JF.png" , Love Nature FHD
+#EXTINF:-1 tvg-id="LoveNature.ca" group-title="Quốc Tế"  tvg-logo="https://i.imgur.com/Cj5a1JF.png" , Love Nature FHD
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LoveNature.ca" group-title="Quốc Tế" tvg-name="Love Nature" tvg-logo="https://i.imgur.com/Cj5a1JF.png" , Love Nature FHD
+#EXTINF:-1 tvg-id="LoveNature.ca" group-title="Quốc Tế"  tvg-logo="https://i.imgur.com/Cj5a1JF.png" , Love Nature FHD
 https://bamus-klowdtv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LoveNature.ca" group-title="Quốc Tế" tvg-name="Love Nature" tvg-logo="https://i.imgur.com/Cj5a1JF.png" , Love Nature 2 FHD
+#EXTINF:-1 tvg-id="LoveNature.ca" group-title="Quốc Tế"  tvg-logo="https://i.imgur.com/Cj5a1JF.png" , Love Nature 2 FHD
 https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="AutenticTravel.de" tvg-name="Autentic Travel" tvg-logo="https://i.imgur.com/UR0TlHm.png" group-title="Quốc Tế" , Autentic Travel FHD
+#EXTINF:-1 tvg-id="LovePlanet.ca" group-title="Quốc Tế" tvg-logo="" , Love the Planet FHD
+https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8  
+
+#EXTINF:-1 tvg-id="AutenticTravel.de"  tvg-logo="https://i.imgur.com/UR0TlHm.png" group-title="Quốc Tế" , Autentic Travel FHD
 https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="PlousTV.ve" group-title="Quốc Tế" tvg-name="Plous TV" tvg-logo="https://i.imgur.com/OSet4en.png", Plous TV FHD
+#EXTINF:-1 tvg-id="PlousTV.ve" group-title="Quốc Tế"  tvg-logo="https://i.imgur.com/OSet4en.png", Plous TV FHD
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="GlobalFashionChannel.us" group-title="Quốc Tế" tvg-name="Global Fashion Channel" tvg-logo="https://i.imgur.com/s4eGYEP.jpg", Global Fashion Channel FHD
+#EXTINF:-1 tvg-id="GlobalFashionChannel.us" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/s4eGYEP.jpg", Global Fashion Channel FHD
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 
 
@@ -1736,8 +1750,17 @@ https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HL
 https://amg01546-ftv-fashiontv-xiaomi-i9oiw.amagi.tv/ts-us-e2-n1/playlist/amg01546-ftv-fashiontv-xiaomi/cb54391c6573608a84cb3c64cef046a5f92e04fd242fd72b6fb4559f65bd460be3c082dcee55ef765d970dca350b64550e31c848c37e02c28a67a950627d0a7c9b98ba66da9f135bb48c0d7e2de52b1d33423f2ff81d82d9448b606ab00ef714301de11d6b5272bea908e92311e7a830b90158ab3009ac0b576721c01f19bdb02ffeaaa3041689468089e8d80d1d67ddf6178ac461e4d98a0edd51b94e27c505a0d2b9aa61a8b2e83cee06a853633d772dcad02ec180353ebdebfe2c1c8d59eb3a759f42f75ba16d8170e31c3f9a81d044f216dc8026802f14b3099b4e833fb015c07191cd6deffef58f0c1061e4e85263118cc6efd9b5657dec3e89c293bd791ecba3f419971be37544e969346121372fedbbe1ce95a04b5682/25/1920x1080_4716800/index.m3u8
 
 
-#EXTINF:-1 tvg-id="FashionTVSecrets.fr" group-title="Quốc Tế" tvg-name="FashionTV Secrets" tvg-logo="https://i.ibb.co/fVGJyCC8/w512.png" , FashionTV Secrets FHD
+#EXTINF:-1 tvg-id="FashionTVSecrets.fr" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/fVGJyCC8/w512.png" , FashionTV Secrets FHD
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
+
+#EXTINF:-1 tvg-id="World Fashion" group-title="Quốc Tế" tvg-logo="" , World Fashion HD
+https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="WorldFashionChannel" group-title="Quốc Tế" tvg-logo="" , World Fashion Channel [en] FHD
+http://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
+
+#EXTINF:-1 tvg-id="WorldFashionChannel" group-title="Quốc Tế" tvg-logo="" , World Fashion Channel (ru] FHD
+http://live-3.otcnet.ru/wfcrus/index.m3u8
 
 
 #EXTINF:-1 tvg-id="OutdoorChannel" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/htqkKWD.png", Outdoor Channel 2 FHD
@@ -2143,6 +2166,8 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/43128.ts
 http://myxpanel.pro:80/Martin/Martin/709378
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/V3qfxeG.png", TNT Sports 1 FHD 50fps (as) ?
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527617&extension=ts
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/V3qfxeG.png", TNT Sports 1 FHD 25fps (il)
+https://hls.iill.top/api/TNT-Sports-1/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/V3qfxeG.png", TNT Sports 1 HD 25fps (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/47850
 #EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/V3qfxeG.png", TNT Sports 1 FHD 50fps (b)
@@ -2163,6 +2188,8 @@ http://myxpanel.pro:80/Martin/Martin/709376
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527615&extension=ts
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/Qq5D6bY.png", TNT Sports 2 FHD 50fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2336
+#EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/Qq5D6bY.png", TNT Sports 2 FHD 25fps (il)
+https://hls.iill.top/api/TNT-Sports-2/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/Qq5D6bY.png", TNT Sports 2 FHD 25fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/16551.ts
 
@@ -2179,7 +2206,8 @@ http://myxpanel.pro:80/Martin/Martin/276895
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527613&extension=ts
 #EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/YIWGDix.png", TNT Sports 3 FHD 50fps (b)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/6564/index.m3u8
-
+#EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/YIWGDix.png", TNT Sports 3 FHD 50fps (il)
+https://hls.iill.top/api/TNT-Sports-3/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/KJZszMA.png", TNT Sports 4 FHD 50fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/675021
@@ -2195,7 +2223,8 @@ http://myxpanel.pro:80/Martin/Martin/276892
 http://myxpanel.pro:80/Martin/Martin/276893
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/KJZszMA.png", TNT Sports 4 FHD 50fps (as) ?
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527611&extension=ts
-
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/KJZszMA.png", TNT Sports 4 FHD 25fps (il)
+https://hls.iill.top/api/TNT-Sports-4/index.m3u8
 
 #EXTINF:0 group-title="🇬🇧 TNT Sports"
 
@@ -2425,36 +2454,43 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/19061/ind
 
 #EXTINF:0 group-title="ESPN"
 
-# # # ---------------------------------------- 📺 Bein Sports ----------------------------------------
+# # # ---------------------------------------- 📺 beIN SPORTS ----------------------------------------
 
-#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" group-title="Bein Sports" tvg-logo="https://i.imgur.com/HKfUqi7.png", Bein Sports 1 (k)
+#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/HKfUqi7.png", beIN SPORTS 1 HD 25fps (k)
 http://kstv.us:8080/Freshcobar23/83261331891/12554
-#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" group-title="Bein Sports" tvg-logo="https://i.imgur.com/HKfUqi7.png", Bein Sports 1 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/714411
-#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" group-title="Bein Sports" tvg-logo="https://i.imgur.com/HKfUqi7.png", Bein Sports 1 (r)
+#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/HKfUqi7.png", beIN SPORTS 1 HD 25fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/659436
-#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" group-title="Bein Sports" tvg-logo="https://i.imgur.com/HKfUqi7.png", Bein Sports 1 (b)
+#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/HKfUqi7.png", HK: beIN SPORTS 1 FHD 50fps (il)
+https://hls.iill.top/api/beIN-Sports-1/index.m3u8
+#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/HKfUqi7.png", beIN SPORTS 1 (b) ?
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/6123/index.m3u8
+#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/HKfUqi7.png", beIN SPORTS 1 FHD 25fps (r) ?
+https://restream-live.realiptv.to/MotherOfPins3/8746645/714411
 
-#EXTINF:-1 tvg-id="beIN_SPORTS2_DIGITAL_Mono_AR.bein" group-title="Bein Sports" tvg-logo="https://i.imgur.com/mcrgaM7.png", Bein Sports 2 (k)
+#EXTINF:-1 tvg-id="beIN_SPORTS2_DIGITAL_Mono_AR.bein" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/mcrgaM7.png", HK: beIN SPORTS 2 FHD 50fps (il)
+https://hls.iill.top/api/beIN-Sports-2/index.m3u8
+#EXTINF:-1 tvg-id="beIN_SPORTS2_DIGITAL_Mono_AR.bein" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/mcrgaM7.png", AR: beIN SPORTS 2 FHD 30fps (k)
 http://kstv.us:8080/Freshcobar23/83261331891/12553
-#EXTINF:-1 tvg-id="beIN_SPORTS2_DIGITAL_Mono_AR.bein" group-title="Bein Sports" tvg-logo="https://i.imgur.com/mcrgaM7.png", Bein Sports 2 (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/659437
-#EXTINF:-1 tvg-id="beIN_SPORTS2_DIGITAL_Mono_AR.bein" group-title="Bein Sports" tvg-logo="https://i.imgur.com/mcrgaM7.png", Bein Sports 2 (r)
+#EXTINF:-1 tvg-id="beIN_SPORTS2_DIGITAL_Mono_AR.bein" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/mcrgaM7.png", beIN SPORTS 2 FHD 30fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/659428
+#EXTINF:-1 tvg-id="beIN_SPORTS2_DIGITAL_Mono_AR.bein" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/mcrgaM7.png", AR: beIN SPORTS 2 FHD 30fps (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/659437
 
-#EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-logo="https://i.imgur.com/eOlysDj.png" group-title="Bein Sports", beIN SPORTS FHD (ze)
+#EXTINF:-1 tvg-id="beIN_SPORTS3_DIGITAL_Mono_AR.bein" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/mcrgaM7.png", HK: beIN SPORTS 3 FHD 50fps (il)
+https://hls.iill.top/api/beIN-Sports-3/index.m3u8
+
+#EXTINF:-1 tvg-id="beIN_SPORTS4_DIGITAL_Mono_AR.bein" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/mcrgaM7.png", HK: beIN SPORTS 4 FHD 25fps (il) ?
+https://hls.iill.top/api/beIN-Sports-4/index.m3u8
+
+#EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-logo="https://i.imgur.com/eOlysDj.png" group-title="beIN SPORTS", beIN SPORTS FHD (ze)
 https://zebua.short.gy/beinsports
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.Xtra.distro" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="Bein Sports" , beIN SPORTS XTRA FHD
+#EXTINF:-1 tvg-id="beIN.SPORTS.Xtra.distro" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="beIN SPORTS" , beIN SPORTS XTRA FHD
 https://d9ssxzmclhfo4.cloudfront.net/bein_sports.m3u8
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.Xtra.distro" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="Bein Sports" , beIN SPORTS XTRA FHD
+#EXTINF:-1 tvg-id="beIN.SPORTS.Xtra.distro" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="beIN SPORTS" , beIN SPORTS XTRA FHD
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
 
-
-#EXTINF:0 group-title="Bein Sports"
-
+#EXTINF:0 group-title="beIN SPORTS"
 
 # # # ---------------------------------------- 📺 Setanta Sports ----------------------------------------
 #EXTINF:-1 tvg-id="Setanta.Sports.HD.ua" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/fLgsVsj.png", 🇺🇦 Setanta Sports FHD 50fps (b)
@@ -3365,6 +3401,26 @@ https://eventcdn02-nowe.akamaized.net/hls/CH636/index.m3u8
 
 #EXTINF:-1 tvg-id="Now.Sports.7.hk"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pd3hla1659623109.png" group-title="Tesing only", HK: Now Sports 7 FHD 50fps (ev) ?
 https://eventcdn02-nowe.akamaized.net/hls/CH637/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Hub.Premier.5.sg" tvg-name="Hub Premier 5" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-5.png" group-title="Tesing only" , Hub Premier 5 (il) ?
+https://hls.iill.top/api/Hub-Premier-5/index.m3u8
+#EXTINF:-1 tvg-id="Hub.Premier.6.sg" tvg-name="Hub Premier 6" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-6.png" group-title="Tesing only" , Hub Premier 6 (il) ?
+https://hls.iill.top/api/Hub-Premier-6/index.m3u8
+#EXTINF:-1 tvg-id="Hub.Premier.7.sg" tvg-name="Hub Premier 7" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-7.png" group-title="Tesing only" , Hub Premier 7 (il) ?
+https://hls.iill.top/api/Hub-Premier-7/index.m3u8
+#EXTINF:-1 tvg-id="Hub.Premier.8.sg" tvg-name="Hub Premier 8" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-8.png" group-title="Tesing only" , Hub Premier 8 (il) ?
+https://hls.iill.top/api/Hub-Premier-8/index.m3u8
+
+#EXTINF:-1 tvg-id="Hub.Sports.5.HD.sg"  tvg-logo="https://i.imgur.com/XmztOG9.png" group-title="Tesing only", SG: Hub Sports 5 FHD (il) ?
+https://hls.iill.top/api/Hub-Sports-5/index.m3u8
+#EXTINF:-1 tvg-id="Hub.Sports.6.HD.sg"  tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-6.png" group-title="Tesing only", SG: Hub Sports 6 FHD (il) ?
+https://hls.iill.top/api/Hub-Sports-6/index.m3u8
+#EXTINF:-1 tvg-id="Hub.Sports.7.HD.sg"  tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-7.png" group-title="Tesing only", SG: Hub Sports 7 FHD (il) ?
+https://hls.iill.top/api/Hub-Sports-7/index.m3u8
+#EXTINF:-1 tvg-id="Hub.Sports.8.HD.sg"  tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-8.png" group-title="Tesing only", SG: Hub Sports 8 FHD (il) ?
+https://hls.iill.top/api/Hub-Sports-8/index.m3u8
+
 
 #EXTINF:0 group-title="Tesing only"
 # # # ---------------------------------------- 
