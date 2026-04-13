@@ -399,7 +399,7 @@ https://vietanhtv.id.vn/tv360/2554/index.m3u8
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.id.vn/tv/cleankey.php?id=tv360plus1
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Ys1CVZW6RbCj-AKQUQMItA","k":"L8leCjcc0Lo0O8HRIN2XEw"}],"type":"temporary"}
 https://vietanh18h1.duckdns.org/tv360/2554/index.m3u8
 
 
@@ -414,7 +414,7 @@ https://vietanhtv.id.vn/tv360/1/index.m3u8
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.id.vn/tv/cleankey.php?id=tv360plus2
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wX8bVx6YXxWBc1EWN2O_ZA","k":"YZUbqUZJbL_u3jNLVKGC-A"}],"type":"temporary"}
 https://vietanh18h1.duckdns.org/tv360/1/index.m3u8
 
 
@@ -429,7 +429,8 @@ https://vietanhtv.id.vn/tv360/148/index.mpd
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.id.vn/tv/cleankey.php?id=tv360plus3
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"MgJf610fUPybnTqDsRdmcA","k":"dXibJiTFjAc4W1o3aCye_A"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=32025feb5d1f50fc9b9d3a83b1176670:75789b2624c58c07385b5a37682c9efc
 https://vietanh18h1.duckdns.org/tv360/148/index.m3u8
 
 
@@ -3131,39 +3132,105 @@ https://a1xs.vip/140002
 #EXTINF:-1 tvg-id="Ziggo.Sport.3.nl" tvg-name="NL: Ziggo Sport 3 FHD" tvg-logo="https://i.ibb.co/JF0cRyBQ/Ziggo-Sport3.png" group-title="EU Sports",NL: Ziggo Sport 3 FHD [n/a]
 https://a1xs.vip/140003
 
-
 #EXTINF:0 group-title="EU Sports"
+
+
+# # # ---------------------------------------- 📺 India Sports ----------------------------------------
+
+#EXTINF:-1 tvg-id="" group-title="🇮🇳 India Sports" tvg-logo="https://i.imgur.com/tDDl4E6.png" , Star Sports 1 FHD (ip)
+http://103.229.254.25:7001/play/a0a0/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="🇮🇳 India Sports" tvg-logo="https://i.imgur.com/O0rlKay.png" , Star Sports 1 FHD (dh)
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9397
+#EXTINF:-1 tvg-id="" group-title="🇮🇳 India Sports" tvg-logo="https://i.imgur.com/O0rlKay.png" , Star Sports 1 Tamil FHD (dh)
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9399
+
+#EXTINF:-1 tvg-id="" group-title="🇮🇳 India Sports" tvg-logo="https://i.imgur.com/3ww1nKz.png" , Star Sports 2 FHD Tamil (dh)
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9398
+
+#EXTINF:-1 tvg-id="starsportsselect1.in" group-title="🇮🇳 India Sports" tvg-logo="https://i.imgur.com/YiNhjKY.png" , Star Sports Select 1 FHD (mf)
+https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8
+#EXTINF:-1 tvg-id="starsportsselect1.in" group-title="🇮🇳 India Sports" tvg-logo="https://i.imgur.com/Os1I0MN.png" , Star Sports Select 1 FHD (dh)
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9400
+
+#EXTINF:-1 tvg-id="starsportsselect2.in" group-title="🇮🇳 India Sports" tvg-logo="https://i.imgur.com/Os1I0MN.png" , Star Sports Select 2 FHD (dh)
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9401
+
+#EXTINF:0 group-title="🇮🇳 India Sports"
+
+# # # ---------------------------------------- 📺 China Channels ----------------------------------------
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="🇨🇳 China Channels" , CCTV 1 綜合「Relay」
+https://v.iill.top/api/CCTV1/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.iill.top/logo/CCTV2.png" group-title="🇨🇳 China Channels" , CCTV 2 財經「Relay」
+https://v.iill.top/api/CCTV2/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.iill.top/logo/CCTV3.png" group-title="🇨🇳 China Channels" , CCTV 3 綜藝「Relay」
+https://v.iill.top/api/CCTV3/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.iill.top/logo/CCTV4.png" group-title="🇨🇳 China Channels" , CCTV 4 中文國際「Relay」
+https://v.iill.top/api/CCTV4/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.iill.top/logo/CCTV5.png" group-title="🇨🇳 China Channels" , CCTV 5 體育「Relay」
+https://v.iill.top/api/CCTV5/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" group-title="🇨🇳 China Channels" , CCTV 5+ 體育賽事「Relay」
+https://v.iill.top/api/CCTV5+/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" group-title="🇨🇳 China Channels" , CCTV 6 電影「Relay」
+https://v.iill.top/api/CCTV6/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.iill.top/logo/CCTV7.png" group-title="🇨🇳 China Channels" , CCTV 7 國防軍事「Relay」
+https://v.iill.top/api/CCTV7/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.iill.top/logo/CCTV8.png" group-title="🇨🇳 China Channels" , CCTV 8 電視劇「Relay」
+https://v.iill.top/api/CCTV8/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.iill.top/logo/CCTV9.png" group-title="🇨🇳 China Channels" , CCTV 9 記錄「Relay」
+https://v.iill.top/api/CCTV9/index.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.iill.top/logo/CCTV10.png" group-title="🇨🇳 China Channels" , CCTV 10 科教「Relay」
+https://v.iill.top/api/CCTV10/index.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.iill.top/logo/CCTV11.png" group-title="🇨🇳 China Channels" , CCTV 11 戲曲「Relay」
+https://v.iill.top/api/CCTV11/index.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.iill.top/logo/CCTV12.png" group-title="🇨🇳 China Channels" , CCTV 12 社會與法「Relay」
+https://v.iill.top/api/CCTV12/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.iill.top/logo/CCTV13.png" group-title="🇨🇳 China Channels" , CCTV 13 新聞「Relay」
+https://v.iill.top/api/CCTV13/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.iill.top/logo/CCTV14.png" group-title="🇨🇳 China Channels" , CCTV 14 少兒「Relay」
+https://v.iill.top/api/CCTV14/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.iill.top/logo/CCTV15.png" group-title="🇨🇳 China Channels" , CCTV 15 音樂「Relay」
+https://v.iill.top/api/CCTV15/index.m3u8
+#EXTINF:-1 tvg-id="CGTN"  tvg-name="CGTN" tvg-logo="https://epg.iill.top/logo/CGTN.png" group-title="🇨🇳 China Channels" , CGTN「回看」
+https://tv.iill.top/CGTN/cgtn
+#EXTINF:-1 tvg-id="CGTN外语纪录" tvg-name="CGTN外语纪录" tvg-logo="https://epg.iill.top/logo/CGTN纪录.png" group-title="🇨🇳 China Channels" , CGTN Documentary「回看」
+https://tv.iill.top/CGTN/cgtn_doc
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-id="CGTN俄语" tvg-logo="https://epg.iill.top/logo/CGTN俄语.png" group-title="🇨🇳 China Channels" , CGTN Русский「回看」
+https://tv.iill.top/CGTN/cgtn_russian
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://epg.iill.top/logo/CGTN法语.png" group-title="🇨🇳 China Channels" , CGTN Français「回看」
+https://tv.iill.top/CGTN/cgtn_francais
+#EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://epg.iill.top/logo/CGTN西班牙语.png" group-title="🇨🇳 China Channels" , CGTN Español「回看」
+https://tv.iill.top/CGTN/cgtn_espanol
+#EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://epg.iill.top/logo/CGTN阿拉伯语.png" group-title="🇨🇳 China Channels" , CGTN العربية「回看」
+https://tv.iill.top/CGTN/cgtn_arabic
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.iill.top/logo/北京卫视.png" group-title="🇨🇳 China Channels" , 北京衛視「Relay」
+https://v.iill.top/api/bjws/index.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.iill.top/logo/东方卫视.png" group-title="🇨🇳 China Channels" , 東方衛視「Relay」
+https://v.iill.top/api/dfws/index.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="🇨🇳 China Channels" , 廣東衛視「Relay」
+https://v.iill.top/api/gdws/index.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.iill.top/logo/浙江卫视.png" group-title="🇨🇳 China Channels" , 浙江衛視「Relay」
+https://v.iill.top/api/zjws/index.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.iill.top/logo/江苏卫视.png" group-title="🇨🇳 China Channels" , 江蘇衛視「Relay」
+https://v.iill.top/api/jsws/index.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.iill.top/logo/湖南卫视.png" group-title="🇨🇳 China Channels" , 湖南衛視「Relay」
+https://v.iill.top/api/hnws/index.m3u8
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.iill.top/logo/四川卫视.png" group-title="🇨🇳 China Channels" , 四川衛視「Relay」
+https://v.iill.top/api/scws/index.m3u8
+
+#EXTINF:0 group-title="🇨🇳 China Channels"
+
 
 # # # ---------------------------------------- 📺 World Sports ----------------------------------------
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xhu0Gqg.png" group-title="World Sports", TVRI Sport FHD (ze)
 https://zebua.short.gy/tvrisport
-
-
-#EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://i.imgur.com/tDDl4E6.png" , Star Sports 1 FHD (ip)
-http://103.229.254.25:7001/play/a0a0/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://i.imgur.com/O0rlKay.png" , Star Sports 1 FHD (dh)
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9397
-#EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://i.imgur.com/O0rlKay.png" , Star Sports 1 Tamil FHD (dh)
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9399
-
-#EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://i.imgur.com/3ww1nKz.png" , Star Sports 2 FHD Tamil (dh)
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9398
-
-#EXTINF:-1 tvg-id="starsportsselect1.in" group-title="World Sports" tvg-logo="https://i.imgur.com/YiNhjKY.png" , Star Sports Select 1 FHD (mf)
-https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8
-#EXTINF:-1 tvg-id="starsportsselect1.in" group-title="World Sports" tvg-logo="https://i.imgur.com/Os1I0MN.png" , Star Sports Select 1 FHD (dh)
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9400
-
-#EXTINF:-1 tvg-id="starsportsselect2.in" group-title="World Sports" tvg-logo="https://i.imgur.com/Os1I0MN.png" , Star Sports Select 2 FHD (dh)
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9401
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ipgmF4F.png" group-title="World Sports", Sports Grid HD (ze) (720p)
 https://zebua.short.gy/sportsgrid
 
 #EXTINF:0 group-title="World Sports"
+
 
 # # # ---------------------------------------- 🟢 Live ⚽| Football  ----------------------------------------
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg"  tvg-logo="https://i.imgur.com/SM7GQAM.png" group-title="🟢 Live ⚽| Football", SG: Hub Premier 2 UHD 50fps (g)
