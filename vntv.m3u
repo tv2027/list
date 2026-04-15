@@ -2203,7 +2203,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/6566/inde
 #EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/V3qfxeG.png", TNT Sports 1 FHD 50fps (b)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/2505/index.m3u8
 
-
 #EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/Qq5D6bY.png", TNT Sports 2 FHD 50fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/43126.ts
 #EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/Qq5D6bY.png", TNT Sports 2 FHD 50fps (b)
@@ -2221,14 +2220,13 @@ https://hls.iill.top/api/TNT-Sports-2/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/Qq5D6bY.png", TNT Sports 2 FHD 25fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/16551.ts
 
-
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/YIWGDix.png", TNT Sports 3 FHD 50fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2335
 #EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/YIWGDix.png", TNT Sports 3 FHD 50fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/43124.ts
 #EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/YIWGDix.png", TNT Sports 3 FHD 50fps (xp) ?
 http://myxpanel.pro:80/Martin/Martin/709374
-#EXTINF:-1 tvg-id="TNT.Sports.4.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/KJZszMA.png", TNT Sports 4 FHD 50fps (xp) ?
+#EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/KJZszMA.png", TNT Sports 3 FHD 50fps (xp) ?
 http://myxpanel.pro:80/Martin/Martin/276895
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/YIWGDix.png", TNT Sports 3 FHD 50fps (as) ?
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527613&extension=ts
@@ -2259,11 +2257,11 @@ https://hls.iill.top/api/TNT-Sports-4/index.m3u8
 
 # # # ---------------------------------------- 📺 🇺🇸 US Sports ----------------------------------------
 
-#EXTINF:-1 tvg-id="FS1.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/Wwsojdh.png", Fox Sports 1 FHD 60fps (ks)
-http://kstv.us:8080/Freshcobar23/83261331891/22526
 #EXTINF:-1 tvg-id="FS1.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/Wwsojdh.png", Fox Sports 1 FHD 60fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/44035.ts
-#EXTINF:-1 tvg-id="FS1.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/Wwsojdh.png", Fox Sports 1 FHD 60fps (g)
+#EXTINF:-1 tvg-id="FS1.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/Wwsojdh.png", Fox Sports 1 HD 60fps (ks)
+http://kstv.us:8080/Freshcobar23/83261331891/22526
+#EXTINF:-1 tvg-id="FS1.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/Wwsojdh.png", Fox Sports 1 HD 60fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/14118.ts
 #EXTINF:-1 tvg-id="FS1.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/Wwsojdh.png", Fox Sports 1 FHD 60fps (b)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/7322/index.m3u8
@@ -2673,6 +2671,8 @@ http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
 http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/371
 #EXTINF:-1 tvg-id="Canal+.Sport.fr" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/EOXnU15.png" , Canal+ Sport HD 25fps (bo)
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/47969.m3u8
+#EXTINF:-1 tvg-id="Canal+.Sport.fr" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/EOXnU15.png" , Canal+ Sport HD 25fps (bo)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2502/index.m3u8
 
 #EXTINF:-1 tvg-id="CANAL+.Sport.2.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/Aq2hnUj.png" , Canal+ Sport 2 FHD 25fps (ip)
 http://46.149.191.219:9114/play/a026
@@ -2857,6 +2857,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/19061/ind
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.1.my" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/HKfUqi7.png", MY: beIN SPORTS 1 FHD 50fps (il)
 https://hls.iill.top/api/beIN-Sports-1/index.m3u8
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.fr" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/HKfUqi7.png", FR: beIN SPORTS 1 FHD 50fps (b)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2499/index.m3u8
 #EXTINF:-1 tvg-id="beIN.SPORTS.1.hk" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/HKfUqi7.png", beIN SPORTS 1 FHD 30fps (k)
 http://kstv.us:8080/Freshcobar23/83261331891/12554
 #EXTINF:-1 tvg-id="beIN_SPORTS1_FRENCH_Digital_Mono_EN.bein" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/HKfUqi7.png", beIN SPORTS 1 FHD 30fps (r)
@@ -2868,6 +2870,8 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/714411
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.2.(HD).sg" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/mcrgaM7.png", HK: beIN SPORTS 2 FHD 50fps (il)
 https://hls.iill.top/api/beIN-Sports-2/index.m3u8
+#EXTINF:-1 tvg-id="beIN.SPORTS.2.fr" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/mcrgaM7.png", FR: beIN SPORTS 2 FHD 50fps (b)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2500/index.m3u8
 #EXTINF:-1 tvg-id="beIN_SPORTS2_FRENCH_Digital_Mono_AR.bein" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/mcrgaM7.png", AR: beIN SPORTS 2 FHD 30fps (k)
 http://kstv.us:8080/Freshcobar23/83261331891/12553
 #EXTINF:-1 tvg-id="beIN_SPORTS2_ENGLISH_Digital_Mono_AR.bein" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/mcrgaM7.png", AR: beIN SPORTS 2 FHD 30fps (r)
@@ -2877,6 +2881,8 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/659437
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.3.hk" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/mcrgaM7.png", HK: beIN SPORTS 3 FHD 50fps (il)
 https://hls.iill.top/api/beIN-Sports-3/index.m3u8
+#EXTINF:-1 tvg-id="beIN.SPORTS.3.tr" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/mcrgaM7.png", TR: beIN SPORTS 3 HD 25fps (b)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2501/index.m3u8
 
 #EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-logo="https://i.imgur.com/eOlysDj.png" group-title="beIN SPORTS", beIN SPORTS FHD (ze)
 https://zebua.short.gy/beinsports
@@ -2895,10 +2901,18 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/31755/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/15183/index.m3u8
 #EXTINF:-1 tvg-id="Setanta.Sports.HD.ua" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/fLgsVsj.png", 🇺🇦 Setanta Sports FHD 25fps (b)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/272/index.m3u8
+#EXTINF:-1 tvg-id="Setanta.Sports.HD.ua" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/fLgsVsj.png", 🇺🇦 Setanta Sports FHD 25fps (b)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/272/index.m3u8
 
 #EXTINF:-1 tvg-id="Setanta.Sports.1.HD.ua" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", 🇺🇦 Setanta Sports 1 FHD 25fps (b)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/5069/index.m3u8
+#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.ua" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", 🇺🇦 Setanta Sports 1 FHD 25fps (b)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/5069/index.m3u8
 
+#EXTINF:-1 tvg-id="Setanta.Sports.plus.HD.ua" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", 🇺🇦 Setanta Sports + FHD 25fps (b)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/5068/index.m3u8
+#EXTINF:-1 tvg-id="Setanta.Sports.plus.HD.ua" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", 🇺🇦 Setanta Sports + FHD 25fps (b)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/5068/index.m3u8
 
 #EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", 🇱🇻 Setanta Sports 1 FHD 60fps (b)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/20065/index.m3u8
@@ -3185,6 +3199,8 @@ http://myxpanel.pro:80/Martin/Martin/786930
 http://myxpanel.pro:80/Martin/Martin/786929
 
 
+#EXTINF:-1 tvg-id="Arena.Premium.2.HD.(RS).rs" tvg-logo="https://i.imgur.com/3JVMedy.png" group-title="Arena Sports", Arena Premium 2 FHD 50fps (b)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31601/index.m3u8
 #EXTINF:-1 tvg-id="Arena.Premium.2.HD.(RS).rs" tvg-logo="https://i.imgur.com/3JVMedy.png" group-title="Arena Sports", 🇷🇸 Arena Premium 2 FHD 50fps (xd)
 http://xdgo.live:8080/rogeliopty/YhhqPpCAru/159099
 #EXTINF:-1 tvg-id="Arena.Premium.2.HD.(RS).rs" tvg-logo="https://i.imgur.com/3JVMedy.png" group-title="Arena Sports", 🇷🇸 Arena Premium 2 FHD 50fps (xp) ?
@@ -3194,13 +3210,17 @@ http://myxpanel.pro:80/Martin/Martin/786928
 #EXTINF:-1 tvg-id="Arena.Premium.2.HD.ba" tvg-logo="https://i.imgur.com/3JVMedy.png" group-title="Arena Sports", 🇧🇦 Arena Premium 2 HD 25fps (xp) ?
 http://myxpanel.pro:80/Martin/Martin/786927
 
+#EXTINF:-1 tvg-id="Arena.Premium.3.HD.hr" tvg-logo="https://i.imgur.com/WhT78pi.png" group-title="Arena Sports", Arena Premium 3 HD 50fps (b)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31601/index.m3u8
 #EXTINF:-1 tvg-id="Arena.Premium.3.HD.(RS).rs" tvg-logo="https://i.imgur.com/WhT78pi.png" group-title="Arena Sports", 🇷🇸 Arena Premium 3 FHD 50fps (xd)
 http://xdgo.live:8080/rogeliopty/YhhqPpCAru/159100
+#EXTINF:-1 tvg-id="Arena.Premium.3.HD.(RS).rs" tvg-logo="https://i.imgur.com/WhT78pi.png" group-title="Arena Sports", 🇷🇸 Arena Premium 3 HD 50fps (b)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31604/index.m3u8
 #EXTINF:-1 tvg-id="Arena.Premium.3.HD.(RS).rs" tvg-logo="https://i.imgur.com/WhT78pi.png" group-title="Arena Sports", 🇷🇸 Arena Premium 3 FHD 50fps (xp) ?
 http://myxpanel.pro:80/Martin/Martin/786864
-#EXTINF:-1 tvg-id="Arena.Premium.3.HD.ba" tvg-logo="https://i.imgur.com/WhT78pi.png" group-title="Arena Sports", 🇷🇸 Arena Premium 3 FHD 25fps (xp) ?
+#EXTINF:-1 tvg-id="Arena.Premium.3.HD.ba" tvg-logo="https://i.imgur.com/WhT78pi.png" group-title="Arena Sports", 🇧🇦 Arena Premium 3 FHD 25fps (xp) ?
 http://myxpanel.pro:80/Martin/Martin/786926
-#EXTINF:-1 tvg-id="Arena.Premium.3.HD.ba" tvg-logo="https://i.imgur.com/WhT78pi.png" group-title="Arena Sports", 🇷🇸 Arena Premium 3 HD 25fps (xp) ?
+#EXTINF:-1 tvg-id="Arena.Premium.3.HD.ba" tvg-logo="https://i.imgur.com/WhT78pi.png" group-title="Arena Sports", 🇧🇦 Arena Premium 3 HD 25fps (xp) ?
 http://myxpanel.pro:80/Martin/Martin/786925
 
 #EXTINF:-1 tvg-id="Arena.Sport.1.cz" tvg-logo="https://i.imgur.com/zgm3m3t.png" group-title="Arena Sports", 🇨🇿 Arena Sport 1 FHD 50fps (ip)
@@ -3212,6 +3232,8 @@ http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
 http://xdgo.live:8080/rogeliopty/YhhqPpCAru/159101
 #EXTINF:-1 tvg-id="Arena.Sport.1.HD.sl" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="Arena Sports", 🇸🇮 Arena Sport 1 FHD 50fps (xp) ?
 http://myxpanel.pro:80/Martin/Martin/803097
+#EXTINF:-1 tvg-id="Arena.Sport.1.HD.(RS).rs" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="Arena Sports", 🇷🇸 Arena Sport 1 FHD 50fps (b)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31602/index.m3u8
 #EXTINF:-1 tvg-id="Arena.Sport.1.HD.(RS).rs" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="Arena Sports", 🇷🇸 Arena Sport 1 FHD 25fps (fe)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1177
 #EXTINF:-1 tvg-id="Arena.Sport.1.HD.(RS).rs" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="Arena Sports", 🇷🇸 Arena Sport 1 FHD 25fps (xp) ?
@@ -3224,7 +3246,6 @@ http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1189
 http://myxpanel.pro:80/Martin/Martin/786924
 #EXTINF:-1 tvg-id="Arena.Sport.1.HD.ba" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="Arena Sports", 🇧🇦 Arena Sport 1 HD 50fps (xp) ?
 http://myxpanel.pro:80/Martin/Martin/786923
-
 
 #EXTINF:-1 tvg-id="Arena.Sport.2.HD.sl" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="Arena Sports", 🇸🇮 Arena Sport 2 FHD 50fps (xp) ?
 http://myxpanel.pro:80/Martin/Martin/803098
@@ -3239,10 +3260,12 @@ http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1187
 
 #EXTINF:-1 tvg-id="Arena.Sport.3.HD.ba" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="Arena Sports", 🇧🇦 Arena Sport 3 FHD 50fps (xp) ?
 http://myxpanel.pro:80/Martin/Martin/786921
-#EXTINF:-1 tvg-id="Arena.Sport.3.HD.(RS).rs" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="Arena Sports", 🇷🇸 Arena Sport 3 FHD 25fps (xp) ?
-http://myxpanel.pro:80/Martin/Martin/786863
 #EXTINF:-1 tvg-id="Arena.Sport.3.HD.(RS).rs" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="Arena Sports", 🇷🇸 Arena Sport 3 FHD 25fps (fe)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1175
+#EXTINF:-1 tvg-id="Arena.Sport.3.HD.(RS).rs" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="Arena Sports", 🇷🇸 Arena Sport 3 FHD 25fps (xp) ?
+http://myxpanel.pro:80/Martin/Martin/786863
+#EXTINF:-1 tvg-id="Arena.Sport.3.HD.(RS).rs" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="Arena Sports", 🇷🇸 Arena Sport 3 HD 25fps (b)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31603/index.m3u8
 #EXTINF:-1 tvg-id="Arena.Sport.3.HD.hr" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="Arena Sports", 🇭🇷 Arena Sport 3 FHD 50fps (xp) ?
 http://myxpanel.pro:80/Martin/Martin/786910
 #EXTINF:-1 tvg-id="Arena.Sport.3.HD.hr" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="Arena Sports", 🇭🇷 Arena Sport 3 FHD 25fps (fe)
@@ -3254,11 +3277,15 @@ http://myxpanel.pro:80/Martin/Martin/786920
 http://myxpanel.pro:80/Martin/Martin/786861
 #EXTINF:-1 tvg-id="Arena.Sport.4.HD.(RS).rs" tvg-logo="https://i.imgur.com/h1XhGkz.png" group-title="Arena Sports", 🇷🇸 Arena Sport 4 FHD 25fps (fe)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1174
+#EXTINF:-1 tvg-id="Arena.Sport.4.HD.(RS).rs" tvg-logo="https://i.imgur.com/aWYqu4B.png" group-title="Arena Sports", 🇷🇸 Arena Sport 4 HD 25fps (b)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31605/index.m3u8
 #EXTINF:-1 tvg-id="Arena.Sport.4.HD.hr" tvg-logo="https://i.imgur.com/h1XhGkz.png" group-title="Arena Sports", 🇭🇷 Arena Sport 4 FHD 50fps (xp) ?
 http://myxpanel.pro:80/Martin/Martin/786909
 #EXTINF:-1 tvg-id="Arena.Sport.4.HD.hr" tvg-logo="https://i.imgur.com/h1XhGkz.png" group-title="Arena Sports", 🇭🇷 Arena Sport 4 SD 25fps (fe)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1183
 
+#EXTINF:-1 tvg-id="Arena.Sport.5.HD.(RS).rs" tvg-logo="https://i.imgur.com/aWYqu4B.png" group-title="Arena Sports", 🇷🇸 Arena Sport 5 FHD 50fps (b)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31606/index.m3u8
 #EXTINF:-1 tvg-id="Arena.Sport.5.HD.ba" tvg-logo="https://i.imgur.com/aWYqu4B.png" group-title="Arena Sports", 🇧🇦 Arena Sport 5 FHD 50fps (xp) ?
 http://myxpanel.pro:80/Martin/Martin/786919
 #EXTINF:-1 tvg-id="Arena.Sport.5.HD.(RS).rs" tvg-logo="https://i.imgur.com/aWYqu4B.png" group-title="Arena Sports", 🇷🇸 Arena Sport 5 FHD 25fps (xp) ?
@@ -3272,6 +3299,8 @@ http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/171338.m3u8
 
 #EXTINF:-1 tvg-id="Arena.Sport.6.HD.ba" tvg-logo="https://i.imgur.com/CUhgHWn.png" group-title="Arena Sports", 🇧🇦 Arena Sport 6 FHD 25fps (xp) ?
 http://myxpanel.pro:80/Martin/Martin/786918
+#EXTINF:-1 tvg-id="Arena.Sport.6.HD.(RS).rs" tvg-logo="https://i.imgur.com/CUhgHWn.png" group-title="Arena Sports", 🇷🇸 Arena Sport 6 FHD 50fps (B)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31607/index.m3u8
 #EXTINF:-1 tvg-id="Arena.Sport.6.HD.(RS).rs" tvg-logo="https://i.imgur.com/CUhgHWn.png" group-title="Arena Sports", 🇷🇸 Arena Sport 6 FHD 25fps (xp) ?
 http://myxpanel.pro:80/Martin/Martin/786856
 #EXTINF:-1 tvg-id="Arena.Sport.6.HD.hr" tvg-logo="https://i.imgur.com/CUhgHWn.png" group-title="Arena Sports", 🇭🇷 Arena Sport 6 FHD 50fps (xp) ?
@@ -3279,6 +3308,8 @@ http://myxpanel.pro:80/Martin/Martin/786906
 #EXTINF:-1 tvg-id="Arena.Sport.6.HD.hr" tvg-logo="https://i.imgur.com/CUhgHWn.png" group-title="Arena Sports", 🇭🇷 Arena Sport 6 FHD 25fps (fe)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1179
 
+#EXTINF:-1 tvg-id="Arena.Sport.7.HD.(RS).rs" tvg-logo="https://i.imgur.com/VQ2LO94.png" group-title="Arena Sports", 🇷🇸 Arena Sport 7 HD 50fps (B)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31608/index.m3u8
 #EXTINF:-1 tvg-id="Arena.Sport.7.HD.(RS).rs" tvg-logo="https://i.imgur.com/VQ2LO94.png" group-title="Arena Sports", 🇷🇸 Arena Sport 7 FHD 50fps (xp) ?
 http://myxpanel.pro:80/Martin/Martin/786854
 #EXTINF:-1 tvg-id="Arena.Sport.7.HD.hr" tvg-logo="https://i.imgur.com/VQ2LO94.png" group-title="Arena Sports", 🇭🇷 Arena Sport 7 (5?) FHD 50fps (xp) ?
@@ -3286,6 +3317,8 @@ http://myxpanel.pro:80/Martin/Martin/786905
 #EXTINF:-1 tvg-id="Arena.Sport.7.HD.hr" tvg-logo="https://i.imgur.com/VQ2LO94.png" group-title="Arena Sports", 🇭🇷 Arena Sport 7 FHD 25fps (fe)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17669
 
+#EXTINF:-1 tvg-id="Arena.Sport.8.HD.(RS).rs" tvg-logo="https://i.imgur.com/aWYqu4B.png" group-title="Arena Sports", 🇷🇸 Arena Sport 8 FHD 50fps (b)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31609/index.m3u8
 #EXTINF:-1 tvg-id="Arena.Sport.8.HD.(RS).rs" tvg-logo="https://i.imgur.com/aWYqu4B.png" group-title="Arena Sports", 🇷🇸 Arena Sport 8 FHD 50fps (xp) ?
 http://myxpanel.pro:80/Martin/Martin/786852
 #EXTINF:-1 tvg-id="Arena.Sport.8.HD.hr" tvg-logo="https://i.imgur.com/aWYqu4B.png" group-title="Arena Sports", 🇭🇷 Arena Sport 8 FHD 50fps (xp) ?
@@ -3293,6 +3326,8 @@ http://myxpanel.pro:80/Martin/Martin/786904
 #EXTINF:-1 tvg-id="Arena.Sport.8.HD.hr" tvg-logo="https://i.imgur.com/aWYqu4B.png" group-title="Arena Sports", 🇭🇷 Arena Sport 8 FHD 25fps (fe)
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17670
 
+#EXTINF:-1 tvg-id="Arena.Sport.9.HD.(RS).rs" tvg-logo="https://i.imgur.com/6kpMNLc.png" group-title="Arena Sports", 🇷🇸 Arena Sport 9 FHD 25fps (b)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31610/index.m3u8
 #EXTINF:-1 tvg-id="Arena.Sport.9.HD.(RS).rs" tvg-logo="https://i.imgur.com/6kpMNLc.png" group-title="Arena Sports", 🇷🇸 Arena Sport 9 FHD 50fps (xp) ?
 http://myxpanel.pro:80/Martin/Martin/786851
 #EXTINF:-1 tvg-id="Arena.Sport.9.HD.hr" tvg-logo="https://i.imgur.com/6kpMNLc.png" group-title="Arena Sports", 🇭🇷 Arena Sport 9 FHD 50fps (xp) ?
@@ -3307,7 +3342,8 @@ http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17672
 #EXTINF:-1 tvg-id="Arena.Sport.10.HD.hr" tvg-logo="https://i.imgur.com/oGGffys.png" group-title="Arena Sports", 🇭🇷 Arena Sport 10 HD 50fps (xp) ?
 http://myxpanel.pro:80/Martin/Martin/786902
 
-
+#EXTINF:-1 tvg-id="Arena.Sport.1X2.HD.(RS).rs" tvg-logo="https://i.imgur.com/WUN5wzt.png" group-title="Arena Sports", 🇷🇸 Arena Sport 1x2 FHD 25fps (b)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31611/index.m3u8
 #EXTINF:-1 tvg-id="Arena.Sport.1X2.HD.(RS).rs" tvg-logo="https://i.imgur.com/WUN5wzt.png" group-title="Arena Sports", 🇷🇸 Arena Sport 1x2 FHD 50fps (xp) ?
 http://myxpanel.pro:80/Martin/Martin/786849
 
