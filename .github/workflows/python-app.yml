@@ -29,7 +29,7 @@ jobs:
         cd mac-to-m3u
         python hello.py
         python maclist.py  http://trxad.top:80  00:1E:B8:C0:dD:25
-        git config --global user.name "github-actions[bot]"
+        git config --global user.name "tv2027"
         git add http-trxad-top-80_00-1E-B8-C0-DD-25_2026-04-16.m3u
         git commit -m "Automated file update"
         git push
