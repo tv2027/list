@@ -5,10 +5,6 @@ name: Python application
 
 on:
   workflow_dispatch:
-    inputs:
-      environment:
-        description: 'run against'
-        required: false
         
 permissions:
   contents: read
