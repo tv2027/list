@@ -7,9 +7,8 @@ on:
   workflow_dispatch:
     inputs:
       environment:
-        description: 'Environment to run tests against'
-        type: environment
-        required: true
+        description: 'run against'
+        required: false
         
 permissions:
   contents: read
