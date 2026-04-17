@@ -32,9 +32,8 @@ jobs:
     - name: Commit and Push
       run: |
         ls -a
-        cp *.m3u ../results
-        ls .. -a 
-        cd ../results
+        cp /mac-to-m3u/*.m3u /results
+        cd results
         ls -a 
         #git config --global user.name "tv2027"       
         #git add .
