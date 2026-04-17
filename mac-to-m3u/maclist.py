@@ -77,12 +77,13 @@ def get_token(
         return data["js"]["token"]
     except (requests.RequestException, json.JSONDecodeError, KeyError) as e:
         print_colored(f"Error fetching token: {e}", "red")
-        if "res" in locals():
-            print_colored(f"Server response: {res.text}", "yellow")
+        
+        if "res" in locals() and res and res.status_code != 403:
+            print_colored(f"Server response: {res.status_code}, text: {res.text}", "yellow")
         return None
     except Exception as ex:
-        print_colored(f"Error fetching token: {ex}", "red")
-        if "res" in locals():
+        print_colored(f"Error fetching token: Exception: {ex}", "red")
+        if "res" in locals() and res and res.status_code != 403:
             print_colored(f"Server response: {res.text}", "yellow")
         return None
 
@@ -96,7 +97,7 @@ def get_subscription(
     headers = {"Authorization": f"Bearer {token}"}
     try:
         res = session.get(url, headers=headers, timeout=timeout)
-              
+        
         res.raise_for_status()
         data = res.json()
         mac = data["js"]["mac"]
@@ -106,12 +107,12 @@ def get_subscription(
         return True
     except (requests.RequestException, json.JSONDecodeError, KeyError) as e:
         print_colored(f"Error fetching subscription info: {e}", "red")
-        if "res" in locals():
-            print_colored(f"Server response: {res.text}", "yellow")
+        if "res" in locals() and res and res.status_code != 403:
+            print_colored(f"Server response: {res.status_code}, text: {res.text}", "yellow")
         return False
     except Exception as ex:
         print_colored(f"Error fetching subscription info: {ex}", "red")
-        if "res" in locals():
+        if "res" in locals() and res and res.status_code != 403:
             print_colored(f"Server response: {res.text}", "yellow")
         return False
 
@@ -186,13 +187,15 @@ def save_channel_list(
 
 def main() -> None:
     """Main function to orchestrate the process."""
-    print_colored(sys.argv, "yellow")
     try:
         base_url: str
         mac: str
         if len(sys.argv) >= 2:
             base_url = get_base_url(sys.argv[1])
-            mac = get_mac_address(sys.argv[2])
+            if (sys.argv[2] == "|"):
+                mac = get_mac_address(sys.argv[3])
+            else:
+                mac = get_mac_address(sys.argv[2])
         else:
             base_url = get_base_url()
             mac = get_mac_address()
@@ -232,9 +235,9 @@ def main() -> None:
         print_colored("\nExiting gracefully...", "yellow")
         sys.exit(0)
     except Exception as e:
-        error_str = traceback.format_exc()
+        # error_str = traceback.format_exc()
         print_colored(f"An unexpected error occurred in main: {e}", "red")
-        print_colored(f"An unexpected error occurred in main: {error_str}", "red")
+        # print_colored(f"An unexpected error occurred in main: {error_str}", "red")
 
 
 if __name__ == "__main__":
