@@ -29,11 +29,14 @@ jobs:
         cd mac-to-m3u
         python hello.py
         python maclist.py  http://trxad.top:80  00:1E:B8:C0:dD:25
-        cp *.m3u ../results
     - name: Commit and Push
       run: |
+        ls -a
+        cp *.m3u ../results
+        ls .. -a 
         cd ../results
-        git config --global user.name "tv2027"       
-        git add .
-        git commit -m "Automated file update"
-        git push
+        ls -a 
+        #git config --global user.name "tv2027"       
+        #git add .
+        #git commit -m "Automated file update"
+        #git push
