@@ -107,13 +107,16 @@ def get_subscription(
         if data["js"]:
             mac = data["js"]["mac"]
             expiry = data.get("js", {}).get("phone", "N/A")
+            print_colored(f"MAC = {mac}", "green")
             try:
                 expiry_date =  datetime.strptime(expiry, "%B %d, %Y, %I:%M %p")
             except Exception as ex1:
                 expiry_date = None
                 print_colored(f"Cannot convert string '{expiry}' to datetime?", "yellow")
-                
-            print_colored(f"MAC = {mac}\nExpiry = {expiry}, expiry_date = {expiry_date}", "green")
+            if expiry_date and expiry_date > datetime.now():
+                print_colored(f"Expiry = {expiry}. Expiry date = {expiry_date}", "green")
+            else:
+                print_colored(f"Expiry = {expiry}. Expiry date = {expiry_date}", "magenta")
         else:
             print_colored(f"Subscription info is empty. Maybe you have no subscription or expired?", "magenta")
         return True
