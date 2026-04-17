@@ -215,7 +215,7 @@ def save_channel_list(
 def main() -> None:
     """Main function to orchestrate the process."""
     try:
-        print_colored(f"Starting the process... {sys.argv}", "blue")
+        print_colored(f"Starting the process...\n{sys.argv}", "blue")
         base_url: str
         mac: str
         if len(sys.argv) >= 2:
