@@ -29,7 +29,7 @@ jobs:
         cd mac-to-m3u
         python hello.py
         #python maclist.py  http://trxad.top:80  00:1E:B8:C0:dD:25
-        python maclist.py  http://21tv.net:8789  00:1A:79:5D:78:C6
+        python maclist.py  http://slayerteam.in.rs:80  00:1B:79:F0:81:7F
         
     - name: Commit and Push
       run: |
