@@ -8,6 +8,8 @@ import re
 from typing import Dict, Tuple, Optional, Any, List
 from tqdm import tqdm
 
+expiry_date: datetime = None
+
 def print_colored(text: str, color: str) -> None:
     """Prints colored text."""
     colors: Dict[str, str] = {
@@ -96,14 +98,24 @@ def get_subscription(
 
     headers = {"Authorization": f"Bearer {token}"}
     try:
+        global expiry_date
+        
         res = session.get(url, headers=headers, timeout=timeout)
         
         res.raise_for_status()
         data = res.json()
-        mac = data["js"]["mac"]
-
-        expiry = data.get("js", {}).get("phone", "N/A")
-        print_colored(f"MAC = {mac}\nExpiry = {expiry}", "green")
+        if data["js"]:
+            mac = data["js"]["mac"]
+            expiry = data.get("js", {}).get("phone", "N/A")
+            try:
+                expiry_date =  datetime.strptime(expiry, "%B %d, %Y, %I:%M %p")
+            except Exception as ex1:
+                expiry_date = None
+                print_colored(f"Cannot convert string '{expiry}' to datetime?", "yellow")
+                
+            print_colored(f"MAC = {mac}\nExpiry = {expiry}, expiry_date = {expiry_date}", "green")
+        else:
+            print_colored(f"Subscription info is empty. Maybe you have no subscription or expired?", "magenta")
         return True
     except (requests.RequestException, json.JSONDecodeError, KeyError) as e:
         print_colored(f"Error fetching subscription info: {e}", "red")
@@ -156,11 +168,15 @@ def get_channel_list(
         return None, None
 
 def save_channel_list(
-    base_url: str, channels_data: List[Dict], group_info: Dict, mac: str
+    base_url: str, channels_data: List[Dict], group_info: Dict, mac: str, expiry: datetime
 ) -> None:
     """Saves the channel list to an M3U file."""
     sanitized_url = re.sub(r"[\W_]+", "-", base_url)
-    filename = f'{sanitized_url}_{mac.replace(":", "-")}_{datetime.now().strftime("%Y-%m-%d")}.m3u'
+    filename = ""
+    if expiry:
+        filename = f'{sanitized_url}_{mac.replace(":", "-")}_{expiry.strftime("%Y-%m-%d")}_{datetime.now().strftime("%Y-%m-%d")}.m3u'
+    else:
+        filename = f'{sanitized_url}_{mac.replace(":", "-")}_unknown_{datetime.now().strftime("%Y-%m-%d")}.m3u'
     count = 0
     try:
         with open(filename, "w", encoding="utf-8") as file:
@@ -239,7 +255,7 @@ def main() -> None:
                 print_colored("Fetching channel list...", "cyan")
                 channels_data, group_info = get_channel_list(session, base_url, token)
                 if channels_data and group_info:
-                    save_channel_list(base_url, channels_data, group_info, mac)
+                    save_channel_list(base_url, channels_data, group_info, mac, expiry_date)
     except KeyboardInterrupt:
         print_colored("\nExiting gracefully...", "yellow")
         sys.exit(0)
