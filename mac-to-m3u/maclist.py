@@ -134,17 +134,25 @@ def get_channel_list(
         
         group_info = {group["id"]: group["title"] for group in genre_data}
  
+        # url_channels = f"{base_url}/server/load.php?type=itv&action=get_all_channels&JsHttpRequest=1-json"
         url_channels = f"{base_url}/portal.php?type=itv&action=get_all_channels&JsHttpRequest=1-xml"
         res_channels = session.get(url_channels, headers=headers, timeout=timeout)
         res_channels.raise_for_status()
-        channels_data = res_channels.json()["js"]["data"]
-        return channels_data, group_info
+        if res_channels.json()["js"]:
+            channels_data = res_channels.json()["js"]["data"]
+            return channels_data, group_info
+        else:
+            print_colored(f"Channel list is empty. Maybe you have no subscription or expired?", "magenta")
+            return None, None
 
     except (requests.RequestException, json.JSONDecodeError, KeyError) as e:
         print_colored(f"Error fetching channel list: {e}", "red")
+        print_colored(f"RequestException. Server response: {group_info}", "yellow")
+        
         return None, None
     except Exception as ex:
         print_colored(f"Error fetching subscription info: {ex}", "red")
+        print_colored(f"Exception. Server response: {headers}, {res_channels.headers}, {res_channels.text}", "yellow")
         return None, None
 
 def save_channel_list(
@@ -188,6 +196,7 @@ def save_channel_list(
 def main() -> None:
     """Main function to orchestrate the process."""
     try:
+        print_colored(f"Starting the process... {sys.argv}", "blue")
         base_url: str
         mac: str
         if len(sys.argv) >= 2:
@@ -216,7 +225,7 @@ def main() -> None:
         session.cookies.update({"mac": mac})
         session.headers.update(
             {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",               
                 "Referer": f"{base_url}/c/",
                 "Accept": "application/json, text/javascript, */*; q=0.01",
                 "X-Requested-With": "XMLHttpRequest",
