@@ -28,7 +28,9 @@ jobs:
       run: |
         cd mac-to-m3u
         python hello.py
-        python maclist.py  http://trxad.top:80  00:1E:B8:C0:dD:25
+        #python maclist.py  http://trxad.top:80  00:1E:B8:C0:dD:25
+        python maclist.py  http://21tv.net:8789  00:1A:79:5D:78:C6
+        
     - name: Commit and Push
       run: |
         ls -a
