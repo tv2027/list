@@ -152,7 +152,7 @@ def get_channel_list(
         return None, None
     except Exception as ex:
         print_colored(f"Error fetching subscription info: {ex}", "red")
-        print_colored(f"Exception. Server response: {headers}, {res_channels.headers}, {res_channels.text}", "yellow")
+        print_colored(f"Exception. Server response: {res_channels.text}", "yellow")
         return None, None
 
 def save_channel_list(
