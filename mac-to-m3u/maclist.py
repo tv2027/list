@@ -49,11 +49,11 @@ def get_base_url(base_url: str = "") -> str:
             return ""
         parsed_url = urlparse(base_url_input)
     
-    #print_colored(f"base_url: {base_url}; parsed_url: {parsed_url}", "yellow")
+    # print_colored(f"base_url: {base_url}; parsed_url: {parsed_url}", "yellow")
     
-    if parsed_url.hostname or parsed_url.path:
+    if parsed_url.hostname:
         scheme = parsed_url.scheme or "http"
-        host = parsed_url.hostname or parsed_url.path
+        host = parsed_url.hostname
         port = parsed_url.port or 80
         return f"{scheme}://{host}:{port}"
     
