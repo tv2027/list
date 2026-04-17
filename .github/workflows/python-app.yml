@@ -38,9 +38,9 @@ jobs:
         
         python maclist.py    http://5.iptv11.is:80    00:1A:79:E5:D1:40
         python maclist.py    http://exclusifott.pro:80  00:1A:79:00:00:76
-        python maclist.py    http://exclusifott.pro:80  00:1A:79:e6:b0:35
+        python maclist.py    exclusifott.pro:80  00:1A:79:e6:b0:35
         python maclist.py    http://mutant.arrox.top:80/  00:1A:79:00:00:01
-        python maclist.py    http://appzero1.com:8080  00:1A:79:AF:36:B3
+        python maclist.py    appzero1.com:8080  00:1A:79:AF:36:B3
         
     - name: Commit and Push
       run: |
