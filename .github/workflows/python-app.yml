@@ -35,7 +35,7 @@ jobs:
         cp mac-to-m3u/*.m3u results
         cd results
         ls -a 
-        #git config --global user.name "tv2027"       
-        #git add .
-        #git commit -m "Automated file update"
-        #git push
+        git config --global user.name "tv2027[bot]"       
+        git add .
+        git commit -m "Automated file update"
+        git push
