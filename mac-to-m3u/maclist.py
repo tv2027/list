@@ -186,6 +186,7 @@ def save_channel_list(
 
 def main() -> None:
     """Main function to orchestrate the process."""
+    print_colored(sys.argv, "yellow")
     try:
         base_url: str
         mac: str
