@@ -48,10 +48,12 @@ def get_base_url(base_url: str = "") -> str:
         if not base_url_input:
             return ""
         parsed_url = urlparse(base_url_input)
-        
-    if parsed_url.hostname:
+    
+    #print_colored(f"base_url: {base_url}; parsed_url: {parsed_url}", "yellow")
+    
+    if parsed_url.hostname or parsed_url.path:
         scheme = parsed_url.scheme or "http"
-        host = parsed_url.hostname
+        host = parsed_url.hostname or parsed_url.path
         port = parsed_url.port or 80
         return f"{scheme}://{host}:{port}"
     
@@ -215,7 +217,8 @@ def save_channel_list(
 def main() -> None:
     """Main function to orchestrate the process."""
     try:
-        print_colored(f"Starting the process...\n{sys.argv}", "blue")
+        print_colored(f"Starting the process...", "blue")
+        print_colored(f"{sys.argv}", "blue")
         base_url: str
         mac: str
         if len(sys.argv) >= 2:
