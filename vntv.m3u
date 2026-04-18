@@ -2599,19 +2599,19 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537595&exten
 #EXTINF:-1 tvg-id="Ziggo.Sport.3.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.ibb.co/JF0cRyBQ/Ziggo-Sport3.png", Ziggo Sport 3 FHD 25fps (li)
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:01:8D:F4&stream=894970&extension=ts&play_token=HzgEVrmax4
 
-#EXTINF:-1 tvg-id="ZiggoSport4.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.ibb.co/ycdhBFGj/Ziggo-Sport.png", Ziggo Sport 4 FHD 50fps (as56)
+#EXTINF:-1 tvg-id="ZiggoSport.4.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.imgur.com/E1j4w6I.png", Ziggo Sport 4 FHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537594&extension=ts
-#EXTINF:-1 tvg-id="ZiggoSport4.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.ibb.co/ycdhBFGj/Ziggo-Sport.png", Ziggo Sport 4 FHD 25fps (li)
+#EXTINF:-1 tvg-id="ZiggoSport.4.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.imgur.com/E1j4w6I.png", Ziggo Sport 4 FHD 25fps (li)
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:01:8D:F4&stream=894971&extension=ts&play_token=4LEAku5cCT
 
-#EXTINF:-1 tvg-id="ZiggoSport5.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.ibb.co/ycdhBFGj/Ziggo-Sport.png", Ziggo Sport 5 FHD 50fps (as56)
+#EXTINF:-1 tvg-id="ZiggoSport.5.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.imgur.com/ZsdabLY.png", Ziggo Sport 5 FHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537593&extension=ts
-#EXTINF:-1 tvg-id="ZiggoSport5.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.ibb.co/ycdhBFGj/Ziggo-Sport.png", Ziggo Sport 5 FHD 25fps (li)
+#EXTINF:-1 tvg-id="ZiggoSport.5.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.imgur.com/ZsdabLY.png", Ziggo Sport 5 FHD 25fps (li)
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:01:8D:F4&stream=894972&extension=ts&play_token=QqZdLQGvp6
 
-#EXTINF:-1 tvg-id="ZiggoSport6.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.ibb.co/ycdhBFGj/Ziggo-Sport.png", Ziggo Sport 6 FHD 50fps (as56)
+#EXTINF:-1 tvg-id="ZiggoSport.6.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.imgur.com/hgpmpyU.png", Ziggo Sport 6 FHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537592&extension=ts
-#EXTINF:-1 tvg-id="ZiggoSport6.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.ibb.co/ycdhBFGj/Ziggo-Sport.png", Ziggo Sport 6 FHD 25fps (li)
+#EXTINF:-1 tvg-id="ZiggoSport.6.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.imgur.com/hgpmpyU.png", Ziggo Sport 6 FHD 25fps (li)
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:01:8D:F4&stream=894973&extension=ts&play_token=xbPrECcaae
 
 #EXTINF:0 group-title="🇳🇱 Ziggo Sport"
@@ -2765,17 +2765,20 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/60022.ts
 #EXTINF:0 group-title="🇵🇹 Sport TV"
 
 # # # ---------------------------------------- 📺 🇫🇷 Canal+  ----------------------------------------
-
-#EXTINF:-1 tvg-id="CANAL+FOOT.fr" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/XJtaq4F.png", Canal+ Foot FHD 50fps (xp) ??
-http://myxpanel.pro:80/live/Martin/Martin/723952.ts
+#EXTINF:-1 tvg-id="CANAL+FOOT.fr" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/XJtaq4F.png", Canal+ Foot HD 25fps (bo)
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/177675.m3u8
+#EXTINF:-1 tvg-id="CANAL+FOOT.fr" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/XJtaq4F.png", Canal+ Foot HD 25fps (li)
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:01:8D:F4&stream=894988&extension=ts&play_token=8g7iN0prcI
+#EXTINF:-1 tvg-id="CANAL+FOOT.fr" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/XJtaq4F.png", Canal+ Foot HD 50fps (as56)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=394814&extension=ts
 #EXTINF:-1 tvg-id="CANAL+FOOT.fr" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/XJtaq4F.png", Canal+ Foot HD 25fps (ch)
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1071923&extension=ts&play_token=vcQAIeKouv
+#EXTINF:-1 tvg-id="CANAL+FOOT.fr" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/XJtaq4F.png", Canal+ Foot FHD 50fps (xp) ??
+http://myxpanel.pro:80/live/Martin/Martin/723952.ts
 #EXTINF:-1 tvg-id="CANAL+FOOT.fr" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/XJtaq4F.png", Canal+ Foot HD 25fps (xp) ??
 http://myxpanel.pro:80/live/Martin/Martin/723954.ts
 #EXTINF:-1 tvg-id="CANAL+FOOT.fr" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/XJtaq4F.png", Canal+ Foot HD 25fps (xp) ??
 http://myxpanel.pro:80/live/Martin/Martin/723953.ts
-#EXTINF:-1 tvg-id="CANAL+FOOT.fr" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/XJtaq4F.png", Canal+ Foot HD 50fps (as56) ?
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=394814&extension=ts
 
 #EXTINF:-1 tvg-id="CANAL+.PREMIER.LEAGUE.ch" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/aKFlhRO.png", Canal+ Premier League HD 25fps (bo)
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/125484.m3u8
