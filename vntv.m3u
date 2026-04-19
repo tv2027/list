@@ -3549,17 +3549,34 @@ http://myxpanel.pro:80/Martin/Martin/786849
 
 # # # ---------------------------------------- 📺 🇽🇰 Art Sports ----------------------------------------
 
-#EXTINF:-1 tvg-id="Sport.1.al" tvg-logo="https://i.imgur.com/yrl2rLZ.png" group-title="🇽🇰 Art Sports", Art Sport 1 FHD (ip)
+#EXTINF:-1 tvg-id="Sport.1.al" tvg-logo="https://i.imgur.com/yrl2rLZ.png" group-title="🇽🇰 Art Sports", Art Sport 1 FHD 25fps (ip)
+http://169.150.223.25/ArtSport1HD/index.m3u8
+#EXTINF:-1 tvg-id="Sport.1.al" tvg-logo="https://i.imgur.com/yrl2rLZ.png" group-title="🇽🇰 Art Sports", Art Sport 1 FHD 25fps (ip)
 http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
-#EXTINF:-1 tvg-id="Sport.2.al" tvg-logo="https://i.imgur.com/MFPzqSg.png" group-title="🇽🇰 Art Sports", Art Sport 2 FHD (ip)
+
+#EXTINF:-1 tvg-id="Sport.2.al" tvg-logo="https://i.imgur.com/MFPzqSg.png" group-title="🇽🇰 Art Sports", Art Sport 2 FHD 25fps (ip)
+http://169.150.223.25/ArtSport2/index.m3u8
+#EXTINF:-1 tvg-id="Sport.2.al" tvg-logo="https://i.imgur.com/MFPzqSg.png" group-title="🇽🇰 Art Sports", Art Sport 2 FHD 25fps (ip)
 http://79.127.207.193:80/ArtSport2/playlist.m3u8
-#EXTINF:-1 tvg-id="Sport.3.al" tvg-logo="https://i.imgur.com/IZtzF5n.png" group-title="🇽🇰 Art Sports", Art Sport 3 FHD (ip)
+
+#EXTINF:-1 tvg-id="Sport.3.al" tvg-logo="https://i.imgur.com/IZtzF5n.png" group-title="🇽🇰 Art Sports", Art Sport 3 FHD 25fps (ip)
+http://169.150.223.25/ArtSport3HD/index.m3u8
+#EXTINF:-1 tvg-id="Sport.3.al" tvg-logo="https://i.imgur.com/IZtzF5n.png" group-title="🇽🇰 Art Sports", Art Sport 3 FHD 25fps (ip)
 http://79.127.207.193:80/ArtSport3/playlist.m3u8
-#EXTINF:-1 tvg-id="Sport.4.al" tvg-logo="https://i.imgur.com/YKroJkR.png" group-title="🇽🇰 Art Sports", Art Sport 4 FHD (ip)
+
+#EXTINF:-1 tvg-id="Sport.4.al" tvg-logo="https://i.imgur.com/YKroJkR.png" group-title="🇽🇰 Art Sports", Art Sport 4 FHD 25fps (ip)
+http://169.150.223.25/ArtSport4/index.m3u8
+#EXTINF:-1 tvg-id="Sport.4.al" tvg-logo="https://i.imgur.com/YKroJkR.png" group-title="🇽🇰 Art Sports", Art Sport 4 FHD 25fps (ip)
 http://79.127.207.193:80/ArtSport4/playlist.m3u8
-#EXTINF:-1 tvg-id="Sport.5.al" tvg-logo="https://i.imgur.com/Xh3tZ7F.png" group-title="🇽🇰 Art Sports", Art Sport 5 FHD (ip)
+
+#EXTINF:-1 tvg-id="Sport.5.al" tvg-logo="https://i.imgur.com/Xh3tZ7F.png" group-title="🇽🇰 Art Sports", Art Sport 5 FHD 25fps (ip)
+http://169.150.223.25/ArtSport5/index.m3u8
+#EXTINF:-1 tvg-id="Sport.5.al" tvg-logo="https://i.imgur.com/Xh3tZ7F.png" group-title="🇽🇰 Art Sports", Art Sport 5 FHD 25fps (ip)
 http://79.127.207.193:80/ArtSport5/playlist.m3u8
-#EXTINF:-1 tvg-id="Sport.6.al" tvg-logo="https://i.imgur.com/OneWQ24.png" group-title="🇽🇰 Art Sports", Art Sport 6 FHD (ip)
+
+#EXTINF:-1 tvg-id="Sport.6.al" tvg-logo="https://i.imgur.com/OneWQ24.png" group-title="🇽🇰 Art Sports", Art Sport 6 FHD 25fps (ip)
+http://169.150.223.25/ArtSport6/index.m3u8
+#EXTINF:-1 tvg-id="Sport.6.al" tvg-logo="https://i.imgur.com/OneWQ24.png" group-title="🇽🇰 Art Sports", Art Sport 6 FHD 25fps (ip)
 http://79.127.207.193:80/ArtSport6/playlist.m3u8
 
 #EXTINF:0 group-title="🇽🇰 Art Sports"
