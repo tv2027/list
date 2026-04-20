@@ -1311,9 +1311,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=10012
 https://vietanh18h1.duckdns.org/tv360/10012/index.m3u8
 
 #EXTINF:-1 tvg-id="360anime" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/8o5RKOp.png", 360 Anime (va) (1080p)
-https://freem3u.xyz/api/live/play.m3u8?vid=10012
+https://freem3u.xyz/api/live/play.m3u8?vid=10013
 #EXTINF:-1 tvg-id="360anime" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/8o5RKOp.png", 360 Anime (fr) (1080p)
-https://vietanh18h1.duckdns.org/tv360/10012/index.m3u8
+https://vietanh18h1.duckdns.org/tv360/10013/index.m3u8
 
 #EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/hr3wFmL.png", TV360 Promo (va) (1080p)
 https://vietanh18h1.duckdns.org/tv360/9904/index.m3u8
