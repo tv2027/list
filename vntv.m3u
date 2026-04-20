@@ -1861,6 +1861,14 @@ https://freem3u.xyz/api/live/play.m3u8?vid=32
 #EXTINF:-1 tvg-id="animax" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/9IdRhCa.png", Animax Asia (1080p)
 https://cdnssc.wewatch.asia/b3A9WTJsa1BUazNNVFJHUXpsRE1qWTBNRFEzTkRBNU9URkRORUl3TVRWR01VWkVRakV6Sm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/1080P_h264_master.m3u8
 
+#EXTINF:-93 tvg-id="animax" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/vKKUbf6.png" , ANIMAX Asia (1080p) [?]
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"edf1a715de9748638dd2fad75a419af2":"2f5a3199b26e9b693ae881af7ff864cf"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+
+
 #EXTINF:-1 tvg-id="AnimalPlanet.in" group-title="Quốc Tế" tvg-name="Animal Planet HD" tvg-logo="https://i.imgur.com/GVna9Xn.png", Animal Planet FHD [in]
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9391
 
