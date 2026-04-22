@@ -3526,13 +3526,13 @@ http://myxpanel.pro:80/Martin/Martin/305
 
 # # # ---------------------------------------- 📺 🇧🇬 Max Sport  ----------------------------------------
 
-#EXTINF:-1 tvg-id="MAX.Sport.1.bg" group-title="🇧🇬 Max Sport" tvg-logo="https://i.imgur.com/CZggP4A.png", 🇧🇬 Max Sport 1 HD 25fps (ch) ??
+#EXTINF:-1 tvg-id="MAX.Sport.1.bg" group-title="🇧🇬 Max Sport" tvg-logo="https://i.imgur.com/CZggP4A.png", 🇧🇬 Max Sport 1 FHD 50fps (ip)
 http://77.46.130.252:99/maxsport1
-#EXTINF:-1 tvg-id="MAX.Sport.2.bg" group-title="🇧🇬 Max Sport" tvg-logo="https://i.imgur.com/OLGVJKG.png", 🇧🇬 Max Sport 2 FHD 50fps (ch) ??
+#EXTINF:-1 tvg-id="MAX.Sport.2.bg" group-title="🇧🇬 Max Sport" tvg-logo="https://i.imgur.com/OLGVJKG.png", 🇧🇬 Max Sport 2 FHD 60fps (ip)
 http://77.46.130.252:99/maxsport2
-#EXTINF:-1 tvg-id="MAX.Sport.3.bg" group-title="🇧🇬 Max Sport" tvg-logo="https://i.imgur.com/eGiGgZ2.png", 🇧🇬 Max Sport 3 FHD 25fps (ch) ??
+#EXTINF:-1 tvg-id="MAX.Sport.3.bg" group-title="🇧🇬 Max Sport" tvg-logo="https://i.imgur.com/eGiGgZ2.png", 🇧🇬 Max Sport 3 FHD 50fps (ip)
 http://77.46.130.252:99/maxsport3
-#EXTINF:-1 tvg-id="MAX.Sport.4.bg" group-title="🇧🇬 Max Sport" tvg-logo="https://i.imgur.com/7IxXX6f.png", 🇧🇬 Max Sport 4 FHD 50fps (ch) ??
+#EXTINF:-1 tvg-id="MAX.Sport.4.bg" group-title="🇧🇬 Max Sport" tvg-logo="https://i.imgur.com/7IxXX6f.png", 🇧🇬 Max Sport 4 FHD 50fps (ip)
 http://77.46.130.252:99/maxsport4
 
 #EXTINF:0 group-title="🇧🇬 Max Sport"
@@ -3701,7 +3701,7 @@ http://myxpanel.pro:80/Martin/Martin/786849
 
 
 # # # ---------------------------------------- 📺 Premier Sports ----------------------------------------
-#EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" tvg-name="Premier Sports 1 FHD" tvg-logo="https://i.imgur.com/StTYm4F.png" group-title="Premier Sports" , 🇬🇧: Premier Sports 1 FHD 50fps (tb)
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-name="Premier Sports 1 FHD" tvg-logo="https://i.imgur.com/StTYm4F.png" group-title="Premier Sports" , 🇬🇧: Premier Sports 1 FHD 50fps (tb)
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=39094&extension=ts
 #EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-name="Premier Sports 1 FHD" tvg-logo="https://i.imgur.com/StTYm4F.png" group-title="Premier Sports" , 🇮🇪 Premier Sports 1 FHD 25fps (tb)
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=1434776&extension=ts
@@ -3711,27 +3711,27 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=38072&extension=t
 #EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-name="Premier Sports 2 FHD" tvg-logo="https://i.imgur.com/4W9acIk.png" group-title="Premier Sports" , 🇮🇪 Premier Sports 2 FHD 25fps (tb)
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=1434775&extension=ts
 
+#EXTINF:-1 tvg-id="Premier.Sports.HD.ie" tvg-name="Premier Sports" tvg-logo="https://i.imgur.com/StTYm4F.png" group-title="Premier Sports" , 🇬🇧: Premier Sports FHD 50fps (tb)
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=1841557&extension=ts
+
 #EXTINF:0 group-title="Premier Sports"
 
 # # # ---------------------------------------- 📺 India Sports ----------------------------------------
 
 #EXTINF:-1 tvg-id="" group-title="🇮🇳 India Sports" tvg-logo="https://i.imgur.com/tDDl4E6.png" , Star Sports 1 FHD (ip)
 http://103.229.254.25:7001/play/a0a0/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇮🇳 India Sports" tvg-logo="https://i.imgur.com/O0rlKay.png" , Star Sports 1 FHD (dh)  ??
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9397
-#EXTINF:-1 tvg-id="" group-title="🇮🇳 India Sports" tvg-logo="https://i.imgur.com/O0rlKay.png" , Star Sports 1 Tamil FHD (dh)
+#EXTINF:-1 tvg-id="" group-title="🇮🇳 India Sports" tvg-logo="https://i.imgur.com/O0rlKay.png" , Star Sports 1 Tamil FHD (ip)
 http://41.205.93.154/STARSPORTS1/index.m3u8
-#http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9399
 
 #EXTINF:-1 tvg-id="" group-title="🇮🇳 India Sports" tvg-logo="https://i.imgur.com/3ww1nKz.png" , Star Sports 2 FHD Tamil (dh) ??
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9398
 
 #EXTINF:-1 tvg-id="starsportsselect1.in" group-title="🇮🇳 India Sports" tvg-logo="https://i.imgur.com/YiNhjKY.png" , Star Sports Select 1 FHD (mf)
 https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8
-#EXTINF:-1 tvg-id="starsportsselect1.in" group-title="🇮🇳 India Sports" tvg-logo="https://i.imgur.com/Os1I0MN.png" , Star Sports Select 1 FHD (dh)
+#EXTINF:-1 tvg-id="starsportsselect1.in" group-title="🇮🇳 India Sports" tvg-logo="https://i.imgur.com/Os1I0MN.png" , Star Sports Select 1 FHD (dh) ??
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9400
 
-#EXTINF:-1 tvg-id="starsportsselect2.in" group-title="🇮🇳 India Sports" tvg-logo="https://i.imgur.com/Os1I0MN.png" , Star Sports Select 2 FHD (dh)
+#EXTINF:-1 tvg-id="starsportsselect2.in" group-title="🇮🇳 India Sports" tvg-logo="https://i.imgur.com/Os1I0MN.png" , Star Sports Select 2 FHD (dh) ??
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9401
 
 #EXTINF:0 group-title="🇮🇳 India Sports"
@@ -3799,7 +3799,6 @@ https://v.iill.top/api/scws/index.m3u8
 
 #EXTINF:0 group-title="🇨🇳 China Channels"
 
-
 # # # ---------------------------------------- 📺 World Sports ----------------------------------------
 
 #EXTINF:-1 tvg-id="UK:.Red.Bull.TV.be" tvg-name="Red Bull TV" tvg-logo="https://epg.iill.top/logo/RedBull.png" group-title="World Sports" , Red Bull TV
@@ -3815,189 +3814,4 @@ https://zebua.short.gy/tvrisport
 https://zebua.short.gy/sportsgrid
 
 #EXTINF:0 group-title="World Sports"
-
-
-# # # ---------------------------------------- 🟢 Live ⚽| Football  ----------------------------------------
-#EXTINF:-1 tvg-id="Hub.Premier.2.sg"  tvg-logo="https://i.imgur.com/SM7GQAM.png" group-title="🟢 Live ⚽| Football", 🇸🇬 Hub Premier 2 UHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/59401.ts
-
-#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk"  tvg-logo="https://i.imgur.com/TGoqoQx.png" group-title="🟢 Live ⚽| Football" , 🇭🇰 Now Sports PL 1 UHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/50172.ts
-
-#EXTINF:-1 tvg-id="Now.Sports.4K.2.hk"  tvg-logo="https://i.imgur.com/hS6IPiP.png" group-title="🟢 Live ⚽| Football" , 🇭🇰 Now Sports PL 2 UHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/61688.ts
-
-#EXTINF:-1 tvg-id="Now.Sports.4K.3.hk" tvg-logo="https://i.imgur.com/uAB6wbt.png" group-title="🟢 Live ⚽| Football" , 🇭🇰 Now Sports 3 UHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/61689.ts
-
-#EXTINF:-1 tvg-id="nowhknowsports4k616"  tvg-logo=https://i.imgur.com/ALXSgbB.png" group-title="🟢 Live ⚽| Football", 🇭🇰 Now Sports 4K 616 UHD 50fps (xp) ??
-http://myxpanel.pro:80/live/Martin/Martin/715558.ts
-#EXTINF:-1 tvg-id="nowhknowsports4k617"  tvg-logo="https://i.imgur.com/nk45wMi.png" group-title="🟢 Live ⚽| Football", 🇭🇰 Now Sports 4K 617 UHD 50fps (xp) ??
-http://myxpanel.pro:80/live/Martin/Martin/715557.ts
-
-
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.HD.ie" tvg-logo="https://i.imgur.com/6xCKKhn.png" group-title="🟢 Live ⚽| Football", UK: Sky Sports Main Event UHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/59265.ts
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.HD.ie" tvg-logo="https://i.imgur.com/6xCKKhn.png" group-title="🟢 Live ⚽| Football", UK: Sky Sports Main Event UHD 50fps (as56) ?
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527598&extension=ts&play_token=kLFaeuhKiD
-
-#EXTINF:-1 tvg-id="SkySpMainEv.uk"  tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="🟢 Live ⚽| Football", UK: Sky Sports Event 1 UHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/59263.ts
-#EXTINF:-1 tvg-id="SkySpMainEv.uk"  tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="🟢 Live ⚽| Football", UK: Sky Sports Event 1 UHD 50fps (as56) ?
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527597&extension=ts&play_token=OUAXc9CJVy
-
-#EXTINF:-1 tvg-id="SkySpMainEv.uk"  tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="🟢 Live ⚽| Football", UK: Sky Sports Event 2 UHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/59262.ts
-#EXTINF:-1 tvg-id="SkySpMainEv.uk"  tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="🟢 Live ⚽| Football", UK: Sky Sports Event 2 UHD 50fps (xp) ??
-http://myxpanel.pro:80/live/Martin/Martin/620665.ts
-#EXTINF:-1 tvg-id="SkySpMainEv.uk"  tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="🟢 Live ⚽| Football", UK: Sky Sports Event 2 UHD 50fps (as56) ?
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527596&extension=ts&play_token=f6zcGdFpW9
-
-#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/PUaJPaE.png" group-title="🟢 Live ⚽| Football", PL: ElevenSport 1 UHD 50fps (cb)
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/20068/index.m3u8
-
-#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/PUaJPaE.png" group-title="🟢 Live ⚽| Football", PL: ElevenSport 1 UHD 50fps (xp) ??
-http://myxpanel.pro:80/live/Martin/Martin/795783.ts
-
-
-
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk"  tvg-logo="https://i.imgur.com/UlwVQr4.png" group-title="🟢 Live ⚽| Football", Sky Sports Main Event FHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/58925.ts
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.HD.ie"  tvg-logo="https://i.imgur.com/UlwVQr4.png" group-title="🟢 Live ⚽| Football", Sky Sports Main Event FHD 50fps (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2184
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.HD.ie"  tvg-logo="https://i.imgur.com/UlwVQr4.png" group-title="🟢 Live ⚽| Football", Sky Sports Main Event FHD 50fps (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2185
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk"  tvg-logo="https://i.imgur.com/UlwVQr4.png" group-title="🟢 Live ⚽| Football", Sky Sports Main Event FHD 50fps (as56) ?
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527639&extension=ts&play_token=gcIwhxC461
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk"  tvg-logo="https://i.imgur.com/UlwVQr4.png" group-title="🟢 Live ⚽| Football", Sky Sports Main Event FHD 50fps (ze)
-https://zebua.short.gy/skysportsmainevent
-
-
-#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.ie"  tvg-logo="https://i.imgur.com/0T40zcs.png" group-title="🟢 Live ⚽| Football", Sky Sports Football FHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/58923.ts
-#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.ie"  tvg-logo="https://i.imgur.com/0T40zcs.png" group-title="🟢 Live ⚽| Football", Sky Sports Football FHD 50fps (ks)
-http://kstv.us:8080/Freshcobar23/83261331891/47866
-#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk"  tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="🟢 Live ⚽| Football", Sky Sports Football FHD 50fps (as56) ?
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527635&extension=ts&play_token=QtKYjDdAlA
-
-#EXTINF:0 group-title="🟢 Live ⚽| Football"
-
-# # # ---------------------------------------- Tesing only -----------------
-#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk"  tvg-logo="https://i.imgur.com/TGoqoQx.png" group-title="Tesing only" , 🇭🇰 Now Sports PL 1 UHD 50fps (g)
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382836&extension=ts&play_token=jSAYXQsMoY
-
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/o9l0EKx.png" group-title="Tesing only" , IT: PRIMAFILA 1 UHD 4K (bo)
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/136314
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/o9l0EKx.png" group-title="Tesing only" , IT: PRIMAFILA 2 UHD 4K (bo)
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/136315
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/o9l0EKx.png" group-title="Tesing only" , IT: PRIMAFILA 3 UHD 4K (bo)
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/136316
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/o9l0EKx.png" group-title="Tesing only" , IT: PRIMAFILA 4 UHD 4K (bo)
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/136317
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/o9l0EKx.png" group-title="Tesing only" , IT: PRIMAFILA 5 UHD 4K (bo)
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/136318
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/o9l0EKx.png" group-title="Tesing only" , IT: PRIMAFILA 6 UHD 4K (bo)
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/136319
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/o9l0EKx.png" group-title="Tesing only" , IT: PRIMAFILA 7 UHD 4K (bo)
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/136320
-
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/o9l0EKx.png" group-title="Tesing only" , IT: SKY PRIMAFILA PREMIERE 1 FHD (bo)
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/136335
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/o9l0EKx.png" group-title="Tesing only" , IT: SKY PRIMAFILA PREMIERE 2 FHD (bo)
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/136336
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/o9l0EKx.png" group-title="Tesing only" , IT: SKY PRIMAFILA PREMIERE 3 FHD (bo)
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/136337
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/o9l0EKx.png" group-title="Tesing only" , IT: SKY PRIMAFILA PREMIERE 4 FHD (bo)
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/136338
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/o9l0EKx.png" group-title="Tesing only" , IT: SKY PRIMAFILA PREMIERE 5 FHD (bo)
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/136339
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/o9l0EKx.png" group-title="Tesing only" , IT: SKY PRIMAFILA PREMIERE 6 FHD (bo)
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/136340
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/o9l0EKx.png" group-title="Tesing only" , IT: SKY PRIMAFILA PREMIERE 7 FHD (bo)
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/136341
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/o9l0EKx.png" group-title="Tesing only" , IT: SKY PRIMAFILA PREMIERE 8 FHD (bo)
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/136342
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/o9l0EKx.png" group-title="Tesing only" , IT: SKY PRIMAFILA PREMIERE 9 FHD (bo)
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/136343
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/o9l0EKx.png" group-title="Tesing only" , IT: SKY PRIMAFILA PREMIERE 10 FHD (bo)
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/136344
-
-#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk"  tvg-logo="https://i.imgur.com/D0GgEQR.png" group-title="Tesing only" , 🇭🇰 Now Sports 1 (EPL) UHD 50fps (ev) ?
-http://eventcdn02-nowe.akamaized.net/hls/CH611/index.m3u8
-#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk"  tvg-logo="https://i.imgur.com/D0GgEQR.png" group-title="Tesing only" , 🇭🇰 Now Sports 1 (EPL) UHD 50fps (cl) ?
-http://dko29we9nm1rd.cloudfront.net/hls/CH611/index.m3u8
-
-#EXTINF:-1 tvg-id="Now.Sports.4K.2.hk"  tvg-logo="https://i.imgur.com/NYGpUzO.png" group-title="Tesing only" , 🇭🇰 Now Sports 2 (EPL) UHD 50fps (ev) ?
-http://eventcdn02-nowe.akamaized.net/hls/CH612/index.m3u8
-#EXTINF:-1 tvg-id="Now.Sports.4K.2.hk"  tvg-logo="https://i.imgur.com/NYGpUzO.png" group-title="Tesing only" , 🇭🇰 Now Sports 2 (EPL) UHD 50fps (cl) ?
-http://dko29we9nm1rd.cloudfront.net/hls/CH612/index.m3u8
-
-#EXTINF:-1 tvg-id="Now.Sports.4K.3.hk" tvg-logo="https://i.imgur.com/2f4DNXz.png" group-title="Tesing only" , 🇭🇰 Now Sports 3 (EPL) UHD 50fps (ev) ?
-http://eventcdn02-nowe.akamaized.net/hls/CH613/index.m3u8
-#EXTINF:-1 tvg-id="Now.Sports.4K.3.hk" tvg-logo="https://i.imgur.com/2f4DNXz.png" group-title="Tesing only" , 🇭🇰 Now Sports 3 (EPL) UHD 50fps (cl) ?
-http://dko29we9nm1rd.cloudfront.net/hls/CH613/index.m3u8
-
-#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk" tvg-logo="https://i.postimg.cc/TP5pTkgg/611-e.png" group-title="Tesing only" , 🇭🇰 Now Sports PL 1 UHD 50fps (ev) ?
-http://eventcdn02-nowe.akamaized.net/hls/CH611/index.m3u8
-
-#EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-logo="https://i.imgur.com/NYGpUzO.png" group-title="Tesing only" , 🇭🇰 Now Sports PL 2 UHD 50fps (ev) ?
-http://eventcdn02-nowe.akamaized.net/hls/CH612/index.m3u8
-
-#EXTINF:-1 tvg-id="Now.Sports.4K.3.hk" tvg-logo="https://i.imgur.com/2f4DNXz.png" group-title="Tesing only" , 🇭🇰 Now Sports PL 3 UHD 50fps (ev) ?
-http://eventcdn02-nowe.akamaized.net/hls/CH613/index.m3u8
-
-#EXTINF:-1 tvg-id="Now.Sports.Premier.League.4.hk" tvg-logo="https://i.imgur.com/Z8Gaa7N.png" group-title="Tesing only" , 🇭🇰 Now Sports PL 4 FHD 50fps (ev) ?
-https://eventcdn02-nowe.akamaized.net/hls/CH624/index.m3u8
-#EXTINF:-1 tvg-id="Now.Sports.Premier.League.5.hk" tvg-logo="https://i.imgur.com/rY4DGDp.png" group-title="Tesing only" , 🇭🇰 Now Sports PL 5 FHD 50fps (ev) ?
-https://eventcdn02-nowe.akamaized.net/hls/CH625/index.m3u8
-#EXTINF:-1 tvg-id="Now.Sports.Premier.League.6.hk" tvg-logo="https://i.imgur.com/Gfq7JLy.png" group-title="Tesing only" , 🇭🇰 Now Sports PL 6 FHD 50fps (ev) ?
-https://eventcdn02-nowe.akamaized.net/hls/CH626/index.m3u8
-
-#EXTINF:-1 tvg-id="Now.Sports.Premier.League.7.hk" tvg-logo="https://i.imgur.com/krbF5au.png" group-title="Tesing only" , 🇭🇰 Now Sports PL 7 FHD 50fps (ev) ?
-https://eventcdn02-nowe.akamaized.net/hls/CH627/index.m3u8
-
-
-#EXTINF:-1 tvg-id="Now.Sports.1.hk"  tvg-logo="https://i.imgur.com/AtEEsFB.png" group-title="Tesing only", 🇭🇰 Now Sports 1 FHD 50fps (ev) ?
-https://eventcdn02-nowe.akamaized.net/hls/CH631/index.m3u8
-#EXTINF:-1 tvg-id="Now.Sports.2.hk"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sifo961659623059.png" group-title="Tesing only", 🇭🇰 Now Sports 2 FHD 50fps (ev) ?
-https://eventcdn02-nowe.akamaized.net/hls/CH632/index.m3u8
-#EXTINF:-1 tvg-id="Now.Sports.3.hk"  tvg-logo="https://i.imgur.com/QJ3yXl5.png" group-title="Tesing only", 🇭🇰 Now Sports 3 FHD 50fps (ev) ?
-https://eventcdn02-nowe.akamaized.net/hls/CH633/index.m3u8
-
-#EXTINF:-1 tvg-id="Now.Sports.4.hk"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/guncdv1659623082.png" group-title="Tesing only", 🇭🇰 Now Sports 4 FHD 50fps (ev) ?
-https://eventcdn02-nowe.akamaized.net/hls/CH634/index.m3u8
-
-#EXTINF:-1 tvg-id="Now.Sports.5.hk"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4bs9w51659623090.png" group-title="Tesing only", 🇭🇰 Now Sports 5 FHD 50fps (ev) ?
-https://eventcdn02-nowe.akamaized.net/hls/CH635/index.m3u8
-
-#EXTINF:-1 tvg-id="Now.Sports.6.hk"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ycjj541659623099.png" group-title="Tesing only", 🇭🇰 Now Sports 6 FHD 50fps (ev) ?
-https://eventcdn02-nowe.akamaized.net/hls/CH636/index.m3u8
-
-#EXTINF:-1 tvg-id="Now.Sports.7.hk"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pd3hla1659623109.png" group-title="Tesing only", 🇭🇰 Now Sports 7 FHD 50fps (ev) ?
-https://eventcdn02-nowe.akamaized.net/hls/CH637/index.m3u8
-
-
-#EXTINF:-1 tvg-id="Hub.Premier.5.sg" tvg-name="Hub Premier 5" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-5.png" group-title="Tesing only" , Hub Premier 5 (il) ?
-https://hls.iill.top/api/Hub-Premier-5/index.m3u8
-#EXTINF:-1 tvg-id="Hub.Premier.6.sg" tvg-name="Hub Premier 6" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-6.png" group-title="Tesing only" , Hub Premier 6 (il) ?
-https://hls.iill.top/api/Hub-Premier-6/index.m3u8
-#EXTINF:-1 tvg-id="Hub.Premier.7.sg" tvg-name="Hub Premier 7" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-7.png" group-title="Tesing only" , Hub Premier 7 (il) ?
-https://hls.iill.top/api/Hub-Premier-7/index.m3u8
-#EXTINF:-1 tvg-id="Hub.Premier.8.sg" tvg-name="Hub Premier 8" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-8.png" group-title="Tesing only" , Hub Premier 8 (il) ?
-https://hls.iill.top/api/Hub-Premier-8/index.m3u8
-
-#EXTINF:-1 tvg-id="Hub.Sports.5.HD.sg"  tvg-logo="https://i.imgur.com/XmztOG9.png" group-title="Tesing only", 🇸🇬 Hub Sports 5 FHD (il) ?
-https://hls.iill.top/api/Hub-Sports-5/index.m3u8
-#EXTINF:-1 tvg-id="Hub.Sports.6.HD.sg"  tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-6.png" group-title="Tesing only", 🇸🇬 Hub Sports 6 FHD (il) ?
-https://hls.iill.top/api/Hub-Sports-6/index.m3u8
-#EXTINF:-1 tvg-id="Hub.Sports.7.HD.sg"  tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-7.png" group-title="Tesing only", 🇸🇬 Hub Sports 7 FHD (il) ?
-https://hls.iill.top/api/Hub-Sports-7/index.m3u8
-#EXTINF:-1 tvg-id="Hub.Sports.8.HD.sg"  tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-8.png" group-title="Tesing only", 🇸🇬 Hub Sports 8 FHD (il) ?
-https://hls.iill.top/api/Hub-Sports-8/index.m3u8
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.4.hk" group-title="Tesing only" tvg-logo="https://i.imgur.com/mcrgaM7.png", 🇭🇰 beIN SPORTS 4 FHD 25fps (il) ?
-https://hls.iill.top/api/beIN-Sports-4/index.m3u8
-
-
-#EXTINF:0 group-title="Tesing only"
 # # # ---------------------------------------- 
