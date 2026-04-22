@@ -3524,6 +3524,19 @@ http://myxpanel.pro:80/Martin/Martin/305
 
 #EXTINF:0 group-title="🇸🇪 Sweden Sports"
 
+# # # ---------------------------------------- 📺 🇧🇬 Max Sport  ----------------------------------------
+
+#EXTINF:-1 tvg-id="MAX.Sport.1.bg" group-title="🇧🇬 Max Sport" tvg-logo="https://i.imgur.com/CZggP4A.png", 🇧🇬 Max Sport 1 HD 25fps (ch) ??
+http://77.46.130.252:99/maxsport1
+#EXTINF:-1 tvg-id="MAX.Sport.2.bg" group-title="🇧🇬 Max Sport" tvg-logo="https://i.imgur.com/OLGVJKG.png", 🇧🇬 Max Sport 2 FHD 50fps (ch) ??
+http://77.46.130.252:99/maxsport2
+#EXTINF:-1 tvg-id="MAX.Sport.3.bg" group-title="🇧🇬 Max Sport" tvg-logo="https://i.imgur.com/eGiGgZ2.png", 🇧🇬 Max Sport 3 FHD 25fps (ch) ??
+http://77.46.130.252:99/maxsport3
+#EXTINF:-1 tvg-id="MAX.Sport.4.bg" group-title="🇧🇬 Max Sport" tvg-logo="https://i.imgur.com/7IxXX6f.png", 🇧🇬 Max Sport 4 FHD 50fps (ch) ??
+http://77.46.130.252:99/maxsport4
+
+#EXTINF:0 group-title="🇧🇬 Max Sport"
+
 # # # ---------------------------------------- 📺 Arena Sports  ----------------------------------------
 
 #EXTINF:-1 tvg-id="Arena.Premium.1.HD.(RS).rs" tvg-logo="https://i.imgur.com/NMbteWK.png" group-title="Arena Sports", 🇷🇸 Arena Premium 1 FHD 50fps (xd)
@@ -3687,33 +3700,18 @@ http://myxpanel.pro:80/Martin/Martin/786849
 #EXTINF:0 group-title="Arena Sports"
 
 
-# # # ---------------------------------------- 📺 EU Sports ----------------------------------------
-#EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" tvg-name="Premier Sports 1 FHD" tvg-logo="https://i.imgur.com/StTYm4F.png" group-title="EU Sports" , IRE: Premier Sports 1 FHD (ks)  ??
-http://kstv.us:8080/Freshcobar23/83261331891/47858
+# # # ---------------------------------------- 📺 Premier Sports ----------------------------------------
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" tvg-name="Premier Sports 1 FHD" tvg-logo="https://i.imgur.com/StTYm4F.png" group-title="Premier Sports" , 🇬🇧: Premier Sports 1 FHD 50fps (tb)
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=39094&extension=ts
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-name="Premier Sports 1 FHD" tvg-logo="https://i.imgur.com/StTYm4F.png" group-title="Premier Sports" , 🇮🇪 Premier Sports 1 FHD 25fps (tb)
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=1434776&extension=ts
 
-#EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-name="Premier Sports 2 FHD" tvg-logo="https://i.imgur.com/4W9acIk.png" group-title="EU Sports" , IRE: Premier Sports 2 FHD (ks)  ??
-http://kstv.us:8080/Freshcobar23/83261331891/47859
+#EXTINF:-1 tvg-id="Premier.Sports.2.HD.uk" tvg-name="Premier Sports 2 FHD" tvg-logo="https://i.imgur.com/4W9acIk.png" group-title="Premier Sports" , 🇬🇧: Premier Sports 2 FHD 50fps (tb)
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=38072&extension=ts
+#EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-name="Premier Sports 2 FHD" tvg-logo="https://i.imgur.com/4W9acIk.png" group-title="Premier Sports" , 🇮🇪 Premier Sports 2 FHD 25fps (tb)
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=1434775&extension=ts
 
-
-#EXTINF:-1 tvg-id="MAX.Sport.1.bg" group-title="EU Sports" tvg-logo="https://i.imgur.com/CZggP4A.png", 🇧🇬 Max Sport 1 HD 25fps (ch) ??
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31801&extension=ts&play_token=MAaXIbHwPF
-#EXTINF:-1 tvg-id="MAX.Sport.2.bg" group-title="EU Sports" tvg-logo="https://i.imgur.com/OLGVJKG.png", 🇧🇬 Max Sport 2 FHD 50fps (ch) ??
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31802&extension=ts&play_token=oKVP0gjuIKp
-#EXTINF:-1 tvg-id="MAX.Sport.3.bg" group-title="EU Sports" tvg-logo="https://i.imgur.com/eGiGgZ2.png", 🇧🇬 Max Sport 3 FHD 25fps (ch) ??
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31803&extension=ts&play_token=oKVP0gjuIKp
-#EXTINF:-1 tvg-id="MAX.Sport.4.bg" group-title="EU Sports" tvg-logo="https://i.imgur.com/7IxXX6f.png", 🇧🇬 Max Sport 4 FHD 50fps (ch) ??
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31804&extension=ts&play_token=h5UuqXNs2K
-
-
-#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="Sportdigital Fussball" tvg-logo="https://i.ibb.co/ksZQg3HW/sportdigital-fussball.png" group-title="EU Sports",DE: Sportdigital Fussball FHD [n/a]
-https://a1xs.vip/120001
-#EXTINF:-1 tvg-id="Sky.Sport.Top.Event.de" tvg-name="Sky Sport Top Event FHD" tvg-logo="https://i.ibb.co/DfFMRh8C/Sky-Sport-Top-Event.png" group-title="EU Sports",DE: Sky Sport Top Event FHD [n/a]
-https://a1xs.vip/120003
-#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.de" tvg-name="Sky Sport PL DE" tvg-logo="https://i.ibb.co/27BS63GG/Sky-Sports-PL.png" group-title="EU Sports",DE: Sky Sport Premier League FHD [n/a]
-https://a1xs.vip/120004
-
-#EXTINF:0 group-title="EU Sports"
-
+#EXTINF:0 group-title="Premier Sports"
 
 # # # ---------------------------------------- 📺 India Sports ----------------------------------------
 
