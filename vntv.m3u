@@ -3314,83 +3314,51 @@ http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/16131
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/3QnA16Y.png", TSN 5 HD 30fps (tv)
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/57295
 
-
 #EXTINF:0 group-title="🇨🇦 TSN Sports"
 
-# # # ---------------------------------------- 📺 Eurosport  ----------------------------------------
+# # # ---------------------------------------- 📺 🇳🇿 Sky Sports  ----------------------------------------
 
-#EXTINF:-1 tvg-id="Eurosport.4K.ro" group-title=Eurosport" tvg-logo="https://i.imgur.com/t94EW8O.png", 🇬🇧 Eurosport UHD 50fps (xp) ??
-http://myxpanel.pro:80/live/Martin/Martin/786834.ts
-#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", RU: Eurosport 1 UHD 25fps (b)
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19432/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport.2.HD.lv" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", RU: Eurosport 2 UHD 25fps (b)
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19431/index.m3u8
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/yq0jPGJ.png" group-title="🇳🇿 Sky Sports",🇳🇿 Sky Sport 1
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/302393-3029fd2c.m3u8
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/WT7ud1m.png" group-title="🇳🇿 Sky Sports",🇳🇿 Sky Sport 2
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/302394-3029fd2c.m3u8
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/yRrTjhP.png" group-title="🇳🇿 Sky Sports",🇳🇿 Sky Sport 3
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/302395-3029fd2c.m3u8
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/zqMQhkF.png" group-title="🇳🇿 Sky Sports",🇳🇿 Sky Sport 4
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/302396-3029fd2c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mPITtCf.png" group-title="🇳🇿 Sky Sports",🇳🇿 Sky Sport 5
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/302397-3029fd2c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fdBr4Go.png" group-title="🇳🇿 Sky Sports",🇳🇿 Sky Sport 6
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/302398-3029fd2c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cD0s1nF.png" group-title="🇳🇿 Sky Sports",🇳🇿 Sky Sport 7
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/302399-3029fd2c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/z8MUDIx.png" group-title="🇳🇿 Sky Sports",🇳🇿 Sky Sport 8
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/302400-3029fd2c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1poJ30e.png" group-title="🇳🇿 Sky Sports",🇳🇿 Sky Sport 9
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/304079-3029fd2c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4sshZXq.png" group-title="🇳🇿 Sky Sports",🇳🇿 Sky Sport Select
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/302401-3029fd2c.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", 🇬🇧 Eurosport 1 FHD 50fps (il)
-https://hls.iill.top/api/Eurosport-1/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", 🇬🇧 Eurosport 1 FHD 50fps (ks)
-http://kstv.us:8080/Freshcobar23/83261331891/47854
-#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", 🇬🇧 Eurosport 1 FHD 50fps (b)
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/5075/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport.1.HD.pt" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", PT: Eurosport 1 FHD 60fps (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/911
-#EXTINF:-1 tvg-id="Eurosport.1.HD.pt" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", PT: Eurosport 1 FHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/60001.ts
-#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", SR: Eurosport 1 FHD 50fps (ip)
-http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
-#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", 🇬🇧 Eurosport 1 FHD 25fps (b)
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/228/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", 🇬🇧 Eurosport 1 (r) ??
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2286
-
-#EXTINF:-1 tvg-id="Eurosport.2.HD.lv" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", 🇬🇧 Eurosport 2 FHD 50fps (il)
-https://hls.iill.top/api/Eurosport-2/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport.2.I.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", SR: Eurosport 2 FHD 50fps (ip)
-http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
-#EXTINF:-1 tvg-id="Eurosport.2.HD.lv" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", 🇬🇧 Eurosport 2 FHD 50fps (b)
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/5076/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport.2.HD.lv" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", PT: Eurosport 2 FHD 25fps [en] (b)
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/20066/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport.2.HD.lv" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", 🇬🇧 Eurosport 2 FHD 25fps (b)
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/234/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport.2.I.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", RU: Eurosport 2 FHD 25fps (ks)
-http://kstv.us:8080/Freshcobar23/83261331891/47855
-#EXTINF:-1 tvg-id="Eurosport.2.F.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", PT: Eurosport 2 HD 50fps (ks)
-http://kstv.us:8080/Freshcobar23/83261331891/48450
-#EXTINF:-1 tvg-id="Eurosport.2.F.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", 🇬🇧 Eurosport 2 (r) ??
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2285
-#EXTINF:-1 tvg-id="Eurosport.2.HD.lv" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", PT: Eurosport 2 (g) ??
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/60002.ts
-
-
-#EXTINF:0 group-title="Eurosport"
+#EXTINF:0 group-title="🇨🇦 TSN Sports"
 
 # # # ---------------------------------------- 📺 Tennis  ----------------------------------------
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="🟢 Tennis" tvg-logo="https://i.imgur.com/LP0kWWX.png", Tennis Channel (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/22467
-
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="🟢 Tennis" tvg-logo="https://i.imgur.com/LP0kWWX.png", Tennis Channel (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/15940
-
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="🟢 Tennis" tvg-logo="https://i.imgur.com/LP0kWWX.png", Tennis Channel (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/43978.ts
-
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="🟢 Tennis" tvg-logo="https://i.imgur.com/LP0kWWX.png", Tennis Channel (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/20970.ts
-
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="🟢 Tennis" tvg-logo="https://i.imgur.com/LP0kWWX.png", Tennis Channel (tv)
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/20184
-
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="🟢 Tennis" tvg-logo="https://i.imgur.com/LP0kWWX.png", Tennis Channel (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2386
-
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="🟢 Tennis" tvg-logo="https://i.imgur.com/LP0kWWX.png", Tennis Channel (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/21607
-
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="🟢 Tennis" tvg-logo="https://i.imgur.com/LP0kWWX.png", Tennis Channel (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/3762
-
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="🟢 Tennis" tvg-logo="https://i.imgur.com/LP0kWWX.png", Tennis Channel (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/3685
 
@@ -3402,7 +3370,6 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/61683.ts
 
 #EXTINF:-1 tvg-id="Sportsnet.One.HD.ca2" group-title="🇨🇦 Sportsnet" tvg-logo="https://i.imgur.com/9N3QiZe.png", Sportsnet One UHD (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/61684.ts
-
 
 #EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" group-title="🇨🇦 Sportsnet" tvg-logo="https://i.imgur.com/j8e8Hjo.png", Sportsnet 360 (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/40618
@@ -3545,7 +3512,6 @@ http://myxpanel.pro:80/Martin/Martin/306
 #EXTINF:-1 tvg-id="[TV4SPL4].TV4.Sport.Live.4.se" group-title="🇸🇪 Sweden Sports" tvg-logo="https://i.imgur.com/Q8xPUAB.png", Tv4 Sport Live 4 HD (xp) ??
 http://myxpanel.pro:80/Martin/Martin/305
 
-
 #EXTINF:0 group-title="🇸🇪 Sweden Sports"
 
 # # # ---------------------------------------- 📺 🇧🇬 Max Sport  ----------------------------------------
@@ -3560,6 +3526,53 @@ http://77.46.130.252:99/maxsport3
 http://77.46.130.252:99/maxsport4
 
 #EXTINF:0 group-title="🇧🇬 Max Sport"
+
+# # # ---------------------------------------- 📺 Eurosport  ----------------------------------------
+
+#EXTINF:-1 tvg-id="Eurosport.4K.ro" group-title=Eurosport" tvg-logo="https://i.imgur.com/t94EW8O.png", 🇬🇧 Eurosport UHD 50fps (xp) ??
+http://myxpanel.pro:80/live/Martin/Martin/786834.ts
+#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", RU: Eurosport 1 UHD 25fps (b)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19432/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport.2.HD.lv" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", RU: Eurosport 2 UHD 25fps (b)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19431/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", 🇬🇧 Eurosport 1 FHD 50fps (il)
+https://hls.iill.top/api/Eurosport-1/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", 🇬🇧 Eurosport 1 FHD 50fps (ks)
+http://kstv.us:8080/Freshcobar23/83261331891/47854
+#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", 🇬🇧 Eurosport 1 FHD 50fps (b)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/5075/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport.1.HD.pt" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", PT: Eurosport 1 FHD 60fps (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/911
+#EXTINF:-1 tvg-id="Eurosport.1.HD.pt" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", PT: Eurosport 1 FHD 50fps (g)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/60001.ts
+#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", SR: Eurosport 1 FHD 50fps (ip)
+http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", 🇬🇧 Eurosport 1 FHD 25fps (b)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/228/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", 🇬🇧 Eurosport 1 (r) ??
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2286
+
+#EXTINF:-1 tvg-id="Eurosport.2.HD.lv" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", 🇬🇧 Eurosport 2 FHD 50fps (il)
+https://hls.iill.top/api/Eurosport-2/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport.2.I.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", SR: Eurosport 2 FHD 50fps (ip)
+http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport.2.HD.lv" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", 🇬🇧 Eurosport 2 FHD 50fps (b)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/5076/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport.2.HD.lv" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", PT: Eurosport 2 FHD 25fps [en] (b)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/20066/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport.2.HD.lv" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", 🇬🇧 Eurosport 2 FHD 25fps (b)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/234/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport.2.I.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", RU: Eurosport 2 FHD 25fps (ks)
+http://kstv.us:8080/Freshcobar23/83261331891/47855
+#EXTINF:-1 tvg-id="Eurosport.2.F.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", PT: Eurosport 2 HD 50fps (ks)
+http://kstv.us:8080/Freshcobar23/83261331891/48450
+#EXTINF:-1 tvg-id="Eurosport.2.F.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", 🇬🇧 Eurosport 2 (r) ??
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2285
+#EXTINF:-1 tvg-id="Eurosport.2.HD.lv" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", PT: Eurosport 2 (g) ??
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/60002.ts
+
+#EXTINF:0 group-title="Eurosport"
 
 # # # ---------------------------------------- 📺 Arena Sports  ----------------------------------------
 
@@ -3722,7 +3735,6 @@ http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31611/index.m3u8
 http://myxpanel.pro:80/Martin/Martin/786849
 
 #EXTINF:0 group-title="Arena Sports"
-
 
 # # # ---------------------------------------- 📺 Premier Sports ----------------------------------------
 #EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-name="Premier Sports 1 FHD" tvg-logo="https://i.imgur.com/StTYm4F.png" group-title="Premier Sports" , 🇬🇧: Premier Sports 1 FHD 50fps (tb)
