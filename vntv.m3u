@@ -1967,8 +1967,19 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/61688.ts
 #EXTINF:-1 tvg-id="Now.Sports.4K.3.hk" tvg-logo="https://i.imgur.com/2f4DNXz.png" group-title="UHD | 4K" , 🇭🇰 Now Sports 3 (EPL) UHD 50fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/61689.ts
 
-#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk"  tvg-logo="https://i.imgur.com/ALXSgbB.png" group-title="UHD | 4K", 🇭🇰 Now Sports 4K 616 UHD 50fps (ea)
+#EXTINF:-1 tvg-id="Now.Sports.4K.hk"  tvg-logo="https://i.imgur.com/D0GgEQR.png" group-title="UHD | 4K" , 🇭🇰 Now Sports 4K UHD 50fps (sk)
+http://skytv4k.org:8080/LLXnCrjcKW/wcbmH1s5qB/112208)
+
+#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk"  tvg-logo="https://i.imgur.com/D0GgEQR.png" group-title="UHD | 4K" , 🇭🇰 Now Sports 4K 1 UHD 50fps (sk)
+http://skytv4k.org:8080/LLXnCrjcKW/wcbmH1s5qB/112208)
+
+#EXTINF:-1 tvg-id="Now.Sports.4K.Prime.hk"  tvg-logo="https://i.imgur.com/ALXSgbB.png" group-title="UHD | 4K", 🇭🇰 Now Sports 4K Prime UHD 50fps (sk)
+http://skytv4k.org:8080/LLXnCrjcKW/wcbmH1s5qB/112195
+
+#EXTINF:-1 tvg-id="Now.Sports.4K.616.hk"  tvg-logo="https://i.imgur.com/ALXSgbB.png" group-title="UHD | 4K", 🇭🇰 Now Sports 4K 616 UHD 50fps (ea)
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/641325.m3u8
+#EXTINF:-1 tvg-id="Now.Sports.4K.616.hk"  tvg-logo="https://i.imgur.com/ALXSgbB.png" group-title="UHD | 4K", 🇭🇰 Now Sports 4K 616 UHD 50fps (ew)
+http://ewxrgwci.111xyz.xyz:80/RV64NXPZ/LBN6AEDB/4452
 
 #EXTINF:-1 tvg-id="Now.Sports.4K.2.hk"  tvg-logo="https://i.imgur.com/nk45wMi.png" group-title="UHD | 4K", 🇭🇰 Now Sports 4K 617 UHD 50fps (ea)
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/641326.m3u8
@@ -2081,7 +2092,7 @@ http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19431/index.m3u8
 # # # -------------------------------------  ⚽️ EPL  -------------------------------------
 #EXTINF:-1 tvg-id="Now.Sports.4K.1.hk" tvg-logo="https://i.postimg.cc/TP5pTkgg/611-e.png" group-title="⚽️ EPL" , 🇭🇰 Now Sports PL 1 UHD 50fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/50172.ts
-#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk" tvg-logo="https://i.postimg.cc/TP5pTkgg/611-e.png" group-title="⚽️ EPL" , 🇭🇰 Now Sports PL 1 UHD 50fps (as56) ?
+#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk" tvg-logo="https://i.postimg.cc/TP5pTkgg/611-e.png" group-title="⚽️ EPL" , 🇭🇰 Now Sports PL 1 UHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1556135&extension=ts&play_token=mvS2Yb0e68
 
 #EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-logo="https://i.imgur.com/NYGpUzO.png" group-title="⚽️ EPL" , 🇭🇰 Now Sports PL 2 UHD 50fps (g)
@@ -2092,6 +2103,8 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/61689.ts
 
 #EXTINF:-1 tvg-id="Now.Sports.4K.616.hk"  tvg-logo="https://i.imgur.com/ALXSgbB.png" group-title="⚽️ EPL", 🇭🇰 Now Sports 4K 616 UHD 50fps (ea)
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/641325.m3u8
+#EXTINF:-1 tvg-id="Now.Sports.4K.616.hk"  tvg-logo="https://i.imgur.com/ALXSgbB.png" group-title="⚽️ EPL", 🇭🇰 Now Sports 4K 616 UHD 50fps (ew)
+http://ewxrgwci.111xyz.xyz:80/RV64NXPZ/LBN6AEDB/4452
 
 #EXTINF:-1 tvg-id="Now.Sports.4K.617.hk"  tvg-logo="https://i.imgur.com/nk45wMi.png" group-title="⚽️ EPL", 🇭🇰 Now Sports 4K 617 UHD 50fps (ea)
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/641326.m3u8
@@ -2114,15 +2127,15 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=1841537&extension
 #EXTINF:-1 tvg-id="Astro.Premier.League.2.my" tvg-logo="https://i.imgur.com/CrysMbr.png" group-title="⚽️ EPL" , 🇲🇾 Astro PL 2 FHD 50fps (tb)
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=1841539&extension=ts
 
-#EXTINF:-1 tvg-id="Now.Sports.Premier.League.TV.hk" tvg-logo="https://i.imgur.com/CrysMbr.png" group-title="⚽️ EPL" , 🇭🇰 Now Sports PL FHD 50fps (as30) ?
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.TV.hk" tvg-logo="https://i.imgur.com/CrysMbr.png" group-title="⚽️ EPL" , 🇭🇰 Now Sports PL FHD 50fps (as30) ??
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=791024&extension=ts&play_token=6cGXgXCHVa
 
 #EXTINF:-1 tvg-id="Now.Sports.Premier.League.1.hk" tvg-logo="https://i.imgur.com/u6uCLM1.png" group-title="⚽️ EPL" , 🇭🇰 Now Sports PL 1 FHD 50fps (ev)
 https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
 #EXTINF:-1 tvg-id="Now.Sports.Premier.League.1.hk" tvg-logo="https://i.imgur.com/u6uCLM1.png" group-title="⚽️ EPL" , 🇭🇰 Now Sports PL 1 FHD 50fps (cl)
 http://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
-#EXTINF:-1 tvg-id="Now.Sports.Premier.League.1.hk" tvg-logo="https://i.imgur.com/u6uCLM1.png" group-title="⚽️ EPL" , 🇭🇰 Now Sports PL 1 FHD 50fps (as30) ?
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=791022&extension=ts&play_token=4I7uLEDUks
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.1.hk" tvg-logo="https://i.imgur.com/u6uCLM1.png" group-title="⚽️ EPL" , 🇭🇰 Now Sports PL 1 FHD 50fps (sk)
+http://skytv4k.org:8080/LLXnCrjcKW/wcbmH1s5qB/112200
 #EXTINF:-1 tvg-id="Now.Sports.Premier.League.1.hk" tvg-logo="https://i.imgur.com/u6uCLM1.png" group-title="⚽️ EPL" , 🇭🇰 Now Sports PL 1 FHD 50fps (xd)
 http://xdgo.live:8080/rogeliopty/YhhqPpCAru/108576
 
@@ -2130,8 +2143,8 @@ http://xdgo.live:8080/rogeliopty/YhhqPpCAru/108576
 https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
 #EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-logo="https://i.imgur.com/5KiDlD4.png" group-title="⚽️ EPL" , 🇭🇰 Now Sports PL 2 FHD 50fps (cl)
 http://dko29we9nm1rd.cloudfront.net/hls/CH622/index.m3u8
-#EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-logo="https://i.imgur.com/5KiDlD4.png" group-title="⚽️ EPL" , 🇭🇰 Now Sports PL 2 FHD 50fps (as30) ?
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=791021&extension=ts&play_token=DpDYuxw364
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-logo="https://i.imgur.com/5KiDlD4.png" group-title="⚽️ EPL" , 🇭🇰 Now Sports PL 2 FHD 50fps (sk)
+http://skytv4k.org:8080/LLXnCrjcKW/wcbmH1s5qB/112194
 #EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-logo="https://i.imgur.com/5KiDlD4.png" group-title="⚽️ EPL" , 🇭🇰 Now Sports PL 2 FHD 50fps (xd)
 http://xdgo.live:8080/rogeliopty/YhhqPpCAru/108577
 
@@ -2141,26 +2154,23 @@ https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
 http://dko29we9nm1rd.cloudfront.net/hls/CH623/index.m3u8
 #EXTINF:-1 tvg-id="Now.Sports.Premier.League.3.hk" tvg-logo="https://i.imgur.com/Yzhdw5i.png" group-title="⚽️ EPL" , 🇭🇰 Now Sports PL 3 FHD 50fps (xd)
 http://xdgo.live:8080/rogeliopty/YhhqPpCAru/108578
-#EXTINF:-1 tvg-id="Now.Sports.Premier.League.3.hk" tvg-logo="https://i.imgur.com/Yzhdw5i.png" group-title="⚽️ EPL" , 🇭🇰 Now Sports PL 3 FHD 50fps (as30) ?
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=791020&extension=ts&play_token=jt8fXrMviD
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.3.hk" tvg-logo="https://i.imgur.com/Yzhdw5i.png" group-title="⚽️ EPL" , 🇭🇰 Now Sports PL 3 FHD 50fps (sk)
+http://skytv4k.org:8080/LLXnCrjcKW/wcbmH1s5qB/112199
 
 #EXTINF:-1 tvg-id="Now.Sports.Premier.League.4.hk" tvg-logo="https://i.imgur.com/Z8Gaa7N.png" group-title="⚽️ EPL" , 🇭🇰 Now Sports PL 4 FHD 50fps (xd)
 http://xdgo.live:8080/rogeliopty/YhhqPpCAru/108579
-#EXTINF:-1 tvg-id="Now.Sports.Premier.League.4.hk" tvg-logo="https://i.imgur.com/Z8Gaa7N.png" group-title="⚽️ EPL" , 🇭🇰 Now Sports PL 4 FHD 50fps (as30) ?
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=791019&extension=ts&play_token=avCRAxL4nN
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.4.hk" tvg-logo="https://i.imgur.com/Z8Gaa7N.png" group-title="⚽️ EPL" , 🇭🇰 Now Sports PL 4 FHD 50fps (sk)
+http://skytv4k.org:8080/LLXnCrjcKW/wcbmH1s5qB/112198
 
 #EXTINF:-1 tvg-id="Now.Sports.Premier.League.5.hk" tvg-logo="https://i.imgur.com/rY4DGDp.png" group-title="⚽️ EPL" , 🇭🇰 Now Sports PL 5 FHD 50fps (xd)
 http://xdgo.live:8080/rogeliopty/YhhqPpCAru/108580
-#EXTINF:-1 tvg-id="Now.Sports.Premier.League.5.hk" tvg-logo="https://i.imgur.com/rY4DGDp.png" group-title="⚽️ EPL" , 🇭🇰 Now Sports PL 5 FHD 50fps (as30) ?
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=791018&extension=ts&play_token=I9WO5e6bW5
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.5.hk" tvg-logo="https://i.imgur.com/rY4DGDp.png" group-title="⚽️ EPL" , 🇭🇰 Now Sports PL 5 FHD 50fps (sk)
+http://skytv4k.org:8080/LLXnCrjcKW/wcbmH1s5qB/112197
 
 #EXTINF:-1 tvg-id="Now.Sports.Premier.League.6.hk" tvg-logo="https://i.imgur.com/Gfq7JLy.png" group-title="⚽️ EPL" , 🇭🇰 Now Sports PL 6 FHD 50fps (xd)
 http://xdgo.live:8080/rogeliopty/YhhqPpCAru/108581
-#EXTINF:-1 tvg-id="Now.Sports.Premier.League.6.hk" tvg-logo="https://i.imgur.com/Gfq7JLy.png" group-title="⚽️ EPL" , 🇭🇰 Now Sports PL 6 FHD 50fps (as30) ?
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=791017&extension=ts&play_token=Pvd0jIDAYn
-
-#EXTINF:-1 tvg-id="Now.Sports.Premier.League.7.hk" tvg-logo="https://i.imgur.com/Gfq7JLy.png" group-title="⚽️ EPL" , 🇭🇰 Now Sports PL 7 FHD 30fps (as30) ?
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=791016&extension=ts&play_token=5H0GSlinAA
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.6.hk" tvg-logo="https://i.imgur.com/Gfq7JLy.png" group-title="⚽️ EPL" , 🇭🇰 Now Sports PL 6 FHD 50fps (sk)
+http://skytv4k.org:8080/LLXnCrjcKW/wcbmH1s5qB/112196
 
 
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://i.imgur.com/v0mKVGU.png" group-title="⚽️ EPL", 🇸🇬 Hub Premier 1 FHD 50fps (il)
@@ -2400,7 +2410,7 @@ http://kstv.us:8080/Freshcobar23/83261331891/47860
 
 #EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk"  tvg-logo="https://i.ibb.co/kVtPg1F5/Sky-Sports-Tennis.png" group-title="Sky Sports 🇬🇧", Sky Sports Tennis FHD 50fps (xp) ??
 http://myxpanel.pro:80/Martin/Martin/662484
-#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk"  tvg-logo="https://i.ibb.co/kVtPg1F5/Sky-Sports-Tennis.png" group-title="Sky Sports 🇬🇧", Sky Sports Tennis FHD 50fps (as56) ?
+#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk"  tvg-logo="https://i.ibb.co/kVtPg1F5/Sky-Sports-Tennis.png" group-title="Sky Sports 🇬🇧", Sky Sports Tennis FHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527629&extension=ts&play_token=DQY7OPBIqw
 
 
@@ -2420,7 +2430,7 @@ http://kstv.us:8080/Freshcobar23/83261331891/47850
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6566/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/V3qfxeG.png", TNT Sports 1 FHD 50fps (b)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2505/index.m3u8
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/V3qfxeG.png", TNT Sports 1 FHD 50fps (as56) ?
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/V3qfxeG.png", TNT Sports 1 FHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527617&extension=ts&play_token=tUduIqQke6
 #EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/V3qfxeG.png", TNT Sports 1 FHD 50fps (xp) ??
 http://myxpanel.pro:80/Martin/Martin/709378
@@ -2561,9 +2571,20 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/61689.ts
 
 #EXTINF:-1 tvg-id="Now.Sports.4K.616.hk"  tvg-logo="https://i.imgur.com/ALXSgbB.png" group-title="🇭🇰 Hong Kong Sports", Now Sports 4K 616 UHD 50fps (ea)
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/641325.m3u8
+#EXTINF:-1 tvg-id="Now.Sports.4K.616.hk"  tvg-logo="https://i.imgur.com/ALXSgbB.png" group-title="🇭🇰 Hong Kong Sports", 🇭🇰 Now Sports 4K 616 UHD 50fps (ew)
+http://ewxrgwci.111xyz.xyz:80/RV64NXPZ/LBN6AEDB/4452
 
 #EXTINF:-1 tvg-id="Now.Sports.4K.617.hk"  tvg-logo="https://i.imgur.com/nk45wMi.png" group-title="🇭🇰 Hong Kong Sports", Now Sports 4K 617 UHD 50fps (ea)
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/641326.m3u8
+
+#EXTINF:-1 tvg-id="Now.Sports.4K.hk"  tvg-logo="https://i.imgur.com/D0GgEQR.png" group-title="🇭🇰 Hong Kong Sports" , Now Sports 4K UHD 50fps (sk)
+http://skytv4k.org:8080/LLXnCrjcKW/wcbmH1s5qB/112208)
+
+#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk"  tvg-logo="https://i.imgur.com/D0GgEQR.png" group-title="🇭🇰 Hong Kong Sports" , Now Sports 4K 1 UHD 50fps (sk)
+http://skytv4k.org:8080/LLXnCrjcKW/wcbmH1s5qB/112208)
+
+#EXTINF:-1 tvg-id="Now.Sports.4K.Prime.hk"  tvg-logo="https://i.imgur.com/ALXSgbB.png" group-title="🇭🇰 Hong Kong Sports", Now Sports 4K Prime UHD 50fps (sk)
+http://skytv4k.org:8080/LLXnCrjcKW/wcbmH1s5qB/112195
 
 
 #EXTINF:-1 tvg-id="Now.Sports.Prime.hk"  tvg-logo="https://i.imgur.com/Y2oqxPB.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports PRIME FHD 50fps (tt)
@@ -2575,57 +2596,56 @@ http://myxpanel.pro:80/Martin/Martin/715559
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382843&extension=ts&play_token=KANAeecxcz
 #EXTINF:-1 tvg-id="Now.Sports.1.hk"  tvg-logo="https://i.imgur.com/AtEEsFB.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 1 FHD 50fps (li)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382835&extension=ts
-#EXTINF:-1 tvg-id="Now.Sports.1.hk"  tvg-logo="https://i.imgur.com/AtEEsFB.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 1 FHD 50fps (as30) ?
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=791015&extension=ts&play_token=24KYWOSWzN
-#EXTINF:-1 tvg-id="Now.Sports.1.hk"  tvg-logo="https://i.imgur.com/AtEEsFB.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 1 FHD 50fps (xp) ??
-http://myxpanel.pro:80/Martin/Martin/715566
+#EXTINF:-1 tvg-id="Now.Sports.1.hk"  tvg-logo="https://i.imgur.com/AtEEsFB.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 1 FHD 50fps (sk)
+http://skytv4k.org:8080/LLXnCrjcKW/wcbmH1s5qB/112207
+#EXTINF:-1 tvg-id="Now.Sports.1.hk"  tvg-logo="https://i.imgur.com/AtEEsFB.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 1 FHD 50fps (ew)
+http://ewxrgwci.111xyz.xyz:80/RV64NXPZ/LBN6AEDB/4451
 
 #EXTINF:-1 tvg-id="Now.Sports.2.hk"  tvg-logo="https://i.imgur.com/fGobUHS.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 2 FHD 50fps (li)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382834&extension=ts&play_token=JBOlpsgTKU
 #EXTINF:-1 tvg-id="Now.Sports.2.hk"  tvg-logo="https://i.imgur.com/fGobUHS.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 2 FHD 50fps (li)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382842&extension=ts
-#EXTINF:-1 tvg-id="Now.Sports.2.hk"  tvg-logo="https://i.imgur.com/fGobUHS.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 2 FHD 50fps (as30) ?
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=791014&extension=ts&play_token=M0rPjPG5eh
-#EXTINF:-1 tvg-id="Now.Sports.2.hk"  tvg-logo="https://i.imgur.com/fGobUHS.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 2 FHD 50fps (xp) ??
-http://myxpanel.pro:80/Martin/Martin/715565
+#EXTINF:-1 tvg-id="Now.Sports.2.hk"  tvg-logo="https://i.imgur.com/fGobUHS.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 2 FHD 50fps (sk)
+http://skytv4k.org:8080/LLXnCrjcKW/wcbmH1s5qB/112206
+#EXTINF:-1 tvg-id="Now.Sports.2.hk"  tvg-logo="https://i.imgur.com/fGobUHS.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 2 FHD 50fps (ew)
+http://ewxrgwci.111xyz.xyz:80/RV64NXPZ/LBN6AEDB/4450
 
 #EXTINF:-1 tvg-id="Now.Sports.3.hk"  tvg-logo="https://i.imgur.com/QJ3yXl5.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 3 FHD 50fps (li)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382841&extension=ts&play_token=5uiKCGTNCF
 #EXTINF:-1 tvg-id="Now.Sports.3.hk"  tvg-logo="https://i.imgur.com/QJ3yXl5.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 3 FHD 50fps (li)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382833&extension=ts
-#EXTINF:-1 tvg-id="Now.Sports.3.hk"  tvg-logo="https://i.imgur.com/QJ3yXl5.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 3 FHD 50fps (as30) ?
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=791013&extension=ts&play_token=ZX3GlF33UG
-#EXTINF:-1 tvg-id="Now.Sports.3.hk"  tvg-logo="https://i.imgur.com/QJ3yXl5.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 3 FHD 50fps (xp) ??
-http://myxpanel.pro:80/Martin/Martin/715564
+#EXTINF:-1 tvg-id="Now.Sports.3.hk"  tvg-logo="https://i.imgur.com/QJ3yXl5.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 3 FHD 50fps (sk)
+http://skytv4k.org:8080/LLXnCrjcKW/wcbmH1s5qB/112205
+#EXTINF:-1 tvg-id="Now.Sports.3.hk"  tvg-logo="https://i.imgur.com/QJ3yXl5.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 3 FHD 50fps (ew)
+http://ewxrgwci.111xyz.xyz:80/RV64NXPZ/LBN6AEDB/4449
 
 #EXTINF:-1 tvg-id="Now.Sports.4.hk"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/guncdv1659623082.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 4 FHD 50fps (li)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382840&extension=ts&play_token=eoeYdjrkUg
-#EXTINF:-1 tvg-id="Now.Sports.4.hk"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/guncdv1659623082.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 4 FHD 50fps (as30) ?
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=791012&extension=ts&play_token=uNPHJ01qIW
-#EXTINF:-1 tvg-id="Now.Sports.4.hk"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/guncdv1659623082.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 4 FHD 50fps (xp) ??
-http://myxpanel.pro:80/Martin/Martin/715563
+#EXTINF:-1 tvg-id="Now.Sports.4.hk"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/guncdv1659623082.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 4 FHD 50fps (sk)
+http://skytv4k.org:8080/LLXnCrjcKW/wcbmH1s5qB/112204
+#EXTINF:-1 tvg-id="Now.Sports.4.hk"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/guncdv1659623082.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 4 FHD 50fps (ew)
+http://ewxrgwci.111xyz.xyz:80/RV64NXPZ/LBN6AEDB/4448
 
 #EXTINF:-1 tvg-id="Now.Sports.5.hk"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4bs9w51659623090.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 5 FHD 50fps (li)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382839&extension=ts&play_token=lu0NOftGgg
-#EXTINF:-1 tvg-id="Now.Sports.5.hk"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4bs9w51659623090.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 5 FHD 50fps (as30) ?
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=791011&extension=ts&play_token=dv4RaZum5F
-#EXTINF:-1 tvg-id="Now.Sports.5.hk"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4bs9w51659623090.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 5 FHD 50fps (xp) ??
-http://myxpanel.pro:80/Martin/Martin/715562
+#EXTINF:-1 tvg-id="Now.Sports.5.hk"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4bs9w51659623090.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 5 FHD 50fps (sk)
+http://skytv4k.org:8080/LLXnCrjcKW/wcbmH1s5qB/112203
+#EXTINF:-1 tvg-id="Now.Sports.5.hk"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4bs9w51659623090.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 5 FHD 50fps (ew)
+http://ewxrgwci.111xyz.xyz:80/RV64NXPZ/LBN6AEDB/4447
 
 #EXTINF:-1 tvg-id="Now.Sports.6.hk"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ycjj541659623099.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 6 FHD 50fps (li)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382838&extension=ts&play_token=WQ4pi5DTy3
-#EXTINF:-1 tvg-id="Now.Sports.6.hk"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ycjj541659623099.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 6 FHD 50fps (as30) ?
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=791010&extension=ts&play_token=l9tNHTEBLm
-#EXTINF:-1 tvg-id="Now.Sports.6.hk"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ycjj541659623099.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 6 FHD 50fps (xp) ??
-http://myxpanel.pro:80/Martin/Martin/715561
+#EXTINF:-1 tvg-id="Now.Sports.6.hk"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ycjj541659623099.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 6 FHD 50fps (sk)
+http://skytv4k.org:8080/LLXnCrjcKW/wcbmH1s5qB/112202
+#EXTINF:-1 tvg-id="Now.Sports.6.hk"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ycjj541659623099.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 6 FHD 50fps (ew)
+http://ewxrgwci.111xyz.xyz:80/RV64NXPZ/LBN6AEDB/4446
 
 #EXTINF:-1 tvg-id="Now.Sports.7.hk"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pd3hla1659623109.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 7 FHD 50fps (li)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382837&extension=ts&play_token=rRmhe1TsX7
-#EXTINF:-1 tvg-id="Now.Sports.7.hk"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pd3hla1659623109.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 7 FHD 50fps (as30) ?
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=791009&extension=ts&play_token=n1XOeWlMH6
-#EXTINF:-1 tvg-id="Now.Sports.7.hk"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pd3hla1659623109.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 7 FHD 50fps (xp) ??
-http://myxpanel.pro:80/Martin/Martin/715560
-
+#EXTINF:-1 tvg-id="Now.Sports.7.hk"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pd3hla1659623109.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 7 FHD 50fps (sk)
+http://skytv4k.org:8080/LLXnCrjcKW/wcbmH1s5qB/112201
+#EXTINF:-1 tvg-id="Now.Sports.7.hk"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pd3hla1659623109.png" group-title="🇭🇰 Hong Kong Sports",  Now Sports 7 FHD 50fps (ew)
+http://ewxrgwci.111xyz.xyz:80/RV64NXPZ/LBN6AEDB/4445
 
 #EXTINF:-1 tvg-id="Now新聞台" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch332_340_244" group-title="🇭🇰 Hong Kong Sports" , Now NEWS (tt)
 https://t.ttvb.eu.org/tvb/now-332/index.m3u8
