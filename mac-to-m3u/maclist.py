@@ -41,12 +41,16 @@ def input_colored(prompt: str, color: str) -> str:
 def get_base_url(base_url: str = "") -> str:
     parsed_url: str
     if base_url:
+        if base_url.find("://") < 0:
+            base_url = "http://" + base_url
         parsed_url = urlparse(base_url.strip())
     else:
         """Gets base URL from user input and formats it correctly."""
         base_url_input: str = input_colored("Enter IPTV link: ", "cyan").strip()
         if not base_url_input:
             return ""
+        if base_url_input.find("://") < 0:
+            base_url_input = "http://" + base_url_input
         parsed_url = urlparse(base_url_input)
     
     # print_colored(f"base_url: {base_url}; parsed_url: {parsed_url}", "yellow")
@@ -111,7 +115,10 @@ def get_subscription(
             expiry = data.get("js", {}).get("phone", "N/A")
             print_colored(f"MAC = {mac}", "green")
             try:
-                expiry_date =  datetime.strptime(expiry, "%B %d, %Y, %I:%M %p")
+                if expiry.lower() == "unlimited":
+                    expiry_date = datetime(9999, 12, 31)
+                else:
+                    expiry_date =  datetime.strptime(expiry, "%B %d, %Y, %I:%M %p")
             except Exception as ex1:
                 expiry_date = None
                 print_colored(f"Cannot convert string '{expiry}' to datetime?", "yellow")
@@ -142,16 +149,14 @@ def get_channel_list(
     headers = {"Authorization": f"Bearer {token}"}
     try:
 
-        url_genre = (
-            f"{base_url}/server/load.php?type=itv&action=get_genres&JsHttpRequest=1-xml"
-        )
+        url_genre = f"{base_url}/server/load.php?type=itv&action=get_genres&JsHttpRequest=1-xml"        
         res_genre = session.get(url_genre, headers=headers, timeout=timeout)
         res_genre.raise_for_status()
         genre_data = res_genre.json()["js"]
         
         group_info = {group["id"]: group["title"] for group in genre_data}
  
-        # url_channels = f"{base_url}/server/load.php?type=itv&action=get_all_channels&JsHttpRequest=1-json"
+        #url_channels = f"{base_url}/server/load.php?type=itv&action=get_all_channels&JsHttpRequest=1-json"
         url_channels = f"{base_url}/portal.php?type=itv&action=get_all_channels&JsHttpRequest=1-xml"
         res_channels = session.get(url_channels, headers=headers, timeout=timeout)
         res_channels.raise_for_status()
@@ -178,7 +183,9 @@ def save_channel_list(
     """Saves the channel list to an M3U file."""
     sanitized_url = re.sub(r"[\W_]+", "-", base_url)
     filename = ""
-    if expiry:
+    if expiry == datetime(9999, 12, 31):
+        filename = f'{sanitized_url}_{mac.replace(":", "-")}_unlimited_{datetime.now().strftime("%Y-%m-%d")}.m3u'
+    elif expiry:
         filename = f'{sanitized_url}_{mac.replace(":", "-")}_{expiry.strftime("%Y-%m-%d")}_{datetime.now().strftime("%Y-%m-%d")}.m3u'
     else:
         filename = f'{sanitized_url}_{mac.replace(":", "-")}_unknown_{datetime.now().strftime("%Y-%m-%d")}.m3u'
@@ -221,12 +228,14 @@ def main() -> None:
         print_colored(f"{sys.argv}", "blue")
         base_url: str
         mac: str
-        if len(sys.argv) >= 2:
+        if len(sys.argv) == 2:
+            lst_argv = sys.argv[1].split("/play/live.php?mac=")
+            if len(lst_argv) == 2:
+                base_url = get_base_url(lst_argv[0])
+                mac = get_mac_address(lst_argv[1].replace("%3A", ":"))                        
+        elif len(sys.argv) >= 3:
             base_url = get_base_url(sys.argv[1])
-            if (sys.argv[2] == "|"):
-                mac = get_mac_address(sys.argv[3])
-            else:
-                mac = get_mac_address(sys.argv[2])
+            mac = get_mac_address(sys.argv[2])
         else:
             base_url = get_base_url()
             mac = get_mac_address()
