@@ -29,8 +29,9 @@ jobs:
         cd mac-to-m3u
         python hello.py
         
-        python maclist.py    http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:C4:01:80
-        python maclist.py    http://m.redtvpakket.nl:80  00:1A:79:D4:92:74
+        # python maclist.py    http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:C4:01:80
+        # python maclist.py    http://m.redtvpakket.nl:80  00:1A:79:D4:92:74
+        echo " test file " >> test.txt
         
     - name: Upload file to Dropbox
       uses: thedefaultman/dropbox-large-file-uploader@v2.3.5
@@ -38,16 +39,16 @@ jobs:
         app_key: ${{ secrets.DROPBOX_APP_KEY }}
         app_secret: ${{ secrets.DROPBOX_APP_SECRET }}
         refresh_token: ${{ secrets.DROPBOX_REFRESH_TOKEN }}
-        file_path: '*.m3u'  # The file in your repo to upload
-        dropbox_path: '/TVs/'          # Destination folder in Dropbox
+        file_path: './test.txt'
+        dropbox_path: '/TVs/test.txt'
           
-    - name: Commit and Push
-      run: |
-        ls -a
-        cp mac-to-m3u/*.m3u results
-        cd results
-        ls -a 
-        git config --global user.name "tv2027[bot]"       
-        git add .
-        git commit -m "Automated file update"
-        git push
+    # - name: Commit and Push
+    #   run: |
+    #     ls -a
+    #     cp mac-to-m3u/*.m3u results
+    #     cd results
+    #     ls -a 
+    #     git config --global user.name "tv2027[bot]"       
+    #     git add .
+    #     git commit -m "Automated file update"
+    #     git push
