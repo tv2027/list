@@ -41,7 +41,7 @@ jobs:
         dropbox-app-secret: ${{ secrets.DROPBOX_APP_SECRET }}
         dropbox-refresh-token: ${{ secrets.DROPBOX_REFRESH_TOKEN }}
         source-path: './mac-to-m3u/test.txt'
-        target-path: '/Apps/TVs/test.txt'
+        target-path: 'Apps/TVs/test.txt'
         write-mode:  'add'
         #. See more detail here. https://www.dropbox.com/developers/documentation/http/documentation#files-upload
           
