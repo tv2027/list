@@ -32,15 +32,18 @@ jobs:
         # python maclist.py    http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:C4:01:80
         # python maclist.py    http://m.redtvpakket.nl:80  00:1A:79:D4:92:74
         echo " test file " >> test.txt
+        ls
         
-    - name: Upload file to Dropbox
-      uses: thedefaultman/dropbox-large-file-uploader@v2.3.5
+    - name: Upload to Dropbox
+      uses: Lewuathe/dropbox-github-action@v1.0.3
       with:
-        app_key: ${{ secrets.DROPBOX_APP_KEY }}
-        app_secret: ${{ secrets.DROPBOX_APP_SECRET }}
-        refresh_token: ${{ secrets.DROPBOX_REFRESH_TOKEN }}
-        file_path: './test.txt'
-        dropbox_path: '/TVs/test.txt'
+        dropbox-app-key: ${{ secrets.DROPBOX_APP_KEY }}
+        dropbox-app-secret: ${{ secrets.DROPBOX_APP_SECRET }}
+        dropbox-refresh-token: ${{ secrets.DROPBOX_REFRESH_TOKEN }}
+        source-path: './test.txt'
+        target-path: '/TVs/test.txt'
+        write-mode:  'add'
+        #. See more detail here. https://www.dropbox.com/developers/documentation/http/documentation#files-upload
           
     # - name: Commit and Push
     #   run: |
