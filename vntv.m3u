@@ -1410,8 +1410,10 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mp
 https://hls.iill.top/api/HBO-Family/index.m3u8
 
 
-#EXTINF:-1 tvg-id="hbosignaturehd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/e639eZC.png", HBO Signature HD 🇹🇭 (1080p) (ch) ??
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776085&extension=ts&play_token=aEwVlYvLMR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e639eZC.png" group-title="Quốc Tế", HBO Signature HD [EAST] 🇺🇸 (1080p)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=855668&extension=ts&play_token=SAc4KLam9W
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e639eZC.png" group-title="Quốc Tế", HBO Signature HD [WEST] 🇺🇸 (1080p)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=855667&extension=ts&play_token=cb6GUpqTvb
 
 #EXTINF:-1 tvg-id="hbosignaturehd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/e639eZC.png", HBO Signature HD 🇵🇭 (1080p) [?]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3013,105 +3015,128 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=986007&extension=
 #EXTINF:-1 tvg-id="CANAL+.Extra.4.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/78hEUnq.png" , 🇵🇱 Canal+ Extra 4 FHD 50fps (tb)
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=986008&extension=ts
 
-#EXTINF:-1 tvg-id="CANAL+.Sport.Event.1.ch" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal+ Live 1 FHD 50fps (tb)
+#EXTINF:-1 tvg-id="CANAL+.Sport.Event.1.ch" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 1 FHD 50fps (tb)
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=2125685&extension=ts
-#EXTINF:-1 tvg-id="CANAL+.Sport.Event.1.ch" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal+ Live 1 FHD 50fps (as56) ?
+#EXTINF:-1 tvg-id="CANAL+.Sport.Event.1.ch" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 1 FHD 50fps (wa)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941442&extension=ts&play_token=FKeOR7Wr81
+#EXTINF:-1 tvg-id="CANAL+.Sport.Event.1.ch" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 1 FHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170885&extension=ts
 
-#EXTINF:-1 tvg-id="CANAL+.Sport.Event.1.ch" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal+ Live 1 UHD 50fps (ea) ?
+#EXTINF:-1 tvg-id="CANAL+.Sport.Event.1.ch" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 1 UHD 50fps (ea)
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1122056.m3u8
-#EXTINF:-1 tvg-id="CANAL+.Sport.Event.1.ch" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal+ Live 1 FHD 50fps (ea) ?
+#EXTINF:-1 tvg-id="CANAL+.Sport.Event.1.ch" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 1 FHD 50fps (ea)
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1122021.m3u8
-#EXTINF:-1 tvg-id="CANAL+.Sport.Event.1.ch" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal+ Live 1 HD 25fps (ea)
-http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1155540.m3u8
 
 
-#EXTINF:-1 tvg-id="CANAL+.Sport.2.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal+ Live 2 FHD 50fps (ch) ??
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122022&extension=ts&play_token=iSj2dolRme
-#EXTINF:-1 tvg-id="CANAL+.Sport.2.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal+ Live 2 HD 25 (as56) ?
+#EXTINF:-1 tvg-id="CANAL+.Sport.2.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 2 FHD 50fps (wa)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941443&extension=ts&play_token=Q6QJjkxzmL
+#EXTINF:-1 tvg-id="CANAL+.Sport.2.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 2 HD 25 (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170884&extension=ts
 
-#EXTINF:-1 tvg-id="CANAL+.Sport.2.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal+ Live 2 UHD 50fps (ea) ?
+#EXTINF:-1 tvg-id="CANAL+.Sport.2.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 2 UHD 50fps (ea)
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1122022.m3u8
-#EXTINF:-1 tvg-id="CANAL+.Sport.2.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal+ Live 2 FHD 50fps (ea) ?
+#EXTINF:-1 tvg-id="CANAL+.Sport.2.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 2 FHD 50fps (ea)
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1122023.m3u8
-#EXTINF:-1 tvg-id="CANAL+.Sport.2.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal+ Live 2 HD 25fps (ea)
-http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1155559.m3u8
 
-#EXTINF:-1 tvg-id="CANAL+.Sport.3.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal+ Live 3 HD 25fps (tb)
+#EXTINF:-1 tvg-id="CANAL+.Sport.3.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 3 FHD 50fps (wa)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941444&extension=ts&play_token=o2Tr9AcjRn
+#EXTINF:-1 tvg-id="CANAL+.Sport.3.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 3 HD 25fps (tb)
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=2125683&extension=ts
-#EXTINF:-1 tvg-id="CANAL+.Sport.3.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal+ Live 3 HD 25fps (tb)
+#EXTINF:-1 tvg-id="CANAL+.Sport.3.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 3 HD 25fps (tb)
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=2125650&extension=ts
-#EXTINF:-1 tvg-id="CANAL+.Sport.3.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal+ Live 3 HD 50fps (as56) ?
+#EXTINF:-1 tvg-id="CANAL+.Sport.3.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 3 HD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170883&extension=ts
 
-#EXTINF:-1 tvg-id="CANAL+.Sport.3.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal+ Live 3 UHD 50fps (ea) ?
+#EXTINF:-1 tvg-id="CANAL+.Sport.3.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 3 UHD 50fps (ea)
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1122024.m3u8
-#EXTINF:-1 tvg-id="CANAL+.Sport.3.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal+ Live 3 FHD 50fps (ea) ?
+#EXTINF:-1 tvg-id="CANAL+.Sport.3.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 3 FHD 50fps (ea)
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1122025.m3u8
-#EXTINF:-1 tvg-id="CANAL+.Sport.3.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal+ Live 3 HD 25fps (ea)
-http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1155541.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal+ Live 4 FHD 50fps (tb)
+#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 4 FHD 50fps (tb)
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=2125667&extension=ts
-#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal+ Live 4 FHD 50fps (tb)
+#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 4 FHD 50fps (tb)
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=2125651&extension=ts
-#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal+ Live 4 HD 50fps (as56) ?
+#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 4 FHD 50fps (wa)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941445&extension=ts&play_token=HNl5YxSvil
+#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 4 HD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170882&extension=ts
 
-#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal+ Live 5 FHD 50fps (tb)
+#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 5 FHD 50fps (tb)
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=2125682&extension=ts
-#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal+ Live 5 FHD 50fps (tb)
+#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 5 FHD 50fps (tb)
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=2125652&extension=ts
-#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal+ Live 5 FHD 50fps (as56) ?
+#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 5 FHD 50fps (wa)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941446&extension=ts&play_token=XG5DhmEsZX
+#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 5 FHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170881&extension=ts
 
-#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal+ Live 6 FHD 50fps (tb)
+#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 6 FHD 50fps (tb)
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=2125681&extension=ts
-#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal+ Live 6 FHD 50fps (tb)
+#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 6 FHD 50fps (tb)
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=2125653&extension=ts
-#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal+ Live 6 HD 25fps (as56) ?
+#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 6 FHD 50fps (wa)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941447&extension=ts&play_token=QLMTfXhokG
+#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 6 HD 25fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170880&extension=ts
 
-#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal+ Live 7 FHD 50fps (ch) ??
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122032&extension=ts&play_token=v6BlP5EabS
-#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal+ Live 7 HD (as56) ?
+#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 7 FHD 50fps (wa)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941448&extension=ts&play_token=WsozckyFQN
+#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 7 HD (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170879&extension=ts
 
-#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal+ Live 8 HD 25fps (tb)
+#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 8 FHD 50fps (wa)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941449&extension=ts&play_token=1acVWDscyw
+#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 8 HD 25fps (tb)
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=2125655&extension=ts
-#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal+ Live 8 HD (as56) ?
+#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 8 HD (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170878&extension=ts
 
-#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal+ Live 9 HD 25fps (tb)
+#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 9 FHD 50fps (wa)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941450&extension=ts&play_token=HS0I4oAIgw
+#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 9 HD 25fps (tb)
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=2125656&extension=ts
-#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal+ Live 9 HD 25fps (as56) ?
+#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 9 HD 25fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170877&extension=ts
 
-#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal+ Live 10 HD (tb)
+#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 10 FHD (wa)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941451&extension=ts&play_token=gOe8WDtbxG
+#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 10 HD (tb)
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=2125657&extension=ts
-#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal+ Live 10 HD (as56) ?
+#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 10 HD (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170876&extension=ts
 
-#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal+ Live 11 HD (tb)
+#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 11 FHD (wa)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941452&extension=ts&play_token=WmXqJfwjER
+#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 11 HD (tb)
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=2125658&extension=ts
-#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5dRduTM.png", Canal+ Live 11 HD (as56) ?
+#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 11 HD (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170875&extension=ts
 
-#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/Wh5MAm3.png", Canal+ Live 12 HD (ch) ??
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122042&extension=ts&play_token=1MtcjI5wmF
+#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 12 FHD (wa)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941453&extension=ts&play_token=2kNBQrjftR
 
-#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/6MKPJrT.png", Canal+ Live 13 HD (ch) ??
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122044&extension=ts&play_token=g168GcxJY4
+#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 13 HD (wa)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941454&extension=ts&play_token=D5zNLs1awt
 
-#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/nXUKQA3.png", Canal+ Live 14 HD (ch) ??
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122046&extension=ts&play_token=ehR6K7NzS8
+#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 14 HD (wa)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941455&extension=ts&play_token=4KjZrhXaz4
 
-#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/WTyN5Gh.png", Canal+ Live 15 HD (ch) ??
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122048&extension=ts&play_token=jR2N0mt5SZ
+#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 15 FHD (wa)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941456&extension=ts&play_token=du8Xer1A9z
 
+#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 16 FHD (wa)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941457&extension=ts&play_token=aq82Y6Ai4d
 #EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/5HZcyOC.png", Canal+ Live 16 HD (tb)
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=2125663&extension=ts
+
+#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 17 FHD (wa)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941458&extension=ts&play_token=rEdTeCG1wF
+
+#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 18 FHD (wa)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941459&extension=ts&play_token=4LyjCGgb8J
+
+#EXTINF:-1 tvg-id="" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QxXBTn6.png", Canal+ Live 19 FHD (wa)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941460&extension=ts&play_token=NuMsfhrfmR
 
 #EXTINF:0 group-title="🇫🇷 Canal+"
 
