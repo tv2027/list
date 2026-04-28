@@ -3280,11 +3280,11 @@ https://hls.iill.top/api/beIN-Sports-1/index.m3u8
 http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 tvg-id="beIN.SPORTS.1.fr" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/HKfUqi7.png", 🇫🇷 beIN SPORTS 1 FHD 50fps (b)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2499/index.m3u8
-#EXTINF:-1 tvg-id="beIN_SPORTS1_ENGLISH_Digital_Mono_AR.bein" group-title="beIN SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/q0tj5n1631279235.png", 🇶🇦 beIN SPORTS 1 FHD 30fps (k)
+#EXTINF:-1 tvg-id="beIN_SPORTS1_ENGLISH_Digital_Mono_EN.bein" group-title="beIN SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/q0tj5n1631279235.png", 🇶🇦 beIN SPORTS 1 FHD 30fps (k)
 http://kstv.us:8080/Freshcobar23/83261331891/12554
-#EXTINF:-1 tvg-id="beIN_SPORTS1_FRENCH_Digital_Mono_EN.bein" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/HKfUqi7.png", beIN SPORTS 1 FHD 30fps (r)
+#EXTINF:-1 tvg-id="beIN_SPORTS1_ENGLISH_Digital_Mono_AR.bein" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/HKfUqi7.png", beIN SPORTS 1 FHD 30fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/659436
-#EXTINF:-1 tvg-id="beIN_SPORTS1_ENGLISH_Digital_Mono_EN.bein" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/WOf6KAo.png", beIN SPORTS 1 FHD 25fps (b) ?
+#EXTINF:-1 tvg-id="beIN_SPORTS1_FRENCH_Digital_Mono_EN.bein" group-title="beIN SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/y8m9j21631279281.png", beIN SPORTS 1 FHD 25fps (b) ?
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6123/index.m3u8
 #EXTINF:-1 tvg-id="beIN_SPORTS1_ENGLISH_Digital_Mono_AR.bein" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/HKfUqi7.png", beIN SPORTS 1 FHD 25fps (r) ?
 https://restream-live.realiptv.to/MotherOfPins3/8746645/714411
@@ -3383,7 +3383,7 @@ https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u
 http://77.137.40.221:8000/play/a01e
 #EXTINF:-1 tvg-id="beIN_SPORTS2_FRENCH_Digital_Mono_AR.bein" tvg-logo="https://i.imgur.com/H1sCiDa.png" group-title="beIN SPORTS", 🇶🇦 beIN Sports 2
 http://77.137.40.221:8000/play/a01g
-#EXTINF:-1 tvg-id="beIN_SPORTS3_DIGITAL_Mono_AR.bein" tvg-logo="https://i.imgur.com/FgNHiav.png" group-title="beIN SPORTS", 🇶🇦 beIN Sports 3
+#EXTINF:-1 tvg-id="beIN_SPORTS3_ENGLISH_Digital_Mono_AR.bein" tvg-logo="https://i.imgur.com/FgNHiav.png" group-title="beIN SPORTS", 🇶🇦 beIN Sports 3
 http://77.137.40.221:8000/play/a01h
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hVWZEAn.png" group-title="beIN SPORTS", 🇶🇦 beIN Sports 4 ??
 http://77.137.40.221:8000/play/a01i
