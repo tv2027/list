@@ -2468,6 +2468,19 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527629&exten
 
 # # # ---------------------------------------- 📺 TNT Sports ----------------------------------------
 
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/V3qfxeG.png", TNT Sports 1 FHD 25fps [?]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/V3qfxeG.png", TNT Sports 1 FHD 25fps [?]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/V3qfxeG.png", TNT Sports 1 FHD 50fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2337
 #EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/V3qfxeG.png", TNT Sports 1 FHD 50fps (g)
@@ -2485,8 +2498,20 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527617&exten
 #EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/V3qfxeG.png", TNT Sports 1 FHD 50fps (xp) ??
 http://myxpanel.pro:80/jhart/jhart/709378
 
-
-#EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/Qq5D6bY.png", TNT Sports 2 FHD 50fps (g)
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/Qq5D6bY.png", TNT Sports 2 FHD 25fps [?]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
+https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/Qq5D6bY.png", TNT Sports 2 FHD 25fps [?]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
+https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/Qq5D6bY.png", TNT Sports 2 FHD 50fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/43126.ts
 #EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/Qq5D6bY.png", TNT Sports 2 FHD 50fps (b)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2506/index.m3u8
@@ -2503,7 +2528,19 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527615&exten
 #EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/Qq5D6bY.png", TNT Sports 2 FHD 50fps (xp) ??
 http://myxpanel.pro:80/jhart/jhart/709376
 
-
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/YIWGDix.png", TNT Sports 3 FHD 25fps 3 [?]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
+http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/YIWGDix.png", TNT Sports 3 FHD 25fps 3 [?]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
+https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/YIWGDix.png", TNT Sports 3 FHD 50fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2335
 #EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/YIWGDix.png", TNT Sports 3 FHD 50fps (g)
@@ -2519,6 +2556,18 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527613&exten
 #EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/YIWGDix.png", TNT Sports 3 FHD 50fps (b)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6564/index.m3u8
 
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/KJZszMA.png", TNT Sports 4 FHD 25fps [?]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/KJZszMA.png", TNT Sports 4 FHD 25fps [?]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/KJZszMA.png", TNT Sports 4 FHD 50fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/675021
 #EXTINF:-1 tvg-id="TNT.Sports.4.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/KJZszMA.png", TNT Sports 4 FHD 50fps (g)
@@ -3014,12 +3063,8 @@ http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/177677.m3u8
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=2122905&extension=ts
 #EXTINF:-1 tvg-id="Canal+.Sport.fr" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/EOXnU15.png" , Canal+ Sport FHD 25fps (ip)
 http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
-#EXTINF:-1 tvg-id="Canal+.Sport.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/L7qETwp.png" , 🇵🇱 Canal+ Sport FHD 50fps (tb)
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=18013&extension=ts
 #EXTINF:-1 tvg-id="Canal+.Sport.fr" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/EOXnU15.png" , Canal+ Sport FHD 25fps (bo)
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/6421.m3u8
-#EXTINF:-1 tvg-id="Canal+.Sport.fr" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/EOXnU15.png" , AF: Canal+ Sport FHD 25fps (bo)
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/232526.m3u8
 #EXTINF:-1 tvg-id="Canal+.Sport.fr" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/EOXnU15.png" , Canal+ Sport HD 25fps (tb)
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=2122913&extension=ts
 #EXTINF:-1 tvg-id="Canal+.Sport.fr" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/EOXnU15.png" , Canal+ Sport HD 25fps (vi)
@@ -3028,14 +3073,30 @@ http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/371
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/47969.m3u8
 #EXTINF:-1 tvg-id="Canal+.Sport.fr" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/EOXnU15.png" , Canal+ Sport HD 25fps (bo)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2502/index.m3u8
+#EXTINF:-1 tvg-id="Canal+.Sport.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/L7qETwp.png" , 🇵🇱 Canal+ Sport FHD 50fps (tb)
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=18013&extension=ts
+#EXTINF:-1 tvg-id="Canal+.Sport.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/L7qETwp.png" , 🇵🇱 CANAL+ Sport FHD (bk1)
+http://cwx6kmfd.otttv.pw/iptv/SZZ2LTTQ7Y9KPGCDB2G4ENGH/6098/index.m3u8
+#EXTINF:-1 tvg-id="3129" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/L7qETwp.png" , 🇵🇱 CANAL+ Sport FHD (bk2)
+http://7dcf4f9b.cbilant.com/iptv/9DBTL545SLHFHKACT8RS7P4R/6098/index.m3u8
+#EXTINF:-1 tvg-id="Canal+.Sport.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/L7qETwp.png" , 🇵🇱 CANAL+ Sport FHD (bk3)
+http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/6098/index.m3u8
+#EXTINF:-1 tvg-id="Canal+.Sport.fr" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/EOXnU15.png" , 🇦🇷 Canal+ Sport FHD 25fps (bo)
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/232526.m3u8
 
 #EXTINF:-1 tvg-id="CANAL+.Sport.2.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/Aq2hnUj.png" , Canal+ Sport 2 FHD 25fps (ip)
 http://46.149.191.219:9114/play/a026
 #EXTINF:-1 tvg-id="Canal+.Sport.2.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/ZaXj2Bf.png" , 🇵🇱 Canal+ Sport 2 FHD 25fps (tb)
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=18014&extension=ts
-#EXTINF:-1 tvg-id="Canal+.Sport.2.cz" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/Aq2hnUj.png" , CZ: Canal+ Sport 2 FHD 25fps (wi)
+#EXTINF:-1 tvg-id="Canal+.Sport.2.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/ZaXj2Bf.png" , 🇵🇱 CANAL+ Sport 2 FHD (bk1)
+http://cwx6kmfd.otttv.pw/iptv/SZZ2LTTQ7Y9KPGCDB2G4ENGH/6099/index.m3u8
+#EXTINF:-1 tvg-id="3058" group-title="🇫🇷 Canal+" tvg-logo="http://epg.one/img/3058.png" , 🇵🇱 CANAL+ Sport 2 FHD (bk2)
+http://7dcf4f9b.cbilant.com/iptv/9DBTL545SLHFHKACT8RS7P4R/6099/index.m3u8
+#EXTINF:-1 tvg-id="Canal+.Sport.2.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/ZaXj2Bf.png" , 🇵🇱 CANAL+ Sport 2 FHD (bk3)
+http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/6099/index.m3u8
+#EXTINF:-1 tvg-id="Canal+.Sport.2.cz" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/Aq2hnUj.png" , 🇨🇿 Canal+ Sport 2 FHD 25fps (wi)
 http://lb.wisp.cat/lb0/Canal_plus_Sport_2_HD_CZ/video.m3u8?token=AUSnMTD
-#EXTINF:-1 tvg-id="CANAL+.Sport.2.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/Aq2hnUj.png" , AF: Canal+ Sport 2 HD 50fps (bo)
+#EXTINF:-1 tvg-id="CANAL+.Sport.2.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/Aq2hnUj.png" , 🇦🇷 Canal+ Sport 2 HD 50fps (bo)
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/232527.m3u8
 
 #EXTINF:-1 tvg-id="Canal+.Sport.3.cz" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QZwPFa8.png" , Canal+ Sport 3 FHD 25fps (wi)
@@ -3045,7 +3106,7 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=42359&extension=t
 #EXTINF:-1 tvg-id="CANAL+.Sport.3.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/QZwPFa8.png" , AF: Canal+ Sport 3 HD 50fps (bo)
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/232528.m3u8
 
-#EXTINF:-1 tvg-id="Canal+.Sport.4.cz" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/BNAPYAx.png" , Canal+ Sport 4 FHD 50fps
+#EXTINF:-1 tvg-id="Canal+.Sport.4.cz" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/BNAPYAx.png" , 🇨🇿 Canal+ Sport 4 FHD 50fps (wi)
 http://lb.wisp.cat/lb0/Canal_plus_Sport_4_HD/video.m3u8?token=AUSnMTD
 #EXTINF:-1 tvg-id="CANAL+.Sport.4.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/SO8ddsR.png" , 🇵🇱 Canal+ Sport 4 FHD 50fps (tb)
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=42360&extension=ts
@@ -3059,6 +3120,12 @@ http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/232529.m3u8
 http://lb.wisp.cat/lb0/Canal_plus_Sport_5_HD/video.m3u8?token=AUSnMTD
 #EXTINF:-1 tvg-id="CANAL+.Sport.5.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/FWGWZJx.png" , 🇵🇱 Canal+ Sport 5 FHD 25fps (tb)
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=256446&extension=ts
+#EXTINF:-1 tvg-id="CANAL+.Sport.5.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/FWGWZJx.png" , 🇵🇱 Canal+ Sport 5 FHD (bk1)
+http://cwx6kmfd.otttv.pw/iptv/SZZ2LTTQ7Y9KPGCDB2G4ENGH/2519/index.m3u8
+#EXTINF:-1 tvg-id="2903" group-title="🇫🇷 Canal+" tvg-logo="http://epg.one/img/2903.png" , 🇵🇱 Canal+ Sport 5 FHD (bk2)
+http://7dcf4f9b.cbilant.com/iptv/9DBTL545SLHFHKACT8RS7P4R/2519/index.m3u8
+#EXTINF:-1 tvg-id="CANAL+.Sport.5.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/FWGWZJx.png" , 🇵🇱 Canal+ Sport 5 FHD (bk3)
+http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/2519/index.m3u8
 
 #EXTINF:-1 tvg-id="CANAL+.Extra.1.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/zvjM722.png" , 🇵🇱 Canal+ Extra 1 FHD 50fps (tb)
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=986006&extension=ts
@@ -3438,7 +3505,16 @@ http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6542/index.m3u8
 #EXTINF:-1 tvg-id="TSN.4K.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/3QnA16Y.png", CA: TSN UHD 60fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/61686.ts
 
-
+#EXTINF:-1 tvg-id="TSN.1.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/fs7QEno.png", TSN 1 FHD 25fps [?]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+#EXTINF:-1 tvg-id="TSN.1.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/fs7QEno.png", TSN 1 FHD 25fps [?]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/fs7QEno.png", TSN 1 FHD 60fps (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/40651
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/fs7QEno.png", TSN 1 FHD 60fps (g)
@@ -3450,7 +3526,21 @@ http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/57292
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/fs7QEno.png", TSN 1 HD 30fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/3146
 
-
+#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/kBQXl8d.png", TSN 2 FHD 25fps [?]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/kBQXl8d.png", TSN 2 FHD 25fps [?]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
+https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/kBQXl8d.png", TSN 2 FHD 25fps [?]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
+https://qw.live.pv-cdn.net/OTTB/sin-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/kBQXl8d.png", TSN 2 FHD 60fps (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/40650
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/kBQXl8d.png", TSN 2 FHD 60fps (g)
@@ -3464,7 +3554,16 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/3145
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/kBQXl8d.png", TSN 2 HD 60fps (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/15928
 
-
+#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/X4erIdG.png", TSN 3 FHD 25fps [?]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
+#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/X4erIdG.png", TSN 3 FHD 25fps [?]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
 #EXTINF:-1 tvg-id="TSN.3.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/X4erIdG.png", TSN 3 FHD 60fps (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/15927
 #EXTINF:-1 tvg-id="TSN.3.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/X4erIdG.png", TSN 3 FHD 60fps (ks)
@@ -3480,7 +3579,16 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/3144
 #EXTINF:-1 tvg-id="TSN.3.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/X4erIdG.png", TSN 3 FHD 60fps (b)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6522/index.m3u8
 
-
+#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/zGQkRKW.png", TSN 4 FHD 25fps [?]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/zGQkRKW.png", TSN 4 FHD 25fps [?]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/zGQkRKW.png", TSN 4 FHD 60fps (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/15926
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/zGQkRKW.png", TSN 4 FHD 60fps (ks)
@@ -3496,7 +3604,16 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/3143
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/zGQkRKW.png", TSN 4 FHD 60fps (b)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6445/index.m3u8
 
-
+#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/3QnA16Y.png", TSN 5 FHD 25fps [?]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
+#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/3QnA16Y.png", TSN 5 FHD 25fps [?]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/3QnA16Y.png", TSN 5 FHD 60fps (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/40647
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/3QnA16Y.png", TSN 5 FHD 60fps (g)
@@ -3559,6 +3676,13 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/21607
 https://restream-live.realiptv.to/MotherOfPins3/8746645/3762
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="🟢 Tennis" tvg-logo="https://i.imgur.com/LP0kWWX.png", Tennis Channel (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/3685
+
+#EXTINF:-1 tvg-id="Tennis.Channel.2.HD.us2" group-title="Tennis" tvg-logo="https://i.imgur.com/LP0kWWX.png", Tennis Channel 2 [?]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 
 #EXTINF:0 group-title="🟢 Tennis"
 
