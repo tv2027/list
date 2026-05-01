@@ -99,50 +99,73 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9951
 
 # # # ---------------------------- VTVcab ---------------------------------
 #EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" group-logo="https://i.imgur.com/eqZMYx0.png" tvg-logo="https://i.imgur.com/PznYHT5.png",  ON Football (p) (1080p50) [?] ??
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f69bf028397e4ecfafce84abb7c5fe2b:25028aad0e2003b2785cf5196a4e2fa1
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPGQjP4uBe4GAEbUDxSuyQ","kid":"CG0JpAv/OgCqbdTbr5wTsg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=a7393a24105642dfa2e6a043b218f891:28d831ab911247e782f4e1a2b97937fb
 https://livebytsct.vtvprime.vn/livesnv2/BONGDA_HD/manifest.mpd
 #https://livesct.vtvprime.vn/livesnv2/BONGDA_HD/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/mean/BONGDA_HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" group-logo="https://i.imgur.com/eqZMYx0.png" tvg-logo="https://i.imgur.com/PznYHT5.png",  ON Football (VTVcab 16) (1080p50) [?] ??
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPGQjP4uBe4GAEbUDxSuyQ","kid":"CG0JpAv/OgCqbdTbr5wTsg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=a7393a24105642dfa2e6a043b218f891:28d831ab911247e782f4e1a2b97937fb
 https://s7777.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv265/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="onsports" group-title="VTVcab" group-logo="https://i.imgur.com/eqZMYx0.png" tvg-logo="https://i.imgur.com/mlKtEjW.png", ON Sports (p) (1080p50) [?] ??
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dcda1c0511c347f8b89c1821600426ac:dbc1d4d9244f8e7d01d999d4d9f53855
 https://livesct.vtvprime.vn/livesnv2/THETHAO_HD/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://i.imgur.com/jX33Rze.png", ON Sports+ (p) (1080p50) [?] ??
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-id="onsports" group-title="VTVcab" group-logo="https://i.imgur.com/eqZMYx0.png" tvg-logo="https://i.imgur.com/mlKtEjW.png", ON Sports (p) (1080p50) [?] ??
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e619c5b54494762b131f65fc34a885b:676d9f5a28d409d7d601514baa147c9d
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livesct.vtvprime.vn/livesnv2/THETHAO_HD/manifest.mpd
+
+#EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://i.imgur.com/jX33Rze.png", ON Sports+ (8b) (1080p50) [?] ??
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livesct.vtvprime.vn/livesnv2/HAY_TV/manifest.mpd
+
+#EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://i.imgur.com/jX33Rze.png", ON Sports+ (9d) (1080p50) [?] ??
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPGQjP4uBe4GAEbUDxSuyQ","kid":"CG0JpAv/OgCqbdTbr5wTsg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=4e619c5b54494762b131f65fc34a885b:676d9f5a28d409d7d601514baa147c9d
 https://livesct.vtvprime.vn/livesnv2/HAY_TV/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/livesnv2/HAY_TV/manifest.mpd
 
 #EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://i.imgur.com/jX33Rze.png", ON Sports+ (VTVcab 6) (1080p50) [?] ??
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPGQjP4uBe4GAEbUDxSuyQ","kid":"CG0JpAv/OgCqbdTbr5wTsg"}],"type":"temporary"}
-https://s128199.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv311/manifest.mpd
+https://livesct.vtvprime.vn/livesnv2/HAY_TV/manifest.mpd
+#https://s128199.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv311/manifest.mpd
 
+#EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://i.imgur.com/tdxmZbc.png", ON Sports News (8b) (1080p50) [?]
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livesct.vtvprime.vn/livesnv2/THETHAO_TINTUC_HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://i.imgur.com/tdxmZbc.png", ON Sports News (1080p50) [?] ??
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://i.imgur.com/tdxmZbc.png", ON Sports News (1080p50) [?]
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cafb6e60c1504dfc858fd3dddc6fd20c:92061ffeb13f47c4d8879316dbc9521d
@@ -150,8 +173,8 @@ https://livesct.vtvprime.vn/mean/THETHAO_TINTUC_HD/manifest.mpd
 #https://livesct.vtvprime.vn/livesnv2/THETHAO_TINTUC_HD/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/mean/THETHAO_TINTUC_HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://i.imgur.com/i1wD7tO.png", ON Golf (1080p50) [?] ??
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://i.imgur.com/i1wD7tO.png", ON Golf (1080p50) [?]
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a323b53e0864492b0e04c70d591c564:843584bafaf2736c4fd1b76e1eee74d8
@@ -159,28 +182,28 @@ https://livesct.vtvprime.vn/mean/THETHAO_GOLF_HD/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/mean/THETHAO_GOLF_HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://i.imgur.com/O62H2xj.png", ON Phim Việt (vatv) (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 https://vietanhtv.id.vn/tv360/175/index.m3u8
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://i.imgur.com/O62H2xj.png", ON Phim Việt (va) (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 https://vietanh18h1.duckdns.org/tv360/175/index.m3u8
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://i.imgur.com/O62H2xj.png", ON Phim Việt (fr) (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=175
 
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://i.imgur.com/Dv2rUdB.png", On Movies (vatv) (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 https://vietanhtv.id.vn/tv360/181/index.m3u8
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://i.imgur.com/Dv2rUdB.png", On Movies (va) (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 https://vietanh18h1.duckdns.org/tv360/181/index.m3u8
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://i.imgur.com/Dv2rUdB.png", On Movies (fr) (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=181
 
 #EXTINF:-1 tvg-id="oncine" group-title="VTVcab" tvg-logo="https://i.imgur.com/kkwdUs0.png", ON Cine (vatv) (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 https://vietanhtv.id.vn/tv360/176/index.m3u8
 #EXTINF:-1 tvg-id="oncine" group-title="VTVcab" tvg-logo="https://i.imgur.com/kkwdUs0.png", ON Cine (va) (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 https://vietanh18h1.duckdns.org/tv360/176/index.m3u8
 #EXTINF:-1 tvg-id="oncine" group-title="VTVcab" tvg-logo="https://i.imgur.com/kkwdUs0.png", ON Cine (fr) (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=176
@@ -188,13 +211,13 @@ https://freem3u.xyz/api/live/play.m3u8?vid=176
 #EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://i.imgur.com/MpETNzV.png", ON Vie Dramas (vatv) (1080p)
 https://vietanhtv.id.vn/vieon/vie-dramas-hd/index.m3u8
 #EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://i.imgur.com/MpETNzV.png", ON Vie Dramas (va) (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 https://vietanh18h1.duckdns.org/tv360/177/index.m3u8
 #EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://i.imgur.com/MpETNzV.png", ON Vie Dramas (fr) (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=177
 
 #EXTINF:-1 tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://i.imgur.com/SW57p3m.png", On BiBi (va) (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 https://vietanh18h1.duckdns.org/tv360/178/index.m3u8
 #EXTINF:-1 tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://i.imgur.com/SW57p3m.png", On BiBi (fr) (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=178
@@ -212,7 +235,7 @@ https://vietanh18h1.duckdns.org/tv360/180/index.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=180
 
 #EXTINF:-1 tvg-id="onmusic" group-title="VTVcab" tvg-logo="https://i.imgur.com/bzG0kuk.png", On Music (va) (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 https://vietanh18h1.duckdns.org/tv360/185/index.m3u8
 #EXTINF:-1 tvg-id="onmusic" group-title="VTVcab" tvg-logo="https://i.imgur.com/bzG0kuk.png", On Music (fr) (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=185
@@ -223,25 +246,25 @@ https://vietanh18h1.duckdns.org/tv360/187/index.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=187
 
 #EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://i.imgur.com/oFQx06l.png", ON E Channel (va) (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 https://vietanh18h1.duckdns.org/tv360/182/index.m3u8
 #EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://i.imgur.com/oFQx06l.png", ON E Channel (fr) (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=182
 
 #EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://i.imgur.com/ua3j7TX.png", On O2TV (va) (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 https://vietanh18h1.duckdns.org/tv360/136/index.m3u8
 #EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://i.imgur.com/ua3j7TX.png", On O2TV (fr) (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=136
 
 #EXTINF:-1 tvg-id="oninfotv" group-title="VTVcab" tvg-logo="https://i.imgur.com/625g8vt.png", ON Info TV (va) (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 https://vietanh18h1.duckdns.org/tv360/189/index.m3u8
 #EXTINF:-1 tvg-id="oninfotv" group-title="VTVcab" tvg-logo="https://i.imgur.com/625g8vt.png", ON Info TV (fr) (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=189
 
 #EXTINF:-1 tvg-id="onstyle" group-title="VTVcab" tvg-logo="https://i.imgur.com/DgacoQ1.png", ON Style TV (va) (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 https://vietanh18h1.duckdns.org/tv360/184/index.m3u8
 #EXTINF:-1 tvg-id="onstyle" group-title="VTVcab" tvg-logo="https://i.imgur.com/DgacoQ1.png", ON Style TV (fr) (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=184
@@ -459,7 +482,7 @@ https://vietanh18h1.duckdns.org/tv360/1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="tv360plus3" group-title="Sự Kiện TV360" tvg-logo="https://i.imgur.com/EqiaIVs.png", TV360+ 3 (vatv) (1080p) [?] ??
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.id.vn/tv/cleankey.php?id=tv360plus3
@@ -605,7 +628,7 @@ https://kubolive.ddns.net/vanh_tv.php?provider=tv360&id=10001
 
 # # # ---------------------------- Sự Kiện VTV Prime (not 24/7) --------------------------
 #EXTINF:-1 group-title="Sự Kiện VTV Prime" group-logo="https://i.imgur.com/grcnpgs.png" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 1 (1080p50) [?] ??
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
@@ -613,7 +636,7 @@ https://livesct.vtvprime.vn/livesnv2/ONSPORT1/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT1/manifest.mpd
 
 #EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 2 (1080p) [?] ??
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
@@ -621,7 +644,7 @@ https://livesct.vtvprime.vn/livesnv2/ONSPORT2/manifest.mpd
 #https://livesct.vtvprime.vn/livesnv2/ONSPORT2/manifest.mpd
 
 #EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 3 (1080p) [?] ??
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
@@ -629,7 +652,7 @@ https://livesct.vtvprime.vn/livesnv2/ONSPORT3/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT3/manifest.mpd
 
 #EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 4 (1080p) [?] ??
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
@@ -637,7 +660,7 @@ https://livesct.vtvprime.vn/livesnv2/ONSPORT4/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT4/manifest.mpd
 
 #EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 5 (1080p) [?] ??
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
@@ -645,7 +668,7 @@ https://livesct.vtvprime.vn/livesnv2/ONSPORT5/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT5/manifest.mpd
 
 #EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 6 (1080p) [?] ??
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
@@ -653,7 +676,7 @@ https://livesct.vtvprime.vn/livesnv2/ONSPORT6/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT6/manifest.mpd
 
 #EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 7 (1080p) [?] ??
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
@@ -661,7 +684,7 @@ https://livesct.vtvprime.vn/livesnv2/ONSPORT7/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT7/manifest.mpd
 
 #EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 8 (1080p) [?] ??
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
@@ -669,7 +692,7 @@ https://livesct.vtvprime.vn/livesnv2/ONSPORT8/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT8/manifest.mpd
 
 #EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 9 (1080p) [?] ??
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
@@ -677,7 +700,7 @@ https://livesct.vtvprime.vn/livesnv2/ONSPORT9/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT9/manifest.mpd
 
 #EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 10 (1080p) [?] ??
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
@@ -685,7 +708,7 @@ https://livesct.vtvprime.vn/livesnv2/ONSPORT10/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT10/manifest.mpd
 
 #EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 11 (1080p) [?] ??
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
@@ -693,7 +716,7 @@ https://livesct.vtvprime.vn/livesnv2/ONSPORT11/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT11/manifest.mpd
 
 #EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 12 (1080p) [?] ??
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
@@ -701,7 +724,7 @@ https://livesct.vtvprime.vn/livesnv2/ONSPORT12/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT12/manifest.mpd
 
 #EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 13 (1080p) [?] ??
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
@@ -709,7 +732,7 @@ https://livesct.vtvprime.vn/livesnv2/ONSPORT13/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT13/manifest.mpd
 
 #EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 14 (1080p) [?] ??
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
@@ -782,7 +805,7 @@ https://live.fptplay53.net/live/media/su-kien-09/hls_avc_v6/index.m3u8
 https://live.fptplay53.net/live/media/su-kien-10/hls_avc_v6/index.m3u8
 
 #EXTINF:-1 group-title="Sự Kiện FPT Play" tvg-logo="https://i.imgur.com/OX4bTBg.png", FPT Play 83 ?
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cec2888bc5c14664955eebeae80704c4:a84755eaea32ee2b44fb12feef216b6f
@@ -830,7 +853,7 @@ https://liveh34.vtvprime.vn/hls/SCTV8/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sctv9" group-title="SCTV" tvg-logo="https://i.imgur.com/CcaMtmP.png", SCTV9 (Phim Châu Á) (720p) [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22a9a9a63d2746df9f90c184c596105a:2d9d24caeaea42f8b44e413fe04f0e5c
@@ -859,7 +882,7 @@ https://liveh34.vtvprime.vn/hls/SCTV14/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sctv15" group-title="SCTV" tvg-logo="https://i.imgur.com/ODOj17n.png", SCTV15 (Thể thao) (1080p) [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
@@ -872,7 +895,7 @@ https://liveh34.vtvprime.vn/hls/SCTV16/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sctv17" group-title="SCTV" tvg-logo="https://i.imgur.com/yvwvm92.png", SCTV17 (Thể thao & Cuộc sống) (720p) [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
@@ -1359,7 +1382,7 @@ https://vietanh18h1.duckdns.org/tv360/9888/index.m3u8
 # # # ------------------------------------- 📦 | In The Box ----------------------------------------------------
 
 #EXTINF:-1 tvg-id="musicbox" group-title="📦 | In The Box" tvg-logo="https://i.imgur.com/zgU1pj4.png" , Music Box (1080p) [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
@@ -1367,7 +1390,7 @@ https://livesct.vtvprime.vn/mean/MUSICBOX/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/mean/MUSICBOX/manifest.mpd
 
 #EXTINF:-1 tvg-id="woman" group-title="📦 | In The Box" tvg-logo="https://i.imgur.com/1Cmyrke.png" , WOMAN (1080p) [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
@@ -1375,7 +1398,7 @@ https://livesct.vtvprime.vn/livesnv2/WO/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/livesnv2/WO/manifest.mpd
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦 | In The Box" tvg-logo="https://i.imgur.com/leWw1zz.png" , Box Movie 1 (720p) [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
@@ -1383,7 +1406,7 @@ https://livesct.vtvprime.vn/mean/BM1/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd
 
 #EXTINF:-1 tvg-id="boxhits" group-title="📦 | In The Box" tvg-logo="https://i.imgur.com/XMiPRWx.png" , Box Hits (1080p) [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
@@ -1391,7 +1414,7 @@ https://livesct.vtvprime.vn/mean/BOXHIT/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
 
 #EXTINF:-1 tvg-id="hollywoodclassic" group-title="📦 | In The Box" tvg-logo="https://i.imgur.com/ZKY0TCt.png" , Hollywood Classics (720p) [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
@@ -1407,14 +1430,14 @@ https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist10
 
 
 #EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/uPLURi3.png" , HBO HD 🇻🇳 [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/uPLURi3.png" , HBO HD 🇻🇳 [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
@@ -1484,7 +1507,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.m
 
 
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/3R5nI4Y.png", Cinemax HD 🇻🇳 [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6YaPX0c9D9hpnt5I1THCsA","kid":"rLTCNHEGMyetxzLig8CEfw"}],"type":"temporary"}
@@ -1506,7 +1529,7 @@ https://get.perfecttv.net/myunifi.mpd?channel=Cinemax&kid=b83391c0-f7c6-4142-baa
 
 
 #EXTINF:-1 tvg-id="axnhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/jHB1iaJ.png", AXN HD 🇻🇳 [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d29f87efdec3c9fab368f724a62ad0e:6f1c09c035eab36323d60d1454db3d20
@@ -1514,7 +1537,7 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/G28NK5T.png", Cinema World HD [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"s14Sp1pCpvkYRyOpD/QtnA","kid":"7nkVVk10OdCb01Vv/MyHpA"}],"type":"temporary"}
@@ -1522,7 +1545,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Xw8Agf4.png", Dreamworks HD 🇻🇳 [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=67dae20527c63dadaaae609aa91577cb:59328f621d56767bc5ff9404a8940683
@@ -1543,7 +1566,7 @@ https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&ch
 
 
 #EXTINF:-1  tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Zld44aX.png", Cartoon Network HD 🇻🇳 [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3c20166660a93a75ac77db81567389f7:3cc1add43aecce3fe31c9c6a2a5b8c21
@@ -1561,7 +1584,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/i
 
 
 #EXTINF:-1  group-title="Quốc Tế" tvg-id="fashionhd" tvg-logo="https://i.imgur.com/OfKs02o.png tvg-shift=-7" , Fashion TV HD 🇻🇳 [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1d9f25701023508bfa6737e3a8c7001:30c3613e9b06e0f7cc201014f31bf5d8
@@ -1576,7 +1599,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/fashiontvhd/default/index.
 
 
 #EXTINF:-1 tvg-id="bloomberg" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Rt3vjrV.png", Bloomberg [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1071393f8fc237f3a9a28028142110f7:7a0f8c3c72e0ffff811d534c929c57c2
@@ -1593,7 +1616,7 @@ https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 
 
 #EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/8tmns9l.png", Discovery Channel FHD [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb4160ea553a321d899553e4e796fec2:bea5a07157e0c4d17b11ab399517f952
@@ -1604,7 +1627,7 @@ https://hls.iill.top/api/Discovery/index.m3u8
 
 
 #EXTINF:-1 tvg-id="cnn" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/xEylvZk.png", CNN (1080p) [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=714cc8ed05a03abb9ac61bd4bbd1d8a0:1acf58ff8d4cd87c2d3c12d22248efb1
@@ -1612,7 +1635,7 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="abcaustralia" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/mCFR0n7.png", ABC Australia (1080p) [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a09a73ec1dc348584e2f130e27da667:06f8d1a6feaffbdab92adf347e7b469c
@@ -1630,11 +1653,11 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 
 
 #EXTINF:-1 tvg-id="cna" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/0zxzvOr.png", Channel News Asia (va) (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 https://vietanh18h1.duckdns.org/tv360/112/index.m3u8
 
 #EXTINF:-1 tvg-id="cna" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/0zxzvOr.png", Channel News Asia (fr) (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 https://freem3u.xyz/api/live/play.m3u8?vid=112
 
 
@@ -1663,11 +1686,11 @@ https://freem3u.xyz/api/live/play.m3u8?vid=213
 
 
 #EXTINF:-1 tvg-id="dw" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/6CMNQDw.png", DW - Deutsche Welle (va) (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 https://vietanh18h1.duckdns.org/tv360/109/index.m3u8
 
 #EXTINF:-1 tvg-id="dw" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/6CMNQDw.png", DW - Deutsche Welle (pr) (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https%3A%2F%2Flive.fptplay53.net%2Ffnxhd2%2Fdwenglish_hls.smil%2Fchunklist.m3u8
 
 #EXTINF:-1 tvg-id="dw" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/6CMNQDw.png", DW - Deutsche Welle (p) (720p)
@@ -1675,30 +1698,30 @@ https://liveh12.vtvprime.vn/hls/DW/index.m3u8
 
 
 #EXTINF:-1 tvg-id="nhkworld" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/IGrphFs.png", NHK World Japan (va) (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 https://vietanh18h1.duckdns.org/tv360/106/index.m3u8
 
 #EXTINF:-1 tvg-id="nhkworld" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/rqShzZZ.png", NHK World Japan (fr) (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 https://freem3u.xyz/api/live/play.m3u8?vid=106
 
 
 #EXTINF:-1 tvg-id="france24eng" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/4Zpnq69.png", France 24 (va) (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 https://vietanh18h1.duckdns.org/tv360/96/index.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/4Zpnq69.png", France 24 (fr) (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 https://freem3u.xyz/api/live/play.m3u8?vid=96
 #EXTINF:-1 tvg-id="france24eng" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/4Zpnq69.png", France 24 (1080p)
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 
 
 #EXTINF:-1 tvg-id="tv5monde" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/0yrttiw.png", TV5 Monde (va) (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 https://vietanh18h1.duckdns.org/tv360/9852/index.m3u8
 
 #EXTINF:-1 tvg-id="tv5monde" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/0yrttiw.png", TV5 Monde (fr) (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 https://freem3u.xyz/api/live/play.m3u8?vid=9852
 
 #EXTINF:-1 tvg-id="tv5monde" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/0yrttiw.png", TV5 Monde (p) (720p)
@@ -1706,11 +1729,11 @@ https://liveh12.vtvprime.vn/hls/TV5/index.m3u8
 
 
 #EXTINF:-1 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Sx1noe0.png", CNBC (va) (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 https://vietanh18h1.duckdns.org/tv360/9855/index.m3u8
 
 #EXTINF:-1 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Sx1noe0.png", CNBC (fr) (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 https://freem3u.xyz/api/live/play.m3u8?vid=9855
 
 #EXTINF:-1 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Sx1noe0.png", CNBC (p) (720p)
@@ -1824,7 +1847,7 @@ https://get.perfecttv.net/myunifi.mpd?channel=unifi1&kid=90c7eb5d-66b4-42a9-a591
 
 
 #EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/nqiVBVM.png", Warner TV HD 🇻🇳 [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=086d09a40bff3a00aa6dd4dbaf9c13b2:34f1908cfe2e05ee060046d40f14aec9
@@ -1855,7 +1878,7 @@ https://get.perfecttv.net/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs
 
 
 #EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/GVna9Xn.png", Animal Planet FHD [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec6f072c7125377a9bc0ae61598095f4:1d5388e0781415ebcec9914f5ad75875
@@ -1863,7 +1886,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="tlchd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Urjj6jJ.png", Travel & Living FHD [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6908629732639ada4814a6208296d9c:7ca9bf03623f77b5e2f16df0b53f274d
@@ -1871,7 +1894,7 @@ https://s129135.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/A6uNsnw.png", Discovery Asia FHD [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=934907b134be3963a6263a453846924c:788e2835fb98568aed2f47bbdc091515
@@ -1879,7 +1902,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="dmax" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/9h6ymG5.png", Dmax (1080p) [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=53b26f904ae03a20b56477cfb9c5dca2:0c64ccfb978e7390bd33344075492aec
@@ -1887,7 +1910,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="cartoonito" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/yVfSqNg.png", Cartoonito FHD 🇻🇳 [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1f0d759e914369db388b3b0dc815971:5678d317e17007a88a9b9539e4526512
@@ -1898,7 +1921,7 @@ https://cdnssc.wewatch.asia/b3A9WTJsa1BUbENRa0kyT0VRNFJFUTRSalJCTkVZNVJURTJOamN5
 
 
 #EXTINF:-1 tvg-id="cbeebies" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/uuzg7ha.png", BBC Cbeebies FHD [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cca73a006b4b39a595207ceb5ed9ca0a:b833d1f40c261ef78896f97e06f80cdc
@@ -1906,7 +1929,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/H1xRBFz.png", BBC Lifestyle FHD [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=58b949986ed13294bc01b0f330abc527:23e8c5f2fe202906ac2d6554d9527299
@@ -1917,7 +1940,7 @@ https://hls.iill.top/api/BBC-Lifestyle/index.m3u8
 
 
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/ciWNcYn.png", BBC World News FHD [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7ba46086dda345a929e29bf155e459c:d374b8f39904bf572689ea347ae86591
@@ -1925,7 +1948,7 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/3ZDKWGg.png", BBC Earth FHD [?]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5014941a2c42379880b5edf72304c165:f3fa0fe3cd39a52f4eefd36ff7161e89
