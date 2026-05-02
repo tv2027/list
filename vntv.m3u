@@ -140,8 +140,8 @@ https://livebytsct.vtvprime.vn/livesnv2/THETHAO_HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-#KODIPROP:inputstream.adaptive.license_key=4e619c5b54494762b131f65fc34a885b:676d9f5a28d409d7d601514baa147c9d
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPGQjP4uBe4GAEbUDxSuyQ","kid":"CG0JpAv/OgCqbdTbr5wTsg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=4e619c5b54494762b131f65fc34a885b:676d9f5a28d409d7d601514baa147c9d
 https://livesct.vtvprime.vn/livesnv2/HAY_TV/manifest.mpd
 https://livebytsct.vtvprime.vn/livesnv2/HAY_TV/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/livesnv2/HAY_TV/manifest.mpd
