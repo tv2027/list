@@ -110,8 +110,8 @@ https://livevlisctcdnw.seenow.vn/mean/BONGDA_HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7393a24105642dfa2e6a043b218f891:28d831ab911247e782f4e1a2b97937fb
-#KODIPROP:inputstream.adaptive.license_key=f69bf028397e4ecfafce84abb7c5fe2b:25028aad0e2003b2785cf5196a4e2fa1
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPGQjP4uBe4GAEbUDxSuyQ","kid":"CG0JpAv/OgCqbdTbr5wTsg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=f69bf028397e4ecfafce84abb7c5fe2b:25028aad0e2003b2785cf5196a4e2fa1
 https://livesct.vtvprime.vn/livesnv2/BONGDA_HD/manifest.mpd
 #https://livebytsct.vtvprime.vn/livesnv2/BONGDA_HD/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/mean/BONGDA_HD/manifest.mpd
@@ -120,8 +120,8 @@ https://livesct.vtvprime.vn/livesnv2/BONGDA_HD/manifest.mpd
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7393a24105642dfa2e6a043b218f891:28d831ab911247e782f4e1a2b97937fb
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPGQjP4uBe4GAEbUDxSuyQ","kid":"CG0JpAv/OgCqbdTbr5wTsg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=f69bf028397e4ecfafce84abb7c5fe2b:25028aad0e2003b2785cf5196a4e2fa1
 https://s7777.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv265/manifest.mpd
 
 
@@ -137,8 +137,8 @@ https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dcda1c0511c347f8b89c1821600426ac:dbc1d4d9244f8e7d01d999d4d9f53855
-https://livebytsct.vtvprime.vn/livesnv2/THETHAO_HD/manifest.mpd
-#https://livesct.vtvprime.vn/livesnv2/THETHAO_HD/manifest.mpd
+https://livesct.vtvprime.vn/livesnv2/THETHAO_HD/manifest.mpd
+#https://livebytsct.vtvprime.vn/livesnv2/THETHAO_HD/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="onsports" group-title="VTVcab" group-logo="https://i.imgur.com/eqZMYx0.png" tvg-logo="https://i.imgur.com/mlKtEjW.png", ON Sports (p) (1080p50) [?] ??
@@ -146,8 +146,9 @@ https://livebytsct.vtvprime.vn/livesnv2/THETHAO_HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livebytsct.vtvprime.vn/livesnv2/THETHAO_HD/manifest.mpd
-#https://livesct.vtvprime.vn/livesnv2/THETHAO_HD/manifest.mpd
+https://livesct.vtvprime.vn/livesnv2/THETHAO_HD/manifest.mpd
+#https://livebytsct.vtvprime.vn/livesnv2/THETHAO_HD/manifest.mpd
+
 
 
 #EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://i.imgur.com/jX33Rze.png", ON Sports+ (1080p50) [?]  [Geo-blocked]
@@ -162,8 +163,8 @@ https://livevlisctcdnw.seenow.vn/livesnv2/HAY_TV/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPGQjP4uBe4GAEbUDxSuyQ","kid":"CG0JpAv/OgCqbdTbr5wTsg"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.license_key=4e619c5b54494762b131f65fc34a885b:676d9f5a28d409d7d601514baa147c9d
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPGQjP4uBe4GAEbUDxSuyQ","kid":"CG0JpAv/OgCqbdTbr5wTsg"}],"type":"temporary"}
 https://livesct.vtvprime.vn/livesnv2/HAY_TV/manifest.mpd
 #https://livebytsct.vtvprime.vn/livesnv2/HAY_TV/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/livesnv2/HAY_TV/manifest.mpd
@@ -425,44 +426,44 @@ https://truyenhinhonline.trungdungmedia.com/proxy?url=https%3A%2F%2Flive.fptplay
 
 # # #  --------------------------------- TV360 Khoảnh khắc thể thao -----------------------------------
 
-#EXTINF:-1 tvg-id="tv360c1" group-title="TV360 Khoảnh khắc thể thao" tvg-logo="https://i.imgur.com/PKGSQET.png", 360 C1 Châu Âu (vatv) (1080p)
+#EXTINF:-1 tvg-id="360c1" group-title="TV360 Khoảnh khắc thể thao" tvg-logo="https://i.imgur.com/PKGSQET.png", 360 C1 Châu Âu (vatv) (1080p)
 https://vietanhtv.id.vn/tv360/10014/index.m3u8
-#EXTINF:-1 tvg-id="tv360c1" group-title="TV360 Khoảnh khắc thể thao" tvg-logo="https://i.imgur.com/PKGSQET.png", 360 C1 Châu Âu (va) (1080p)
+#EXTINF:-1 tvg-id="360c1" group-title="TV360 Khoảnh khắc thể thao" tvg-logo="https://i.imgur.com/PKGSQET.png", 360 C1 Châu Âu (va) (1080p)
 https://vietanh18h1.duckdns.org/tv360/10014/index.m3u8
 
-#EXTINF:-1 tvg-id="tv360c2" group-title="TV360 Khoảnh khắc thể thao" tvg-logo="https://i.imgur.com/SKVPaan.png", 360 C2 Châu Âu (vatv) (1080p)
+#EXTINF:-1 tvg-id="360c2" group-title="TV360 Khoảnh khắc thể thao" tvg-logo="https://i.imgur.com/SKVPaan.png", 360 C2 Châu Âu (vatv) (1080p)
 https://vietanhtv.id.vn/tv360/10015/index.m3u8
-#EXTINF:-1 tvg-id="tv360c2" group-title="TV360 Khoảnh khắc thể thao" tvg-logo="https://i.imgur.com/SKVPaan.png", 360 C2 Châu Âu (va) (1080p)
+#EXTINF:-1 tvg-id="360c2" group-title="TV360 Khoảnh khắc thể thao" tvg-logo="https://i.imgur.com/SKVPaan.png", 360 C2 Châu Âu (va) (1080p)
 https://vietanh18h1.duckdns.org/tv360/10015/index.m3u8
 
-#EXTINF:-1 tvg-id="tv360c3" group-title="TV360 Khoảnh khắc thể thao" tvg-logo="https://i.imgur.com/5JOmYsG.png", 360 C3 Châu Âu (vatv) (1080p)
+#EXTINF:-1 tvg-id="360c3" group-title="TV360 Khoảnh khắc thể thao" tvg-logo="https://i.imgur.com/5JOmYsG.png", 360 C3 Châu Âu (vatv) (1080p)
 https://vietanhtv.id.vn/tv360/10016/index.m3u8
-#EXTINF:-1 tvg-id="tv360c3" group-title="TV360 Khoảnh khắc thể thao" tvg-logo="https://i.imgur.com/5JOmYsG.png", 360 C3 Châu Âu (va) (1080p)
+#EXTINF:-1 tvg-id="360c3" group-title="TV360 Khoảnh khắc thể thao" tvg-logo="https://i.imgur.com/5JOmYsG.png", 360 C3 Châu Âu (va) (1080p)
 https://vietanh18h1.duckdns.org/tv360/10016/index.m3u8
 
-#EXTINF:-1 tvg-id="tv360chauA" group-title="TV360 Khoảnh khắc thể thao" tvg-logo="https://i.imgur.com/19QbLEr.png", 360 Thể Thao Châu Á (vatv) (1080p)
+#EXTINF:-1 tvg-id="360thethaochaua" group-title="TV360 Khoảnh khắc thể thao" tvg-logo="https://i.imgur.com/19QbLEr.png", 360 Thể Thao Châu Á (vatv) (1080p)
 https://vietanhtv.id.vn/tv360/10017/index.m3u8
-#EXTINF:-1 tvg-id="tv360chauA" group-title="TV360 Khoảnh khắc thể thao" tvg-logo="https://i.imgur.com/19QbLEr.png", 360 Thể Thao Châu Á (va) (1080p)
+#EXTINF:-1 tvg-id="360thethaochaua" group-title="TV360 Khoảnh khắc thể thao" tvg-logo="https://i.imgur.com/19QbLEr.png", 360 Thể Thao Châu Á (va) (1080p)
 https://vietanh18h1.duckdns.org/tv360/10017/index.m3u8
 
-#EXTINF:-1 tvg-id="tv360f1" group-title="TV360 Khoảnh khắc thể thao" tvg-logo="https://i.imgur.com/Z11F5Ry.png", 360 Công Thức 1 (vatv) (1080p)
+#EXTINF:-1 tvg-id="360congthuc1" group-title="TV360 Khoảnh khắc thể thao" tvg-logo="https://i.imgur.com/Z11F5Ry.png", 360 Công Thức 1 (vatv) (1080p)
 https://vietanhtv.id.vn/tv360/10018/index.m3u8
-#EXTINF:-1 tvg-id="tv360f1" group-title="TV360 Khoảnh khắc thể thao" tvg-logo="https://i.imgur.com/Z11F5Ry.png", 360 Công Thức 1 (va) (1080p)
+#EXTINF:-1 tvg-id="360congthuc1" group-title="TV360 Khoảnh khắc thể thao" tvg-logo="https://i.imgur.com/Z11F5Ry.png", 360 Công Thức 1 (va) (1080p)
 https://vietanh18h1.duckdns.org/tv360/10018/index.m3u8
 
-#EXTINF:-1 tvg-id="tv360bundesliga" group-title="TV360 Khoảnh khắc thể thao" tvg-logo="https://i.imgur.com/yR9XI03.png", 360 Bundesliga (vatv) (1080p)
+#EXTINF:-1 tvg-id="360bundesliga" group-title="TV360 Khoảnh khắc thể thao" tvg-logo="https://i.imgur.com/yR9XI03.png", 360 Bundesliga (vatv) (1080p)
 https://vietanhtv.id.vn/tv360/10019/index.m3u8
-#EXTINF:-1 tvg-id="tv360bundesliga" group-title="TV360 Khoảnh khắc thể thao" tvg-logo="https://i.imgur.com/yR9XI03.png", 360 Bundesliga (va) (1080p)
+#EXTINF:-1 tvg-id="360bundesliga" group-title="TV360 Khoảnh khắc thể thao" tvg-logo="https://i.imgur.com/yR9XI03.png", 360 Bundesliga (va) (1080p)
 https://vietanh18h1.duckdns.org/tv360/10019/index.m3u8
 
-#EXTINF:-1 tvg-id="tv360golf" group-title="TV360 Khoảnh khắc thể thao" tvg-logo="https://i.imgur.com/KCGLbnx.png", 360 Golf (vatv) (1080p)
+#EXTINF:-1 tvg-id="360golf" group-title="TV360 Khoảnh khắc thể thao" tvg-logo="https://i.imgur.com/KCGLbnx.png", 360 Golf (vatv) (1080p)
 https://vietanhtv.id.vn/tv360/10020/index.m3u8
-#EXTINF:-1 tvg-id="tv360golf" group-title="TV360 Khoảnh khắc thể thao" tvg-logo="https://i.imgur.com/KCGLbnx.png", 360 Golf (va) (1080p)
+#EXTINF:-1 tvg-id="360golf" group-title="TV360 Khoảnh khắc thể thao" tvg-logo="https://i.imgur.com/KCGLbnx.png", 360 Golf (va) (1080p)
 https://vietanh18h1.duckdns.org/tv360/10020/index.m3u8
 
-#EXTINF:-1 tvg-id="tv360tennis" group-title="TV360 Khoảnh khắc thể thao" tvg-logo="https://i.imgur.com/GF9nEkD.png", 360 Tennis (vatv) (1080p)
+#EXTINF:-1 tvg-id="360tennis" group-title="TV360 Khoảnh khắc thể thao" tvg-logo="https://i.imgur.com/GF9nEkD.png", 360 Tennis (vatv) (1080p)
 https://vietanhtv.id.vn/tv360/10021/index.m3u8
-#EXTINF:-1 tvg-id="tv360tennis" group-title="TV360 Khoảnh khắc thể thao" tvg-logo="https://i.imgur.com/GF9nEkD.png", 360 Tennis (va) (1080p)
+#EXTINF:-1 tvg-id="360tennis" group-title="TV360 Khoảnh khắc thể thao" tvg-logo="https://i.imgur.com/GF9nEkD.png", 360 Tennis (va) (1080p)
 https://vietanh18h1.duckdns.org/tv360/10021/index.m3u8
 
 #EXTINF:0 group-title="TV360 Khoảnh khắc thể thao"
@@ -804,12 +805,18 @@ https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
 
 #EXTINF:-1 group-title="Sự Kiện FPT Play" tvg-logo="https://i.imgur.com/OX4bTBg.png", FPT Play 4 (1080p50)
 https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT Play" tvg-logo="https://i.imgur.com/OX4bTBg.png", FPT Play 4 (e) (1080p50) ?
+https://live.fptplay53.net/live/media/event-04/hls_avc_v6/index.m3u8
 
 #EXTINF:-1 group-title="Sự Kiện FPT Play" tvg-logo="https://i.imgur.com/OX4bTBg.png", FPT Play 5 (1080p50)
 https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT Play" tvg-logo="https://i.imgur.com/OX4bTBg.png", FPT Play 5 (e) (1080p50) ?
+https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
 
 #EXTINF:-1 group-title="Sự Kiện FPT Play" tvg-logo="https://i.imgur.com/OX4bTBg.png", FPT Play 6 (1080p50)
 https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT Play" tvg-logo="https://i.imgur.com/OX4bTBg.png", FPT Play 6 (1080p50) ?
+https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
 
 #EXTINF:-1 group-title="Sự Kiện FPT Play" tvg-logo="https://i.imgur.com/OX4bTBg.png", FPT Play 7 (1080p)
 https://live.fptplay53.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
@@ -1363,9 +1370,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=10008
 #EXTINF:-1 tvg-id="360phimhoangu" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/AsVovme.png", 360 Phim Hoa Ngữ (fr) (1080p)
 https://vietanh18h1.duckdns.org/tv360/10008/index.m3u8
 
-#EXTINF:-1 tvg-id="360phimhoangu" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/AsVovme.png", 360 Hành Động Châu Á (va) (1080p)
+#EXTINF:-1 tvg-id="360hanhdongchaua" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/AsVovme.png", 360 Hành Động Châu Á (va) (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=10009
-#EXTINF:-1 tvg-id="360phimhoangu" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/AsVovme.png", 360 Hành Động Châu Á (fr) (1080p)
+#EXTINF:-1 tvg-id="360hanhdongchaua" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/AsVovme.png", 360 Hành Động Châu Á (fr) (1080p)
 https://vietanh18h1.duckdns.org/tv360/10009/index.m3u8
 
 #EXTINF:-1 tvg-id="360kdrama" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/tbgUG0Y.png", 360 K-Drama (va) (1080p)
@@ -1373,9 +1380,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=10010
 #EXTINF:-1 tvg-id="360kdrama" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/tbgUG0Y.png", 360 K-Drama (fr) (1080p)
 https://vietanh18h1.duckdns.org/tv360/10010/index.m3u8
 
-#EXTINF:-1 tvg-id="360hai-tinhcam" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/xbPaeqW.png", 360 Hài - Tình Cảm (va) (1080p)
+#EXTINF:-1 tvg-id="360haitinhcam" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/xbPaeqW.png", 360 Hài - Tình Cảm (va) (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=10011
-#EXTINF:-1 tvg-id="360hai-tinhcam" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/xbPaeqW.png", 360 Hài - Tình Cảm (fr) (1080p)
+#EXTINF:-1 tvg-id="360haitinhcam" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/xbPaeqW.png", 360 Hài - Tình Cảm (fr) (1080p)
 https://vietanh18h1.duckdns.org/tv360/10011/index.m3u8
 
 #EXTINF:-1 tvg-id="360phimkinhdien" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/GgNL07z.png", 360 Phim Kinh Điển (va) (1080p)
