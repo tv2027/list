@@ -109,12 +109,9 @@ https://livevlisctcdnw.seenow.vn/mean/BONGDA_HD/manifest.mpd
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7393a24105642dfa2e6a043b218f891:28d831ab911247e782f4e1a2b97937fb
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPGQjP4uBe4GAEbUDxSuyQ","kid":"CG0JpAv/OgCqbdTbr5wTsg"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.license_key=f69bf028397e4ecfafce84abb7c5fe2b:25028aad0e2003b2785cf5196a4e2fa1
-https://livesct.vtvprime.vn/livesnv2/BONGDA_HD/manifest.mpd
-#https://livebytsct.vtvprime.vn/livesnv2/BONGDA_HD/manifest.mpd
-#https://livevlisctcdnw.seenow.vn/mean/BONGDA_HD/manifest.mpd
+https://livebytsct.vtvprime.vn/livesnv2/BONGDA_HD/manifest.mpd
+#https://livesct.vtvprime.vn/livesnv2/BONGDA_HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" group-logo="https://i.imgur.com/eqZMYx0.png" tvg-logo="https://i.imgur.com/PznYHT5.png",  ON Football (VTVcab 16) (1080p50) [?] ??
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
@@ -137,9 +134,9 @@ https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dcda1c0511c347f8b89c1821600426ac:dbc1d4d9244f8e7d01d999d4d9f53855
-https://livesct.vtvprime.vn/livesnv2/THETHAO_HD/manifest.mpd
-#https://livebytsct.vtvprime.vn/livesnv2/THETHAO_HD/manifest.mpd
-#https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
+https://livebytsct.vtvprime.vn/livesnv2/THETHAO_HD/manifest.mpd
+#https://livesct.vtvprime.vn/livesnv2/THETHAO_HD/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="onsports" group-title="VTVcab" group-logo="https://i.imgur.com/eqZMYx0.png" tvg-logo="https://i.imgur.com/mlKtEjW.png", ON Sports (p) (1080p50) [?] ??
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
@@ -148,7 +145,6 @@ https://livesct.vtvprime.vn/livesnv2/THETHAO_HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livesct.vtvprime.vn/livesnv2/THETHAO_HD/manifest.mpd
 #https://livebytsct.vtvprime.vn/livesnv2/THETHAO_HD/manifest.mpd
-
 
 
 #EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://i.imgur.com/jX33Rze.png", ON Sports+ (1080p50) [?]  [Geo-blocked]
@@ -163,11 +159,9 @@ https://livevlisctcdnw.seenow.vn/livesnv2/HAY_TV/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e619c5b54494762b131f65fc34a885b:676d9f5a28d409d7d601514baa147c9d
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPGQjP4uBe4GAEbUDxSuyQ","kid":"CG0JpAv/OgCqbdTbr5wTsg"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livesct.vtvprime.vn/livesnv2/HAY_TV/manifest.mpd
 #https://livebytsct.vtvprime.vn/livesnv2/HAY_TV/manifest.mpd
-#https://livevlisctcdnw.seenow.vn/livesnv2/HAY_TV/manifest.mpd
 
 #EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://i.imgur.com/jX33Rze.png", ON Sports+ (VTVcab 6) (1080p50) [?] ??
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
@@ -3926,18 +3920,6 @@ http://myxpanel.pro:80/jhart/jhart/305
 
 #EXTINF:0 group-title="🇸🇪 Sweden Sports"
 
-# # # ---------------------------------------- 📺 🇧🇬 Max Sport  ----------------------------------------
-
-#EXTINF:-1 tvg-id="MAX.Sport.1.bg" group-title="🇧🇬 Max Sport" tvg-logo="https://i.imgur.com/CZggP4A.png", 🇧🇬 Max Sport 1 FHD 50fps (ip)
-http://77.46.130.252:99/maxsport1
-#EXTINF:-1 tvg-id="MAX.Sport.2.bg" group-title="🇧🇬 Max Sport" tvg-logo="https://i.imgur.com/OLGVJKG.png", 🇧🇬 Max Sport 2 FHD 60fps (ip)
-http://77.46.130.252:99/maxsport2
-#EXTINF:-1 tvg-id="MAX.Sport.3.bg" group-title="🇧🇬 Max Sport" tvg-logo="https://i.imgur.com/eGiGgZ2.png", 🇧🇬 Max Sport 3 FHD 50fps (ip)
-http://77.46.130.252:99/maxsport3
-#EXTINF:-1 tvg-id="MAX.Sport.4.bg" group-title="🇧🇬 Max Sport" tvg-logo="https://i.imgur.com/7IxXX6f.png", 🇧🇬 Max Sport 4 FHD 50fps (ip)
-http://77.46.130.252:99/maxsport4
-
-#EXTINF:0 group-title="🇧🇬 Max Sport"
 
 # # # ---------------------------------------- 📺 Eurosport  ----------------------------------------
 
