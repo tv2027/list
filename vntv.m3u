@@ -162,9 +162,9 @@ https://livevlisctcdnw.seenow.vn/livesnv2/HAY_TV/manifest.mpd
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 #KODIPROP:inputstream.adaptive.license_key=4e619c5b54494762b131f65fc34a885b:676d9f5a28d409d7d601514baa147c9d
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPGQjP4uBe4GAEbUDxSuyQ","kid":"CG0JpAv/OgCqbdTbr5wTsg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livesct.vtvprime.vn/livesnv2/HAY_TV/manifest.mpd
 #https://livebytsct.vtvprime.vn/livesnv2/HAY_TV/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/livesnv2/HAY_TV/manifest.mpd
@@ -176,13 +176,6 @@ https://livesct.vtvprime.vn/livesnv2/HAY_TV/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPGQjP4uBe4GAEbUDxSuyQ","kid":"CG0JpAv/OgCqbdTbr5wTsg"}],"type":"temporary"}
 https://s128199.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv311/manifest.mpd
 
-
-#EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://i.imgur.com/tdxmZbc.png", ON Sports News (8b) (1080p50) [?]
-#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livesct.vtvprime.vn/livesnv2/THETHAO_TINTUC_HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://i.imgur.com/tdxmZbc.png", ON Sports News (1080p50) [?]
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
@@ -1340,16 +1333,6 @@ https://vietanh18h1.duckdns.org/tv360/20/index.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/nOb4rPT.png",ANTV - TH CÔNG AN NHÂN DÂN (fr) (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=20
 
-#EXTINF:-1 tvg-id="fm90" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/AQFKRoN.png" radio=true , FM90 Tin tức giao thông Hà Nội (va)
-https://freem3u.xyz/api/live/play.m3u8?vid=9905
-#EXTINF:-1 tvg-id="fm90" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/AQFKRoN.png" radio=true , FM90 Tin tức giao thông Hà Nội (fr)
-https://vietanh18h1.duckdns.org/tv360/9905/index.m3u8
-
-#EXTINF:-1 tvg-id="fm96" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/kSUpHoe.png", FM96 Thời sự Tổng hợp (va)
-https://freem3u.xyz/api/live/play.m3u8?vid=9906
-#EXTINF:-1 tvg-id="fm96" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/kSUpHoe.png", FM96 Thời sự Tổng hợp (fr)
-https://vietanh18h1.duckdns.org/tv360/9906/index.m3u8
-
 #EXTINF:-1 tvg-id="360phimviet" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/umtJROh.png", 360 Phim Việt (va) (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=9902
 #EXTINF:-1 tvg-id="360phimviet" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/umtJROh.png", 360 Phim Việt (fr) (1080p)
@@ -1402,6 +1385,16 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9904
 
 #EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/hr3wFmL.png", TV360 Quảng Cáo (va) (1080p)
 https://vietanh18h1.duckdns.org/tv360/9888/index.m3u8
+
+#EXTINF:-1 tvg-id="fm90" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/AQFKRoN.png" radio=true , FM90 Tin tức giao thông Hà Nội (va)
+https://freem3u.xyz/api/live/play.m3u8?vid=9905
+#EXTINF:-1 tvg-id="fm90" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/AQFKRoN.png" radio=true , FM90 Tin tức giao thông Hà Nội (fr)
+https://vietanh18h1.duckdns.org/tv360/9905/index.m3u8
+
+#EXTINF:-1 tvg-id="fm96" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/kSUpHoe.png", FM96 Thời sự Tổng hợp (va)
+https://freem3u.xyz/api/live/play.m3u8?vid=9906
+#EXTINF:-1 tvg-id="fm96" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/kSUpHoe.png", FM96 Thời sự Tổng hợp (fr)
+https://vietanh18h1.duckdns.org/tv360/9906/index.m3u8
 
 #EXTINF:0  group-title="Tổng hợp"
 
