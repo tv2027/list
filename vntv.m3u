@@ -106,7 +106,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9951
 #KODIPROP:inputstream.adaptive.license_key=5184162e30134a44afa1d591ffc2e736:09b20d5f9bbf41fdb8d3916c409470a8
 https://livevlisctcdnw.seenow.vn/mean/BONGDA_HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" group-logo="https://i.imgur.com/eqZMYx0.png" tvg-logo="https://i.imgur.com/PznYHT5.png",  ON Football (p) (1080p50) [?] ??
+#EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" group-logo="https://i.imgur.com/eqZMYx0.png" tvg-logo="https://i.imgur.com/PznYHT5.png",  ON Football (p) (1080p50) [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -119,7 +119,6 @@ https://livesct.vtvprime.vn/livesnv2/BONGDA_HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPGQjP4uBe4GAEbUDxSuyQ","kid":"CG0JpAv/OgCqbdTbr5wTsg"}],"type":"temporary"}
-#KODIPROP:inputstream.adaptive.license_key=f69bf028397e4ecfafce84abb7c5fe2b:25028aad0e2003b2785cf5196a4e2fa1
 https://s7777.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv265/manifest.mpd
 
 
@@ -131,7 +130,7 @@ https://s7777.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv265/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=bc5c30fc9f7e43e58887a2d8a7788a38:55bd66990fb745fd895f1aa71393e81f
 https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="onsports" group-title="VTVcab" group-logo="https://i.imgur.com/eqZMYx0.png" tvg-logo="https://i.imgur.com/mlKtEjW.png", ON Sports (p) (1080p50) [?] ??
+#EXTINF:-1 tvg-id="onsports" group-title="VTVcab" group-logo="https://i.imgur.com/eqZMYx0.png" tvg-logo="https://i.imgur.com/mlKtEjW.png", ON Sports (p) (1080p50) [?]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -139,20 +138,12 @@ https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
 https://livesct.vtvprime.vn/livesnv2/THETHAO_HD/manifest.mpd
 #https://livebytsct.vtvprime.vn/livesnv2/THETHAO_HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="onsports" group-title="VTVcab" group-logo="https://i.imgur.com/eqZMYx0.png" tvg-logo="https://i.imgur.com/mlKtEjW.png", ON Sports (p) (1080p50) [?] ??
-#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livesct.vtvprime.vn/livesnv2/THETHAO_HD/manifest.mpd
-#https://livebytsct.vtvprime.vn/livesnv2/THETHAO_HD/manifest.mpd
-
-
 #EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://i.imgur.com/jX33Rze.png", ON Sports+ (1080p50) [?]  [Geo-blocked]
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e619c5b54494762b131f65fc34a885b:676d9f5a28d409d7d601514baa147c9d
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/livesnv2/HAY_TV/manifest.mpd
 
 #EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://i.imgur.com/jX33Rze.png", ON Sports+ (1080p50) [?]
@@ -634,7 +625,7 @@ https://kubolive.ddns.net/vanh_tv.php?provider=tv360&id=10001
 #EXTINF:0 group-title="Sự Kiện TV360"
 
 # # # ---------------------------- Sự Kiện VTV Prime (not 24/7) --------------------------
-#EXTINF:-1 group-title="Sự Kiện VTV Prime" group-logo="https://i.imgur.com/grcnpgs.png" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 1 (1080p50) [?] ??
+#EXTINF:-1 group-title="Sự Kiện VTV Prime" group-logo="https://i.imgur.com/grcnpgs.png" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 1 (1080p50) [?]
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -642,7 +633,7 @@ https://kubolive.ddns.net/vanh_tv.php?provider=tv360&id=10001
 https://livesct.vtvprime.vn/livesnv2/ONSPORT1/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT1/manifest.mpd
 
-#EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 2 (1080p) [?] ??
+#EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 2 (1080p) [?]
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -650,7 +641,7 @@ https://livesct.vtvprime.vn/livesnv2/ONSPORT1/manifest.mpd
 https://livesct.vtvprime.vn/livesnv2/ONSPORT2/manifest.mpd
 #https://livesct.vtvprime.vn/livesnv2/ONSPORT2/manifest.mpd
 
-#EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 3 (1080p) [?] ??
+#EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 3 (1080p) [?]
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -658,7 +649,7 @@ https://livesct.vtvprime.vn/livesnv2/ONSPORT2/manifest.mpd
 https://livesct.vtvprime.vn/livesnv2/ONSPORT3/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT3/manifest.mpd
 
-#EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 4 (1080p) [?] ??
+#EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 4 (1080p) [?]
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -666,7 +657,7 @@ https://livesct.vtvprime.vn/livesnv2/ONSPORT3/manifest.mpd
 https://livesct.vtvprime.vn/livesnv2/ONSPORT4/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT4/manifest.mpd
 
-#EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 5 (1080p) [?] ??
+#EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 5 (1080p) [?]
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -674,7 +665,7 @@ https://livesct.vtvprime.vn/livesnv2/ONSPORT4/manifest.mpd
 https://livesct.vtvprime.vn/livesnv2/ONSPORT5/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT5/manifest.mpd
 
-#EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 6 (1080p) [?] ??
+#EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 6 (1080p) [?]
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -682,7 +673,7 @@ https://livesct.vtvprime.vn/livesnv2/ONSPORT5/manifest.mpd
 https://livesct.vtvprime.vn/livesnv2/ONSPORT6/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT6/manifest.mpd
 
-#EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 7 (1080p) [?] ??
+#EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 7 (1080p) [?]
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -690,7 +681,7 @@ https://livesct.vtvprime.vn/livesnv2/ONSPORT6/manifest.mpd
 https://livesct.vtvprime.vn/livesnv2/ONSPORT7/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT7/manifest.mpd
 
-#EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 8 (1080p) [?] ??
+#EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 8 (1080p) [?]
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -698,7 +689,7 @@ https://livesct.vtvprime.vn/livesnv2/ONSPORT7/manifest.mpd
 https://livesct.vtvprime.vn/livesnv2/ONSPORT8/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT8/manifest.mpd
 
-#EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 9 (1080p) [?] ??
+#EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 9 (1080p) [?]
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -706,7 +697,7 @@ https://livesct.vtvprime.vn/livesnv2/ONSPORT8/manifest.mpd
 https://livesct.vtvprime.vn/livesnv2/ONSPORT9/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT9/manifest.mpd
 
-#EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 10 (1080p) [?] ??
+#EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 10 (1080p) [?]
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -714,7 +705,7 @@ https://livesct.vtvprime.vn/livesnv2/ONSPORT9/manifest.mpd
 https://livesct.vtvprime.vn/livesnv2/ONSPORT10/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT10/manifest.mpd
 
-#EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 11 (1080p) [?] ??
+#EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 11 (1080p) [?]
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -722,7 +713,7 @@ https://livesct.vtvprime.vn/livesnv2/ONSPORT10/manifest.mpd
 https://livesct.vtvprime.vn/livesnv2/ONSPORT11/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT11/manifest.mpd
 
-#EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 12 (1080p) [?] ??
+#EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 12 (1080p) [?]
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -730,7 +721,7 @@ https://livesct.vtvprime.vn/livesnv2/ONSPORT11/manifest.mpd
 https://livesct.vtvprime.vn/livesnv2/ONSPORT12/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT12/manifest.mpd
 
-#EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 13 (1080p) [?] ??
+#EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 13 (1080p) [?]
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -738,7 +729,7 @@ https://livesct.vtvprime.vn/livesnv2/ONSPORT12/manifest.mpd
 https://livesct.vtvprime.vn/livesnv2/ONSPORT13/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT13/manifest.mpd
 
-#EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 14 (1080p) [?] ??
+#EXTINF:-1 group-title="Sự Kiện VTV Prime" tvg-logo="https://i.imgur.com/grcnpgs.png", VTV Prime 14 (1080p) [?]
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2438,7 +2429,7 @@ http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7337/index.m3u8
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk"  tvg-logo="https://i.imgur.com/jUNWDBA.png" group-title="🇬🇧 Sky Sports", Sky Sports Premier League FHD 50fps (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/58924.ts
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk"  tvg-logo="https://i.imgur.com/jUNWDBA.png" group-title="🇬🇧 Sky Sports", Sky Sports Premier League FHD 50fps (tt)
-https://v.iill.top/api/Sky-Sports-EPL/index.m3u8
+https://cdn-2.ttvb.eu.org/api/Sky-Sports-EPL/index.m3u8
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.HD.ie"  tvg-logo="https://i.imgur.com/jUNWDBA.png" group-title="🇬🇧 Sky Sports", Sky Sports Premier League FHD 50fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2181
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.HD.ie"  tvg-logo="https://i.imgur.com/jUNWDBA.png" group-title="🇬🇧 Sky Sports", Sky Sports Premier League FHD 50fps (r)
@@ -2507,7 +2498,7 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/2189
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk"  tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="🇬🇧 Sky Sports", Sky Sports F1 FHD 50fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2190
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk"  tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="🇬🇧 Sky Sports", Sky Sports F1 FHD 25fps (tt)
-https://v.iill.top/api/Sky-Sports-F1/index.m3u8
+https://cdn-2.ttvb.eu.org/api/Sky-Sports-F1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="SkySpCricket.HD.uk"  tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="🇬🇧 Sky Sports", Sky Sports Cricket FHD 50fps (r)
@@ -2517,10 +2508,10 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/2192
 #EXTINF:-1 tvg-id="SkySpCricket.HD.uk"  tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="🇬🇧 Sky Sports", Sky Sports Cricket FHD 50fps (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/47864
 #EXTINF:-1 tvg-id="SkySpCricket.HD.uk"  tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="🇬🇧 Sky Sports", Sky Sports Cricket FHD 25fps (tt)
-https://v.iill.top/api/Sky-Sports-Cricket/index.m3u8
+https://cdn-2.ttvb.eu.org/api/Sky-Sports-Cricket/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySp.Mix.HD.uk"  tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="🇬🇧 Sky Sports", Sky Sports Mix FHD 50fps (tt)
-https://v.iill.top/api/Sky-Sports-Mix/index.m3u8
+https://cdn-2.ttvb.eu.org/api/Sky-Sports-Mix/index.m3u8
 #EXTINF:-1 tvg-id="SkySp.Mix.HD.uk"  tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="🇬🇧 Sky Sports", Sky Sports Mix FHD 50fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2180
 #EXTINF:-1 tvg-id="SkySp.Mix.HD.uk"  tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="🇬🇧 Sky Sports", Sky Sports Mix FHD 50fps (ks)
@@ -4182,63 +4173,62 @@ http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9401
 # # # ---------------------------------------- 📺 China Channels ----------------------------------------
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="🇨🇳 China Channels" , CCTV 1 綜合「Relay」
-https://v.iill.top/api/CCTV1/index.m3u8
+https://cdn-2.ttvb.eu.org/api/CCTV1/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.iill.top/logo/CCTV2.png" group-title="🇨🇳 China Channels" , CCTV 2 財經「Relay」
-https://v.iill.top/api/CCTV2/index.m3u8
+https://cdn-2.ttvb.eu.org/api/CCTV2/index.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.iill.top/logo/CCTV3.png" group-title="🇨🇳 China Channels" , CCTV 3 綜藝「Relay」
-https://v.iill.top/api/CCTV3/index.m3u8
+https://cdn-2.ttvb.eu.org/api/CCTV3/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.iill.top/logo/CCTV4.png" group-title="🇨🇳 China Channels" , CCTV 4 中文國際「Relay」
-https://v.iill.top/api/CCTV4/index.m3u8
+https://cdn-2.ttvb.eu.org/api/CCTV4/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.iill.top/logo/CCTV5.png" group-title="🇨🇳 China Channels" , CCTV 5 體育「Relay」
-https://v.iill.top/api/CCTV5/index.m3u8
+https://cdn-2.ttvb.eu.org/api/CCTV5/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.iill.top/logo/CCTV5.png" group-title="🇨🇳 China Channels" , CCTV 5
+http://74.91.26.218:82/live/cctv5hd.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" group-title="🇨🇳 China Channels" , CCTV 5+ 體育賽事「Relay」
-https://v.iill.top/api/CCTV5+/index.m3u8
+https://cdn-2.ttvb.eu.org/api/CCTV5+/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" group-title="🇨🇳 China Channels" , CCTV 5+
+http://74.91.26.218:82/live/cctv5p.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" group-title="🇨🇳 China Channels" , CCTV 6 電影「Relay」
-https://v.iill.top/api/CCTV6/index.m3u8
+https://cdn-2.ttvb.eu.org/api/CCTV6/index.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.iill.top/logo/CCTV7.png" group-title="🇨🇳 China Channels" , CCTV 7 國防軍事「Relay」
-https://v.iill.top/api/CCTV7/index.m3u8
+https://cdn-2.ttvb.eu.org/api/CCTV7/index.m3u8
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.iill.top/logo/CCTV8.png" group-title="🇨🇳 China Channels" , CCTV 8 電視劇「Relay」
-https://v.iill.top/api/CCTV8/index.m3u8
+https://cdn-2.ttvb.eu.org/api/CCTV8/index.m3u8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.iill.top/logo/CCTV9.png" group-title="🇨🇳 China Channels" , CCTV 9 記錄「Relay」
-https://v.iill.top/api/CCTV9/index.m3u8
+https://cdn-2.ttvb.eu.org/api/CCTV9/index.m3u8
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.iill.top/logo/CCTV10.png" group-title="🇨🇳 China Channels" , CCTV 10 科教「Relay」
-https://v.iill.top/api/CCTV10/index.m3u8
+https://cdn-2.ttvb.eu.org/api/CCTV10/index.m3u8
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.iill.top/logo/CCTV11.png" group-title="🇨🇳 China Channels" , CCTV 11 戲曲「Relay」
-https://v.iill.top/api/CCTV11/index.m3u8
+https://cdn-2.ttvb.eu.org/api/CCTV11/index.m3u8
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.iill.top/logo/CCTV12.png" group-title="🇨🇳 China Channels" , CCTV 12 社會與法「Relay」
-https://v.iill.top/api/CCTV12/index.m3u8
+https://cdn-2.ttvb.eu.org/api/CCTV12/index.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.iill.top/logo/CCTV13.png" group-title="🇨🇳 China Channels" , CCTV 13 新聞「Relay」
-https://v.iill.top/api/CCTV13/index.m3u8
+https://cdn-2.ttvb.eu.org/api/CCTV13/index.m3u8
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.iill.top/logo/CCTV14.png" group-title="🇨🇳 China Channels" , CCTV 14 少兒「Relay」
-https://v.iill.top/api/CCTV14/index.m3u8
+https://cdn-2.ttvb.eu.org/api/CCTV14/index.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.iill.top/logo/CCTV15.png" group-title="🇨🇳 China Channels" , CCTV 15 音樂「Relay」
-https://v.iill.top/api/CCTV15/index.m3u8
-#EXTINF:-1 tvg-id="CGTN"  tvg-name="CGTN" tvg-logo="https://epg.iill.top/logo/CGTN.png" group-title="🇨🇳 China Channels" , CGTN「回看」
-https://tv.iill.top/CGTN/cgtn
-#EXTINF:-1 tvg-id="CGTN外语纪录" tvg-name="CGTN外语纪录" tvg-logo="https://epg.iill.top/logo/CGTN纪录.png" group-title="🇨🇳 China Channels" , CGTN Documentary「回看」
-https://tv.iill.top/CGTN/cgtn_doc
-#EXTINF:-1 tvg-id="CGTN俄语" tvg-id="CGTN俄语" tvg-logo="https://epg.iill.top/logo/CGTN俄语.png" group-title="🇨🇳 China Channels" , CGTN Русский「回看」
-https://tv.iill.top/CGTN/cgtn_russian
-#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://epg.iill.top/logo/CGTN法语.png" group-title="🇨🇳 China Channels" , CGTN Français「回看」
-https://tv.iill.top/CGTN/cgtn_francais
-#EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://epg.iill.top/logo/CGTN西班牙语.png" group-title="🇨🇳 China Channels" , CGTN Español「回看」
-https://tv.iill.top/CGTN/cgtn_espanol
-#EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://epg.iill.top/logo/CGTN阿拉伯语.png" group-title="🇨🇳 China Channels" , CGTN العربية「回看」
-https://tv.iill.top/CGTN/cgtn_arabic
+https://cdn-2.ttvb.eu.org/api/CCTV15/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="🇨🇳 China Channels" , CCTV 16
+http://74.91.26.218:82/live/cctv16hd.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTVFootball.png" group-title="🇨🇳 China Channels" , CCTV Football [?]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.iill.top/logo/北京卫视.png" group-title="🇨🇳 China Channels" , 北京衛視「Relay」
-https://v.iill.top/api/bjws/index.m3u8
+https://cdn-2.ttvb.eu.org/api/bjws/index.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.iill.top/logo/东方卫视.png" group-title="🇨🇳 China Channels" , 東方衛視「Relay」
-https://v.iill.top/api/dfws/index.m3u8
+https://cdn-2.ttvb.eu.org/api/dfws/index.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="🇨🇳 China Channels" , 廣東衛視「Relay」
-https://v.iill.top/api/gdws/index.m3u8
+https://cdn-2.ttvb.eu.org/api/gdws/index.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.iill.top/logo/浙江卫视.png" group-title="🇨🇳 China Channels" , 浙江衛視「Relay」
-https://v.iill.top/api/zjws/index.m3u8
+https://cdn-2.ttvb.eu.org/api/zjws/index.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.iill.top/logo/江苏卫视.png" group-title="🇨🇳 China Channels" , 江蘇衛視「Relay」
-https://v.iill.top/api/jsws/index.m3u8
+https://cdn-2.ttvb.eu.org/api/jsws/index.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.iill.top/logo/湖南卫视.png" group-title="🇨🇳 China Channels" , 湖南衛視「Relay」
-https://v.iill.top/api/hnws/index.m3u8
+https://cdn-2.ttvb.eu.org/api/hnws/index.m3u8
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.iill.top/logo/四川卫视.png" group-title="🇨🇳 China Channels" , 四川衛視「Relay」
-https://v.iill.top/api/scws/index.m3u8
+https://cdn-2.ttvb.eu.org/api/scws/index.m3u8
 
 #EXTINF:0 group-title="🇨🇳 China Channels"
 
