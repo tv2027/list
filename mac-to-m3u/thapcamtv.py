@@ -29,14 +29,14 @@ def crawl_thapcam():
 
         # Tìm các khối trận đấu (Lưu ý: Tên class có thể thay đổi theo giao diện web)
         # Thông thường sẽ nằm trong các thẻ div có class liên quan đến 'match-item' hoặc 'match-card'
-        categories = soup.select('.nav-item') # Đây là CSS Selector ví dụ
+        blvThapcam = soup.select('.item-blv') # Đây là CSS Selector ví dụ
 
-        print(f"--- ĐANG CÓ {len(categories)} Categories ---")
+        print(f"--- ĐANG CÓ {len(blvThapcam)} BLV Thapcam ---")
         
-        for category in categories:
+        for blv in blvThapcam:
             try:
                 # Trích xuất thông tin (Ví dụ: Thời gian, Đội 1, Đội 2)
-                item = category.select_one('.nav-item').text.strip()
+                item = category.select_one('img').text.strip()
                 #team_home = category.select_one('.team-home').text.strip()
                 #team_away = category.select_one('.team-away').text.strip()
                 #league = category.select_one('.league-name').text.strip()
