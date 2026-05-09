@@ -24,15 +24,14 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install requests tqdm aiohttp
+        pip install selenium webdriver-manager beautifulsoup4
     - name: Test with pytest
       run: |
         cd mac-to-m3u
         python hello.py
-        
-        # python maclist.py    http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:C4:01:80
-        # python maclist.py    http://m.redtvpakket.nl:80  00:1A:79:D4:92:74
-        echo " test file " >> test.txt
+        python thapcamtv.py
         ls
+        
         
     - name: Upload to Dropbox
       uses: Lewuathe/dropbox-github-action@v1.0.3
