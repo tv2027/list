@@ -29,19 +29,19 @@ def crawl_thapcam():
 
         # Tìm các khối trận đấu (Lưu ý: Tên class có thể thay đổi theo giao diện web)
         # Thông thường sẽ nằm trong các thẻ div có class liên quan đến 'match-item' hoặc 'match-card'
-        matches = soup.select('.match-item') # Đây là CSS Selector ví dụ
+        categories = soup.select('.nav-item') # Đây là CSS Selector ví dụ
 
-        print(f"--- ĐANG CÓ {len(matches)} TRẬN ĐẤU ---")
+        print(f"--- ĐANG CÓ {len(categories)} Categories ---")
         
-        for match in matches:
+        for category in categories:
             try:
                 # Trích xuất thông tin (Ví dụ: Thời gian, Đội 1, Đội 2)
-                time_start = match.select_one('.time').text.strip()
-                team_home = match.select_one('.team-home').text.strip()
-                team_away = match.select_one('.team-away').text.strip()
-                league = match.select_one('.league-name').text.strip()
+                item = category.select_one('.nav-item').text.strip()
+                #team_home = category.select_one('.team-home').text.strip()
+                #team_away = category.select_one('.team-away').text.strip()
+                #league = category.select_one('.league-name').text.strip()
 
-                print(f"[{time_start}] {league}: {team_home} vs {team_away}")
+                print(f"item: {item}")
             except Exception:
                 continue
 
