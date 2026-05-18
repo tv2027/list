@@ -2331,6 +2331,7 @@ http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1133168.m3u8
 #EXTINF:-1 tvg-id="V.Sport.Ultra.HD.fi" tvg-logo="https://i.imgur.com/WpKSGVh.png" group-title="UHD | 4K", 🇸🇪 V Sport UHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=483974&extension=ts&play_token=zqSBZFScHQ
 
+
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" group-title="UHD | 4K" tvg-logo="https://i.imgur.com/v0zJNNj.png", 🇳🇱 Ziggo Sport UHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1544251&extension=ts&play_token=eXmUUz3vmV
 
@@ -3132,46 +3133,87 @@ http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/10079/index.m3u8
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.imgur.com/v0zJNNj.png", Ziggo Sport UHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1544251&extension=ts&play_token=eXmUUz3vmV
 
+#EXTINF:-1 tvg-id="Ziggo.Sport.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.imgur.com/v0zJNNj.png", Ziggo Sport 1 FHD 50fps (rds)
+https://cdn.tv-rds.workers.dev/ZiggoSport.m3u8
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.imgur.com/v0zJNNj.png", Ziggo Sport 1 FHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537597&extension=ts
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.imgur.com/v0zJNNj.png", Ziggo Sport 1 FHD 25fps (li)
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:01:8D:F4&stream=894968&extension=ts&play_token=pJoDLWFppd
+#EXTINF:-1 tvg-id="Ziggo.Sport.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.imgur.com/v0zJNNj.png", Ziggo Sport 1 FHD 25fps [?]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440~ExtInfo5Ro3VppWiUusj2ippqUPkQ==4a2d2c8ce133f43026d0e31b822b8474:20240601012829:UTC,
 
+#EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.ibb.co/hxTy5fJw/Ziggo-Sport2.png", Ziggo Sport 2 FHD 50fps (rds)
+https://cdn.tv-rds.workers.dev/ZiggoSport2.m3u8
 #EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.ibb.co/hxTy5fJw/Ziggo-Sport2.png", Ziggo Sport 2 FHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537596&extension=ts
 #EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.ibb.co/hxTy5fJw/Ziggo-Sport2.png", Ziggo Sport 2 FHD 25fps (li)
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:01:8D:F4&stream=894969&extension=ts&play_token=AGCGQpS8xs
+#EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.ibb.co/hxTy5fJw/Ziggo-Sport2.png", Ziggo Sport 2 FHD 25fps [?]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,
 
+#EXTINF:-1 tvg-id="Ziggo.Sport.3.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.ibb.co/JF0cRyBQ/Ziggo-Sport3.png", Ziggo Sport 3 FHD 50fps (rds)
+https://cdn.tv-rds.workers.dev/ZiggoSport3.m3u8
 #EXTINF:-1 tvg-id="Ziggo.Sport.3.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.ibb.co/JF0cRyBQ/Ziggo-Sport3.png", Ziggo Sport 3 FHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537595&extension=ts
 #EXTINF:-1 tvg-id="Ziggo.Sport.3.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.ibb.co/JF0cRyBQ/Ziggo-Sport3.png", Ziggo Sport 3 FHD 25fps (li)
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:01:8D:F4&stream=894970&extension=ts&play_token=HzgEVrmax4
+#EXTINF:-1 tvg-id="Ziggo.Sport.3.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.ibb.co/JF0cRyBQ/Ziggo-Sport3.png", Ziggo Sport 3 FHD 25fps [?]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
+https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,
 
+#EXTINF:-1 tvg-id="ZiggoSport.4.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.imgur.com/E1j4w6I.png", Ziggo Sport 4 FHD 50fps (rds)
+https://cdn.tv-rds.workers.dev/ZiggoSport4.m3u8
 #EXTINF:-1 tvg-id="ZiggoSport.4.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.imgur.com/E1j4w6I.png", Ziggo Sport 4 FHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537594&extension=ts
 #EXTINF:-1 tvg-id="ZiggoSport.4.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.imgur.com/E1j4w6I.png", Ziggo Sport 4 FHD 25fps (li)
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:01:8D:F4&stream=894971&extension=ts&play_token=4LEAku5cCT
 
+#EXTINF:-1 tvg-id="ZiggoSport.5.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.imgur.com/ZsdabLY.png", Ziggo Sport 5 FHD 50fps (rds)
+https://cdn.tv-rds.workers.dev/ZiggoSport5.m3u8
 #EXTINF:-1 tvg-id="ZiggoSport.5.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.imgur.com/ZsdabLY.png", Ziggo Sport 5 FHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537593&extension=ts
 #EXTINF:-1 tvg-id="ZiggoSport.5.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.imgur.com/ZsdabLY.png", Ziggo Sport 5 FHD 25fps (li)
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:01:8D:F4&stream=894972&extension=ts&play_token=QqZdLQGvp6
+#EXTINF:-1 tvg-id="ZiggoSport.5.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.imgur.com/ZsdabLY.png", Ziggo Sport 5 FHD 25fps [?]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02
+https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,
 
+#EXTINF:-1 tvg-id="ZiggoSport.6.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.imgur.com/v0zJNNj.png", Ziggo Sport 6 FHD 50fps (rds)
+https://cdn.tv-rds.workers.dev/ZiggoSport6.m3u8
 #EXTINF:-1 tvg-id="ZiggoSport.6.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.imgur.com/v0zJNNj.png", Ziggo Sport 6 FHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1537592&extension=ts
 #EXTINF:-1 tvg-id="ZiggoSport.6.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.imgur.com/v0zJNNj.png", Ziggo Sport 6 FHD 25fps (li)
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:01:8D:F4&stream=894973&extension=ts&play_token=xbPrECcaae
+#EXTINF:-1 tvg-id="ZiggoSport.6.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.imgur.com/v0zJNNj.png", Ziggo Sport 6 FHD 25fps [?]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,
+
+#EXTINF:-1 tvg-id="Ziggo.Sport.Live.nl" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/ziggo-sport.png" group-title="🇳🇱 Ziggo Sport", Ziggo Sport LIVE (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2560/index.m3u8
+#EXTINF:-1 tvg-id="Ziggo.Sport.Live.nl" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/ziggo-sport.png" group-title="🇳🇱 Ziggo Sport", Ziggo Sport LIVE (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/2560/index.m3u8
+#EXTINF:-1 tvg-id="Ziggo.Sport.Live.nl" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/ziggo-sport.png" group-title="🇳🇱 Ziggo Sport", Ziggo Sport LIVE (bk3)
+http://88b9da48.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/2560/index.m3u8
 
 #EXTINF:0 group-title="🇳🇱 Ziggo Sport"
 
 # # # ---------------------------------------- 📺 Eleven Sports  ----------------------------------------
 
+#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/PUaJPaE.png" group-title="🇵🇱 Eleven Sports", 🇵🇱 ElevenSport 1 UHD 50fps (ip)
+http://91.146.94.234:10001/play/a05c
 #EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/PUaJPaE.png" group-title="🇵🇱 Eleven Sports", 🇵🇱 ElevenSport 1 UHD 50fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/20068/index.m3u8
 #EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/PUaJPaE.png" group-title="🇵🇱 Eleven Sports", 🇵🇱 ElevenSport 1 UHD 50fps (bk2)
 http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/20068/index.m3u8
-#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/PUaJPaE.png" group-title="🇵🇱 Eleven Sports", 🇵🇱 ElevenSport 1 UHD 50fps (ip)
-http://91.146.94.234:10001/play/a05c
+#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/PUaJPaE.png" group-title="🇵🇱 Eleven Sports", 🇵🇱 ElevenSport 1 UHD 50fps (bk3)
+http://185.135.84.106/iptv/GKTT8YW6E9SFM2/20068/index.m3u8
 
 #EXTINF:-1 tvg-id="ElevenSports1.pl" group-title="🇵🇱 Eleven Sports" tvg-logo="https://i.imgur.com/AOu4FXH.png" , Eleven Sports 1 FHD 50fps (ip)
 http://91.146.94.234:10001/play/ase1
@@ -3197,6 +3239,115 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1512426&exten
 
 #EXTINF:0 group-title="🇵🇱 Eleven Sports"
 
+
+# # # ---------------------------------------- 📺 🇵🇱 Polsat Sports  ----------------------------------------
+
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.1.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/60hby51700906886.png", Polsat Sport Premium 1 (ip)
+http://91.146.94.234:10001/play/a05a
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.1.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/60hby51700906886.png", Polsat Sport Premium 1 (bk1)
+https://cors-everywhere-wc8b4.ondigitalocean.app/http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7304/index.m3u8
+#EXTINF:-1 tvg-id="4550" group-title=🇵🇱 Polsat Sports tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/60hby51700906886.png", Polsat Sport Premium 1 (bk2)
+https://cors-everywhere-wc8b4.ondigitalocean.app/http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7304/index.m3u8
+#EXTINF:-1 tvg-id="4550" group-title=🇵🇱 Polsat Sports tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/60hby51700906886.png", Polsat Sport Premium 1 (bk3)
+https://cors-everywhere-wc8b4.ondigitalocean.app/http://185.135.84.106/iptv/GKTT8YW6E9SFM2/7304/index.m3u8
+
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.2.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cipaa91730504620.png", Polsat Sport Premium 2 (ip)
+http://91.146.94.234:10001/play/a05b
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.2.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cipaa91730504620.png", Polsat Sport Premium 2 (bk1)
+https://cors-everywhere-wc8b4.ondigitalocean.app/http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7305/index.m3u8
+#EXTINF:-1 tvg-id="4551" group-title=🇵🇱 Polsat Sports tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cipaa91730504620.png", Polsat Sport Premium 2 (bk2)
+https://cors-everywhere-wc8b4.ondigitalocean.app/http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7305/index.m3u8
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.2.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cipaa91730504620.png", Polsat Sport Premium 2 (bk3)
+https://cors-everywhere-wc8b4.ondigitalocean.app/http://185.135.84.106/iptv/GKTT8YW6E9SFM2/7305/index.m3u8
+
+#EXTINF:-1 tvg-id="Polsat.Sport.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/padw0k1655540397.png", Polsat Sport 1 (ip)
+http://91.146.94.234:10001/play/a06y
+#EXTINF:-1 tvg-id="Polsat.Sport.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/padw0k1655540397.png", Polsat Sport 1 (bk1)
+https://cors-everywhere-wc8b4.ondigitalocean.app/http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7296/index.m3u8
+#EXTINF:-1 tvg-id="4548" group-title=🇵🇱 Polsat Sports tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/padw0k1655540397.png", Polsat Sport 1 (bk2)
+https://cors-everywhere-wc8b4.ondigitalocean.app/http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7296/index.m3u8
+#EXTINF:-1 tvg-id="Polsat.Sport.HD.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/padw0k1655540397.png", Polsat Sport 1 (bk3)
+https://cors-everywhere-wc8b4.ondigitalocean.app/http://185.135.84.106/iptv/GKTT8YW6E9SFM2/7296/index.m3u8
+
+#EXTINF:-1 tvg-id="4556" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/x2hsgr1771005739.png", Polsat Sport 2 (ip)
+http://91.146.94.234:10001/play/a06z
+#EXTINF:-1 tvg-id="4556" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/x2hsgr1771005739.png", Polsat Sport 2 (bk1)
+https://cors-everywhere-wc8b4.ondigitalocean.app/http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7310/index.m3u8
+#EXTINF:-1 tvg-id="4556" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/x2hsgr1771005739.png", Polsat Sport 2 (bk2)
+https://cors-everywhere-wc8b4.ondigitalocean.app/http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7310/index.m3u8
+#EXTINF:-1 tvg-id="4556" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/x2hsgr1771005739.png", Polsat Sport 2 (bk3)
+https://cors-everywhere-wc8b4.ondigitalocean.app/http://185.135.84.106/iptv/GKTT8YW6E9SFM2/7310/index.m3u8
+
+#EXTINF:-1 tvg-id="4549" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/d7rdcx1771005909.png", Polsat Sport 3 (ip)
+http://91.146.94.234:10001/play/a071
+#EXTINF:-1 tvg-id="4549" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/d7rdcx1771005909.png", Polsat Sport 3 (bk1)
+https://cors-everywhere-wc8b4.ondigitalocean.app/http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7303/index.m3u8
+#EXTINF:-1 tvg-id="4549" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/d7rdcx1771005909.png", Polsat Sport 3 (bk2)
+https://cors-everywhere-wc8b4.ondigitalocean.app/http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7303/index.m3u8
+#EXTINF:-1 tvg-id="4549" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/d7rdcx1771005909.png", Polsat Sport 3 (bk3)
+https://cors-everywhere-wc8b4.ondigitalocean.app/http://185.135.84.106/iptv/GKTT8YW6E9SFM2/7303/index.m3u8
+
+#EXTINF:-1 tvg-id="Polsat.Sport.Extra.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/b5i0891771006965.png", Polsat Sport Extra 1 (ip)
+http://91.146.94.234:10001/play/a07r
+#EXTINF:-1 tvg-id="Polsat.Sport.Extra.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/b5i0891771006965.png", Polsat Sport Extra 1 (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7308/index.m3u8
+#EXTINF:-1 tvg-id="Polsat.Sport.Extra.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/b5i0891771006965.png", Polsat Sport Extra 1 (bk2)
+https://cors-everywhere-wc8b4.ondigitalocean.app/http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7308/index.m3u8
+#EXTINF:-1 tvg-id="Polsat.Sport.Extra.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/b5i0891771006965.png", Polsat Sport Extra 1 (bk3)
+https://cors-everywhere-wc8b4.ondigitalocean.app/http://185.135.84.106/iptv/GKTT8YW6E9SFM2/7308/index.m3u8
+
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.4.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/icov3p1771007068.png", Polsat Sport Extra 2 (ip)
+http://91.146.94.234:10001/play/a07s
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.4.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/icov3p1771007068.png", Polsat Sport Extra 2 (bk1)
+https://cors-everywhere-wc8b4.ondigitalocean.app/http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7309/index.m3u8
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.4.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/icov3p1771007068.png", Polsat Sport Extra 2 (bk2)
+https://cors-everywhere-wc8b4.ondigitalocean.app/http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7309/index.m3u8
+#EXTINF:-1 tvg-id="88035" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/icov3p1771007068.png", Polsat Sport Extra 2 (bk3)
+https://cors-everywhere-wc8b4.ondigitalocean.app/http://185.135.84.106/iptv/GKTT8YW6E9SFM2/7309/index.m3u8
+
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.5.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/b7twj21771007231.png", Polsat Sport Extra 3 (ip)
+http://91.146.94.234:10001/play/a07a
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.5.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/b7twj21771007231.png", Polsat Sport Extra 3 (bk1)
+https://cors-everywhere-wc8b4.ondigitalocean.app/http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7306/index.m3u8
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.5.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/b7twj21771007231.png", Polsat Sport Extra 3 (bk2)
+https://cors-everywhere-wc8b4.ondigitalocean.app/http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7306/index.m3u8
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.5.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/b7twj21771007231.png", Polsat Sport Extra 3 (bk3)
+https://cors-everywhere-wc8b4.ondigitalocean.app/http://185.135.84.106/iptv/GKTT8YW6E9SFM2/7306/index.m3u8
+
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.6.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ibcrle1771006210.png", Polsat Sport Extra 4 (ip)
+http://91.146.94.234:10001/play/a07b
+#EXTINF:-1 tvg-id="4553" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ibcrle1771006210.png", Polsat Sport Extra 4 (bk1)
+https://cors-everywhere-wc8b4.ondigitalocean.app/http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7307/index.m3u8
+#EXTINF:-1 tvg-id="4553" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ibcrle1771006210.png", Polsat Sport Extra 4 (bk2)
+https://cors-everywhere-wc8b4.ondigitalocean.app/http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7307/index.m3u8
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.6.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ibcrle1771006210.png", Polsat Sport Extra 4 (bk3)
+https://cors-everywhere-wc8b4.ondigitalocean.app/http://185.135.84.106/iptv/GKTT8YW6E9SFM2/7307/index.m3u8
+
+#EXTINF:-1 tvg-id="Polsat.Sport.Fight.HD.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-sport-fight-pl.png", Polsat Sport Fight (ip)
+http://91.146.94.234:10001/play/a070
+
+
+#EXTINF:-1 tvg-id="Polsat.Sport.HD.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://i.imgur.com/uPfCSKl.png", 🇵🇱 Polsat Sport 1 FHD 25fps (tb)
+#http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=11519&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Sport.2.HD.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://i.imgur.com/D8R9d7a.png", 🇵🇱 Polsat Sport 2 FHD 25fps (tb)
+#http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=2217680&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Sport.3.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://i.imgur.com/ZXx89XT.png", 🇵🇱 Polsat Sport 3 FHD 25fps (tb)
+#http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=2217681&extension=ts
+
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.1.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://i.imgur.com/qLgZSeF.png", 🇵🇱 Polsat Sport Premium 1 FHD 25fps (tb)
+#http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=1245503&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.2.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://i.imgur.com/aKkjctk.png", 🇵🇱 Polsat Sport Premium 2 FHD 25fps (tb)
+#http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=1245504&extension=ts
+
+#EXTINF:-1 tvg-id="Polsat.Sport.Extra.HD.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://i.imgur.com/k1X1KeT.png", 🇵🇱 Polsat Sport Extra 1 FHD 25fps (tb)
+#http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=29305&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Sport.Extra.2.HD.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://i.imgur.com/EaRfbxI.png", 🇵🇱 Polsat Sport Extra 2 FHD 25fps (tb)
+#http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=29306&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Sport.Extra.4.HD.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://i.imgur.com/FPO5XM8.png", 🇵🇱 Polsat Sport Extra 4 FHD 25fps (tb)
+#http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=29304&extension=ts
+
+#EXTINF:0 group-title="🇵🇱 Polsat Sports"
+
 # # # ---------------------------------------- 📺 🇵🇹 DAZN  ----------------------------------------
 
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/4Rq6kRB.png", DAZN 1 FHD 50fps (ks)
@@ -3209,6 +3360,8 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/925
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31954/index.m3u8
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/4Rq6kRB.png", DAZN 1 HD 50fps (bk2)
 http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/31954/index.m3u8
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/4Rq6kRB.png", DAZN 1 HD 50fps (bk3)
+http://88b9da48.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/31954/index.m3u8
 
 #EXTINF:-1 tvg-id="DAZN.2.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/mrUt8LC.png", DAZN 2 FHD 50fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/924
@@ -3218,10 +3371,16 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/923
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2532/index.m3u8
 #EXTINF:-1 tvg-id="DAZN.2.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/mrUt8LC.png", DAZN 2 HD 50fps (bk2)
 http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/2532/index.m3u8
+#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/mrUt8LC.png", DAZN 2 HD 50fps (bk3)
+http://88b9da48.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/2532/index.m3u8
+
 #EXTINF:-1 tvg-id="DAZN.2.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/mrUt8LC.png", DAZN 2 HD 50fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31955/index.m3u8
 #EXTINF:-1 tvg-id="DAZN.2.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/mrUt8LC.png", DAZN 2 HD 50fps (bk2)
 http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/31955/index.m3u8
+#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/mrUt8LC.png", DAZN 2 HD 50fps (bk3)
+http://88b9da48.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/31955/index.m3u8
+
 
 #EXTINF:-1 tvg-id="DAZN.3.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/Nuy9JzZ.png", DAZN 3 FHD 50fps (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/48445
@@ -3229,10 +3388,16 @@ http://kstv.us:8080/Freshcobar23/83261331891/48445
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7062/index.m3u8
 #EXTINF:-1 tvg-id="DAZN.3.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/Nuy9JzZ.png", DAZN 3 FHD 50fps (bk2)
 http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7062/index.m3u8
+#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/Nuy9JzZ.png", DAZN 3 FHD 50fps (bk3)
+http://88b9da48.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/7062/index.m3u8
+
 #EXTINF:-1 tvg-id="DAZN.3.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/Nuy9JzZ.png", DAZN 3 HD 50fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31956/index.m3u8
 #EXTINF:-1 tvg-id="DAZN.3.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/Nuy9JzZ.png", DAZN 3 HD 50fps (bk2)
 http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/31956/index.m3u8
+#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/Nuy9JzZ.png", DAZN 3 HD 50fps (bk3)
+http://88b9da48.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/31956/index.m3u8
+
 
 #EXTINF:-1 tvg-id="DAZN.4.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/azR9uiE.png", DAZN 4 FHD 60fps (tv)
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/167749
@@ -3244,10 +3409,15 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/920
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2534/index.m3u8
 #EXTINF:-1 tvg-id="DAZN.4.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/azR9uiE.png", DAZN 4 FHD 50fps (bk2)
 http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/2534/index.m3u8
+#EXTINF:-1 tvg-id="DAZN.4.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/azR9uiE.png", DAZN 4 FHD 50fps (bk3)
+http://88b9da48.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/2534/index.m3u8
+
 #EXTINF:-1 tvg-id="DAZN.4.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/azR9uiE.png", DAZN 4 HD 50fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31957/index.m3u8
 #EXTINF:-1 tvg-id="DAZN.4.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/azR9uiE.png", DAZN 4 HD 50fps (bk2)
 http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/31957/index.m3u8
+#EXTINF:-1 tvg-id="DAZN.4.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/azR9uiE.png", DAZN 4 HD 50fps (bk3)
+http://88b9da48.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/31957/index.m3u8
 
 #EXTINF:0 group-title="🇵🇹 DAZN"
 
@@ -3409,7 +3579,7 @@ http://cwx6kmfd.otttv.pw/iptv/SZZ2LTTQ7Y9KPGCDB2G4ENGH/6098/index.m3u8
 #EXTINF:-1 tvg-id="3129" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/L7qETwp.png" , 🇵🇱 CANAL+ Sport FHD (bk2)
 http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/6098/index.m3u8
 #EXTINF:-1 tvg-id="Canal+.Sport.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/L7qETwp.png" , 🇵🇱 CANAL+ Sport FHD (bk3)
-http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/6098/index.m3u8
+http://185.135.84.106/iptv/GKTT8YW6E9SFM2/6098/index.m3u8
 #EXTINF:-1 tvg-id="Canal+.Sport.fr" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/EOXnU15.png" , 🇦🇷 Canal+ Sport FHD 25fps (bo)
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/232526.m3u8
 
@@ -3422,7 +3592,7 @@ http://cwx6kmfd.otttv.pw/iptv/SZZ2LTTQ7Y9KPGCDB2G4ENGH/6099/index.m3u8
 #EXTINF:-1 tvg-id="3058" group-title="🇫🇷 Canal+" tvg-logo="http://epg.one/img/3058.png" , 🇵🇱 CANAL+ Sport 2 FHD (bk2)
 http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/6099/index.m3u8
 #EXTINF:-1 tvg-id="Canal+.Sport.2.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/ZaXj2Bf.png" , 🇵🇱 CANAL+ Sport 2 FHD (bk3)
-http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/6099/index.m3u8
+http://185.135.84.106/iptv/GKTT8YW6E9SFM2/6099/index.m3u8
 #EXTINF:-1 tvg-id="Canal+.Sport.2.cz" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/Aq2hnUj.png" , 🇨🇿 Canal+ Sport 2 FHD 25fps (wi)
 http://lb.wisp.cat/lb0/Canal_plus_Sport_2_HD_CZ/video.m3u8?token=AUSnMTD
 #EXTINF:-1 tvg-id="CANAL+.Sport.2.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/Aq2hnUj.png" , 🇦🇷 Canal+ Sport 2 HD 50fps (bo)
@@ -3454,7 +3624,7 @@ http://cwx6kmfd.otttv.pw/iptv/SZZ2LTTQ7Y9KPGCDB2G4ENGH/2519/index.m3u8
 #EXTINF:-1 tvg-id="2903" group-title="🇫🇷 Canal+" tvg-logo="http://epg.one/img/2903.png" , 🇵🇱 Canal+ Sport 5 FHD (bk2)
 http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/2519/index.m3u8
 #EXTINF:-1 tvg-id="CANAL+.Sport.5.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/FWGWZJx.png" , 🇵🇱 Canal+ Sport 5 FHD (bk3)
-http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/2519/index.m3u8
+http://185.135.84.106/iptv/GKTT8YW6E9SFM2/2519/index.m3u8
 
 #EXTINF:-1 tvg-id="CANAL+.Extra.1.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/zvjM722.png" , 🇵🇱 Canal+ Extra 1 FHD 50fps (tb)
 #http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=986006&extension=ts
@@ -4086,28 +4256,6 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/88060
 
 #EXTINF:0 group-title="🇨🇦 Sportsnet"
 
-# # # ---------------------------------------- 📺 🇵🇱 Polsat Sports  ----------------------------------------
-#EXTINF:-1 tvg-id="Polsat.Sport.HD.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://i.imgur.com/uPfCSKl.png", 🇵🇱 Polsat Sport 1 FHD 25fps (tb)
-#http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=11519&extension=ts
-#EXTINF:-1 tvg-id="Polsat.Sport.2.HD.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://i.imgur.com/D8R9d7a.png", 🇵🇱 Polsat Sport 2 FHD 25fps (tb)
-#http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=2217680&extension=ts
-#EXTINF:-1 tvg-id="Polsat.Sport.3.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://i.imgur.com/ZXx89XT.png", 🇵🇱 Polsat Sport 3 FHD 25fps (tb)
-#http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=2217681&extension=ts
-
-#EXTINF:-1 tvg-id="Polsat.Sport.Premium.1.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://i.imgur.com/qLgZSeF.png", 🇵🇱 Polsat Sport Premium 1 FHD 25fps (tb)
-#http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=1245503&extension=ts
-#EXTINF:-1 tvg-id="Polsat.Sport.Premium.2.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://i.imgur.com/aKkjctk.png", 🇵🇱 Polsat Sport Premium 2 FHD 25fps (tb)
-#http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=1245504&extension=ts
-
-#EXTINF:-1 tvg-id="Polsat.Sport.Extra.HD.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://i.imgur.com/k1X1KeT.png", 🇵🇱 Polsat Sport Extra 1 FHD 25fps (tb)
-#http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=29305&extension=ts
-#EXTINF:-1 tvg-id="Polsat.Sport.Extra.2.HD.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://i.imgur.com/EaRfbxI.png", 🇵🇱 Polsat Sport Extra 2 FHD 25fps (tb)
-#http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=29306&extension=ts
-#EXTINF:-1 tvg-id="Polsat.Sport.Extra.4.HD.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://i.imgur.com/FPO5XM8.png", 🇵🇱 Polsat Sport Extra 4 FHD 25fps (tb)
-#http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=29304&extension=ts
-
-#EXTINF:0 group-title="🇵🇱 Polsat Sports"
-
 # # # ---------------------------------------- 📺 🇽🇰 Art Sports ----------------------------------------
 
 #EXTINF:-1 tvg-id="Sport.1.al" tvg-logo="https://i.imgur.com/yrl2rLZ.png" group-title="🇽🇰 Art Sports", Art Sport 1 FHD 25fps (ip)
@@ -4269,7 +4417,7 @@ http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31599/index.m3u8
 #EXTINF:-1 group-title="Arena Sports" tvg-id="9271" tvg-logo="http://epg.one/img/9271.png" , 🇷🇸 Arena Premium 1 (b2)
 http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/31599/index.m3u8
 #EXTINF:-1 group-title="Arena Sports" tvg-id="9271" tvg-logo="http://epg.one/img/9271.png" , 🇷🇸 Arena Premium 1 (b3)
-http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/31599/index.m3u8
+http://185.135.84.106/iptv/GKTT8YW6E9SFM2/31599/index.m3u8
 
 #EXTINF:-1 tvg-id="Arena.Premium.2.HD.(RS).rs" tvg-logo="https://i.imgur.com/3JVMedy.png" group-title="Arena Sports", 🇷🇸 Arena Premium 2 FHD 50fps (xd)
 http://xdgo.live:8080/rogeliopty/YhhqPpCAru/159099
@@ -4278,7 +4426,7 @@ http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31600/index.m3u8
 #EXTINF:-1 group-title="Arena Sports" tvg-id="9272" tvg-logo="http://epg.one/img/9272.png" , 🇷🇸 Arena Premium 2 (b2)
 http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/31600/index.m3u8
 #EXTINF:-1 group-title="Arena Sports" tvg-id="9272" tvg-logo="http://epg.one/img/9272.png" , 🇷🇸 Arena Premium 2 (b3)
-http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/31600/index.m3u8
+http://185.135.84.106/iptv/GKTT8YW6E9SFM2/31600/index.m3u8
 
 #EXTINF:-1 tvg-id="Arena.Premium.3.HD.(RS).rs" tvg-logo="https://i.imgur.com/WhT78pi.png" group-title="Arena Sports", 🇷🇸 Arena Premium 3 FHD 50fps (xd)
 http://xdgo.live:8080/rogeliopty/YhhqPpCAru/159100
@@ -4287,7 +4435,7 @@ http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31601/index.m3u8
 #EXTINF:-1 group-title="Arena Sports" tvg-id="9273" tvg-logo="http://epg.one/img/9273.png"  , 🇷🇸 Arena Premium 3 (b2)
 http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/31601/index.m3u8
 #EXTINF:-1 group-title="Arena Sports" tvg-id="9273" tvg-logo="http://epg.one/img/9273.png"  , 🇷🇸 Arena Premium 3 (b3)
-http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/31601/index.m3u8
+http://185.135.84.106/iptv/GKTT8YW6E9SFM2/31601/index.m3u8
 
 #EXTINF:-1 tvg-id="Arena.Sport.1.cz" tvg-logo="https://i.imgur.com/zgm3m3t.png" group-title="Arena Sports", 🇨🇿 Arena Sport 1 FHD 50fps (ip)
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
