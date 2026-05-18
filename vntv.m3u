@@ -2214,13 +2214,13 @@ https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.ama
 #EXTINF:-1 tvg-id="Now.Sports.4K.1.hk"  tvg-logo="https://i.imgur.com/D0GgEQR.png" group-title="UHD | 4K" , 🇭🇰 Now Sports 1 (EPL) UHD 50fps (tb)
 #http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=1750766&extension=ts
 #EXTINF:-1 tvg-id="Now.Sports.4K.1.hk"  tvg-logo="https://i.imgur.com/D0GgEQR.png" group-title="UHD | 4K" , 🇭🇰 Now Sports 1 (EPL) UHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/50172.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/50172.ts
 
 #EXTINF:-1 tvg-id="Now.Sports.4K.2.hk"  tvg-logo="https://i.imgur.com/NYGpUzO.png" group-title="UHD | 4K" , 🇭🇰 Now Sports 2 (EPL) UHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/61688.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/61688.ts
 
 #EXTINF:-1 tvg-id="Now.Sports.4K.3.hk" tvg-logo="https://i.imgur.com/2f4DNXz.png" group-title="UHD | 4K" , 🇭🇰 Now Sports 3 (EPL) UHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/61689.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/61689.ts
 
 #EXTINF:-1 tvg-id="Now.Sports.4K.hk"  tvg-logo="https://i.imgur.com/D0GgEQR.png" group-title="UHD | 4K" , 🇭🇰 Now Sports 4K UHD 50fps (sk)
 http://skytv4k.org:8080/LLXnCrjcKW/wcbmH1s5qB/112208)
@@ -2246,7 +2246,7 @@ https://cdn-1.ttvb.eu.org/api/Hub-Premier-2/index.m3u8
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg"  tvg-logo="https://i.imgur.com/SM7GQAM.png" group-title="UHD | 4K", 🇸🇬 Hub Premier 2 UHD 50fps (tb)
 #http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=1414669&extension=ts
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg"  tvg-logo="https://i.imgur.com/SM7GQAM.png" group-title="UHD | 4K", 🇸🇬 Hub Premier 2 UHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/59401.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/59401.ts
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg"  tvg-logo="https://i.imgur.com/SM7GQAM.png" group-title="UHD | 4K", 🇸🇬 Hub Premier 2 UHD 50fps (as56) ?
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=620787&extension=ts&play_token=GprUhB2ONo
 
@@ -2260,7 +2260,7 @@ http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1063875.m3u8
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="UHD | 4K", 🇬🇧 Sky Sports Main Event UHD 50fps (tb)
 #http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=1750753&extension=ts
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="UHD | 4K", 🇬🇧 Sky Sports Main Event UHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/59265.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/59265.ts
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.HD.ie" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="UHD | 4K", 🇬🇧 Sky Sports Main Event UHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527598&extension=ts&play_token=kLFaeuhKiD
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.HD.ie" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="UHD | 4K", 🇬🇧 Sky Sports Main Event UHD 50fps (as56)
@@ -2270,14 +2270,14 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1544239&exten
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1544240&extension=ts&play_token=6NC3MWit5e
 
 #EXTINF:-1 tvg-id="Sky.Sport.1.nz"  tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="UHD | 4K", 🇬🇧 Sky Sports Event 1 UHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/59262.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/59262.ts
 #EXTINF:-1 tvg-id="Sky.Sport.1.nz"  tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="UHD | 4K", 🇬🇧 Sky Sports Event 1 UHD 50fps (ea)
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1123002.m3u8
 #EXTINF:-1 tvg-id="Sky.Sport.1.nz"  tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="UHD | 4K", 🇬🇧 Sky Sports Event 1 UHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527597&extension=ts&play_token=OUAXc9CJVy
 
 #EXTINF:-1 tvg-id="Sky.Sport.2.nz"  tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="UHD | 4K", 🇬🇧 Sky Sports Event 2 UHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/59263.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/59263.ts
 #EXTINF:-1 tvg-id="Sky.Sport.2.nz"  tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="UHD | 4K", 🇬🇧 Sky Sports Event 2 UHD 50fps (ea)
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1123001.m3u8
 #EXTINF:-1 tvg-id="Sky.Sport.2.nz"  tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="UHD | 4K", 🇬🇧 Sky Sports Event 2 UHD 50fps (as56)
@@ -2287,23 +2287,23 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527596&exten
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1544238&extension=ts&play_token=GUocomXvpc
 
 #EXTINF:-1 tvg-id="SkySp.F1.uk"  tvg-logo="https://i.ibb.co/1tmrNyj9/Sky-Sport-F1-UHD.png" group-title="UHD | 4K", 🇬🇧 Sky Sports F1 UHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/61668.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/61668.ts
 #EXTINF:-1 tvg-id="SkySp.F1.uk"  tvg-logo="https://i.ibb.co/1tmrNyj9/Sky-Sport-F1-UHD.png" group-title="UHD | 4K", 🇬🇧 Sky Sports F1 UHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/59264.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/59264.ts
 #EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-logo="https://i.ibb.co/1tmrNyj9/Sky-Sport-F1-UHD.png" group-title="UHD | 4K", 🇬🇧 Sky Sports F1 UHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527595&extension=ts&play_token=rBLQxCXu3n
 
 #EXTINF:-1 tvg-id="TSN.4K.ca2" group-title="UHD | 4K" tvg-logo="https://i.imgur.com/3QnA16Y.png", CA: TSN UHD 60fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/61686.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/61686.ts
 
 #EXTINF:-1 tvg-id="Sportsnet.East.HD.ca2" tvg-logo="https://i.imgur.com/j8e8Hjo.png" group-title="UHD | 4K", CA: Sportsnet East UHD 60fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/61683.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/61683.ts
 
 #EXTINF:-1 tvg-id="Sportsnet.One.HD.ca2" tvg-logo="https://i.imgur.com/9N3QiZe.png" group-title="UHD | 4K", CA: Sportsnet One UHD 60fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/61684.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/61684.ts
 
 #EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk"  tvg-logo="https://i.imgur.com/p8MRVSd.png" group-title="UHD | 4K", 🇬🇧 TNT Sports Ultimate UHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/60102.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/60102.ts
 #EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk"  tvg-logo="https://i.imgur.com/p8MRVSd.png" group-title="UHD | 4K", 🇬🇧 TNT Sports Ultimate UHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1544246&extension=ts&play_token=bzapcuWx7O
 
@@ -2350,15 +2350,15 @@ http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/19431/index.m3u8
 
 # # # -------------------------------------  ⚽️ EPL  -------------------------------------
 #EXTINF:-1 tvg-id="Now.Sports.4K.1.hk" tvg-logo="https://i.postimg.cc/TP5pTkgg/611-e.png" group-title="⚽️ EPL" , 🇭🇰 Now Sports PL 1 UHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/50172.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/50172.ts
 #EXTINF:-1 tvg-id="Now.Sports.4K.1.hk" tvg-logo="https://i.postimg.cc/TP5pTkgg/611-e.png" group-title="⚽️ EPL" , 🇭🇰 Now Sports PL 1 UHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1556135&extension=ts&play_token=mvS2Yb0e68
 
 #EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-logo="https://i.imgur.com/NYGpUzO.png" group-title="⚽️ EPL" , 🇭🇰 Now Sports PL 2 UHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/61688.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/61688.ts
 
 #EXTINF:-1 tvg-id="Now.Sports.4K.3.hk" tvg-logo="https://i.imgur.com/2f4DNXz.png" group-title="⚽️ EPL" , 🇭🇰 Now Sports PL 3 UHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/61689.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/61689.ts
 
 #EXTINF:-1 tvg-id="Now.Sports.4K.616.hk"  tvg-logo="https://i.imgur.com/ALXSgbB.png" group-title="⚽️ EPL", 🇭🇰 Now Sports 4K 616 UHD 50fps (ea)
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/641325.m3u8
@@ -2372,12 +2372,12 @@ http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/641326.m3u8
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg"  tvg-logo="https://i.imgur.com/SM7GQAM.png" group-title="⚽️ EPL", 🇸🇬 Hub Premier 2 UHD 50fps (tt)
 https://cdn-1.ttvb.eu.org/api/Hub-Premier-2/index.m3u8
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg"  tvg-logo="https://i.imgur.com/SM7GQAM.png" group-title="⚽️ EPL", 🇸🇬 Hub Premier 2 UHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/59401.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/59401.ts
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg"  tvg-logo="https://i.imgur.com/SM7GQAM.png" group-title="⚽️ EPL", 🇸🇬 Hub Premier 2 UHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=620787&extension=ts&play_token=GprUhB2ONo
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2"  tvg-logo="https://i.imgur.com/1lFfKR4.png" group-title="⚽️ EPL", US: USA Network FHD 60fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/43964.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/43964.ts
 #EXTINF:-1 tvg-id="USA.Network.HD.us2"  tvg-logo="https://i.imgur.com/1lFfKR4.png" group-title="⚽️ EPL", US: USA Network FHD 60fps (tv)
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/10252
 
@@ -2435,14 +2435,14 @@ http://skytv4k.org:8080/LLXnCrjcKW/wcbmH1s5qB/112196
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://i.imgur.com/v0mKVGU.png" group-title="⚽️ EPL", 🇸🇬 Hub Premier 1 FHD 50fps (tt)
 https://cdn-1.ttvb.eu.org/api/Hub-Premier-1/index.m3u8
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://i.imgur.com/v0mKVGU.png" group-title="⚽️ EPL", 🇸🇬 Hub Premier 1 HD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/57435.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/57435.ts
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://i.imgur.com/v0mKVGU.png" group-title="⚽️ EPL", 🇸🇬 Hub Premier 1 HD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=620786&extension=ts&play_token=LQgFudtzsy
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://i.imgur.com/v0mKVGU.png" group-title="⚽️ EPL", 🇸🇬 Hub Premier 1 FHD 50fps (xp)
 http://myxpanel.pro:80/live/jhart/jhart/288375.ts
 
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg"  tvg-logo="https://i.imgur.com/SM7GQAM.png" group-title="⚽️ EPL", 🇸🇬 Hub Premier 2 FHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/57436.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/57436.ts
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg"  tvg-logo="https://i.imgur.com/SM7GQAM.png" group-title="⚽️ EPL", 🇸🇬 Hub Premier 2 FHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=620785&extension=ts&play_token=nTZq3hrxEk
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg"  tvg-logo="https://i.imgur.com/SM7GQAM.png" group-title="⚽️ EPL", 🇸🇬 Hub Premier 2 FHD 50fps (xp)
@@ -2451,7 +2451,7 @@ http://myxpanel.pro:80/live/jhart/jhart/288374.ts
 #EXTINF:-1 tvg-id="Hub.Premier.3.sg"  tvg-logo="https://i.imgur.com/neZXR5T.png" group-title="⚽️ EPL", 🇸🇬 Hub Premier 3 FHD 50fps (tt)
 https://cdn-1.ttvb.eu.org/api/Hub-Premier-3/index.m3u8
 #EXTINF:-1 tvg-id="Hub.Premier.3.sg"  tvg-logo="https://i.imgur.com/neZXR5T.png" group-title="⚽️ EPL", 🇸🇬 Hub Premier 3 FHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/57437.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/57437.ts
 #EXTINF:-1 tvg-id="Hub.Premier.3.sg"  tvg-logo="https://i.imgur.com/neZXR5T.png" group-title="⚽️ EPL", 🇸🇬 Hub Premier 3 FHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=620784&extension=ts&play_token=Q1vm1lIcOy
 #EXTINF:-1 tvg-id="Hub.Premier.3.sg"  tvg-logo="https://i.imgur.com/neZXR5T.png" group-title="⚽️ EPL", 🇸🇬 Hub Premier 3 HD 50fps (xp)
@@ -2460,35 +2460,35 @@ http://myxpanel.pro:80/live/jhart/jhart/288373.ts
 #EXTINF:-1 tvg-id="Hub.Premier.4.sg"  tvg-logo="https://i.imgur.com/Ft8xVJ0.png" group-title="⚽️ EPL", 🇸🇬 Hub Premier 4 FHD 50fps (tt)
 https://cdn-1.ttvb.eu.org/api/Hub-Premier-4/index.m3u8
 #EXTINF:-1 tvg-id="Hub.Premier.4.sg"  tvg-logo="https://i.imgur.com/Ft8xVJ0.png" group-title="⚽️ EPL", 🇸🇬 Hub Premier 4 FHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/57438.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/57438.ts
 #EXTINF:-1 tvg-id="Hub.Premier.4.sg"  tvg-logo="https://i.imgur.com/Ft8xVJ0.png" group-title="⚽️ EPL", 🇸🇬 Hub Premier 4 FHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=620783&extension=ts&play_token=vpHVTyCbNb
 #EXTINF:-1 tvg-id="Hub.Premier.4.sg"  tvg-logo="https://i.imgur.com/Ft8xVJ0.png" group-title="⚽️ EPL", 🇸🇬 Hub Premier 4 HD 50fps (xp)
 http://myxpanel.pro:80/live/jhart/jhart/288372.ts
 
 #EXTINF:-1 tvg-id="Hub.Premier.5.sg"  tvg-logo="https://i.imgur.com/XhX3oUI.png" group-title="⚽️ EPL", 🇸🇬 Hub Premier 5 FHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/57439.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/57439.ts
 #EXTINF:-1 tvg-id="Hub.Premier.5.sg"  tvg-logo="https://i.imgur.com/XhX3oUI.png" group-title="⚽️ EPL", 🇸🇬 Hub Premier 5 FHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=620782&extension=ts&play_token=Zx1odP98GI
 #EXTINF:-1 tvg-id="Hub.Premier.5.sg"  tvg-logo="https://i.imgur.com/XhX3oUI.png" group-title="⚽️ EPL", 🇸🇬 Hub Premier 5 FHD 50fps (xp)
 http://myxpanel.pro:80/live/jhart/jhart/288371.ts
 
 #EXTINF:-1 tvg-id="Hub.Premier.6.sg"  tvg-logo="https://i.imgur.com/9F7wNgI.png" group-title="⚽️ EPL", 🇸🇬 Hub Premier 6 FHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/57440.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/57440.ts
 #EXTINF:-1 tvg-id="Hub.Premier.6.sg"  tvg-logo="https://i.imgur.com/9F7wNgI.png" group-title="⚽️ EPL", 🇸🇬 Hub Premier 6 FHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=620781&extension=ts&play_token=GEMejjTcU8
 #EXTINF:-1 tvg-id="Hub.Premier.6.sg"  tvg-logo="https://i.imgur.com/9F7wNgI.png" group-title="⚽️ EPL", 🇸🇬 Hub Premier 6 HD 50fps (xp)
 http://myxpanel.pro:80/live/jhart/jhart/288370.ts
 
 #EXTINF:-1 tvg-id="Hub.Premier.7.sg"  tvg-logo="https://i.imgur.com/bVOyKEV.png" group-title="⚽️ EPL", 🇸🇬 Hub Premier 7 FHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/57441.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/57441.ts
 #EXTINF:-1 tvg-id="Hub.Premier.7.sg"  tvg-logo="https://i.imgur.com/bVOyKEV.png" group-title="⚽️ EPL", 🇸🇬 Hub Premier 7 FHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=620780&extension=ts&play_token=36HDpX77e1
 #EXTINF:-1 tvg-id="Hub.Premier.7.sg"  tvg-logo="https://i.imgur.com/bVOyKEV.png" group-title="⚽️ EPL", 🇸🇬 Hub Premier 7 FHD 50fps (xp)
 http://myxpanel.pro:80/live/jhart/jhart/288369.ts
 
 #EXTINF:-1 tvg-id="Hub.Premier.8.sg"  tvg-logo="https://i.imgur.com/stYijJ1.png" group-title="⚽️ EPL", 🇸🇬 Hub Premier 8 FHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/57442.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/57442.ts
 #EXTINF:-1 tvg-id="Hub.Premier.8.sg"  tvg-logo="https://i.imgur.com/stYijJ1.png" group-title="⚽️ EPL", 🇸🇬 Hub Premier 8 HD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=620779&extension=ts&play_token=jTvN3V2d81
 #EXTINF:-1 tvg-id="Hub.Premier.8.sg"  tvg-logo="https://i.imgur.com/stYijJ1.png" group-title="⚽️ EPL", 🇸🇬 Hub Premier 8 HD 50fps (xp)
@@ -2503,7 +2503,7 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=620777&extens
 http://myxpanel.pro:80/live/jhart/jhart/288366.ts
 
 #EXTINF:-1 tvg-id="Hub.Premier.11.sg"  tvg-logo="https://i.imgur.com/l0rGLan.png" group-title="⚽️ EPL", 🇸🇬 Hub Premier 11 FHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/57445.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/57445.ts
 #EXTINF:-1 tvg-id="Hub.Premier.11.sg"  tvg-logo="https://i.imgur.com/l0rGLan.png" group-title="⚽️ EPL", 🇸🇬 Hub Premier 11 FHD 25fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=620776&extension=ts&play_token=rgn1q1jDaA
 #EXTINF:-1 tvg-id="Hub.Premier.11.sg"  tvg-logo="https://i.imgur.com/l0rGLan.png" group-title="⚽️ EPL", 🇸🇬 Hub Premier 11 FHD 25fps (xp)
@@ -2514,32 +2514,32 @@ http://myxpanel.pro:80/live/jhart/jhart/288365.ts
 
 # # # ------------------------------------- 📺 Sky Sports  -------------------------------------
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.HD.ie" group-title="🇬🇧 Sky Sports" tvg-logo="https://i.imgur.com/UlwVQr4.png", IE: Sky Sports Main Event UHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/59265.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/59265.ts
 
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="🇬🇧 Sky Sports" , 🇬🇧 Sky Sports Main Event UHD 50fps (as56) ?
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527598&extension=ts&play_token=kLFaeuhKiD
 
 #EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-logo="https://i.ibb.co/1tmrNyj9/Sky-Sport-F1-UHD.png" group-title="🇬🇧 Sky Sports", 🇬🇧 Sky Sports F1 UHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/61668.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/61668.ts
 #EXTINF:-1 tvg-id="SkySp.F1.uk"  tvg-logo="https://i.ibb.co/1tmrNyj9/Sky-Sport-F1-UHD.png" group-title="🇬🇧 Sky Sports", 🇬🇧 Sky Sports F1 UHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/59264.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/59264.ts
 #EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-logo="https://i.ibb.co/1tmrNyj9/Sky-Sport-F1-UHD.png" group-title="🇬🇧 Sky Sports", 🇬🇧 Sky Sports F1 UHD 50fps (as56) ?
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527595&extension=ts&play_token=rBLQxCXu3n
 
 #EXTINF:-1 tvg-id="Sky.Sport.1.nz" tvg-logo="https://i.imgur.com/JxHAm5n.png" group-title="🇬🇧 Sky Sports", 🇬🇧 Sky Sports Event 1 UHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/59262.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/59262.ts
 #EXTINF:-1 tvg-id="Sky.Sport.1.nz" tvg-logo="https://i.imgur.com/JxHAm5n.png" group-title="🇬🇧 Sky Sports", 🇬🇧 Sky Sports Event 1 UHD 50fps (xp) ??
 http://myxpanel.pro:80/live/jhart/jhart/620665.ts
 #EXTINF:-1 tvg-id="Sky.Sport.1.nz" tvg-logo="https://i.imgur.com/JxHAm5n.png" group-title="🇬🇧 Sky Sports", 🇬🇧 Sky Sports Event 1 UHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527597&extension=ts&play_token=OUAXc9CJVy
 
 #EXTINF:-1 tvg-id="Sky.Sport.2.nz" tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="🇬🇧 Sky Sports", 🇬🇧 Sky Sports Event 2 UHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/59263.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/59263.ts
 #EXTINF:-1 tvg-id="Sky.Sport.2.nz" tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="🇬🇧 Sky Sports", 🇬🇧 Sky Sports Event 2 UHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527596&extension=ts&play_token=f6zcGdFpW9
 
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk"  tvg-logo="https://i.imgur.com/UlwVQr4.png" group-title="🇬🇧 Sky Sports", Sky Sports Main Event FHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/58925.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/58925.ts
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.HD.ie"  tvg-logo="https://i.imgur.com/UlwVQr4.png" group-title="🇬🇧 Sky Sports", Sky Sports Main Event FHD 50fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2184
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.HD.ie"  tvg-logo="https://i.imgur.com/UlwVQr4.png" group-title="🇬🇧 Sky Sports", Sky Sports Main Event FHD 50fps (r)
@@ -2560,7 +2560,7 @@ http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7337/index.m3u8
 http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7337/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk"  tvg-logo="https://i.imgur.com/jUNWDBA.png" group-title="🇬🇧 Sky Sports", Sky Sports Premier League FHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/58924.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/58924.ts
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk"  tvg-logo="https://i.imgur.com/jUNWDBA.png" group-title="🇬🇧 Sky Sports", Sky Sports Premier League FHD 50fps (tt)
 https://cdn-2.ttvb.eu.org/api/Sky-Sports-EPL/index.m3u8
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.HD.ie"  tvg-logo="https://i.imgur.com/jUNWDBA.png" group-title="🇬🇧 Sky Sports", Sky Sports Premier League FHD 50fps (r)
@@ -2574,7 +2574,7 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527637&exten
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk"  tvg-logo="https://i.imgur.com/jUNWDBA.png" group-title="🇬🇧 Sky Sports", Sky Sports Premier League FHD 50fps (ze) ?
 https://zebua.short.gy/skysportspremierleague
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.HD.ie" group-title="🇬🇧 Sky Sports" tvg-logo="https://i.imgur.com/jUNWDBA.png", Sky Sports Premier League FHD 25fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/16559.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/16559.ts
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.HD.ie" group-title="🇬🇧 Sky Sports" tvg-logo="https://i.imgur.com/jUNWDBA.png", Sky Sports Premier League FHD 50fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/9334/index.m3u8
 #EXTINF:-1 tvg-id="Sky.Sports.Premier.League.HD.ie" group-title="🇬🇧 Sky Sports" tvg-logo="https://i.imgur.com/jUNWDBA.png", Sky Sports Premier League FHD 50fps (bk2)
@@ -2586,7 +2586,7 @@ http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7335/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Sky.Sports.Football.HD.ie"  tvg-logo="https://i.imgur.com/0T40zcs.png" group-title="🇬🇧 Sky Sports", Sky Sports Football FHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/58923.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/58923.ts
 #EXTINF:-1 tvg-id="Sky.Sports.Football.HD.ie"  tvg-logo="https://i.imgur.com/0T40zcs.png" group-title="🇬🇧 Sky Sports", Sky Sports Football FHD 50fps (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/47866
 #EXTINF:-1 tvg-id="SkySp.Fball.HD.uk"  tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="🇬🇧 Sky Sports", Sky Sports Football FHD 50fps (as56) ?
@@ -2596,7 +2596,7 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/2188
 #EXTINF:-1 tvg-id="SkySp.Fball.HD.uk"  tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="🇬🇧 Sky Sports", Sky Sports Football FHD 25fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/30822
 #EXTINF:-1 tvg-id="Sky.Sports.Football.HD.ie" group-title="🇬🇧 Sky Sports" tvg-logo="https://i.imgur.com/0T40zcs.png", Sky Sports Football FHD 25fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/48551.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/48551.ts
 #EXTINF:-1 tvg-id="Sky.Sports.Football.HD.ie" group-title="🇬🇧 Sky Sports" tvg-logo="https://i.imgur.com/0T40zcs.png", Sky Sports Football FHD 50fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/9289/index.m3u8
 #EXTINF:-1 tvg-id="Sky.Sports.Football.HD.ie" group-title="🇬🇧 Sky Sports" tvg-logo="https://i.imgur.com/0T40zcs.png", Sky Sports Football FHD 50fps (bk2)
@@ -2619,7 +2619,7 @@ http://kstv.us:8080/Freshcobar23/83261331891/47863
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2193
 
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk"  tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="🇬🇧 Sky Sports", Sky Sports F1 FHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/61670.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/61670.ts
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk"  tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="🇬🇧 Sky Sports", Sky Sports F1 FHD 50fps (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/47865
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk"  tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="🇬🇧 Sky Sports", Sky Sports F1 FHD 50fps (as56) ?
@@ -2704,7 +2704,7 @@ https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/cllekigzzn/out/v1/bd3b0c3
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/V3qfxeG.png", TNT Sports 1 FHD 50fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2337
 #EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/V3qfxeG.png", TNT Sports 1 FHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/43128.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/43128.ts
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/V3qfxeG.png", TNT Sports 1 FHD 25fps (tt)
 https://cdn-1.ttvb.eu.org/api/TNT-Sports-1/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/V3qfxeG.png", TNT Sports 1 HD 25fps (ks)
@@ -2738,17 +2738,17 @@ https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/fb6jy4pxts/out/v1/f8fa17f
 #https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/Qq5D6bY.png", TNT Sports 2 FHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/43126.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/43126.ts
 #EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/Qq5D6bY.png", TNT Sports 2 FHD 50fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2506/index.m3u8
-#EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/Qq5D6bY.png", TNT Sports 2 FHD 50fps (bk1)
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2506/index.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/Qq5D6bY.png", TNT Sports 2 FHD 50fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/2506/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/Qq5D6bY.png", TNT Sports 2 FHD 50fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2336
 #EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/Qq5D6bY.png", TNT Sports 2 FHD 25fps (tt)
 https://cdn-1.ttvb.eu.org/api/TNT-Sports-2/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/Qq5D6bY.png", TNT Sports 2 FHD 25fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/16551.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/16551.ts
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/Qq5D6bY.png", TNT Sports 2 FHD 50fps (as56) ?
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527615&extension=ts&play_token=l305ggTqh3
 #EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/Qq5D6bY.png", TNT Sports 2 FHD 50fps (xp) ??
@@ -2770,7 +2770,7 @@ https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/5sxuux529k/out/v1/bb548a3
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/YIWGDix.png", TNT Sports 3 FHD 50fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2335
 #EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/YIWGDix.png", TNT Sports 3 FHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/43124.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/43124.ts
 #EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/YIWGDix.png", TNT Sports 3 FHD 50fps (tt)
 https://cdn-1.ttvb.eu.org/api/TNT-Sports-3/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/YIWGDix.png", TNT Sports 3 FHD 50fps (xp) ??
@@ -2781,6 +2781,8 @@ http://myxpanel.pro:80/jhart/jhart/276895
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527613&extension=ts&play_token=Z6Bj2IWakJ
 #EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/YIWGDix.png", TNT Sports 3 FHD 50fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6564/index.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/YIWGDix.png", TNT Sports 3 FHD 50fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/6564/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/KJZszMA.png", TNT Sports 4 FHD 25fps [?]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2797,11 +2799,13 @@ https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/KJZszMA.png", TNT Sports 4 FHD 50fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/675021
 #EXTINF:-1 tvg-id="TNT.Sports.4.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/KJZszMA.png", TNT Sports 4 FHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/16549.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/16549.ts
 #EXTINF:-1 tvg-id="TNT.Sports.4.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/KJZszMA.png", TNT Sports 4 FHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/57420.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/57420.ts
 #EXTINF:-1 tvg-id="TNT.Sports.4.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/KJZszMA.png", TNT Sports 4 FHD 50fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19054/index.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.4.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/KJZszMA.png", TNT Sports 4 FHD 50fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/19054/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/KJZszMA.png", TNT Sports 4 FHD 25fps (tt)
 https://cdn-1.ttvb.eu.org/api/TNT-Sports-4/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.4.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/KJZszMA.png", TNT Sports 4 FHD 50fps (xp) ??
@@ -2817,17 +2821,19 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527611&exten
 # # # ---------------------------------------- 📺 🇺🇸 US Sports ----------------------------------------
 
 #EXTINF:-1 tvg-id="FS1.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/Wwsojdh.png", Fox Sports 1 FHD 60fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/44035.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/44035.ts
 #EXTINF:-1 tvg-id="FS1.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/Wwsojdh.png", Fox Sports 1 HD 60fps (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/22526
 #EXTINF:-1 tvg-id="FS1.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/Wwsojdh.png", Fox Sports 1 HD 60fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/14118.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/14118.ts
 #EXTINF:-1 tvg-id="FS1.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/Wwsojdh.png", Fox Sports 1 FHD 60fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7322/index.m3u8
+#EXTINF:-1 tvg-id="FS1.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/Wwsojdh.png", Fox Sports 1 FHD 60fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7322/index.m3u8
 #EXTINF:-1 tvg-id="FS1.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/Wwsojdh.png", Fox Sports 1 HD 60fps (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/15948
 #EXTINF:-1 tvg-id="FS1.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/Wwsojdh.png", Fox Sports 1 HD 60fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/32931.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/32931.ts
 #EXTINF:-1 tvg-id="FS1.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/Wwsojdh.png", Fox Sports 1 HD 60fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/3732
 #EXTINF:-1 tvg-id="FS1.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/Wwsojdh.png", Fox Sports 1 HD 30fps (tv)
@@ -2835,15 +2841,17 @@ http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/1846
 
 
 #EXTINF:-1 tvg-id="FS2.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/BmxkGDe.png", Fox Sports 2 FHD 60fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/44034.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/44034.ts
 #EXTINF:-1 tvg-id="FS2.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/BmxkGDe.png", Fox Sports 2 FHD 60fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7323/index.m3u8
+#EXTINF:-1 tvg-id="FS2.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/BmxkGDe.png", Fox Sports 2 FHD 60fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7323/index.m3u8
 #EXTINF:-1 tvg-id="FS2.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/BmxkGDe.png", Fox Sports 2 HD 60fps (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/22525
 #EXTINF:-1 tvg-id="FS2.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/BmxkGDe.png", Fox Sports 2 HD 60fps (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/15947
 #EXTINF:-1 tvg-id="FS2.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/BmxkGDe.png", Fox Sports 2 HD 60fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/14117.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/14117.ts
 #EXTINF:-1 tvg-id="FS2.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/BmxkGDe.png", Fox Sports 2 HD 60fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2500
 #EXTINF:-1 tvg-id="FS2.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/BmxkGDe.png", Fox Sports 2 HD 30fps (tv)
@@ -2851,15 +2859,17 @@ http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/1847
 
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/1lFfKR4.png", USA Network FHD 60fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/43964.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/43964.ts
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/1lFfKR4.png", USA Network FHD 60fps (tv)
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/10252
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/1lFfKR4.png", USA Network HD 30fps (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/15905
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/1lFfKR4.png", USA Network HD 60fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/19270.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/19270.ts
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/1lFfKR4.png", USA Network HD 30fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/1101/index.m3u8
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/1lFfKR4.png", USA Network HD 30fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/1101/index.m3u8
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/1lFfKR4.png", USA Network HD 30fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/3767
 
@@ -2867,13 +2877,15 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/3767
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/EWFAXAY.png", CBS Sports Network FHD 60fps (k)
 http://kstv.us:8080/Freshcobar23/83261331891/15944
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/EWFAXAY.png", CBS Sports Network FHD 60fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/44060.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/44060.ts
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/EWFAXAY.png", CBS Sports Network FHD 60fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/14104.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/14104.ts
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/EWFAXAY.png", CBS Sports Network HD 30fps (x)
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/10454
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/EWFAXAY.png", CBS Sports Network FHD 60fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7324/index.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/EWFAXAY.png", CBS Sports Network FHD 60fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7324/index.m3u8
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/EWFAXAY.png", CBS Sports Network HD 30fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/3712
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/EWFAXAY.png", CBS Sports Network HD 30fps (r)
@@ -2884,15 +2896,15 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/3621
 
 # # # ---------------------------------------- 📺 🇭🇰 Hong Kong Sports ----------------------------------------
 #EXTINF:-1 tvg-id="Now.Sports.4K.1.hk" tvg-logo="https://i.postimg.cc/TP5pTkgg/611-e.png" group-title="🇭🇰 Hong Kong Sports" , Now Sports PL 1 UHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/50172.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/50172.ts
 #EXTINF:-1 tvg-id="Now.Sports.4K.1.hk" tvg-logo="https://i.postimg.cc/TP5pTkgg/611-e.png" group-title="🇭🇰 Hong Kong Sports" , Now Sports PL 1 UHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1556135&extension=ts&play_token=txEnpgnXcR
 
 #EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-logo="https://i.imgur.com/NYGpUzO.png" group-title="🇭🇰 Hong Kong Sports" , Now Sports PL 2 UHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/61688.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/61688.ts
 
 #EXTINF:-1 tvg-id="Now.Sports.4K.3.hk" tvg-logo="https://i.imgur.com/2f4DNXz.png" group-title="🇭🇰 Hong Kong Sports" , Now Sports PL 3 UHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/61689.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/61689.ts
 
 #EXTINF:-1 tvg-id="Now.Sports.4K.616.hk"  tvg-logo="https://i.imgur.com/ALXSgbB.png" group-title="🇭🇰 Hong Kong Sports", Now Sports 4K 616 UHD 50fps (ea)
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/641325.m3u8
@@ -3013,12 +3025,12 @@ http://myxpanel.pro:80/live/jhart/jhart/288360.ts
 http://myxpanel.pro:80/live/jhart/jhart/288359.ts
 
 #EXTINF:-1 tvg-id="Hub.Sports.7.HD.sg"  tvg-logo="https://i.imgur.com/VkzYH9r.png" group-title="🇸🇬 Singapore Sports", 🇸🇬 Hub Sports 7 (Hub Premier 9?) FHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/57443.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/57443.ts
 #EXTINF:-1 tvg-id="Hub.Sports.7.HD.sg"  tvg-logo="https://i.imgur.com/VkzYH9r.png" group-title="🇸🇬 Singapore Sports", 🇸🇬 Hub Sports 7 (Hub Premier 9?) FHD 50fps (xp) ??
 http://myxpanel.pro:80/live/jhart/jhart/288367.ts
 
 #EXTINF:-1 tvg-id="Hub.Sports.8.HD.sg"  tvg-logo="https://i.imgur.com/TDMdlud.png" group-title="🇸🇬 Singapore Sports", 🇸🇬 Hub Sports 8 (Hub Premier 10?) FHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/57444.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/57444.ts
 
 #EXTINF:0 group-title="🇸🇬 Singapore Sports"
 
@@ -3028,44 +3040,91 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1544238&exten
 
 #EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="", Sky Sport News HD DE (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2477/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="", Sky Sport News HD DE (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/2477/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="", Sky Sport Bundesliga UHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1544238&extension=ts&play_token=GUocomXvpc
 
 #EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="", Sky Sport 1 HD DE (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2478/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="", Sky Sport 1 HD DE (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/2478/index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="", Sky Sport 2 HD DE (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2479/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="", Sky Sport 2 HD DE (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/2479/index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="", Sky Sport Austria 1 HD DE (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2492/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="", Sky Sport Austria 1 HD DE (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/2492/index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="", Sky Sport Austria 2 HD DE (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6113/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="", Sky Sport Austria 2 HD DE (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/6113/index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="", Sky Sport Bundesliga Austria HD DE (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7242/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="", Sky Sport Bundesliga Austria HD DE (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7242/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="https://i.imgur.com/C1Z3orh.png", Sky Sport Bundesliga 1 HD [de] (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2480/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="https://i.imgur.com/C1Z3orh.png", Sky Sport Bundesliga 1 HD [de] (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/2480/index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="https://i.imgur.com/C1Z3orh.png", Sky Sport Bundesliga 2 HD [de] (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7234/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="https://i.imgur.com/C1Z3orh.png", Sky Sport Bundesliga 2 HD [de] (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7234/index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="https://i.imgur.com/C1Z3orh.png", Sky Sport Bundesliga 3 FHD 50fps [de] (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7237/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="https://i.imgur.com/C1Z3orh.png", Sky Sport Bundesliga 3 FHD 50fps [de] (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7237/index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="https://i.imgur.com/C1Z3orh.png", Sky Sport Bundesliga 4 HD DE (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7236/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="https://i.imgur.com/C1Z3orh.png", Sky Sport Bundesliga 5 HD DE (bk1) ?
+#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="https://i.imgur.com/C1Z3orh.png", Sky Sport Bundesliga 4 HD DE (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7236/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="https://i.imgur.com/C1Z3orh.png", Sky Sport Bundesliga 5 HD DE (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7235/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="https://i.imgur.com/C1Z3orh.png", Sky Sport Bundesliga 5 HD DE (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7235/index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="https://i.imgur.com/C1Z3orh.png", Sky Sport Bundesliga 6 HD DE (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7238/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="https://i.imgur.com/C1Z3orh.png", Sky Sport Bundesliga 6 HD DE (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7238/index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="https://i.imgur.com/C1Z3orh.png", Sky Sport Bundesliga 7 HD DE (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7239/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="https://i.imgur.com/C1Z3orh.png", Sky Sport Bundesliga 7 HD DE (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7239/index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="https://i.imgur.com/C1Z3orh.png", Sky Sport Bundesliga 8 HD DE (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7240/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="https://i.imgur.com/C1Z3orh.png", Sky Sport Bundesliga 8 HD DE (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7240/index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="https://i.imgur.com/C1Z3orh.png", Sky Sport Bundesliga 9 FHD DE (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6097/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="https://i.imgur.com/C1Z3orh.png", Sky Sport Bundesliga 9 FHD DE (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/6097/index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="https://i.imgur.com/C1Z3orh.png", Sky Sport Bundesliga 9 HD DE (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7241/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="https://i.imgur.com/C1Z3orh.png", Sky Sport Bundesliga 9 HD DE (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7241/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="", Sky Sport F1 FHD DE (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/10079/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="", Sky Sport F1 FHD DE (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/10079/index.m3u8
 
 #EXTINF:0 group-title="Sky Sports 🇩🇪"
 
@@ -3111,15 +3170,28 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:01:8D:F4&stream=894973&e
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/20068/index.m3u8
 #EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/PUaJPaE.png" group-title="🇵🇱 Eleven Sports", 🇵🇱 ElevenSport 1 UHD 50fps (bk2)
 http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/20068/index.m3u8
+#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/PUaJPaE.png" group-title="🇵🇱 Eleven Sports", 🇵🇱 ElevenSport 1 UHD 50fps (ip)
+http://91.146.94.234:10001/play/a05c
 
+#EXTINF:-1 tvg-id="ElevenSports1.pl" group-title="🇵🇱 Eleven Sports" tvg-logo="https://i.imgur.com/AOu4FXH.png" , Eleven Sports 1 FHD 50fps (ip)
+http://91.146.94.234:10001/play/ase1
 #EXTINF:-1 tvg-id="ElevenSports1.pl" group-title="🇵🇱 Eleven Sports" tvg-logo="https://i.imgur.com/AOu4FXH.png" , Eleven Sports 1 FHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1545807&extension=ts&play_token=EdWziVAKqU
 #EXTINF:-1 tvg-id="ElevenSports1.pl" group-title="🇵🇱 Eleven Sports" tvg-logo="https://i.imgur.com/AOu4FXH.png" , Eleven Sports 1 FHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1512429&extension=ts
+
+#EXTINF:-1 tvg-id="ElevenSports2.pl" group-title="🇵🇱 Eleven Sports" tvg-logo="https://i.imgur.com/bTIRgqG.png" , Eleven Sports 2 FHD 50fps (ip)
+http://91.146.94.234:10001/play/ase2
 #EXTINF:-1 tvg-id="ElevenSports2.pl" group-title="🇵🇱 Eleven Sports" tvg-logo="https://i.imgur.com/bTIRgqG.png" , Eleven Sports 2 FHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1512428&extension=ts
+
+#EXTINF:-1 tvg-id="ElevenSports3.pl" group-title="🇵🇱 Eleven Sports" tvg-logo="https://i.imgur.com/bWjGol4.png" , Eleven Sports 3 FHD 50fps (ip)
+http://91.146.94.234:10001/play/ase3
 #EXTINF:-1 tvg-id="ElevenSports3.pl" group-title="🇵🇱 Eleven Sports" tvg-logo="https://i.imgur.com/bWjGol4.png" , Eleven Sports 3 FHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1512427&extension=ts
+
+#EXTINF:-1 tvg-id="ElevenSports4.pl" group-title="🇵🇱 Eleven Sports" tvg-logo="https://i.imgur.com/SEKXaAW.png" , Eleven Sports 4 FHD 50fps (ip)
+http://91.146.94.234:10001/play/ase4
 #EXTINF:-1 tvg-id="ElevenSports4.pl" group-title="🇵🇱 Eleven Sports" tvg-logo="https://i.imgur.com/SEKXaAW.png" , Eleven Sports 4 FHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1512426&extension=ts
 
@@ -3135,6 +3207,8 @@ http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/35264
 https://restream-live.realiptv.to/MotherOfPins3/8746645/925
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/4Rq6kRB.png", DAZN 1 HD 50fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31954/index.m3u8
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/4Rq6kRB.png", DAZN 1 HD 50fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/31954/index.m3u8
 
 #EXTINF:-1 tvg-id="DAZN.2.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/mrUt8LC.png", DAZN 2 FHD 50fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/924
@@ -3142,15 +3216,23 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/924
 https://restream-live.realiptv.to/MotherOfPins3/8746645/923
 #EXTINF:-1 tvg-id="DAZN.2.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/mrUt8LC.png", DAZN 2 HD 50fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2532/index.m3u8
+#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/mrUt8LC.png", DAZN 2 HD 50fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/2532/index.m3u8
 #EXTINF:-1 tvg-id="DAZN.2.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/mrUt8LC.png", DAZN 2 HD 50fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31955/index.m3u8
+#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/mrUt8LC.png", DAZN 2 HD 50fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/31955/index.m3u8
 
 #EXTINF:-1 tvg-id="DAZN.3.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/Nuy9JzZ.png", DAZN 3 FHD 50fps (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/48445
 #EXTINF:-1 tvg-id="DAZN.3.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/Nuy9JzZ.png", DAZN 3 FHD 50fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7062/index.m3u8
+#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/Nuy9JzZ.png", DAZN 3 FHD 50fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7062/index.m3u8
 #EXTINF:-1 tvg-id="DAZN.3.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/Nuy9JzZ.png", DAZN 3 HD 50fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31956/index.m3u8
+#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/Nuy9JzZ.png", DAZN 3 HD 50fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/31956/index.m3u8
 
 #EXTINF:-1 tvg-id="DAZN.4.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/azR9uiE.png", DAZN 4 FHD 60fps (tv)
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/167749
@@ -3160,8 +3242,12 @@ http://kstv.us:8080/Freshcobar23/83261331891/48446
 https://restream-live.realiptv.to/MotherOfPins3/8746645/920
 #EXTINF:-1 tvg-id="DAZN.4.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/azR9uiE.png", DAZN 4 FHD 50fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2534/index.m3u8
+#EXTINF:-1 tvg-id="DAZN.4.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/azR9uiE.png", DAZN 4 FHD 50fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/2534/index.m3u8
 #EXTINF:-1 tvg-id="DAZN.4.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/azR9uiE.png", DAZN 4 HD 50fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31957/index.m3u8
+#EXTINF:-1 tvg-id="DAZN.4.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/azR9uiE.png", DAZN 4 HD 50fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/31957/index.m3u8
 
 #EXTINF:0 group-title="🇵🇹 DAZN"
 
@@ -3171,14 +3257,20 @@ http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31957/index.m3u8
 https://restream-live.realiptv.to/MotherOfPins3/8746645/848
 #EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/7bl3LyY.png", Sport TV 1 FHD 50fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31942/index.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/7bl3LyY.png", Sport TV 1 FHD 50fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/31942/index.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/7bl3LyY.png", Sport TV 1 HD 50fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2525/index.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/7bl3LyY.png", Sport TV 1 HD 50fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/2525/index.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/7bl3LyY.png", Sport TV 1 HD 50fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2525/index.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/7bl3LyY.png", Sport TV 1 HD 50fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/2525/index.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/7bl3LyY.png", Sport TV 1 HD 50fps (k)
 http://kstv.us:8080/Freshcobar23/83261331891/48496
 #EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/7bl3LyY.png", Sport TV 1 (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/60014.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/60014.ts
 #EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/7bl3LyY.png", Sport TV 1 (x)
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/167742
 
@@ -3189,14 +3281,16 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/847
 https://restream-live.realiptv.to/MotherOfPins3/8746645/846
 #EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/9NktQrQ.png", Sport TV 2 FHD 50fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31943/index.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/9NktQrQ.png", Sport TV 2 FHD 50fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/31943/index.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/9NktQrQ.png", Sport TV 2 FHD 50fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2526/index.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/9NktQrQ.png", Sport TV 2 FHD 50fps (bk1)
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2526/index.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/9NktQrQ.png", Sport TV 2 FHD 50fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/2526/index.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/9NktQrQ.png", Sport TV 2 HD 25fps (k)
 http://kstv.us:8080/Freshcobar23/83261331891/48497
 #EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/9NktQrQ.png", Sport TV 2 (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/60017.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/60017.ts
 
 #EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/p2gpIWt.png", Sport TV 3 FHD 50fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/845
@@ -3204,12 +3298,14 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/845
 https://restream-live.realiptv.to/MotherOfPins3/8746645/844
 #EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/p2gpIWt.png", Sport TV 3 FHD 50fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2527/index.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/p2gpIWt.png", Sport TV 3 FHD 50fps (bk1)
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2527/index.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/p2gpIWt.png", Sport TV 3 FHD 50fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/2527/index.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/p2gpIWt.png", Sport TV 3 FHD 50fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31944/index.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/p2gpIWt.png", Sport TV 3 FHD 50fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/31944/index.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/p2gpIWt.png", Sport TV 3 (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/60019.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/60019.ts
 #EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/p2gpIWt.png", Sport TV 3 (x)
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/167744
 
@@ -3219,12 +3315,14 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/843
 https://restream-live.realiptv.to/MotherOfPins3/8746645/842
 #EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/o5RjQBz.png", Sport TV 4 FHD 50fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31945/index.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/o5RjQBz.png", Sport TV 4 FHD 50fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/31945/index.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/o5RjQBz.png", Sport TV 4 FHD 25fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2528/index.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/o5RjQBz.png", Sport TV 4 FHD 25fps (bk1)
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2528/index.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/o5RjQBz.png", Sport TV 4 FHD 25fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/2528/index.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/o5RjQBz.png", Sport TV 4 (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/60021.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/60021.ts
 #EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/o5RjQBz.png", Sport TV 4 (x)
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/167745
 
@@ -3234,14 +3332,16 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/840
 https://restream-live.realiptv.to/MotherOfPins3/8746645/839
 #EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/gdJSVCj.png", Sport TV 5 FHD 50fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31946/index.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/gdJSVCj.png", Sport TV 5 FHD 50fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/31946/index.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/gdJSVCj.png", Sport TV 5 HD 50fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2529/index.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/gdJSVCj.png", Sport TV 5 HD 50fps (bk1)
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2529/index.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/gdJSVCj.png", Sport TV 5 HD 50fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/2529/index.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/gdJSVCj.png", Sport TV 5 HD 25fps (k)
 http://kstv.us:8080/Freshcobar23/83261331891/48500
-#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/gdJSVCj.png", Sport TV 5 (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/60022.ts
+#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/gdJSVCj.png", Sport TV 5 HD (g)
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/60022.ts
 
 #EXTINF:0 group-title="🇵🇹 Sport TV"
 
@@ -3252,8 +3352,8 @@ http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/250612.m3u8
 #EXTINF:-1 tvg-id="CANAL+FOOT.fr" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/zerkuKw.png", EVENEMENT SPORT UHD 50fps (ea)
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1063875.m3u8
 
-#EXTINF:-1 tvg-id="CANAL+FOOT.fr" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/XJtaq4F.png", Canal+ Foot FHD 50fps (tb)
-#http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=1810432&extension=ts
+#EXTINF:-1 tvg-id="CANAL+FOOT.fr" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/XJtaq4F.png", Canal+ Foot FHD 50fps (wa)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941405&extension=ts&play_token=ODWyLygMWo
 #EXTINF:-1 tvg-id="CANAL+FOOT.fr" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/XJtaq4F.png", Canal+ Foot FHD 50fps (tb)
 #http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=2122911&extension=ts
 #EXTINF:-1 tvg-id="CANAL+FOOT.fr" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/XJtaq4F.png", Canal+ Foot FHD 50fps (tb)
@@ -3268,6 +3368,7 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:01:8D:F4&stream=894988&e
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=394814&extension=ts
 #EXTINF:-1 tvg-id="CANAL+FOOT.fr" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/XJtaq4F.png", Canal+ Foot FHD 50fps (xp) ??
 http://myxpanel.pro:80/live/jhart/jhart/723952.ts
+
 
 #EXTINF:-1 tvg-id="CANAL+.PREMIER.LEAGUE.ch" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/aKFlhRO.png", Canal+ Premier League FHD 50fps (tb)
 #http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=2122907&extension=ts
@@ -3493,15 +3594,15 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=94146
 #EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="ESPN" tvg-logo="https://i.imgur.com/F0dO4SX.png", ESPN (k)
 http://kstv.us:8080/Freshcobar23/83261331891/15951
 #EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="ESPN" tvg-logo="https://i.imgur.com/F0dO4SX.png", ESPN (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/47284.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/47284.ts
 #EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="ESPN" tvg-logo="https://i.imgur.com/F0dO4SX.png", ESPN (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/60190.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/60190.ts
 #EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="ESPN" tvg-logo="https://i.imgur.com/F0dO4SX.png", ESPN (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/44044.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/44044.ts
 #EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="ESPN" tvg-logo="https://i.imgur.com/F0dO4SX.png", ESPN (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/60191.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/60191.ts
 #EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="ESPN" tvg-logo="https://i.imgur.com/F0dO4SX.png", ESPN (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/14124.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/14124.ts
 #EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="ESPN" tvg-logo="https://i.imgur.com/F0dO4SX.png", ESPN (x)
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/14197
 #EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="ESPN" tvg-logo="https://i.imgur.com/F0dO4SX.png", ESPN (r)
@@ -3512,17 +3613,19 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/21589
 https://restream-live.realiptv.to/MotherOfPins3/8746645/3636
 #EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="ESPN" tvg-logo="https://i.imgur.com/F0dO4SX.png", ESPN (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19156/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="ESPN" tvg-logo="https://i.imgur.com/F0dO4SX.png", ESPN (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/19156/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="ESPN" tvg-logo="https://i.imgur.com/WlgF5Wg.png", ESPN 2 (k)
 http://kstv.us:8080/Freshcobar23/83261331891/15950
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="ESPN" tvg-logo="https://i.imgur.com/WlgF5Wg.png", ESPN 2 (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/60192.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/60192.ts
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="ESPN" tvg-logo="https://i.imgur.com/WlgF5Wg.png", ESPN 2 (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/44043.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/44043.ts
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="ESPN" tvg-logo="https://i.imgur.com/WlgF5Wg.png", ESPN 2 (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/60193.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/60193.ts
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="ESPN" tvg-logo="https://i.imgur.com/WlgF5Wg.png", ESPN 2 (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/14123.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/14123.ts
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="ESPN" tvg-logo="https://i.imgur.com/WlgF5Wg.png", ESPN 2 (x)
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/2210
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="ESPN" tvg-logo="https://i.imgur.com/WlgF5Wg.png", ESPN 2 (r)
@@ -3533,6 +3636,8 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/3726
 https://restream-live.realiptv.to/MotherOfPins3/8746645/3637
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="ESPN" tvg-logo="https://i.imgur.com/WlgF5Wg.png", ESPN 2 (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19155/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="ESPN" tvg-logo="https://i.imgur.com/WlgF5Wg.png", ESPN 2 (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/19155/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Canal.ESPN.(Argentina).ar" group-title="ESPN" tvg-logo="https://i.imgur.com/TaJnRoM.png", ESPN Argentina (k)
@@ -3552,6 +3657,8 @@ http://kstv.us:8080/Freshcobar23/83261331891/46447
 https://restream-live.realiptv.to/MotherOfPins3/8746645/803
 #EXTINF:-1 tvg-id="ESPN.br" group-title="ESPN" tvg-logo="https://i.imgur.com/TaJnRoM.png", ESPN Brazil (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19056/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.br" group-title="ESPN" tvg-logo="https://i.imgur.com/TaJnRoM.png", ESPN Brazil (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/19056/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.Caribbean.jm" group-title="ESPN" tvg-logo="https://i.imgur.com/TaJnRoM.png", ESPN Caribbean (x)
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/66372
@@ -3563,6 +3670,8 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/1636
 http://kstv.us:8080/Freshcobar23/83261331891/46446
 #EXTINF:-1 tvg-id="ESPN.2.br" group-title="ESPN" tvg-logo="https://i.imgur.com/WlgF5Wg.png", ESPN 2 Brazil (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19061/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.2.br" group-title="ESPN" tvg-logo="https://i.imgur.com/WlgF5Wg.png", ESPN 2 Brazil (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/19061/index.m3u8
 
 
 #EXTINF:0 group-title="ESPN"
@@ -3622,6 +3731,8 @@ http://99.27.51.147:8080/BeinSport/index.m3u8
 http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 tvg-id="beIN.SPORTS.1.fr" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/HKfUqi7.png", 🇫🇷 beIN SPORTS 1 FHD 50fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2499/index.m3u8
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.fr" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/HKfUqi7.png", 🇫🇷 beIN SPORTS 1 FHD 50fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/2499/index.m3u8
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.2.fr" tvg-logo="https://i.imgur.com/H1sCiDa.png" group-title="beIN SPORTS", 🇫🇷 beIN Sports 2 FHD 25fps (ip)
 http://99.27.51.147:8080/BeinSport2/index.m3u8
@@ -3629,6 +3740,8 @@ http://99.27.51.147:8080/BeinSport2/index.m3u8
 http://ua.online24.pm/play/1102/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 tvg-id="beIN.SPORTS.2.fr" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/mcrgaM7.png", 🇫🇷 beIN SPORTS 2 FHD 50fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2500/index.m3u8
+#EXTINF:-1 tvg-id="beIN.SPORTS.2.fr" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/mcrgaM7.png", 🇫🇷 beIN SPORTS 2 FHD 50fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/2500/index.m3u8
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.3.fr" tvg-logo="https://i.imgur.com/FgNHiav.png" group-title="beIN SPORTS", 🇫🇷 beIN Sports 3 FHD 25fps (ip)
 http://99.27.51.147:8080/BeinSport3/index.m3u8
@@ -3647,6 +3760,8 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/659436
 https://cdn-1.ttvb.eu.org/api/beIN-Sports-1/index.m3u8
 #EXTINF:-1 tvg-id="NEWS_DIGITAL_Mono_EN.bein" group-title="beIN SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/y8m9j21631279281.png", 🇶🇦 beIN SPORTS 1 FHD 25fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6123/index.m3u8
+#EXTINF:-1 tvg-id="NEWS_DIGITAL_Mono_EN.bein" group-title="beIN SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/y8m9j21631279281.png", 🇶🇦 beIN SPORTS 1 FHD 25fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/6123/index.m3u8
 #EXTINF:-1 tvg-id="beIN_SPORTS1_ENGLISH_Digital_Mono_AR.bein" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/HKfUqi7.png", beIN SPORTS 1 FHD 25fps (r) ?
 https://restream-live.realiptv.to/MotherOfPins3/8746645/714411
 
@@ -3665,6 +3780,8 @@ https://cdn-1.ttvb.eu.org/api/beIN-Sports-3/index.m3u8
 http://ua.online24.pm/play/1103/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 tvg-id="beIN.SPORTS.3.tr" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/mcrgaM7.png", TR: beIN SPORTS 3 HD 25fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2501/index.m3u8
+#EXTINF:-1 tvg-id="beIN.SPORTS.3.tr" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/mcrgaM7.png", TR: beIN SPORTS 3 HD 25fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/2501/index.m3u8
 
 
 #EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-logo="https://i.imgur.com/eOlysDj.png" group-title="beIN SPORTS", beIN SPORTS FHD (ze)
@@ -3696,42 +3813,59 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 # # # ---------------------------------------- 📺 Setanta Sports ----------------------------------------
 #EXTINF:-1 tvg-id="Setanta.Sports.HD.ua" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/fLgsVsj.png", 🇺🇦 Setanta Sports FHD 50fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31755/index.m3u8
+#EXTINF:-1 tvg-id="Setanta.Sports.HD.ua" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/fLgsVsj.png", 🇺🇦 Setanta Sports FHD 50fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/31755/index.m3u8
 #EXTINF:-1 tvg-id="Setanta.Sports.HD.ua" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/fLgsVsj.png", 🇺🇦 Setanta Sports FHD 25fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/15183/index.m3u8
+#EXTINF:-1 tvg-id="Setanta.Sports.HD.ua" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/fLgsVsj.png", 🇺🇦 Setanta Sports FHD 25fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/15183/index.m3u8
 #EXTINF:-1 tvg-id="Setanta.Sports.HD.ua" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/fLgsVsj.png", 🇺🇦 Setanta Sports FHD 25fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/272/index.m3u8
-#EXTINF:-1 tvg-id="Setanta.Sports.HD.ua" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/fLgsVsj.png", 🇺🇦 Setanta Sports FHD 25fps (bk1)
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/272/index.m3u8
+#EXTINF:-1 tvg-id="Setanta.Sports.HD.ua" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/fLgsVsj.png", 🇺🇦 Setanta Sports FHD 25fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/272/index.m3u8
 
 #EXTINF:-1 tvg-id="Setanta.Sports.1.HD.ua" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", 🇺🇦 Setanta Sports 1 FHD 25fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/5069/index.m3u8
-#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.ua" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", 🇺🇦 Setanta Sports 1 FHD 25fps (bk1)
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/5069/index.m3u8
+#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.ua" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", 🇺🇦 Setanta Sports 1 FHD 25fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/5069/index.m3u8
 
 #EXTINF:-1 tvg-id="Setanta.Sports.plus.HD.ua" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", 🇺🇦 Setanta Sports + FHD 25fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/5068/index.m3u8
+#EXTINF:-1 tvg-id="Setanta.Sports.plus.HD.ua" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", 🇺🇦 Setanta Sports + FHD 25fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/5068/index.m3u8
 #EXTINF:-1 tvg-id="Setanta.Sports.plus.HD.ua" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", 🇺🇦 Setanta Sports + FHD 25fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/5068/index.m3u8
+#EXTINF:-1 tvg-id="Setanta.Sports.plus.HD.ua" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", 🇺🇦 Setanta Sports + FHD 25fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/5068/index.m3u8
 
 #EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", 🇱🇻 Setanta Sports 1 FHD 60fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/20065/index.m3u8
+#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", 🇱🇻 Setanta Sports 1 FHD 60fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/20065/index.m3u8
 #EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", 🇱🇻 Setanta Sports 1 FHD 25fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6541/index.m3u8
+#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", 🇱🇻 Setanta Sports 1 FHD 25fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/6541/index.m3u8
 #EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", 🇱🇻 Setanta Sports 1 FHD 25fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/271/index.m3u8
+#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", 🇱🇻 Setanta Sports 1 FHD 25fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/271/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Setanta.Sports.2.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/ZGsNPOZ.png", 🇱🇻 Setanta Sports 2 FHD 25fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/270/index.m3u8
+#EXTINF:-1 tvg-id="Setanta.Sports.2.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/ZGsNPOZ.png", 🇱🇻 Setanta Sports 2 FHD 25fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/270/index.m3u8
 #EXTINF:-1 tvg-id="Setanta.Sports.2.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/ZGsNPOZ.png", 🇱🇻 Setanta Sports 2 FHD 25fps (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6542/index.m3u8
-
+#EXTINF:-1 tvg-id="Setanta.Sports.2.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/ZGsNPOZ.png", 🇱🇻 Setanta Sports 2 FHD 25fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/6542/index.m3u8
 
 #EXTINF:0 group-title="Setanta Sports"
 
 # # # ---------------------------------------- 📺 🇨🇦 TSN Sports ----------------------------------------
 #EXTINF:-1 tvg-id="TSN.4K.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/3QnA16Y.png", CA: TSN UHD 60fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/61686.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/61686.ts
 
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/fs7QEno.png", TSN 1 FHD 25fps [?]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
@@ -3746,7 +3880,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7janu55dwc/
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/fs7QEno.png", TSN 1 FHD 60fps (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/40651
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/fs7QEno.png", TSN 1 FHD 60fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/57428.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/57428.ts
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/fs7QEno.png", TSN 1 FHD 60fps (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/15929
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/fs7QEno.png", TSN 1 HD 30fps (tv)
@@ -3772,7 +3906,7 @@ https://qw.live.pv-cdn.net/OTTB/sin-nitro/live/clients/dash/enc/3n6slkgh54/out/v
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/kBQXl8d.png", TSN 2 FHD 60fps (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/40650
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/kBQXl8d.png", TSN 2 FHD 60fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/57429.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/57429.ts
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/kBQXl8d.png", TSN 2 FHD 60fps (tv)
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/16129
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/kBQXl8d.png", TSN 2 FHD 60fps (tv)
@@ -3797,7 +3931,7 @@ http://kstv.us:8080/Freshcobar23/83261331891/15927
 #EXTINF:-1 tvg-id="TSN.3.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/X4erIdG.png", TSN 3 FHD 60fps (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/40649
 #EXTINF:-1 tvg-id="TSN.3.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/X4erIdG.png", TSN 3 FHD 60fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/57430.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/57430.ts
 #EXTINF:-1 tvg-id="TSN.3.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/X4erIdG.png", TSN 3 FHD 60fps (tv)
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/10389
 #EXTINF:-1 tvg-id="TSN.3.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/X4erIdG.png", TSN 3 FHD 60fps (tv)
@@ -3822,7 +3956,7 @@ http://kstv.us:8080/Freshcobar23/83261331891/15926
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/zGQkRKW.png", TSN 4 FHD 60fps (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/40648
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/zGQkRKW.png", TSN 4 FHD 60fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/57431.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/57431.ts
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/zGQkRKW.png", TSN 4 FHD 60fps (tv)
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/16130
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/zGQkRKW.png", TSN 4 FHD 60fps (tv)
@@ -3845,7 +3979,7 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jkcljgqbx8/
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/3QnA16Y.png", TSN 5 FHD 60fps (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/40647
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/3QnA16Y.png", TSN 5 FHD 60fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/57432.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/57432.ts
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/3QnA16Y.png", TSN 5 HD 30fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/3142
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/3QnA16Y.png", TSN 5 FHD 60fps (bk1)
@@ -3891,9 +4025,9 @@ http://kstv.us:8080/Freshcobar23/83261331891/22467
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="🟢 Tennis" tvg-logo="https://i.imgur.com/LP0kWWX.png", Tennis Channel (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/15940
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="🟢 Tennis" tvg-logo="https://i.imgur.com/LP0kWWX.png", Tennis Channel (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/43978.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/43978.ts
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="🟢 Tennis" tvg-logo="https://i.imgur.com/LP0kWWX.png", Tennis Channel (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/20970.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/20970.ts
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="🟢 Tennis" tvg-logo="https://i.imgur.com/LP0kWWX.png", Tennis Channel (tv)
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/20184
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="🟢 Tennis" tvg-logo="https://i.imgur.com/LP0kWWX.png", Tennis Channel (r)
@@ -3916,22 +4050,22 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bfigtl960n/
 
 # # # ---------------------------------------- 📺 Sportsnet  ----------------------------------------
 #EXTINF:-1 tvg-id="Sportsnet.East.HD.ca2" group-title="🇨🇦 Sportsnet" tvg-logo="https://i.imgur.com/j8e8Hjo.png", Sportsnet East UHD (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/61683.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/61683.ts
 
 #EXTINF:-1 tvg-id="Sportsnet.One.HD.ca2" group-title="🇨🇦 Sportsnet" tvg-logo="https://i.imgur.com/9N3QiZe.png", Sportsnet One UHD (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/61684.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/61684.ts
 
 #EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" group-title="🇨🇦 Sportsnet" tvg-logo="https://i.imgur.com/j8e8Hjo.png", Sportsnet 360 (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/40618
 #EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" group-title="🇨🇦 Sportsnet" tvg-logo="https://i.imgur.com/j8e8Hjo.png", Sportsnet 360 (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/21233.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/21233.ts
 #EXTINF:-1 tvg-id="Sportsnet.360.ca2" group-title="🇨🇦 Sportsnet" tvg-logo="https://i.imgur.com/j8e8Hjo.png", Sportsnet 360 (tv)
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/57299
 #EXTINF:-1 tvg-id="Sportsnet.360.ca2" group-title="🇨🇦 Sportsnet" tvg-logo="https://i.imgur.com/j8e8Hjo.png", Sportsnet 360 (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/3073
 
 #EXTINF:-1 tvg-id="Sportsnet.One.HD.ca2" group-title="🇨🇦 Sportsnet" tvg-logo="https://i.imgur.com/9N3QiZe.png", Sportsnet One (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/21235.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/21235.ts
 #EXTINF:-1 tvg-id="Sportsnet.One.HD.ca2" group-title="🇨🇦 Sportsnet" tvg-logo="https://i.imgur.com/9N3QiZe.png", Sportsnet One (tv)
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/10247
 #EXTINF:-1 tvg-id="Sportsnet.One.HD.ca2" group-title="🇨🇦 Sportsnet" tvg-logo="https://i.imgur.com/9N3QiZe.png", Sportsnet One (tv)
@@ -3944,7 +4078,7 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/3071
 #EXTINF:-1 tvg-id="Sportsnet.World.HD.ca2" group-title="🇨🇦 Sportsnet" tvg-logo="https://i.imgur.com/QvUIQRb.png", Sportsnet World (ks)
 http://kstv.us:8080/Freshcobar23/83261331891/15936
 #EXTINF:-1 tvg-id="Sportsnet.World.HD.ca2" group-title="🇨🇦 Sportsnet" tvg-logo="https://i.imgur.com/QvUIQRb.png", Sportsnet World (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/21239.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/21239.ts
 #EXTINF:-1 tvg-id="Sportsnet.World.ca2" group-title="🇨🇦 Sportsnet" tvg-logo="https://i.imgur.com/QvUIQRb.png", Sportsnet World (tv)
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/75675
 #EXTINF:-1 tvg-id="Sportsnet.World.ca2" group-title="🇨🇦 Sportsnet" tvg-logo="https://i.imgur.com/QvUIQRb.png", Sportsnet World (r)
@@ -4097,7 +4231,7 @@ http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/5075/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport.1.HD.pt" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", PT: Eurosport 1 FHD 60fps (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/911
 #EXTINF:-1 tvg-id="Eurosport.1.HD.pt" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", PT: Eurosport 1 FHD 50fps (g)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/60001.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/60001.ts
 #EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", SR: Eurosport 1 FHD 50fps (ip)
 http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", 🇬🇧 Eurosport 1 FHD 25fps (bk1)
@@ -4122,7 +4256,7 @@ http://kstv.us:8080/Freshcobar23/83261331891/48450
 #EXTINF:-1 tvg-id="Eurosport.2.F.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", 🇬🇧 Eurosport 2 (r) ??
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2285
 #EXTINF:-1 tvg-id="Eurosport.2.HD.lv" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", PT: Eurosport 2 (g) ??
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/60002.ts
+#http://greenslime.cx/live/Bklyn347/QY06ksq41x/60002.ts
 
 #EXTINF:0 group-title="Eurosport"
 
