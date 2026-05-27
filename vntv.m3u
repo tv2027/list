@@ -2539,6 +2539,10 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527597&exten
 #EXTINF:-1 tvg-id="Sky.Sport.2.nz" tvg-logo="https://i.imgur.com/gXI6YNC.png" group-title="🇬🇧 Sky Sports", 🇬🇧 Sky Sports Event 2 UHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527596&extension=ts&play_token=f6zcGdFpW9
 
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk"  tvg-logo="https://i.imgur.com/UlwVQr4.png" group-title="🇬🇧 Sky Sports", Sky Sports Main Event FHD 50fps (pk)
+https://601.thelistener.pk/main.m3u8
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk"  tvg-logo="https://i.imgur.com/UlwVQr4.png" group-title="🇬🇧 Sky Sports", Sky Sports Main Event FHD 50fps (br)
+https://601.formaturamaxi.com.br/main.m3u8
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk"  tvg-logo="https://i.imgur.com/UlwVQr4.png" group-title="🇬🇧 Sky Sports", Sky Sports Main Event FHD 50fps (g)
 #http://greenslime.cx/live/Bklyn347/QY06ksq41x/58925.ts
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.HD.ie"  tvg-logo="https://i.imgur.com/UlwVQr4.png" group-title="🇬🇧 Sky Sports", Sky Sports Main Event FHD 50fps (r)
