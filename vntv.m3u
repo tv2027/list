@@ -991,7 +991,7 @@ https://truyenhinhonline.trungdungmedia.com/proxy?url=https://hoiquan.dpdns.org/
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https://liveatmvng.vtvprime.vn/live/data8/SCTV14/Live_DASHDRM/SCTV14.mpd
 
 
-#EXTINF:-1 tvg-id="sctv15" group-title="SCTV" tvg-logo="https://i.imgur.com/ODOj17n.png", SCTV15 (Thể thao) (1080p) [?]
+#EXTINF:-1 tvg-id="sctv15" group-title="SCTV" tvg-logo="https://i.imgur.com/ODOj17n.png", SCTV15 (Thể thao) (p) (1080p) [?]
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1007,7 +1007,7 @@ https://livesct.vtvprime.vn/mean/SCTV15HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
 https://liveatmvng.vtvprime.vn/live/data8/SCTV16/Live_DASHDRM/SCTV16.mpd
 
-#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://i.imgur.com/ldCYtvt.png", SCTV16 (Phim nước ngoài) (hq) (1080p)
+#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://i.imgur.com/ldCYtvt.png", SCTV16 (Phim nước ngoài) (hq)
 #https://liveh34.vtvprime.vn/hls/SCTV16/index.m3u8
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https://hoiquan.dpdns.org/VTVGo/?sctv16
 
@@ -1019,7 +1019,7 @@ https://truyenhinhonline.trungdungmedia.com/proxy?url=https://hoiquan.dpdns.org/
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https://liveatmvng.vtvprime.vn/live/data8/SCTV16/Live_DASHDRM/SCTV16.mpd
 
 
-#EXTINF:-1 tvg-id="sctv17" group-title="SCTV" tvg-logo="https://i.imgur.com/yvwvm92.png", SCTV17 (Thể thao & Cuộc sống) (720p) [?]
+#EXTINF:-1 tvg-id="sctv17" group-title="SCTV" tvg-logo="https://i.imgur.com/yvwvm92.png", SCTV17 (Thể thao & Cuộc sống) (p) (720p) [?]
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1051,6 +1051,7 @@ https://truyenhinhonline.trungdungmedia.com/proxy?url=https://liveatmvng.vtvprim
 #https://liveh34.vtvprime.vn/hls/SCTV19/index.m3u8
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https://hoiquan.dpdns.org/VTVGo/?sctv19
 
+
 #EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://i.imgur.com/7ABZhfZ.png", SCTV20 (Kênh ca nhạc) (p) (1080p) [?] [Geo-blocked]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1078,10 +1079,9 @@ https://liveatmvng.vtvprime.vn/live/data8/SCTV21/Live_DASHDRM/SCTV21.mpd
 
 #EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://i.imgur.com/yOX3ZAZ.png", SCTV21 - Việt Nam Ký Ức (hq) (1080p)
 #https://liveh34.vtvprime.vn/hls/SCTV21/index.m3u8
-https://truyenhinhonline.trungdungmedia.com/proxy?url=https%3A%2F%2Fhoiquan.dpdns.org%2FVTVGo%2F%3Fsctv21
+https://truyenhinhonline.trungdungmedia.com/proxy?url=https://hoiquan.dpdns.org/VTVGo/?sctv21
 
 #EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://i.imgur.com/yOX3ZAZ.png", SCTV21 - Việt Nam Ký Ức (pr) (1080p) [?]
-https://truyenhinhonline.trungdungmedia.com/proxy?url=https://hoiquan.dpdns.org/VTVGo/?sctv21
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3256,6 +3256,26 @@ http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/10079/index.m3u8
 
 #EXTINF:0 group-title="Sky Sports 🇩🇪"
 
+# # # ---------------------------------------- 📺 Sky Sports 🇲🇽 ----------------------------------------
+#EXTINF:-1  group-title="Sky Sports 🇲🇽" tvg-logo="http://vietsimpletv.ucoz.com//live/logo/skylive.png", Sky Sports LIVE 1 🇲🇽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
+https://nog-live1-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-1-HD/default.mpd
+
+#EXTINF:-1  group-title="Sky Sports 🇲🇽" tvg-logo="http://vietsimpletv.ucoz.com//live/logo/skylive.png", Sky Sports LIVE 2 🇲🇽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
+https://nog-live1-ott.izzigo.tv/15/out/u/dash/SKY-LIVE-EVENT-2-HD/default.mpd
+
+#EXTINF:-1 tvg-id="Sky.Sports.LaLiga.mx" group-title="Sky Sports 🇲🇽" tvg-logo="", Sky Sports LaLiga
+http://179.60.224.196:8000/play/a0i7/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.LaLiga.mx" group-title="Sky Sports 🇲🇽" tvg-logo="", Sky Sports LaLiga
+http://190.92.10.66:4000/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.LaLiga.mx" group-title="Sky Sports 🇲🇽" tvg-logo="", Sky Sports LaLiga
+http://181.78.109.48:9998/play/a06r/index.m3u8
+
 # # # ---------------------------------------- 📺 🇳🇱 Ziggo Sport  ----------------------------------------
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" group-title="🇳🇱 Ziggo Sport" tvg-logo="https://i.imgur.com/v0zJNNj.png", Ziggo Sport UHD 50fps (as56)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1544251&extension=ts&play_token=eXmUUz3vmV
@@ -3369,88 +3389,88 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=1512426&exten
 
 # # # ---------------------------------------- 📺 🇵🇱 Polsat Sports  ----------------------------------------
 
-#EXTINF:-1 tvg-id="Polsat.Sport.Premium.1.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/60hby51700906886.png", Polsat Sport Premium 1 (ip)
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.1.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/60hby51700906886.png", Polsat Sport Premium 1 (ip)
 http://91.146.94.234:10001/play/a05a
-#EXTINF:-1 tvg-id="Polsat.Sport.Premium.1.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/60hby51700906886.png", Polsat Sport Premium 1 (bk1)
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.1.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/60hby51700906886.png", Polsat Sport Premium 1 (bk1)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7304/index.m3u8
-#EXTINF:-1 tvg-id="4550" group-title=🇵🇱 Polsat Sports tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/60hby51700906886.png", Polsat Sport Premium 1 (bk2)
+#EXTINF:-1 tvg-id="4550" group-title="🇵🇱 Polsat Sports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/60hby51700906886.png", Polsat Sport Premium 1 (bk2)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7304/index.m3u8
-#EXTINF:-1 tvg-id="4550" group-title=🇵🇱 Polsat Sports tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/60hby51700906886.png", Polsat Sport Premium 1 (bk3)
+#EXTINF:-1 tvg-id="4550" group-title="🇵🇱 Polsat Sports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/60hby51700906886.png", Polsat Sport Premium 1 (bk3)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://185.135.84.106/iptv/GKTT8YW6E9SFM2/7304/index.m3u8
 
-#EXTINF:-1 tvg-id="Polsat.Sport.Premium.2.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cipaa91730504620.png", Polsat Sport Premium 2 (ip)
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.2.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cipaa91730504620.png", Polsat Sport Premium 2 (ip)
 http://91.146.94.234:10001/play/a05b
-#EXTINF:-1 tvg-id="Polsat.Sport.Premium.2.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cipaa91730504620.png", Polsat Sport Premium 2 (bk1)
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.2.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cipaa91730504620.png", Polsat Sport Premium 2 (bk1)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7305/index.m3u8
-#EXTINF:-1 tvg-id="4551" group-title=🇵🇱 Polsat Sports tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cipaa91730504620.png", Polsat Sport Premium 2 (bk2)
+#EXTINF:-1 tvg-id="4551" group-title="🇵🇱 Polsat Sports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cipaa91730504620.png", Polsat Sport Premium 2 (bk2)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7305/index.m3u8
-#EXTINF:-1 tvg-id="Polsat.Sport.Premium.2.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cipaa91730504620.png", Polsat Sport Premium 2 (bk3)
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.2.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cipaa91730504620.png", Polsat Sport Premium 2 (bk3)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://185.135.84.106/iptv/GKTT8YW6E9SFM2/7305/index.m3u8
 
-#EXTINF:-1 tvg-id="Polsat.Sport.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/padw0k1655540397.png", Polsat Sport 1 (ip)
+#EXTINF:-1 tvg-id="Polsat.Sport.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/padw0k1655540397.png", Polsat Sport 1 (ip)
 http://91.146.94.234:10001/play/a06y
-#EXTINF:-1 tvg-id="Polsat.Sport.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/padw0k1655540397.png", Polsat Sport 1 (bk1)
+#EXTINF:-1 tvg-id="Polsat.Sport.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/padw0k1655540397.png", Polsat Sport 1 (bk1)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7296/index.m3u8
-#EXTINF:-1 tvg-id="4548" group-title=🇵🇱 Polsat Sports tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/padw0k1655540397.png", Polsat Sport 1 (bk2)
+#EXTINF:-1 tvg-id="4548" group-title="🇵🇱 Polsat Sports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/padw0k1655540397.png", Polsat Sport 1 (bk2)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7296/index.m3u8
-#EXTINF:-1 tvg-id="Polsat.Sport.HD.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/padw0k1655540397.png", Polsat Sport 1 (bk3)
+#EXTINF:-1 tvg-id="Polsat.Sport.HD.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/padw0k1655540397.png", Polsat Sport 1 (bk3)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://185.135.84.106/iptv/GKTT8YW6E9SFM2/7296/index.m3u8
 
-#EXTINF:-1 tvg-id="4556" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/x2hsgr1771005739.png", Polsat Sport 2 (ip)
+#EXTINF:-1 tvg-id="4556" group-title="🇵🇱 Polsat Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/x2hsgr1771005739.png", Polsat Sport 2 (ip)
 http://91.146.94.234:10001/play/a06z
-#EXTINF:-1 tvg-id="4556" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/x2hsgr1771005739.png", Polsat Sport 2 (bk1)
+#EXTINF:-1 tvg-id="4556" group-title="🇵🇱 Polsat Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/x2hsgr1771005739.png", Polsat Sport 2 (bk1)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7310/index.m3u8
-#EXTINF:-1 tvg-id="4556" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/x2hsgr1771005739.png", Polsat Sport 2 (bk2)
+#EXTINF:-1 tvg-id="4556" group-title="🇵🇱 Polsat Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/x2hsgr1771005739.png", Polsat Sport 2 (bk2)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7310/index.m3u8
-#EXTINF:-1 tvg-id="4556" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/x2hsgr1771005739.png", Polsat Sport 2 (bk3)
+#EXTINF:-1 tvg-id="4556" group-title="🇵🇱 Polsat Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/x2hsgr1771005739.png", Polsat Sport 2 (bk3)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://185.135.84.106/iptv/GKTT8YW6E9SFM2/7310/index.m3u8
 
-#EXTINF:-1 tvg-id="4549" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/d7rdcx1771005909.png", Polsat Sport 3 (ip)
+#EXTINF:-1 tvg-id="4549" group-title="🇵🇱 Polsat Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/d7rdcx1771005909.png", Polsat Sport 3 (ip)
 http://91.146.94.234:10001/play/a071
-#EXTINF:-1 tvg-id="4549" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/d7rdcx1771005909.png", Polsat Sport 3 (bk1)
+#EXTINF:-1 tvg-id="4549" group-title="🇵🇱 Polsat Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/d7rdcx1771005909.png", Polsat Sport 3 (bk1)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7303/index.m3u8
-#EXTINF:-1 tvg-id="4549" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/d7rdcx1771005909.png", Polsat Sport 3 (bk2)
+#EXTINF:-1 tvg-id="4549" group-title="🇵🇱 Polsat Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/d7rdcx1771005909.png", Polsat Sport 3 (bk2)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7303/index.m3u8
-#EXTINF:-1 tvg-id="4549" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/d7rdcx1771005909.png", Polsat Sport 3 (bk3)
+#EXTINF:-1 tvg-id="4549" group-title="🇵🇱 Polsat Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/d7rdcx1771005909.png", Polsat Sport 3 (bk3)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://185.135.84.106/iptv/GKTT8YW6E9SFM2/7303/index.m3u8
 
-#EXTINF:-1 tvg-id="Polsat.Sport.Extra.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/b5i0891771006965.png", Polsat Sport Extra 1 (ip)
+#EXTINF:-1 tvg-id="Polsat.Sport.Extra.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/b5i0891771006965.png", Polsat Sport Extra 1 (ip)
 http://91.146.94.234:10001/play/a07r
-#EXTINF:-1 tvg-id="Polsat.Sport.Extra.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/b5i0891771006965.png", Polsat Sport Extra 1 (bk1)
+#EXTINF:-1 tvg-id="Polsat.Sport.Extra.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/b5i0891771006965.png", Polsat Sport Extra 1 (bk1)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7308/index.m3u8
-#EXTINF:-1 tvg-id="Polsat.Sport.Extra.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/b5i0891771006965.png", Polsat Sport Extra 1 (bk2)
+#EXTINF:-1 tvg-id="Polsat.Sport.Extra.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/b5i0891771006965.png", Polsat Sport Extra 1 (bk2)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7308/index.m3u8
-#EXTINF:-1 tvg-id="Polsat.Sport.Extra.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/b5i0891771006965.png", Polsat Sport Extra 1 (bk3)
+#EXTINF:-1 tvg-id="Polsat.Sport.Extra.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/b5i0891771006965.png", Polsat Sport Extra 1 (bk3)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://185.135.84.106/iptv/GKTT8YW6E9SFM2/7308/index.m3u8
 
-#EXTINF:-1 tvg-id="Polsat.Sport.Premium.4.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/icov3p1771007068.png", Polsat Sport Extra 2 (ip)
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.4.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/icov3p1771007068.png", Polsat Sport Extra 2 (ip)
 http://91.146.94.234:10001/play/a07s
-#EXTINF:-1 tvg-id="Polsat.Sport.Premium.4.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/icov3p1771007068.png", Polsat Sport Extra 2 (bk1)
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.4.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/icov3p1771007068.png", Polsat Sport Extra 2 (bk1)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7309/index.m3u8
-#EXTINF:-1 tvg-id="Polsat.Sport.Premium.4.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/icov3p1771007068.png", Polsat Sport Extra 2 (bk2)
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.4.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/icov3p1771007068.png", Polsat Sport Extra 2 (bk2)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7309/index.m3u8
-#EXTINF:-1 tvg-id="88035" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/icov3p1771007068.png", Polsat Sport Extra 2 (bk3)
+#EXTINF:-1 tvg-id="88035" group-title="🇵🇱 Polsat Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/icov3p1771007068.png", Polsat Sport Extra 2 (bk3)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://185.135.84.106/iptv/GKTT8YW6E9SFM2/7309/index.m3u8
 
-#EXTINF:-1 tvg-id="Polsat.Sport.Premium.5.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/b7twj21771007231.png", Polsat Sport Extra 3 (ip)
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.5.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/b7twj21771007231.png", Polsat Sport Extra 3 (ip)
 http://91.146.94.234:10001/play/a07a
-#EXTINF:-1 tvg-id="Polsat.Sport.Premium.5.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/b7twj21771007231.png", Polsat Sport Extra 3 (bk1)
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.5.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/b7twj21771007231.png", Polsat Sport Extra 3 (bk1)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7306/index.m3u8
-#EXTINF:-1 tvg-id="Polsat.Sport.Premium.5.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/b7twj21771007231.png", Polsat Sport Extra 3 (bk2)
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.5.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/b7twj21771007231.png", Polsat Sport Extra 3 (bk2)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7306/index.m3u8
-#EXTINF:-1 tvg-id="Polsat.Sport.Premium.5.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/b7twj21771007231.png", Polsat Sport Extra 3 (bk3)
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.5.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/b7twj21771007231.png", Polsat Sport Extra 3 (bk3)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://185.135.84.106/iptv/GKTT8YW6E9SFM2/7306/index.m3u8
 
-#EXTINF:-1 tvg-id="Polsat.Sport.Premium.6.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ibcrle1771006210.png", Polsat Sport Extra 4 (ip)
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.6.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ibcrle1771006210.png", Polsat Sport Extra 4 (ip)
 http://91.146.94.234:10001/play/a07b
-#EXTINF:-1 tvg-id="4553" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ibcrle1771006210.png", Polsat Sport Extra 4 (bk1)
+#EXTINF:-1 tvg-id="4553" group-title="🇵🇱 Polsat Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ibcrle1771006210.png", Polsat Sport Extra 4 (bk1)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7307/index.m3u8
-#EXTINF:-1 tvg-id="4553" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ibcrle1771006210.png", Polsat Sport Extra 4 (bk2)
+#EXTINF:-1 tvg-id="4553" group-title="🇵🇱 Polsat Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ibcrle1771006210.png", Polsat Sport Extra 4 (bk2)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7307/index.m3u8
-#EXTINF:-1 tvg-id="Polsat.Sport.Premium.6.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ibcrle1771006210.png", Polsat Sport Extra 4 (bk3)
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.6.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ibcrle1771006210.png", Polsat Sport Extra 4 (bk3)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://185.135.84.106/iptv/GKTT8YW6E9SFM2/7307/index.m3u8
 
-#EXTINF:-1 tvg-id="Polsat.Sport.Fight.HD.pl" group-title=🇵🇱 Polsat Sports tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-sport-fight-pl.png", Polsat Sport Fight (ip)
+#EXTINF:-1 tvg-id="Polsat.Sport.Fight.HD.pl" group-title="🇵🇱 Polsat Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-sport-fight-pl.png", Polsat Sport Fight (ip)
 http://91.146.94.234:10001/play/a070
 
 
