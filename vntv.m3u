@@ -926,8 +926,25 @@ https://sgclient.duckdns.org/source/tv360.m3u8?id=232
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.imgur.com/SMYAsbk.png", SCTV6 (Giải trí thế hệ mới) (p) (720p)
 https://liveh34.vtvprime.vn/hls/SCTV6/index.m3u8
 
-#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://i.imgur.com/RW0PkC7.png", SCTV7 (Kênh sân khấu) (p) (720p)
-https://liveh34.vtvprime.vn/hls/SCTV7/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://i.imgur.com/RW0PkC7.png", SCTV7 (Kênh sân khấu) (p) [?] [Geo-blocked]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
+https://liveatmvng.vtvprime.vn/live/data8/SCTV7/Live_DASHDRM/SCTV7.mpd
+
+#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://i.imgur.com/RW0PkC7.png", SCTV7 (Kênh sân khấu) (hq) (720p)
+#https://liveh34.vtvprime.vn/hls/SCTV7/index.m3u8
+https://truyenhinhonline.trungdungmedia.com/proxy?url=https://hoiquan.dpdns.org/VTVGo/?sctv7
+
+#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://i.imgur.com/RW0PkC7.png", SCTV7 (Kênh sân khấu) (pr) [?] [Geo-blocked]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
+https://truyenhinhonline.trungdungmedia.com/proxy?url=https://liveatmvng.vtvprime.vn/live/data8/SCTV7/Live_DASHDRM/SCTV7.mpd
+
 
 #EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://i.imgur.com/wy6O4Au.png", SCTV8 (Kinh tế thị trường) (p) (720p)
 https://liveh34.vtvprime.vn/hls/SCTV8/index.m3u8
@@ -954,9 +971,25 @@ https://truyenhinhonline.trungdungmedia.com/proxy?url=https://hoiquan.dpdns.org/
 #https://liveh34.vtvprime.vn/hls/SCTV13/index.m3u8
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https://hoiquan.dpdns.org/VTVGo/?sctv13
 
+
+#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://i.imgur.com/fT7HglO.png", SCTV14 Phim Việt (p) [?] [Geo-blocked]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
+https://liveatmvng.vtvprime.vn/live/data8/SCTV14/Live_DASHDRM/SCTV14.mpd
+
 #EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://i.imgur.com/fT7HglO.png", SCTV14 Phim Việt (hq) (720p)
 #https://liveh34.vtvprime.vn/hls/SCTV14/index.m3u8
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https://hoiquan.dpdns.org/VTVGo/?sctv14
+
+#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://i.imgur.com/fT7HglO.png", SCTV14 Phim Việt (pr) [?]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
+https://truyenhinhonline.trungdungmedia.com/proxy?url=https://liveatmvng.vtvprime.vn/live/data8/SCTV14/Live_DASHDRM/SCTV14.mpd
+
 
 #EXTINF:-1 tvg-id="sctv15" group-title="SCTV" tvg-logo="https://i.imgur.com/ODOj17n.png", SCTV15 (Thể thao) (1080p) [?]
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
@@ -966,9 +999,25 @@ https://truyenhinhonline.trungdungmedia.com/proxy?url=https://hoiquan.dpdns.org/
 https://livesct.vtvprime.vn/mean/SCTV15HD/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/mean/SCTV15HD/manifest.mpd
 
+
+#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://i.imgur.com/ldCYtvt.png", SCTV16 (Phim nước ngoài) (p) (1080p) [?] [Geo-blocked]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
+https://liveatmvng.vtvprime.vn/live/data8/SCTV16/Live_DASHDRM/SCTV16.mpd
+
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://i.imgur.com/ldCYtvt.png", SCTV16 (Phim nước ngoài) (hq) (1080p)
 #https://liveh34.vtvprime.vn/hls/SCTV16/index.m3u8
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https://hoiquan.dpdns.org/VTVGo/?sctv16
+
+#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://i.imgur.com/ldCYtvt.png", SCTV16 (Phim nước ngoài) (pr) (1080p) [?]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
+https://truyenhinhonline.trungdungmedia.com/proxy?url=https://liveatmvng.vtvprime.vn/live/data8/SCTV16/Live_DASHDRM/SCTV16.mpd
+
 
 #EXTINF:-1 tvg-id="sctv17" group-title="SCTV" tvg-logo="https://i.imgur.com/yvwvm92.png", SCTV17 (Thể thao & Cuộc sống) (720p) [?]
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
@@ -978,11 +1027,27 @@ https://truyenhinhonline.trungdungmedia.com/proxy?url=https://hoiquan.dpdns.org/
 https://livesct.vtvprime.vn/mean/SCTV17/manifest.mpd
 #https://livevlisctcdnw.seenow.vn/mean/SCTV17/manifest.mpd
 
+
+#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://i.imgur.com/dFQW7e5.png", SCTV18 (p) [?] [Geo-blocked]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0233f235986e4964b105a6021f911b1d:d7ee829dd37649a488b9558b4dd209e6
+https://liveatmvng.vtvprime.vn/live/data8/SCTV18/Live_DASHDRM/SCTV18.mpd
+
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://i.imgur.com/dFQW7e5.png", SCTV18 (hq) (720p)
 #https://liveh34.vtvprime.vn/hls/SCTV18/index.m3u8
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https://hoiquan.dpdns.org/VTVGo/?sctv18
 
-#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://i.imgur.com/F7RxSl7.png", SCTV19 T Channel (hq) (720p) 
+#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://i.imgur.com/dFQW7e5.png", SCTV18 (pr) [?]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0233f235986e4964b105a6021f911b1d:d7ee829dd37649a488b9558b4dd209e6
+https://truyenhinhonline.trungdungmedia.com/proxy?url=https://liveatmvng.vtvprime.vn/live/data8/SCTV18/Live_DASHDRM/SCTV18.mpd
+
+
+#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://i.imgur.com/F7RxSl7.png", SCTV19 T Channel (hq) (720p)
 #https://liveh34.vtvprime.vn/hls/SCTV19/index.m3u8
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https://hoiquan.dpdns.org/VTVGo/?sctv19
 
@@ -1015,7 +1080,7 @@ https://liveatmvng.vtvprime.vn/live/data8/SCTV21/Live_DASHDRM/SCTV21.mpd
 #https://liveh34.vtvprime.vn/hls/SCTV21/index.m3u8
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https%3A%2F%2Fhoiquan.dpdns.org%2FVTVGo%2F%3Fsctv21
 
-#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://i.imgur.com/yOX3ZAZ.png", SCTV21 - Việt Nam Ký Ức (p) (1080p) [?]
+#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://i.imgur.com/yOX3ZAZ.png", SCTV21 - Việt Nam Ký Ức (pr) (1080p) [?]
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https://hoiquan.dpdns.org/VTVGo/?sctv21
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1030,17 +1095,16 @@ https://truyenhinhonline.trungdungmedia.com/proxy?url=https://liveatmvng.vtvprim
 #KODIPROP:inputstream.adaptive.license_key=883fe37e69254f0db1a9c8908e5ab56f:8f0762de62f849039420b513068aca40
 https://liveatmvng.vtvprime.vn/live/data8/SCTV22/Live_DASHDRM/SCTV22.mpd
 
-#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://i.imgur.com/rDQvTAm.png", SCTV22 Sport (hq) (1080p)
+#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://i.imgur.com/rDQvTAm.png", SCTV22 Sport (hq) (1080p) ??
 #https://liveh34.vtvprime.vn/hls/SCTV22/index.m3u8
-https://truyenhinhonline.trungdungmedia.com/proxy?url=https%3A%2F%2Fhoiquan.dpdns.org%2FVTVGo%2F%3Fsctv22
+https://truyenhinhonline.trungdungmedia.com/proxy?url=https://hoiquan.dpdns.org/VTVGo/?sctv22
 
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://i.imgur.com/rDQvTAm.png", SCTV22 Sport (pr) (1080p) [?]
-https://truyenhinhonline.trungdungmedia.com/proxy?url=https://hoiquan.dpdns.org/VTVGo/?sctv22
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=883fe37e69254f0db1a9c8908e5ab56f:8f0762de62f849039420b513068aca40
-https://truyenhinhonline.trungdungmedia.com/proxy?url=https%3A%2F%2Fliveatmvng.vtvprime.vn%2Flive%2Fdata8%2FSCTV22%2FLive_DASHDRM%2FSCTV22.mpd
+https://truyenhinhonline.trungdungmedia.com/proxy?url=https://liveatmvng.vtvprime.vn/live/data8/SCTV22/Live_DASHDRM/SCTV22.mpd
 
 
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://i.imgur.com/WiULiQj.png", SCTV Phim Tổng Hợp (p) (720p)
