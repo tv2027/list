@@ -87,7 +87,7 @@ https://sgclient.duckdns.org/source/tv360.m3u8?id=115
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png" , VTV8 (pk) (1080p)
 http://pk79.io.vn/vieon/play.php?id=b8a5931c-3723-4a47-9af6-0435d811990a
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png" , VTV8 (pr) (1080p)
-#https://truyenhinhonline.trungdungmedia.com/proxy?url=https%3A%2F%2Flive.fptplay53.net%2Fepzhd1%2Fvtv8hd_vhls.smil%2Fchunklist.m3u8
+https://truyenhinhonline.trungdungmedia.com/proxy?url=https%3A%2F%2Flive.fptplay53.net%2Fepzhd1%2Fvtv8hd_vhls.smil%2Fchunklist.m3u8
 
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" , VTV9 (vatv) (1080p)
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=8
