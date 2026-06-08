@@ -53,6 +53,13 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=110
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png" , VTV5 (sgc) (1080p)
 https://sgclient.duckdns.org/source/tv360.m3u8?id=110
 
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/GbrmnAP.png" , VTV6 (vatv) (1080p)
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10043
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/GbrmnAP.png" , VTV6 (sgc) (1080p)
+https://sgclient.duckdns.org/source/tv360.m3u8?id=10043
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/GbrmnAP.png" , VTV6 (pr) (1080p)
+https://truyenhinhonline.trungdungmedia.com/proxy?url=https%3A%2F%2Flive.fptplay53.net%2Ffnxhd1%2Fvtv6hd_vhls.smil%2Fchunklist.m3u8
+
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png" , VTV5 Tây Nam Bộ (p) (1080p)
 https://liveh12.vtvprime.vn/hls/VTV5_TNB/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png" , VTV5 Tây Nam Bộ (vatv) (1080p)
