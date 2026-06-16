@@ -1,1 +1,1 @@
-
+socks5://proxy:999999@tele1gbps.90s.one:9999
