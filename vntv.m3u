@@ -13,21 +13,23 @@
 
 # # #  --------------------------------- VTV ----------------------------------------
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" group-logo="https://i.imgur.com/NB53sZL.png" tvg-logo="https://i.imgur.com/vJKF3BW.png" , VTV1 (l) (1080p)
-https://vpsttt.vietanhtv.top/sctv/proxy.php/https://live-a.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
+https://live-a.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
 #https://live-a.fptplay53.net/live/media/VTV1HD/live_hls_avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" group-logo="https://i.imgur.com/NB53sZL.png" tvg-logo="https://i.imgur.com/vJKF3BW.png" , VTV1 (v) (1080p)
-https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/index.m3u8
+https://vpsttt.vietanhtv.top/sctv/proxy.php/https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/index.m3u8
 #https://vips-livecdn.fptplay.net/live/media/VTV1HD/live_hls_avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" group-logo="https://i.imgur.com/NB53sZL.png" tvg-logo="https://i.imgur.com/vJKF3BW.png" , VTV1 (hoatv) (1080p)
 http://hoatv001.ddns.net/iptv/admin.php?stream=3745de5f4b70afd38ba39e850fe055f7&token=653c50b221f6cd9a096ddbdacb741944
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" group-logo="https://i.imgur.com/NB53sZL.png" tvg-logo="https://i.imgur.com/vJKF3BW.png" , VTV1 (vatv) (1080p)
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=2
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" group-logo="https://i.imgur.com/NB53sZL.png" tvg-logo="https://i.imgur.com/vJKF3BW.png" , VTV1 (sgc) (1080p)
+https://sgchill.duckdns.org/source/tv360.m3u8?id=2
 
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png" , VTV2 (l) (1080p)
 https://live-a.fptplay53.net/live/media/vtv2/live247-hls-avc/index.m3u8
 #https://live-a.fptplay53.net/live/media/VTV2HD/live_hls_avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png" , VTV2 (v) (1080p)
-https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/index.m3u8
+https://vpsttt.vietanhtv.top/sctv/proxy.php/https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/index.m3u8
 #https://vips-livecdn.fptplay.net/live/media/VTV2HD/live_hls_avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png" , VTV2 (hoatv) (1080p)
 http://hoatv001.ddns.net/iptv/admin.php?stream=a467ce7cbb16d9d5db19e15f64685e8a&token=653c50b221f6cd9a096ddbdacb741944
@@ -35,44 +37,44 @@ http://hoatv001.ddns.net/iptv/admin.php?stream=a467ce7cbb16d9d5db19e15f64685e8a&
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=3
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png" , VTV3 (l) (1080p)
-https://vpsttt.vietanhtv.top/sctv/proxy.php/https://live-a.fptplay53.net/live/media/vtv3/live247-hls-avc/index.m3u8
+https://live-a.fptplay53.net/live/media/vtv3/live247-hls-avc/index.m3u8
 #https://live-a.fptplay53.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #https://live-a.fptplay53.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_140800=20000.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png" , VTV3 (v) (1080p)
-https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/index.m3u8
+https://vpsttt.vietanhtv.top/sctv/proxy.php/https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png" , VTV3 (hoatv) (1080p)
 http://hoatv001.ddns.net/iptv/admin.php?stream=848adcdd85782ceae7ff96d79f6d7509&token=653c50b221f6cd9a096ddbdacb741944
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png" , VTV3 (vatv) (1080p)
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=4
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png" , VTV3 (pk) (1080p)
-http://pk79.io.vn/vieon/play.php?id=aef79fd4-c185-4c68-8e7a-9a5e7c93ef8c
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png" , VTV3 (sgc) (1080p)
+https://sgchill.duckdns.org/source/tv360.m3u8?id=4
 
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png" , VTV4 (l) (1080p)
 https://live-a.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png" , VTV4 (v) (1080p)
-https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/index.m3u8
+https://vpsttt.vietanhtv.top/sctv/proxy.php/https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png" , VTV4 (hoatv) (1080p)
 http://hoatv001.ddns.net/iptv/admin.php?stream=ca0126acaadde4f367e848ac4e9dbb0e&token=653c50b221f6cd9a096ddbdacb741944
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png" , VTV4 (vatv) (1080p)
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=108
-#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png" , VTV4 (pk) (1080p)
-http://pk79.io.vn/vieon/play.php?id=c9383b3c-c775-467e-901b-a651c1dfef9f
+#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png" , VTV4 (sgc) (1080p)
+https://sgchill.duckdns.org/source/tv360.m3u8?id=108
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png" , VTV5 (l) (1080p)
 https://live-a.fptplay53.net/live/media/vtv5/live247-hls-avc/index.m3u8
 #https://live-a.fptplay53.net/live/media/VTV5HD/live_hls_avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png" , VTV5 (v) (1080p)
-https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/index.m3u8
+https://vpsttt.vietanhtv.top/sctv/proxy.php/https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/index.m3u8
 #https://vips-livecdn.fptplay.net/live/media/VTV5HD/live_hls_avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png" , VTV5 (hoatv) (1080p)
 http://hoatv001.ddns.net/iptv/admin.php?stream=98b5766d564fe890750f30a775aa75f6&token=653c50b221f6cd9a096ddbdacb741944
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png" , VTV5 (vatv) (1080p)
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=110
-#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png" , VTV5 (pk) (1080p)
-http://pk79.io.vn/vieon/play.php?id=07b09f50-e975-471a-b8b5-86867e6c6b23
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png" , VTV5 (sgc) (1080p)
+https://sgchill.duckdns.org/source/tv360.m3u8?id=110
 
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png" , VTV5 Tây Nam Bộ (p) (1080p) [Geo-blocked]
-https://liveh12.vtvprime.vn/hls/VTV5_TNB/index.m3u8
+https://vpsttt.vietanhtv.top/sctv/proxy.php/https://liveh12.vtvprime.vn/hls/VTV5_TNB/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png" , VTV5 Tây Nam Bộ (f) (1080p)
 https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png" , VTV5 Tây Nam Bộ (vatv) (1080p)
@@ -84,7 +86,7 @@ https://truyenhinhonline.trungdungmedia.com/proxy?url=https://liveh12.vtvprime.v
 
 
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png" , VTV5 Tây Nguyên (p) (1080p) [Geo-blocked]
-https://liveh12.vtvprime.vn/hls/VTV5_TN/index.m3u8
+https://vpsttt.vietanhtv.top/sctv/proxy.php/https://liveh12.vtvprime.vn/hls/VTV5_TN/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png" , VTV5 Tây Nguyên (f) (1080p)
 https://live.fptplay53.net/live/media/vtv5tn/live-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png" , VTV5 Tây Nguyên (vatv) (1080p)
@@ -98,13 +100,13 @@ https://truyenhinhonline.trungdungmedia.com/proxy?url=https://liveh12.vtvprime.v
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/GbrmnAP.png" , VTV6 (l) (1080p)
 https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/GbrmnAP.png" , VTV6 (v) (1080p)
-https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/index.m3u8
+https://vpsttt.vietanhtv.top/sctv/proxy.php/https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/GbrmnAP.png" , VTV6 (vatv) (1080p)
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10043
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/GbrmnAP.png" , VTV6 (sgc) (1080p)
+https://sgchill.duckdns.org/source/tv360.m3u8?id=10043
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/GbrmnAP.png" , VTV6 (hoatv) (1080p) ?
 http://hoatv001.ddns.net/iptv/admin.php?stream=848adcdd85782ceae7ff96d79f6d7509&token=653c50b221f6cd9a096ddbdacb741944
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/GbrmnAP.png" , VTV6 (pk) (1080p)
-http://pk79.io.vn/vieon/play.php?id=06c12f81-4e79-4f1d-8559-8c3dc8d912b2
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png" , VTV7 (l) (1080p)
 https://live-a.fptplay53.net/live/media/vtv7/live247-hls-avc/index.m3u8
@@ -112,41 +114,41 @@ https://live-a.fptplay53.net/live/media/vtv7/live247-hls-avc/index.m3u8
 https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png" , VTV7 (vatv) (1080p)
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=6
-#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png" , VTV7 (pk) (1080p)
-http://pk79.io.vn/vieon/play.php?id=59875614-8872-4f86-a45b-9983068ee7ef
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png" , VTV7 (sgc) (1080p)
+https://sgchill.duckdns.org/source/tv360.m3u8?id=6
 
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png" , VTV8 (l) (1080p)
+https://vpsttt.vietanhtv.top/sctv/proxy.php/https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png" , VTV8 (vatv) (1080p)
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=115
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png" , VTV8 (sgc) (1080p)
 https://sgchill.duckdns.org/source/tv360.m3u8?id=115
-#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png" , VTV8 (pk) (1080p)
-http://pk79.io.vn/vieon/play.php?id=b8a5931c-3723-4a47-9af6-0435d811990a
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png" , VTV8 (pr) (1080p)
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" , VTV9 (l) (1080p)
 https://live-a.fptplay53.net/live/media/vtv9/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" , VTV9 (v) (1080p)
-https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/index.m3u8
+https://vpsttt.vietanhtv.top/sctv/proxy.php/https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" , VTV9 (hoatv) (1080p)
 http://hoatv001.ddns.net/iptv/admin.php?stream=141897d8b9675ec09dd5760305270872&token=653c50b221f6cd9a096ddbdacb741944
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" , VTV9 (vatv) (1080p)
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" , VTV9 (pk) (1080p)
-http://pk79.io.vn/vieon/play.php?id=8277b8a7-c0af-4182-92a0-ac7d091b3df5
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" , VTV9 (sgc) (1080p)
+https://sgchill.duckdns.org/source/tv360.m3u8?id=8
 
 #EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://i.imgur.com/0DFnQRF.png" , VTV10 (l) (1080p)
 https://live-a.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8
 #https://live-a.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://i.imgur.com/0DFnQRF.png" , VTV10 (v) (1080p)
-https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/index.m3u8
+https://vpsttt.vietanhtv.top/sctv/proxy.php/https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/index.m3u8
 #https://vips-livecdn.fptplay.net/live/media/VTV_can_tho/live_hls_avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://i.imgur.com/0DFnQRF.png" , VTV10 (hoatv) (1080p)
 http://hoatv001.ddns.net/iptv/admin.php?stream=151bc21d84bcdecec3a98fe4843f9341&token=653c50b221f6cd9a096ddbdacb741944
 #EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://i.imgur.com/0DFnQRF.png" , VTV10 (vatv) (1080p)
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=98
-#EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://i.imgur.com/0DFnQRF.png" , VTV10 (pk) (1080p)
-http://pk79.io.vn/vieon/play.php?id=66653680-a833-40e9-8b0e-a59677a3b395
+#EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://i.imgur.com/0DFnQRF.png" , VTV10 (sgc) (1080p)
+https://sgchill.duckdns.org/source/tv360.m3u8?id=98
 
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://i.imgur.com/p9bWxfm.png" , VietNam Today (1080p)
 https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
@@ -163,7 +165,7 @@ https://sgchill.duckdns.org/source/tv360.m3u8?id=9951
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
-https://vpsttt.vietanhtv.top/sctv/proxy.php/https://cdnet-cdn-01.onsports.vn/onplus/BONGDA_HD/manifest.mpd
+https://cdnet-cdn-01.onsports.vn/onplus/BONGDA_HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" group-logo="https://i.imgur.com/eqZMYx0.png" tvg-logo="https://i.imgur.com/PznYHT5.png",  ON Football (p) (1080p50) [?] [Geo-blocked] ??
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
@@ -172,7 +174,7 @@ https://vpsttt.vietanhtv.top/sctv/proxy.php/https://cdnet-cdn-01.onsports.vn/onp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f69bf028397e4ecfafce84abb7c5fe2b:25028aad0e2003b2785cf5196a4e2fa1
 #KODIPROP:inputstream.adaptive.license_key=5184162e30134a44afa1d591ffc2e736:09b20d5f9bbf41fdb8d3916c409470a8
-https://vpsttt.vietanhtv.top/sctv/proxy.php/https://livevlisctcdnw.seenow.vn/mean/BONGDA_HD/manifest.mpd
+https://livevlisctcdnw.seenow.vn/mean/BONGDA_HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" group-logo="https://i.imgur.com/eqZMYx0.png" tvg-logo="https://i.imgur.com/PznYHT5.png",  ON Football (p) (1080p50) [?] ??
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
