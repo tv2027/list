@@ -105,8 +105,6 @@ https://vpsttt.vietanhtv.top/sctv/proxy.php/https://vips-livecdn.fptplay.net/liv
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10043
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/GbrmnAP.png" , VTV6 (sgc) (1080p)
 https://sgchill.duckdns.org/source/tv360.m3u8?id=10043
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/GbrmnAP.png" , VTV6 (hoatv) (1080p) ?
-http://hoatv001.ddns.net/iptv/admin.php?stream=848adcdd85782ceae7ff96d79f6d7509&token=653c50b221f6cd9a096ddbdacb741944
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png" , VTV7 (l) (1080p)
 https://live-a.fptplay53.net/live/media/vtv7/live247-hls-avc/index.m3u8
