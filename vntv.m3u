@@ -55,8 +55,11 @@ https://truyenhinhonline.trungdungmedia.com/proxy?url=https://live-a.fptplay53.n
 
 #EXTINF:-1 tvg-id="vtvgo" group-title="VTV" tvg-logo="https://i.imgur.com/37kBglx.png" , VTV Go (Bình luận cảm xúc) (1080p) [Geo-blocked]
 https://hoiquan.dpdns.org/VTVGo/?BinhLuanCamXuc
-#EXTINF:-1 tvg-id="vtvgo" group-title="VTV" tvg-logo="https://i.imgur.com/37kBglx.png" , VTV Go (Bình luận cảm xúc) (1080p)
-https://vtvgolivemh-plus-tn.vtvdigital.vn/QfEYUXbJbs7TJa_6Kup0tQ/1782349694/manifest/wcfun/master-pre.m3u8
+#EXTINF:-1 tvg-id="vtvgo" group-title="VTV" tvg-logo="https://i.imgur.com/37kBglx.png" , VTV Go (Bình luận cảm xúc 1) (1080p)
+https://vtvgoliveapp1-aws-tn.vtvdigital.vn/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI3RDVFTkcyRU5LIiwiaWF0IjoxNzgyNDM4NTE0LCJleHAiOjE3ODI0NjAxMTR9.PFFUJLTbaPWVghJYaOBUghfXaouH5PWhL_h0orX8N3M/wc_fun/fun-endpoint/fun.m3u8
+
+#EXTINF:-1 tvg-id="vtvgo" group-title="VTV" tvg-logo="https://i.imgur.com/37kBglx.png" , VTV Go (Bình luận cảm xúc 2) (1080p)
+https://vtvgoliveapp1-aws-tn.vtvdigital.vn/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI3RDVFTkcyRU5LIiwiaWF0IjoxNzgyNDM4NTA3LCJleHAiOjE3ODI0NjAxMDd9.q1yzTtGuhst7GZlTFSp5XQd1TYxDaUizFR3HTmA4ZGc/wc_fun/fun-endpoint/fun.m3u8
 
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png" , VTV4 (l) (1080p) [Geo-blocked]
 https://live-a.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8
