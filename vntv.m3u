@@ -457,10 +457,10 @@ https://vips-livecdn.fptplay.net/live/media/v9abr/live247-hls-avc/index.m3u8
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" , VTV9 (sgc) (1080p)
 #https://sgchill.duckdns.org/source/tv360.m3u8?id=8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" , VTV9 (vapr) (1080p)
-#https://vpsttt.vietanhtv.top/sctv/proxy.php/https://vips-livecdn.fptplay.net/live/media/v9abr/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" , VTV9 (pr) (1080p50)
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https://vips-livecdn.fptplay.net/live/media/v9abr/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" , VTV9 (pr) (1080p)
+https://truyenhinhonline.trungdungmedia.com/proxy?url=https://vpsttt.vietanhtv.top/sctv/proxy.php/https://live.fptplay53.net/fnxhd1/vtv9hd_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://i.imgur.com/0DFnQRF.png" , VTV10 (l) (1080p) [Geo-blocked]
 https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist.m3u8
