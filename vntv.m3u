@@ -7,6 +7,7 @@
 #EXTM3U Disclaimer: Links were collected on the internet by search engine like Google. For legal issues, please contact appropriate media file owners/hosters.
 
 ###// EXTM3U url-tvg="https://vnepg.site/epg.xml, https://vnepg.site/epgu.xml, https://vnepg.site/epg.xml.gz"
+
 ###// EXTM3U url-tvg="https://github.com/iptv-pro/iptv-pro.github.io/raw/main/epg/epg.xml.gz"
 
 
@@ -415,16 +416,16 @@ https://truyenhinhonline.trungdungmedia.com/proxy?url=https://live.fptplay53.net
 #https://truyenhinhonline.trungdungmedia.com/proxy?url=https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/GbrmnAP.png" , VTV6 (l) (1080p) [Geo-blocked]
-https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8
+https://live.fptplay53.net/live/media/v6abr/live247-hls-avc/index.m3u8
+#https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/GbrmnAP.png" , VTV6 (v) (1080p)
 #https://vpsttt.vietanhtv.top/sctv/proxy.php/https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/GbrmnAP.png" , VTV6 (vatv) (1080p)
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10043
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/GbrmnAP.png" , VTV6 (tp) (1080p)
 http://tpninosaga.duckdns.org/source/tv360.m3u8?id=10043&token=NinoExility
-EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/GbrmnAP.png" , VTV6 (pr) (1080p50)
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/GbrmnAP.png" , VTV6 (pr) (1080p50)
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https://live.fptplay53.net/live/media/v6abr/live247-hls-avc/index.m3u8
-
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/GbrmnAP.png" , VTV6 (pr) (1080p)
 #https://truyenhinhonline.trungdungmedia.com/proxy?url=https://live.fptplay53.net/fnxhd1/vtv6hd_vhls.smil/chunklist.m3u8
 
