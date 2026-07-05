@@ -374,8 +374,8 @@ https://live.fptplay53.net/live/media/v3abr/live247-hls-avc/index.m3u8
 #https://live.fptplay53.net/fnxhd1/vtv3hd_vhls.smil/chunklist.m3u8
 #https://live-a.fptplay53.net/live/media/vtv3/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png" , VTV3 (v) (1080p)
-##https://vpsttt.vietanhtv.top/sctv/proxy.php/https://live.fptplay53.net/live/media/vtv3/live247-hls-avc/index.m3u8
-##https://vpsttt.vietanhtv.top/sctv/proxy.php/https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/index.m3u8
+#https://vpsttt.vietanhtv.top/sctv/proxy.php/https://live.fptplay53.net/live/media/vtv3/live247-hls-avc/index.m3u8
+#https://vpsttt.vietanhtv.top/sctv/proxy.php/https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png" , VTV3 (vatv) (1080p)
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=4
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png" , VTV3 (tp) (1080p)
@@ -383,7 +383,7 @@ http://tpninosaga.duckdns.org/source/tv360.m3u8?id=4&token=NinoExility
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png" , VTV3 (prl) (1080p50)
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https://live.fptplay53.net/live/media/v3abr/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png" , VTV3 (prv) (1080p)
-#https://truyenhinhonline.trungdungmedia.com/proxy?url=https://vips-livecdn.fptplay.net/live/media/v3abr/live247-hls-avc/index.m3u8
+https://truyenhinhonline.trungdungmedia.com/proxy?url=https://vips-livecdn.fptplay.net/live/media/v3abr/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png" , VTV3 (nhanh) (1080p)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://42.1.99.192:8080/live/vtv3.flv
