@@ -389,8 +389,10 @@ https://truyenhinhonline.trungdungmedia.com/proxy?url=https://vips-livecdn.fptpl
 http://42.1.99.192:8080/live/vtv3.flv
 
 
-#EXTINF:-1 tvg-id="vtvgo" group-title="VTV" tvg-logo="https://i.imgur.com/37kBglx.png" , VTV Go (Bình luận cảm xúc) (prva) (1080p) [Geo-blocked]
-https://vpsttt.vietanhtv.top/sctv/proxy.php/https://hoiquan.dpdns.org/VTVGo/?BinhLuanCamXuc
+#EXTINF:-1 tvg-id="vtvgo" group-title="VTV" tvg-logo="https://i.imgur.com/37kBglx.png" , VTV Go (Bình luận cảm xúc) (prva) (1080p)
+#https://vpsttt.vietanhtv.top/sctv/proxy.php/https://hoiquan.dpdns.org/VTVGo/?BinhLuanCamXuc
+https://vpsttt.vietanhtv.top/sctv/proxy.php/https://vtvgoliveapp1-aws-tn.vtvdigital.vn/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI3RDVFTkcyRU5LIiwiaWF0IjoxNzgzMjk3NTEzLCJleHAiOjE3ODMzMTkxMTN9.iaEJIwk2TQX8bOHSo1mqxJLw5sJ9kwCKBkEOhbv8V1o/vtv3/vtv3-endpoint/vtv3.m3u8
+
 #EXTINF:-1 tvg-id="vtvgo" group-title="VTV" tvg-logo="https://i.imgur.com/37kBglx.png" , VTV Go (Bình luận cảm xúc) (pr) (1080p) [Geo-blocked]
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https://hoiquan.dpdns.org/VTVGo/?BinhLuanCamXuc
 
