@@ -364,9 +364,9 @@ https://live.fptplay53.net/live/media/v2abr/live247-hls-avc/index.m3u8
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=3
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png" , VTV2 (tp) (1080p)
 http://tpninosaga.duckdns.org/source/tv360.m3u8?id=3&token=NinoEra36
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png" , VTV2 (prl) (1080p50)
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png" , VTV2 (tdprl) (1080p50)
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https://live.fptplay53.net/live/media/v2abr/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png" , VTV2 (prv) (1080p)
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png" , VTV2 (tdprv) (1080p)
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https://vips-livecdn.fptplay.net/live/media/v2abr/live247-hls-avc/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png" , VTV3 (l) (1080p50) [Geo-blocked]
@@ -380,13 +380,12 @@ https://live.fptplay53.net/live/media/v3abr/live247-hls-avc/index.m3u8
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=4
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png" , VTV3 (tp) (1080p)
 http://tpninosaga.duckdns.org/source/tv360.m3u8?id=4&token=NinoEra36
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png" , VTV3 (prl) (1080p50)
-https://truyenhinhonline.trungdungmedia.com/proxy?url=https://live.fptplay53.net/live/media/v3abr/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png" , VTV3 (prv) (1080p)
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png" , VTV3 (tdprv) (1080p)
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https://vips-livecdn.fptplay.net/live/media/v3abr/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png" , VTV3 (nhanh) (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://42.1.99.192:8080/live/vtv3.flv
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png" , VTV3 (tdprl) (1080p50)
+https://truyenhinhonline.trungdungmedia.com/proxy?url=https://live.fptplay53.net/live/media/v3abr/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png" , VTV3 (tlgpr) (1080p)
+https://tinhlagi.pro/tivi/proxy.php?url=https://vips-livecdn.fptplay.net/live/media/v3abr/live247-hls-avc/index.m3u8
 
 
 #EXTINF:-1 tvg-id="vtvgo" group-title="VTV" tvg-logo="https://i.imgur.com/37kBglx.png" , VTV Go (Bình luận cảm xúc) (prva) (1080p)
@@ -466,13 +465,12 @@ https://live.fptplay53.net/live/media/v6abr/live247-hls-avc/index.m3u8
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10043
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/GbrmnAP.png" , VTV6 (tp) (1080p)
 http://tpninosaga.duckdns.org/source/tv360.m3u8?id=10043&token=NinoEra36
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/GbrmnAP.png" , VTV6 (prl) (1080p50)
-https://truyenhinhonline.trungdungmedia.com/proxy?url=https://live.fptplay53.net/live/media/v6abr/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/GbrmnAP.png" , VTV6 (prv) (1080p50)
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/GbrmnAP.png" , VTV6 (tdprv) (1080p50)
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https://vips-livecdn.fptplay.net/live/media/v6abr/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/GbrmnAP.png" , VTV6 (nhanh) (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://42.1.99.192:8080/live/vtv6.flv
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/GbrmnAP.png" , VTV6 (tdprl) (1080p50)
+https://truyenhinhonline.trungdungmedia.com/proxy?url=https://live.fptplay53.net/live/media/v6abr/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/GbrmnAP.png" , VTV6 (tlgpr) (1080p)
+https://tinhlagi.pro/tivi/proxy.php?url=https://vips-livecdn.fptplay.net/live/media/v6abr/live247-hls-avc/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png" , VTV7 (l) (1080p50) [Geo-blocked]
 https://live.fptplay53.net/live/media/v7abr/live247-hls-avc/index.m3u8
@@ -505,13 +503,12 @@ https://vips-livecdn.fptplay.net/live/media/v9abr/live247-hls-avc/index.m3u8
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" , VTV9 (tp) (1080p)
 http://tpninosaga.duckdns.org/source/tv360.m3u8?id=8&token=NinoEra36
-#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" , VTV9 (prv) (1080p50)
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" , VTV9 (tdprv) (1080p50)
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https://vips-livecdn.fptplay.net/live/media/v9abr/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" , VTV9 (prl) (1080p50)
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" , VTV9 (tdprl) (1080p50)
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https://live.fptplay53.net/live/media/v9abr/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" , VTV9 (nhanh) (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://42.1.99.192:8080/live/vtv9.flv
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" , VTV9 (tlgpr) (1080p)
+https://tinhlagi.pro/tivi/proxy.php?url=https://vips-livecdn.fptplay.net/live/media/v9abr/live247-hls-avc/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://i.imgur.com/0DFnQRF.png" , VTV10 (l) (1080p) [Geo-blocked]
 https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist.m3u8
@@ -524,13 +521,12 @@ https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/index.m3u8
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=98
 #EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://i.imgur.com/0DFnQRF.png" , VTV10 (tp) (1080p)
 http://tpninosaga.duckdns.org/source/tv360.m3u8?id=98&token=NinoEra36
-#EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://i.imgur.com/0DFnQRF.png" , VTV10 (prv) (1080p50)
+#EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://i.imgur.com/0DFnQRF.png" , VTV10 (tdprv) (1080p50)
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https://vips-livecdn.fptplay.net/live/media/v10abr/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://i.imgur.com/0DFnQRF.png" , VTV10 (prl) (1080p50)
+#EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://i.imgur.com/0DFnQRF.png" , VTV10 (tdprl) (1080p50)
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https://live.fptplay53.net/live/media/v10abr/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://i.imgur.com/0DFnQRF.png" , VTV10 (nhanh) (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://42.1.99.192:8080/live/vtv10.flv
+#EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://i.imgur.com/0DFnQRF.png" , VTV10 (tlgpr) (1080p)
+https://tinhlagi.pro/tivi/proxy.php?url=https://vips-livecdn.fptplay.net/live/media/v10abr/live247-hls-avc/index.m3u8
 
 
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://i.imgur.com/p9bWxfm.png" , VietNam Today (1080p)
