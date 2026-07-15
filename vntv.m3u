@@ -16,65 +16,439 @@
 #               FIFA WORLD CUP 2026
 # ==================================================
 
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 1
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2104163&extension=ts&play_token=0rpv3aW0nD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 2
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2104162&extension=ts&play_token=Vt0kU5EiXe
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 3
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2104161&extension=ts&play_token=6F4fVjIoWl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 4
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2104160&extension=ts&play_token=7toUIoeBiz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 5
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2104159&extension=ts&play_token=HYQ7SSGKqt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN4.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| BEIN SPORTS MAX ᵁᴴᴰ 4K FM
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2098112&extension=ts&play_token=Q6PmELUdVT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN4.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| BEIN SPORTS MAX ᵁᴴᴰ 4K NM
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2097322&extension=ts&play_token=uCybs1uxar
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN4.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| BEIN SPORTS MAX ᵁᴴᴰ 4K
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2095904&extension=ts&play_token=bL3JUnCUWa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| BBC ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2095903&extension=ts&play_token=BbVQFCHD2K
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2095902&extension=ts&play_token=SXXVc76uIm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX [BK] ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2095901&extension=ts&play_token=dleeLJBeQD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX SPORTS 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2095900&extension=ts&play_token=AbWrqWfLGy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX SPORTS 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2095899&extension=ts&play_token=qJ78RHXFWq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| NOW SPORTS 616 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2095898&extension=ts&play_token=MnqsrlIwd1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| NOW SPORTS 617 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2095897&extension=ts&play_token=RGXCHh4j4a
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| M6 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2095896&extension=ts&play_token=ayrlbofTMQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2095895&extension=ts&play_token=UXJSjESxYo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2095894&extension=ts&play_token=IW4YfJQpgq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 2 ᵁᴴᴰ ³⁸⁴⁰ᴾᴾ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2095893&extension=ts&play_token=0AnZcNN3Qd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 1 [BK] ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2095892&extension=ts&play_token=jsbr3Tqtc7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 2 [BK] ᵁᴴᴰ ³⁸⁴⁰ᴾᴾ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2095891&extension=ts&play_token=xMGfONhqBm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| MW FUSSBALL 1 DE ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2095890&extension=ts&play_token=5Mr5lInN3k
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| MW FUSSBALL 2 DE ᵁᴴᴰ ³⁸⁴⁰ᴾᴾ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2095889&extension=ts&play_token=jtTOyvtuNq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| UNIVERSO ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2095888&extension=ts&play_token=M8mL7xKmES
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZDF.png" group-title="WORLD CUP 2026 VIP",WC| ZDF FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090215&extension=ts&play_token=XVR53d5lRb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ARD.png" group-title="WORLD CUP 2026 VIP",WC| ARD 1 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090214&extension=ts&play_token=tocP2JWMYF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SERVUS.png" group-title="WORLD CUP 2026 VIP",WC| SERVUS TV FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090213&extension=ts&play_token=j8MtSxcAah
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SRF.png" group-title="WORLD CUP 2026 VIP",WC| SRF 2 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090212&extension=ts&play_token=lYqtGEe6bt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ORF1.png" group-title="WORLD CUP 2026 VIP",WC| ORF 1 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090211&extension=ts&play_token=QmLdeCOcte
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ORFSPORT.png" group-title="WORLD CUP 2026 VIP",WC| ORF SPORT FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090210&extension=ts&play_token=JNe9DUbGSg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 1 HD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090209&extension=ts&play_token=ZLi4m2hRGG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 2 HD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090208&extension=ts&play_token=GE8pTjfGeh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 3 HD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090207&extension=ts&play_token=YrspbqaWlc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 1 DE FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090206&extension=ts&play_token=JDGPrrBmL3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 2 DE FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090205&extension=ts&play_token=oKvDdkUiNe
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 1 DE UHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090204&extension=ts&play_token=yPXsE3y2d1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 2 UHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090203&extension=ts&play_token=rHa4HF8nFL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 3 UHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090202&extension=ts&play_token=94nraPf456
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/NPO1.png" group-title="WORLD CUP 2026 VIP",WC| NPO 1 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090201&extension=ts&play_token=LWYZD977jc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/VRT1.png" group-title="WORLD CUP 2026 VIP",WC| VRT 1 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090200&extension=ts&play_token=vX5UbN7Q7y
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/RAIUNO.png" group-title="WORLD CUP 2026 VIP",WC| RAI 1 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090199&extension=ts&play_token=hXHYynk05T
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SPORTTVPLUS.png" group-title="WORLD CUP 2026 VIP",WC| SPORT TV + PT HD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090198&extension=ts&play_token=DujKIcybmx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SPORTTVPLUS.png" group-title="WORLD CUP 2026 VIP",WC| SPORT TV 1 PT HD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090197&extension=ts&play_token=ELRRiisP7W
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SPORTTVPLUS.png" group-title="WORLD CUP 2026 VIP",WC| SPORT TV 2 PT HD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090196&extension=ts&play_token=fvnPC4yFJh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SPORTTVPLUS.png" group-title="WORLD CUP 2026 VIP",WC| SPORT TV 3 PT HD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090195&extension=ts&play_token=Sy2u9dNPMr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SPORTTVPLUS.png" group-title="WORLD CUP 2026 VIP",WC| SPORT TV 4 PT HD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090194&extension=ts&play_token=OWuyyKJzoO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SPORTTVPLUS.png" group-title="WORLD CUP 2026 VIP",WC| SPORT TV 5 PT HD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090193&extension=ts&play_token=Ca3wrP4T0e
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SPORTTVPLUS.png" group-title="WORLD CUP 2026 VIP",WC| SPORT TV 6 PT HD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090192&extension=ts&play_token=EL9UbRNqJb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/CTSPORT.png" group-title="WORLD CUP 2026 VIP",WC| CT SPORT FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090191&extension=ts&play_token=3wOnFsYq5X
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/BHT1.png" group-title="WORLD CUP 2026 VIP",WC| BHT 1 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090190&extension=ts&play_token=B10imwhOVZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/HRT2.png" group-title="WORLD CUP 2026 VIP",WC| HRT 2 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090189&extension=ts&play_token=S9bANePr7Z
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/LA1.png" group-title="WORLD CUP 2026 VIP",WC| LA 1 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090188&extension=ts&play_token=PHb1l7R0MJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/LA2.png" group-title="WORLD CUP 2026 VIP",WC| LA 2 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090187&extension=ts&play_token=5OY6g5VDPl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/MATHGR.png" group-title="WORLD CUP 2026 VIP",WC| MATH GR FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090186&extension=ts&play_token=F1nBUcgBVe
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ERT1.png" group-title="WORLD CUP 2026 VIP",WC| ERT 1 GR FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090185&extension=ts&play_token=Y0Reco2ta5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ERT2.png" group-title="WORLD CUP 2026 VIP",WC| ERT 2 GR FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090184&extension=ts&play_token=ViWhs0JJac
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ERT3.png" group-title="WORLD CUP 2026 VIP",WC| ERT 3 GR FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090183&extension=ts&play_token=Nnz36k1DQx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ERTSPORT2.png" group-title="WORLD CUP 2026 VIP",WC| ERT SPORT 2 GR FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090182&extension=ts&play_token=iZW5DU59Jo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/TRT1.png" group-title="WORLD CUP 2026 VIP",WC| TRT 1 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090181&extension=ts&play_token=byd3kyqETI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/TRTSPORT.png" group-title="WORLD CUP 2026 VIP",WC| TRT SPORT FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090180&extension=ts&play_token=FwesilaAxC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ORTM.png" group-title="WORLD CUP 2026 VIP",WC| ORTM FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090179&extension=ts&play_token=aOs2aFbh3A
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/AZAMSPORTS.png" group-title="WORLD CUP 2026 VIP",WC| AZAM SPORTS 1 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090178&extension=ts&play_token=1IPd59FeeG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/AZAMSPORTS.png" group-title="WORLD CUP 2026 VIP",WC| AZAM SPORTS 2 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090177&extension=ts&play_token=aTSeQfe56d
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/AZAMSPORTS.png" group-title="WORLD CUP 2026 VIP",WC| AZAM SPORTS 3 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090176&extension=ts&play_token=vwUkBK5Q7c
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/AZAMSPORTS.png" group-title="WORLD CUP 2026 VIP",WC| AZAM SPORTS 4 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090175&extension=ts&play_token=I9uCrg5pZt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/NWSPORT.png" group-title="WORLD CUP 2026 VIP",WC| NW SPORT 1 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090174&extension=ts&play_token=Nz7y8J4Xlf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/NWSPORT.png" group-title="WORLD CUP 2026 VIP",WC| NW SPORT 2 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090173&extension=ts&play_token=s5VBy5nw9V
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/NWSPORT.png" group-title="WORLD CUP 2026 VIP",WC| NW SPORT 3 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090172&extension=ts&play_token=ThHI0dPg8x
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/NWSPORT.png" group-title="WORLD CUP 2026 VIP",WC| NW SPORT 4 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090171&extension=ts&play_token=jZgjfMUWDo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/RSILA2.png" group-title="WORLD CUP 2026 VIP",WC| RSI LA 2 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090170&extension=ts&play_token=dWogCxplNl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/TVP1.png" group-title="WORLD CUP 2026 VIP",WC| TVP 1 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090169&extension=ts&play_token=LKGdzvgTIo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/TVPSPORT.png" group-title="WORLD CUP 2026 VIP",WC| TVP SPORT FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090168&extension=ts&play_token=ls6JnZ8wME
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ENTVALGERIA.png" group-title="WORLD CUP 2026 VIP",WC| ENTV ALGERIA FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090167&extension=ts&play_token=CuEuZ5mIzh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ARRYADIATNT.png" group-title="WORLD CUP 2026 VIP",WC| ARRYADIA TNT
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090166&extension=ts&play_token=xmjJnzfiuR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 1 AR ᴴᴰ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077113&extension=ts&play_token=afuY3HDeEf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 2 AR ᴴᴰ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077112&extension=ts&play_token=U8LbtnWHO0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 3 EN ᴴᴰ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077111&extension=ts&play_token=0m4Y86sEbM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 4 EN ᴴᴰ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077110&extension=ts&play_token=4IrPJJC9Oj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 5 FR ᴴᴰ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077109&extension=ts&play_token=WsTa9JuyS9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 6 FR ᴴᴰ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077108&extension=ts&play_token=D0FtMruvT3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 1 AR SD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077107&extension=ts&play_token=t03sMpqBrn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 2 AR SD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077106&extension=ts&play_token=2in03CrPio
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 3 EN SD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077105&extension=ts&play_token=CIyoh51sO5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 4 EN SD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077104&extension=ts&play_token=Ab4wRpEn3L
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 5 FR SD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077103&extension=ts&play_token=hriKVT2G7p
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 6 FR SD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077102&extension=ts&play_token=BZ68sMhFpO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 1 AR ʰᵉᵛᶜ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077101&extension=ts&play_token=OhiIA0AX1w
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 2 AR ʰᵉᵛᶜ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077100&extension=ts&play_token=4nLI5Wi9Qi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 3 EN ʰᵉᵛᶜ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077099&extension=ts&play_token=K07KRQqQ7H
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 4 EN ʰᵉᵛᶜ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077098&extension=ts&play_token=pPcIJtdpLZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 5 FR ʰᵉᵛᶜ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077097&extension=ts&play_token=4g7WTUQJFa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 6 FR ʰᵉᵛᶜ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077096&extension=ts&play_token=HIlgWroHUY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 1 AR ᴿᴬᵂ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077095&extension=ts&play_token=Oyl4gOvDpi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 2 AR ᴿᴬᵂ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077094&extension=ts&play_token=clynXZZHL1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 3 EN ᴿᴬᵂ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077093&extension=ts&play_token=U6Ab3xDEQq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 4 EN ᴿᴬᵂ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077092&extension=ts&play_token=oym990fEML
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 5 FR ᴿᴬᵂ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077091&extension=ts&play_token=bzjvEYe8N3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 6 FR ᴿᴬᵂ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077090&extension=ts&play_token=N6xKOjAjQG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAXSOLOSPORT.png" group-title="BEIN SPORTS MAX BE",BEIN MAX SOLO SPORT FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2094041&extension=ts&play_token=DfLgiR78Pe
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 1 HEVC
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085205&extension=ts&play_token=5XZpqyH8Pe
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 2 HEVC
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085204&extension=ts&play_token=5FFA1JOrhD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 3 HEVC
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085203&extension=ts&play_token=2IqYLSKgeB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 4 HEVC
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085202&extension=ts&play_token=u6u7qi1JwW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 5 HEVC
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085201&extension=ts&play_token=fosBfHn6sB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 6 HEVC
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085200&extension=ts&play_token=akOTHaBmhu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 1 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085199&extension=ts&play_token=4tSd5mSHry
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 2 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085198&extension=ts&play_token=d2kThtEAK1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 3 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085197&extension=ts&play_token=sUgzTUGueZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 4 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085196&extension=ts&play_token=7q8YPhUJbt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 5 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085195&extension=ts&play_token=uKSHuJAmT6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 6 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085194&extension=ts&play_token=89vcIHCwEU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 1 HD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085193&extension=ts&play_token=pCoRTWgUxy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 2 HD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085192&extension=ts&play_token=EzU2XQJuQv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 3 HD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085191&extension=ts&play_token=fDDTGUSuDy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 4 HD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085190&extension=ts&play_token=oRtJbLZgGL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 5 HD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085189&extension=ts&play_token=VCluAVP34L
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 6 HD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085188&extension=ts&play_token=8WaF7U8CWS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 1 SD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085187&extension=ts&play_token=aQluYpkf4j
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 2 SD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085186&extension=ts&play_token=vEI4ynKeSV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 3 SD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085185&extension=ts&play_token=7OURAQkWrr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 4 SD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085184&extension=ts&play_token=cTzxUqAjUp
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 5 SD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085183&extension=ts&play_token=Q21iilicwZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 6 SD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085182&extension=ts&play_token=YR4QBAu5Aq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 1 (BA) HEVC
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085181&extension=ts&play_token=hst9Ey3aEt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 1 (BA) FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085180&extension=ts&play_token=cFor2djCB6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 1 (BA) HD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085179&extension=ts&play_token=3uYRu512qd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 1 (BA) SD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085178&extension=ts&play_token=IKm0Gg5vRd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 2 (BA) HEVC
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085177&extension=ts&play_token=TMlo4kxKeR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 2 (BA) FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085176&extension=ts&play_token=UwdJynW2cL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 2 (BA) HD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085175&extension=ts&play_token=LT2XRWkCve
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 2 (BA) SD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085174&extension=ts&play_token=E0FFw5yAHT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX G",BEIN SPORTS MAX 1 HEVC
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085730&extension=ts&play_token=bMk3QmFb8Q
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX G",BEIN SPORTS MAX 1 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085728&extension=ts&play_token=1lRj2JFbGS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX G",BEIN SPORTS MAX 1 HD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085727&extension=ts&play_token=t1cMAWydhn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX G",BEIN SPORTS MAX 1 SD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085726&extension=ts&play_token=PAeL62brOt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX G",BEIN SPORTS MAX 2 HEVC
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085729&extension=ts&play_token=NJPSP8LIr1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX G",BEIN SPORTS MAX 2 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085725&extension=ts&play_token=qAi3J8QK2S
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX G",BEIN SPORTS MAX 2 HD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085724&extension=ts&play_token=O8DEnHaOKj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX G",BEIN SPORTS MAX 2 SD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085723&extension=ts&play_token=hcASZqZVYm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX G",BEIN SPORTS MAX 3 HEVC
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085722&extension=ts&play_token=un38n62Kld
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX G",BEIN SPORTS MAX 3 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085721&extension=ts&play_token=iNB2gVgwbe
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX G",BEIN SPORTS MAX 3 HD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085720&extension=ts&play_token=qlxsEaF0BA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX G",BEIN SPORTS MAX 3 SD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085719&extension=ts&play_token=3Yh3Ow9Vqi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX G",BEIN SPORTS MAX 4 HEVC
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085718&extension=ts&play_token=gZCTlLd7af
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX G",BEIN SPORTS MAX 4 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085717&extension=ts&play_token=31fJ3qznFb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX G",BEIN SPORTS MAX 4 HD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085716&extension=ts&play_token=oMmM3KvKt3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX G",BEIN SPORTS MAX 4 SD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2085715&extension=ts&play_token=jfI2VHuAr8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 1 4K
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077621&extension=ts&play_token=uicOfiGN70
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 2 4K
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077620&extension=ts&play_token=ocHzedK0UX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 3 4K
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077619&extension=ts&play_token=48qkpbftsD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 4 4K
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077618&extension=ts&play_token=iTiDual7Wb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 5 4K
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077617&extension=ts&play_token=xu8qE37yPJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 6 4K
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077616&extension=ts&play_token=POOLUmpnd4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 1 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077615&extension=ts&play_token=dKqZGd2XQL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 2 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077614&extension=ts&play_token=YZ3N6faIIt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 3 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077613&extension=ts&play_token=u1nTqKeocE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 4 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077612&extension=ts&play_token=Re0F2tJAH5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 5 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077611&extension=ts&play_token=AaEQT4KrVP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 6 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077610&extension=ts&play_token=j25mBiUrzw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 1 HD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077609&extension=ts&play_token=I20iizewT0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 2 HD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077608&extension=ts&play_token=aZgkNAvbDk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 3 HD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077607&extension=ts&play_token=vg7WYiTyof
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 4 HD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077606&extension=ts&play_token=4wmX71itNT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 5 HD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077605&extension=ts&play_token=iLN2tEsefi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 6 HD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077604&extension=ts&play_token=g9eDRIqcya
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 1 SD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077603&extension=ts&play_token=Y1eYsswUCL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 2 SD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077602&extension=ts&play_token=roSIpcpd4l
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 3 SD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077601&extension=ts&play_token=B0T0xsizIx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 4 SD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077600&extension=ts&play_token=s2g5uRTPMZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 5 SD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077599&extension=ts&play_token=4rvlaxYadw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 6 SD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2077598&extension=ts&play_token=UqwBCC8yAk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 ⁴ᴷ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2076984&extension=ts&play_token=T21NZOJ0zB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 ⁴ᴷ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2076983&extension=ts&play_token=aLYWADoxtw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 EN ⁴ᴷ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2076982&extension=ts&play_token=zWta0kX0FY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 EN ⁴ᴷ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2076981&extension=ts&play_token=gSDQOAlFgU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 FR ⁴ᴷ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2076980&extension=ts&play_token=Bn3SWmTJbQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 FR ⁴ᴷ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2076979&extension=ts&play_token=XdpkuvMcXp
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 ᶠʰᵈ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2076978&extension=ts&play_token=NqEWdjKMc2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 ᶠʰᵈ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2076977&extension=ts&play_token=5PVTghIfWW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 EN ᶠʰᵈ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2076976&extension=ts&play_token=hwq7lpw43c
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 EN ᶠʰᵈ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2076975&extension=ts&play_token=hG6N2X1gCI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 FR ᶠʰᵈ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2076974&extension=ts&play_token=eWVBj10Myw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 FR ᶠʰᵈ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2076973&extension=ts&play_token=DxMz9m1hgw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 ᴴᴰ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2076972&extension=ts&play_token=Esj0DY1a10
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 ᴴᴰ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2076971&extension=ts&play_token=m3E4L7nlNz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 EN ᴴᴰ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2076970&extension=ts&play_token=m0pX64HufV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 EN ᴴᴰ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2076969&extension=ts&play_token=QA9Ebbghqa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 FR ᴴᴰ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2076968&extension=ts&play_token=58skUxpYEs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 FR ᴴᴰ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2076967&extension=ts&play_token=2Nov0yoFJG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 ˢᴰ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2076966&extension=ts&play_token=FVtsgsXr13
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 ˢᴰ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2076965&extension=ts&play_token=DufO7JoYQo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 EN ˢᴰ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2076964&extension=ts&play_token=TfohckF6EN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 EN ˢᴰ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2076963&extension=ts&play_token=lQhsq3aonl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 FR ˢᴰ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2076962&extension=ts&play_token=KACGCUAQEU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 FR ˢᴰ
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2076961&extension=ts&play_token=20m01111px
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SOLOSPORTS.png" group-title="SOLO SPORT WC",SO| SOLO SPORT HDR 4K
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2105867&extension=ts&play_token=7BTjfX0tGY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SOLOSPORTS.png" group-title="SOLO SPORT WC",SO| SOLO SPORT 1 HEVC
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2101762&extension=ts&play_token=EUMuhoy9fu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SOLOSPORTS.png" group-title="SOLO SPORT WC",SO| SOLO SPORT 1 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2101761&extension=ts&play_token=7okr1oUFcX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SOLOSPORTS.png" group-title="SOLO SPORT WC",SO| SOLO SPORT 1 HD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2101763&extension=ts&play_token=0Kop8QsCyQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SOLOSPORTS.png" group-title="SOLO SPORT WC",SO| SOLO SPORT 1 SD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2101764&extension=ts&play_token=KTDm5KOtsk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SOLOSPORTS.png" group-title="SOLO SPORT WC",SO| SOLO SPORT 2 HEVC
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2101600&extension=ts&play_token=l02xE13OMn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SOLOSPORTS.png" group-title="SOLO SPORT WC",SO| SOLO SPORT 2 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2101599&extension=ts&play_token=jdJMUdQM38
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SOLOSPORTS.png" group-title="SOLO SPORT WC",SO| SOLO SPORT 2 HD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2101598&extension=ts&play_token=Vp2d0hJZzc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SOLOSPORTS.png" group-title="SOLO SPORT WC",SO| SOLO SPORT 2 SD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2101597&extension=ts&play_token=QKDwwLRLR6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SOLOSPORTS.png" group-title="SOLO SPORT WC",SO| SOLO SPORT 3 HEVC
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2101596&extension=ts&play_token=SUJaZDhMpj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SOLOSPORTS.png" group-title="SOLO SPORT WC",SO| SOLO SPORT 3 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2101595&extension=ts&play_token=YgYg8dOh8r
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SOLOSPORTS.png" group-title="SOLO SPORT WC",SO| SOLO SPORT 3 HD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2101594&extension=ts&play_token=JMGK35C49U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SOLOSPORTS.png" group-title="SOLO SPORT WC",SO| SOLO SPORT 3 SD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2101593&extension=ts&play_token=sA6aDi44qC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SOLOSPORTS.png" group-title="SOLO SPORT WC",SO| SOLO SPORT 4 HEVC
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2103466&extension=ts&play_token=9U5m5lSyQi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SOLOSPORTS.png" group-title="SOLO SPORT WC",SO| SOLO SPORT 4 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2103464&extension=ts&play_token=sUTso6DHtE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SOLOSPORTS.png" group-title="SOLO SPORT WC",SO| SOLO SPORT 4 HD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2103462&extension=ts&play_token=XsM1pinE5T
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SOLOSPORTS.png" group-title="SOLO SPORT WC",SO| SOLO SPORT 4 SD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2103460&extension=ts&play_token=w4wpnx0dwJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SOLOSPORTS.png" group-title="SOLO SPORT WC",SO| SOLO SPORT 5 HEVC
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2103458&extension=ts&play_token=G8NDEWVE7d
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SOLOSPORTS.png" group-title="SOLO SPORT WC",SO| SOLO SPORT 5 FHD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2103457&extension=ts&play_token=Tj6s7O86CH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SOLOSPORTS.png" group-title="SOLO SPORT WC",SO| SOLO SPORT 5 HD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2103456&extension=ts&play_token=7rRnMNQrF0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SOLOSPORTS.png" group-title="SOLO SPORT WC",SO| SOLO SPORT 5 SD
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2103454&extension=ts&play_token=Pa6Zh3hOvY
 
-#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-name="FOX 4K (Not 24/7)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="FIFA World Cup 2026",FOX 4K (Not 24/7)
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120332
-#EXTINF:-1 tvg-id="WNYW-DT.us_locals1" tvg-name="FOX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="FIFA World Cup 2026",FOX
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/109548
-#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-name="FS1 4K (Not 24/7)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="FIFA World Cup 2026",FS1 4K (Not 24/7)
-http://oacost.vivotv.vip/VillaCanariaLuna/d9nxo3cgd4/2075518
-#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FS1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="FIFA World Cup 2026",FS1
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120160
-#EXTINF:-1 tvg-id="TSN.4K.ca2" tvg-name="TSN 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4k-ca.png?raw=true" group-title="FIFA World Cup 2026",TSN 4K CA
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
-#EXTINF:-1 tvg-id="TSN.1.ca2" tvg-name="TSN1 CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" group-title="FIFA World Cup 2026",TSN1 CA
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120273
-#EXTINF:-1 tvg-id="TSN.2.HD.ca2" tvg-name="TSN2 CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" group-title="FIFA World Cup 2026",TSN2 CA
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120274
-#EXTINF:-1 tvg-id="TSN.3.HD.ca2" tvg-name="TSN3 CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" group-title="FIFA World Cup 2026",TSN3 CA
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120275
-#EXTINF:-1 tvg-id="TSN.4.HD.ca2" tvg-name="TSN4 CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" group-title="FIFA World Cup 2026",TSN4 CA
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120276
-#EXTINF:-1 tvg-id="TSN.5.HD.ca2" tvg-name="TSN5 CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" group-title="FIFA World Cup 2026",TSN5 CA
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120277
-#EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-name="BBC 4K UK (Not 24/7)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" group-title="FIFA World Cup 2026",BBC 4K UK (Not 24/7)
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120330
-#EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-name="BBC One UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" group-title="FIFA World Cup 2026",BBC One UK
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98853
-#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBC Two UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-two-uk.png?raw=true" group-title="FIFA World Cup 2026",BBC Two UK
-http://163.172.64.96:2017/GBa19qrcQYa3/u2c8FLfgkK/235
-#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV1 UK" tvg-logo="https://i.ibb.co/g6TqxVm/ITV1.png" group-title="FIFA World Cup 2026",ITV1 UK
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120268
-#EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-name="ITV4 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/itv-4-uk.png?raw=true" group-title="FIFA World Cup 2026",ITV4 UK
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98823
-#EXTINF:-1 tvg-id="FUSSBALL.TV.1.de" tvg-name="Fussball.TV 1 4K DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sportdigital_Fußball_stacked.svg" group-title="FIFA World Cup 2026",Fussball.TV 1 4K DE
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120339
-#EXTINF:-1 tvg-id="FUSSBALL.TV.2.de" tvg-name="Fussball.TV 2 4K DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sportdigital_Fußball_stacked.svg" group-title="FIFA World Cup 2026",Fussball.TV 2 4K DE
-http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1950356
-#EXTINF:-1 tvg-id="FUSSBALL.TV.3.de" tvg-name="Fussball.TV 3 4K DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sportdigital_Fußball_stacked.svg" group-title="FIFA World Cup 2026",Fussball.TV 3 4K DE
-http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1951086
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4K HDR" tvg-logo="https://assets.bein.com/mena/sites/3/2026/05/4K-HDR-200x200-1.png" group-title="FIFA World Cup 2026",beIN SPORTS 4K HDR
-http://asmr4k.world:8080/05347247405/3100934708/1246130
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="FIFA World Cup 2026",beIN SPORTS MAX 1
-http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/1944357
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 2" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="FIFA World Cup 2026",beIN SPORTS MAX 2
-http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/1944358
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 3" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png" group-title="FIFA World Cup 2026",beIN SPORTS MAX 3
-http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/1944359
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 4" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="FIFA World Cup 2026",beIN SPORTS MAX 4
-http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/1944360
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 5" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX5_DIGITAL_Mono.png" group-title="FIFA World Cup 2026",beIN SPORTS MAX 5
-http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/1946727
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 6" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX6_DIGITAL_Mono.png" group-title="FIFA World Cup 2026",beIN SPORTS MAX 6
-http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/1946735
-#EXTINF:-1 tvg-id="" tvg-name="NOW Sports 616 4K (Not 24/7)" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch616_160_115" group-title="FIFA World Cup 2026",NOW Sports 616 4K (Not 24/7)
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120336
-#EXTINF:-1 tvg-id="" tvg-name="NOW Sports 617 4K (Not 24/7)" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch617_160_115" group-title="FIFA World Cup 2026",NOW Sports 617 4K (Not 24/7)
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120337
-#EXTINF:-1 tvg-id="" tvg-name="NOW Sports 618" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch618_160_115" group-title="FIFA World Cup 2026",NOW Sports 618
-http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465863
-#EXTINF:-1 tvg-id="" tvg-name="NOW Sports 619" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch619_160_115" group-title="FIFA World Cup 2026",NOW Sports 619
-http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465861
 
 
 #EXTINF:-1 tvg-id="FS1.HD.us2" group-title="World Cup" tvg-logo="https://i.imgur.com/Wwsojdh.png", Fox Sports 1 (b)
@@ -126,75 +500,7 @@ http://hostengine.live/live/GCC528197/TGB86673456/54260.m3u
 https://pb-qyrvophnifz47.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-qyrvophnifz47/51e90851-a1fe-45bf-bbe2-591b2bf91b9f/3.m3u8
 #EXTINF:-1 tvg-id="USBA3400003IP" tvg-name="Love Nature 4K" tvg-logo="https://garyshare.sharewithyou.dpdns.org/logos/Love_Nature.png" group-title="4K UHD",Love Nature 4K
 https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
-#EXTINF:-1 tvg-id="Spectrum.SportsNet.LA.Dodgers.HD.us2" tvg-name="Spectrum SportsNet LA 4K" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/spectrum-sportsnet-la-us.png?raw=true" group-title="4K UHD",Spectrum SportsNet LA 4K
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120331
 
-# === 🇨🇦 CA ===
-
-#EXTINF:-1 tvg-id="Love.Nature.ca2" tvg-name="Love Nature 4K CA" tvg-logo="https://garyshare.sharewithyou.dpdns.org/logos/Love_Nature.png" group-title="4K UHD",Love Nature 4K CA
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119322
-#EXTINF:-1 tvg-id="Sportsnet.4K.ca2" tvg-name="SportsNet 4K CA" tvg-logo="https://iptvboss.xyz/logos/Canada/SportsnetOntario4k.ca.png" group-title="4K UHD",SportsNet 4K CA
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119328
-#EXTINF:-1 tvg-id="Sportsnet.One.HD.ca2" tvg-name="SportsNet ONE 4K CA" tvg-logo="https://iptvboss.xyz/logos/Canada/SportsnetOne4k.ca.png" group-title="4K UHD",SportsNet ONE 4K CA
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119329
-#EXTINF:-1 tvg-id="Stingray.Festival.4K.pl" tvg-name="Stingray Festival 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/stingray-festival-4k-es.png?raw=true" group-title="4K UHD",Stingray Festival 4K CA
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119331
-#EXTINF:-1 tvg-id="" tvg-name="Stingray NOW 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/stingray-now-4k-ca.png?raw=true" group-title="4K UHD",Stingray NOW 4K CA
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119332
-#EXTINF:-1 tvg-id="TSN.4K.ca2" tvg-name="TSN 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4k-ca.png?raw=true" group-title="4K UHD",TSN 4K CA
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
-
-# === 🇬🇧 UK ===
-
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event 4K UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-main-event-uhd-uk.png?raw=true" group-title="4K UHD",Sky Sports Main Event 4K UK
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119327
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 4K UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-f1-uhd-uk.png?raw=true" group-title="4K UHD",Sky Sports F1 4K UK
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119326
-#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.HD.uk" tvg-name="TNT Sports Ultimate 4K UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-ultimate-uk.png?raw=true" group-title="4K UHD",TNT Sports Ultimate 4K UK
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119906
-
-# === 🇵🇱 PL ===
-
-#EXTINF:-1 tvg-id="INULTRA.pl" tvg-name="INULTRA 4K PL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/czech-republic/inultra-cz.png?raw=true" group-title="4K UHD",INULTRA 4K PL
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119321
-
-
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 1 HD
-http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=2090209&extension=ts&play_token=pArZidYRSq
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 2 HD
-http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=2090208&extension=ts&play_token=qnhj8cxn3D
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 3 HD
-http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=2090207&extension=ts&play_token=MGZ4FKH3tZ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 1 DE FHD
-http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=2090206&extension=ts&play_token=aRMBEMWDWV
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 2 DE FHD
-http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=2090205&extension=ts&play_token=saRuEmqg9z
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 1 DE UHD
-http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=2090204&extension=ts&play_token=xv5tYqvLVu
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 2 UHD
-http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=2090203&extension=ts&play_token=IIyGJm2NP1
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 3 UHD
-http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=2090202&extension=ts&play_token=nGQYiVnZFH
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/NPO1.png" group-title="WORLD CUP 2026 VIP",WC| NPO 1 FHD
-http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=2090201&extension=ts&play_token=Y05bl3k88K
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/VRT1.png" group-title="WORLD CUP 2026 VIP",WC| VRT 1 FHD
-http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=2090200&extension=ts&play_token=Hl0MhHR7X1
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/RAIUNO.png" group-title="WORLD CUP 2026 VIP",WC| RAI 1 FHD
-http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=2090199&extension=ts&play_token=eDPpnsVikv
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SPORTTVPLUS.png" group-title="WORLD CUP 2026 VIP",WC| SPORT TV + PT HD
-http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=2090198&extension=ts&play_token=xfMseAGvR7
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SPORTTVPLUS.png" group-title="WORLD CUP 2026 VIP",WC| SPORT TV 1 PT HD
-http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=2090197&extension=ts&play_token=NcvGAXSKeu
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SPORTTVPLUS.png" group-title="WORLD CUP 2026 VIP",WC| SPORT TV 2 PT HD
-http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=2090196&extension=ts&play_token=FHGYMDzJz4
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SPORTTVPLUS.png" group-title="WORLD CUP 2026 VIP",WC| SPORT TV 3 PT HD
-http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=2090195&extension=ts&play_token=XrnwNJrpDP
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SPORTTVPLUS.png" group-title="WORLD CUP 2026 VIP",WC| SPORT TV 4 PT HD
-http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=2090194&extension=ts&play_token=1lQEZU0RKn
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SPORTTVPLUS.png" group-title="WORLD CUP 2026 VIP",WC| SPORT TV 5 PT HD
-http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=2090193&extension=ts&play_token=Pbauv0zKHM
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SPORTTVPLUS.png" group-title="WORLD CUP 2026 VIP",WC| SPORT TV 6 PT HD
-http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=2090192&extension=ts&play_token=nw8ZL3FgG9
 
 
 
