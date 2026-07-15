@@ -15,12 +15,6 @@
 # ==================================================
 #               FIFA WORLD CUP 2026
 # ==================================================
-
-#EXTINF:-1 tvg-logo="" group-title="World Cup EN",World Cup 2 UHD/4K
-http://45.139.122.199:8080/play/live.php?mac=00:1A:79:B4:E2:F7&stream=2439592&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="World Cup EN",World Cup 1 UHD/4K
-http://45.139.122.199:8080/play/live.php?mac=00:1A:79:B4:E2:F7&stream=2439591&extension=ts
-
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 1
 http://klaratv.com:80/play/live.php?mac=00:1A:79:BC:A4:4E&stream=2104163&extension=ts&play_token=ImFKMONzD5
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 2
