@@ -16,42 +16,42 @@
 #               FIFA WORLD CUP 2026
 # ==================================================
 
-#EXTINF:-1 group-logo="https://flagicons.lipis.dev/flags/4x3/cz.svg" tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026" , FOX ONE (lhr) [?]
+#EXTINF:-1 group-logo="https://flagicons.lipis.dev/flags/4x3/cz.svg" tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026" , FOX ONE (lhr) [?]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026" , FOX ONE (gru) [?]
+#EXTINF:-1  tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026" , FOX ONE (gru) [?]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026" , FOX ONE (bom) [?]
+#EXTINF:-1  tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026" , FOX ONE (bom) [?]
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
 
-#EXTINF:-1 group-logo="https://i.imgur.com/aKf5Ce8.png" tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026" tvg-uid="4078e8b069853229bb2d02b0163e354a",FOX ONE UHD 4K (lhr) [?]
+#EXTINF:-1 group-logo="https://i.imgur.com/BUx9Txs.png" tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026" tvg-uid="4078e8b069853229bb2d02b0163e354a",FOX ONE UHD 4K (lhr) [?]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsilniwjf7/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
 
-#EXTINF:-1 group-logo="https://i.imgur.com/aKf5Ce8.png" tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026" tvg-uid="4078e8b069853229bb2d02b0163e354a",FOX ONE UHD 4K (gru) [?]
+#EXTINF:-1 group-logo="https://i.imgur.com/BUx9Txs.png" tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026" tvg-uid="4078e8b069853229bb2d02b0163e354a",FOX ONE UHD 4K (gru) [?]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/lsilniwjf7/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
 
-#EXTINF:-1 group-logo="https://i.imgur.com/aKf5Ce8.png" tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026" tvg-uid="4078e8b069853229bb2d02b0163e354a",FOX ONE UHD 4K (iad) [?]
+#EXTINF:-1 group-logo="https://i.imgur.com/BUx9Txs.png" tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026" tvg-uid="4078e8b069853229bb2d02b0163e354a",FOX ONE UHD 4K (iad) [?]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -59,21 +59,21 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/lsilniwjf7/
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/lsilniwjf7/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
 
 
-#EXTINF:-1 group-logo="https://i.imgur.com/aKf5Ce8.png" tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026" tvg-uid="9390191fdc9084128b9ba87cb3f14d64" , TSN 1 (lhr) [?]
+#EXTINF:-1 group-logo="https://i.imgur.com/BUx9Txs.png" tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026" tvg-uid="9390191fdc9084128b9ba87cb3f14d64" , TSN 1 (lhr) [?]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-#EXTINF:-1 group-logo="https://i.imgur.com/aKf5Ce8.png" tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026" tvg-uid="9390191fdc9084128b9ba87cb3f14d64" , TSN 1 (gru) [?]
+#EXTINF:-1 group-logo="https://i.imgur.com/BUx9Txs.png" tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026" tvg-uid="9390191fdc9084128b9ba87cb3f14d64" , TSN 1 (gru) [?]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-#EXTINF:-1 group-logo="https://i.imgur.com/aKf5Ce8.png" tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026" tvg-uid="9390191fdc9084128b9ba87cb3f14d64" , TSN 1 (bom) [?]
+#EXTINF:-1 group-logo="https://i.imgur.com/BUx9Txs.png" tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026" tvg-uid="9390191fdc9084128b9ba87cb3f14d64" , TSN 1 (bom) [?]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -81,34 +81,34 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/w0rehjjrwe/
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
 
-#EXTINF:-1 group-logo="https://i.imgur.com/aKf5Ce8.png" tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026" , CANAL5 (bom) [?]
+#EXTINF:-1 group-logo="https://i.imgur.com/BUx9Txs.png" tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026" , CANAL5 (bom) [?]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026" tvg-uid="86e5eef0d55e268508847bcfdcf35ead", ITV (bom) [?]
+#EXTINF:-1  tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026" tvg-uid="86e5eef0d55e268508847bcfdcf35ead", ITV (bom) [?]
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
 
-#EXTINF:-1 group-logo="https://i.imgur.com/aKf5Ce8.png" tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026" , CAZE TV (gru) [?]
+#EXTINF:-1 group-logo="https://i.imgur.com/BUx9Txs.png" tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026" , CAZE TV (gru) [?]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 
-#EXTINF:-1 group-logo="https://i.imgur.com/aKf5Ce8.png" tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026" , SPOTV BR (bom) [?]
+#EXTINF:-1 group-logo="https://i.imgur.com/BUx9Txs.png" tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026" , SPOTV BR (bom) [?]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
 
-#EXTINF:-1 group-logo="https://i.imgur.com/aKf5Ce8.png" tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026" , DSPORTS (pdx) [?]
+#EXTINF:-1 group-logo="https://i.imgur.com/BUx9Txs.png" tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026" , DSPORTS (pdx) [?]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -116,15 +116,15 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qubxnja5rl/out/v1/4ef0db80aa3341e2babb58314541f1e0/cenc.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 1
 http://klaratv.com:80/play/live.php?mac=00:1A:79:BC:A4:4E&stream=2104163&extension=ts&play_token=ImFKMONzD5
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 2
 http://klaratv.com:80/play/live.php?mac=00:1A:79:BC:A4:4E&stream=2104162&extension=ts&play_token=BtKUreOtFt
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 3
 http://klaratv.com:80/play/live.php?mac=00:1A:79:BC:A4:4E&stream=2104161&extension=ts&play_token=1kU2BnTzu0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 4
 http://klaratv.com:80/play/live.php?mac=00:1A:79:BC:A4:4E&stream=2104160&extension=ts&play_token=ctyt170Xgh
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 5
 http://klaratv.com:80/play/live.php?mac=00:1A:79:BC:A4:4E&stream=2104159&extension=ts&play_token=45a9KGaXoa
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN4.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| BEIN SPORTS MAX ᵁᴴᴰ 4K FM
 http://klaratv.com:80/play/live.php?mac=00:1A:79:BC:A4:4E&stream=2098112&extension=ts&play_token=w13JmOQGdo
@@ -132,48 +132,48 @@ http://klaratv.com:80/play/live.php?mac=00:1A:79:BC:A4:4E&stream=2098112&extensi
 http://klaratv.com:80/play/live.php?mac=00:1A:79:BC:A4:4E&stream=2097322&extension=ts&play_token=jw8aX8OZPb
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN4.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| BEIN SPORTS MAX ᵁᴴᴰ 4K
 http://klaratv.com:80/play/live.php?mac=00:1A:79:BC:A4:4E&stream=2095904&extension=ts&play_token=pnIvB82qFu
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| BBC ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| BBC ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://klaratv.com:80/play/live.php?mac=00:1A:79:BC:A4:4E&stream=2095903&extension=ts&play_token=5TyQKrvbw3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://klaratv.com:80/play/live.php?mac=00:1A:79:BC:A4:4E&stream=2095902&extension=ts&play_token=0dNkVpq2ar
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX [BK] ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX [BK] ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://klaratv.com:80/play/live.php?mac=00:1A:79:BC:A4:4E&stream=2095901&extension=ts&play_token=CZupPWY02p
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX SPORTS 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX SPORTS 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://klaratv.com:80/play/live.php?mac=00:1A:79:BC:A4:4E&stream=2095900&extension=ts&play_token=tFGFeXKn7Z
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX SPORTS 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX SPORTS 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://klaratv.com:80/play/live.php?mac=00:1A:79:BC:A4:4E&stream=2095899&extension=ts&play_token=Ql6KsPh5tG
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| NOW SPORTS 616 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| NOW SPORTS 616 ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://klaratv.com:80/play/live.php?mac=00:1A:79:BC:A4:4E&stream=2095898&extension=ts&play_token=L4e3KuK2qw
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| NOW SPORTS 617 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| NOW SPORTS 617 ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://klaratv.com:80/play/live.php?mac=00:1A:79:BC:A4:4E&stream=2095897&extension=ts&play_token=hAB64Dah5n
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| M6 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| M6 ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://klaratv.com:80/play/live.php?mac=00:1A:79:BC:A4:4E&stream=2095896&extension=ts&play_token=PJhsVcF3fT
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://klaratv.com:80/play/live.php?mac=00:1A:79:BC:A4:4E&stream=2095895&extension=ts&play_token=CdxGbxVnnc
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://klaratv.com:80/play/live.php?mac=00:1A:79:BC:A4:4E&stream=2095894&extension=ts&play_token=4TUqVtfIgS
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 2 ᵁᴴᴰ ³⁸⁴⁰ᴾᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 2 ᵁᴴᴰ ³⁸⁴⁰ᴾᴾ
 http://klaratv.com:80/play/live.php?mac=00:1A:79:BC:A4:4E&stream=2095893&extension=ts&play_token=kpmeIJ8iOA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 1 [BK] ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 1 [BK] ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://klaratv.com:80/play/live.php?mac=00:1A:79:BC:A4:4E&stream=2095892&extension=ts&play_token=fq2kPuygCX
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 2 [BK] ᵁᴴᴰ ³⁸⁴⁰ᴾᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 2 [BK] ᵁᴴᴰ ³⁸⁴⁰ᴾᴾ
 http://klaratv.com:80/play/live.php?mac=00:1A:79:BC:A4:4E&stream=2095891&extension=ts&play_token=57iWTHfUlS
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| MW FUSSBALL 1 DE ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| MW FUSSBALL 1 DE ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://klaratv.com:80/play/live.php?mac=00:1A:79:BC:A4:4E&stream=2095890&extension=ts&play_token=5tnywrcR0R
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| MW FUSSBALL 2 DE ᵁᴴᴰ ³⁸⁴⁰ᴾᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| MW FUSSBALL 2 DE ᵁᴴᴰ ³⁸⁴⁰ᴾᴾ
 http://klaratv.com:80/play/live.php?mac=00:1A:79:BC:A4:4E&stream=2095889&extension=ts&play_token=9JR2X1yUR5
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| UNIVERSO ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| UNIVERSO ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://klaratv.com:80/play/live.php?mac=00:1A:79:BC:A4:4E&stream=2095888&extension=ts&play_token=ieehfdLFOv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 1
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:00:06:3B&stream=2104163&extension=ts&play_token=sPnZHxHGz0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 2
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:00:06:3B&stream=2104162&extension=ts&play_token=TnAy5c60dh
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 3
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:00:06:3B&stream=2104161&extension=ts&play_token=H7IZ8mJXy3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 4
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:00:06:3B&stream=2104160&extension=ts&play_token=I7G0hjMmK5
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 5
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:00:06:3B&stream=2104159&extension=ts&play_token=WBloMiQHuY
 
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN4.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| BEIN SPORTS MAX ᵁᴴᴰ 4K FM
@@ -182,71 +182,71 @@ http://line.hostytv.store:80/play/live.php?mac=00:1A:79:00:06:3B&stream=2098112&
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:00:06:3B&stream=2097322&extension=ts&play_token=3rfyHCw23j
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN4.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| BEIN SPORTS MAX ᵁᴴᴰ 4K
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:00:06:3B&stream=2095904&extension=ts&play_token=WAQ1geHGuU
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| BBC ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| BBC ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:00:06:3B&stream=2095903&extension=ts&play_token=OWH28uSSok
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:00:06:3B&stream=2095902&extension=ts&play_token=IiP61YeUk8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX [BK] ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX [BK] ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:00:06:3B&stream=2095901&extension=ts&play_token=33XFQeCj2l
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX SPORTS 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX SPORTS 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:00:06:3B&stream=2095900&extension=ts&play_token=whwjAg89Cd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX SPORTS 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX SPORTS 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:00:06:3B&stream=2095899&extension=ts&play_token=UulZmwViwU
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| NOW SPORTS 616 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| NOW SPORTS 616 ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:00:06:3B&stream=2095898&extension=ts&play_token=wEuM1TEl1q
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| NOW SPORTS 617 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| NOW SPORTS 617 ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:00:06:3B&stream=2095897&extension=ts&play_token=lyOvTazLtJ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| M6 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| M6 ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:00:06:3B&stream=2095896&extension=ts&play_token=tgu3PkKQco
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:00:06:3B&stream=2095895&extension=ts&play_token=daJJsCtQ60
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:00:06:3B&stream=2095894&extension=ts&play_token=pAexKHYOZd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 2 ᵁᴴᴰ ³⁸⁴⁰ᴾᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 2 ᵁᴴᴰ ³⁸⁴⁰ᴾᴾ
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:00:06:3B&stream=2095893&extension=ts&play_token=dFAB5aRLif
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 1 [BK] ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 1 [BK] ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:00:06:3B&stream=2095892&extension=ts&play_token=FwKkUSoS27
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 2 [BK] ᵁᴴᴰ ³⁸⁴⁰ᴾᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 2 [BK] ᵁᴴᴰ ³⁸⁴⁰ᴾᴾ
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:00:06:3B&stream=2095891&extension=ts&play_token=HUeEJYgLEN
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| MW FUSSBALL 1 DE ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| MW FUSSBALL 1 DE ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:00:06:3B&stream=2095890&extension=ts&play_token=lPz3ODPa3y
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| MW FUSSBALL 2 DE ᵁᴴᴰ ³⁸⁴⁰ᴾᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| MW FUSSBALL 2 DE ᵁᴴᴰ ³⁸⁴⁰ᴾᴾ
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:00:06:3B&stream=2095889&extension=ts&play_token=S7P1KfdR7g
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| UNIVERSO ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| UNIVERSO ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:00:06:3B&stream=2095888&extension=ts&play_token=nt5kE6RgE4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="DE| FUSSBALL.TV WORLD CUP",VIP| FUSSBALL.TV 1 ᴿᴬᵂ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="DE| FUSSBALL.TV WORLD CUP",VIP| FUSSBALL.TV 1 ᴿᴬᵂ
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:00:06:3B&stream=2090011&extension=ts&play_token=cbk5VFPoIY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="DE| FUSSBALL.TV WORLD CUP",VIP| FUSSBALL.TV 2 ᴿᴬᵂ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="DE| FUSSBALL.TV WORLD CUP",VIP| FUSSBALL.TV 2 ᴿᴬᵂ
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:00:06:3B&stream=2090010&extension=ts&play_token=LLhtqqLLq5
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="DE| FUSSBALL.TV WORLD CUP",DE| FUSSBALL.TV 1 ᴿᴬᵂ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="DE| FUSSBALL.TV WORLD CUP",DE| FUSSBALL.TV 1 ᴿᴬᵂ
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:00:06:3B&stream=2090466&extension=ts&play_token=a3XkiS6Sst
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="DE| FUSSBALL.TV WORLD CUP",BE| FUSSBALL.TV 2 ᴿᴬᵂ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="DE| FUSSBALL.TV WORLD CUP",BE| FUSSBALL.TV 2 ᴿᴬᵂ
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:00:06:3B&stream=2090465&extension=ts&play_token=zylsjKNoCM
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="DE| FUSSBALL.TV WORLD CUP",DE| FUSSBALL.TV 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="DE| FUSSBALL.TV WORLD CUP",DE| FUSSBALL.TV 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:00:06:3B&stream=2090464&extension=ts&play_token=NgxkMAcTXs
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="DE| FUSSBALL.TV WORLD CUP",BE| FUSSBALL.TV 2 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="DE| FUSSBALL.TV WORLD CUP",BE| FUSSBALL.TV 2 ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:00:06:3B&stream=2090463&extension=ts&play_token=MMzfxcX14p
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="DE| FUSSBALL.TV WORLD CUP",BE| FUSSBALL.TV 3 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="DE| FUSSBALL.TV WORLD CUP",BE| FUSSBALL.TV 3 ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:00:06:3B&stream=2090462&extension=ts&play_token=qXqL11QbLF
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="DE| FUSSBALL.TV WORLD CUP",DE| FUSSBALL.TV 1 ᴿᴬᵂ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="DE| FUSSBALL.TV WORLD CUP",DE| FUSSBALL.TV 1 ᴿᴬᵂ
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:00:06:3B&stream=2090456&extension=ts&play_token=e7nSdhEOdO
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="DE| FUSSBALL.TV WORLD CUP",DE| FUSSBALL.TV 2 ᴿᴬᵂ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="DE| FUSSBALL.TV WORLD CUP",DE| FUSSBALL.TV 2 ᴿᴬᵂ
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:00:06:3B&stream=2090455&extension=ts&play_token=zjrus5Ymmf
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="DE| FUSSBALL.TV WORLD CUP",DE| FUSSBALL.TV 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="DE| FUSSBALL.TV WORLD CUP",DE| FUSSBALL.TV 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:00:06:3B&stream=2090454&extension=ts&play_token=nu7JR61ZOE
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="DE| FUSSBALL.TV WORLD CUP",DE| FUSSBALL.TV 2 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="DE| FUSSBALL.TV WORLD CUP",DE| FUSSBALL.TV 2 ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:00:06:3B&stream=2090453&extension=ts&play_token=BZ9IHKcBXq
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 1
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2104163&extension=ts&play_token=0rpv3aW0nD
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 2
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2104162&extension=ts&play_token=Vt0kU5EiXe
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 3
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2104161&extension=ts&play_token=6F4fVjIoWl
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 4
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2104160&extension=ts&play_token=7toUIoeBiz
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 5
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2104159&extension=ts&play_token=HYQ7SSGKqt
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN4.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| BEIN SPORTS MAX ᵁᴴᴰ 4K FM
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2098112&extension=ts&play_token=Q6PmELUdVT
@@ -254,37 +254,37 @@ http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2098112&ext
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2097322&extension=ts&play_token=uCybs1uxar
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN4.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| BEIN SPORTS MAX ᵁᴴᴰ 4K
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2095904&extension=ts&play_token=bL3JUnCUWa
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| BBC ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| BBC ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2095903&extension=ts&play_token=BbVQFCHD2K
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2095902&extension=ts&play_token=SXXVc76uIm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX [BK] ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX [BK] ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2095901&extension=ts&play_token=dleeLJBeQD
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX SPORTS 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX SPORTS 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2095900&extension=ts&play_token=AbWrqWfLGy
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX SPORTS 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX SPORTS 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2095899&extension=ts&play_token=qJ78RHXFWq
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| NOW SPORTS 616 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| NOW SPORTS 616 ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2095898&extension=ts&play_token=MnqsrlIwd1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| NOW SPORTS 617 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| NOW SPORTS 617 ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2095897&extension=ts&play_token=RGXCHh4j4a
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| M6 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| M6 ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2095896&extension=ts&play_token=ayrlbofTMQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2095895&extension=ts&play_token=UXJSjESxYo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2095894&extension=ts&play_token=IW4YfJQpgq
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 2 ᵁᴴᴰ ³⁸⁴⁰ᴾᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 2 ᵁᴴᴰ ³⁸⁴⁰ᴾᴾ
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2095893&extension=ts&play_token=0AnZcNN3Qd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 1 [BK] ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 1 [BK] ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2095892&extension=ts&play_token=jsbr3Tqtc7
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 2 [BK] ᵁᴴᴰ ³⁸⁴⁰ᴾᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 2 [BK] ᵁᴴᴰ ³⁸⁴⁰ᴾᴾ
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2095891&extension=ts&play_token=xMGfONhqBm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| MW FUSSBALL 1 DE ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| MW FUSSBALL 1 DE ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2095890&extension=ts&play_token=5Mr5lInN3k
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| MW FUSSBALL 2 DE ᵁᴴᴰ ³⁸⁴⁰ᴾᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| MW FUSSBALL 2 DE ᵁᴴᴰ ³⁸⁴⁰ᴾᴾ
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2095889&extension=ts&play_token=jtTOyvtuNq
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| UNIVERSO ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| UNIVERSO ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2095888&extension=ts&play_token=M8mL7xKmES
 
 
@@ -300,15 +300,15 @@ http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090212&ext
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090211&extension=ts&play_token=QmLdeCOcte
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ORFSPORT.png" group-title="WORLD CUP 2026 VIP",WC| ORF SPORT FHD
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090210&extension=ts&play_token=JNe9DUbGSg
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 1 DE FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 1 DE FHD
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090206&extension=ts&play_token=JDGPrrBmL3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 2 DE FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 2 DE FHD
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090205&extension=ts&play_token=oKvDdkUiNe
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 1 DE UHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 1 DE UHD
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090204&extension=ts&play_token=yPXsE3y2d1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 2 UHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 2 UHD
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090203&extension=ts&play_token=rHa4HF8nFL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 3 UHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 3 UHD
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090202&extension=ts&play_token=94nraPf456
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/NPO1.png" group-title="WORLD CUP 2026 VIP",WC| NPO 1 FHD
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:2D:8F:83&stream=2090201&extension=ts&play_token=LWYZD977jc
@@ -614,21 +614,21 @@ http://exclusifott.pro:80/play/live.php?mac=00:1A:79:A1:C7:0D&stream=2090212&ext
 http://exclusifott.pro:80/play/live.php?mac=00:1A:79:A1:C7:0D&stream=2090211&extension=ts&play_token=cMutZwxG1D
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ORFSPORT.png" group-title="WORLD CUP 2026 VIP",WC| ORF SPORT FHD
 http://exclusifott.pro:80/play/live.php?mac=00:1A:79:A1:C7:0D&stream=2090210&extension=ts&play_token=HAMwdHqivh
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 1 HD
 http://exclusifott.pro:80/play/live.php?mac=00:1A:79:A1:C7:0D&stream=2090209&extension=ts&play_token=MabPOAE84m
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 2 HD
 http://exclusifott.pro:80/play/live.php?mac=00:1A:79:A1:C7:0D&stream=2090208&extension=ts&play_token=aUqf4ZmlKU
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 3 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 3 HD
 http://exclusifott.pro:80/play/live.php?mac=00:1A:79:A1:C7:0D&stream=2090207&extension=ts&play_token=JnuR3kP1hB
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 1 DE FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 1 DE FHD
 http://exclusifott.pro:80/play/live.php?mac=00:1A:79:A1:C7:0D&stream=2090206&extension=ts&play_token=4cqVU2tecP
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 2 DE FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 2 DE FHD
 http://exclusifott.pro:80/play/live.php?mac=00:1A:79:A1:C7:0D&stream=2090205&extension=ts&play_token=B3iewbIwPf
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 1 DE UHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 1 DE UHD
 http://exclusifott.pro:80/play/live.php?mac=00:1A:79:A1:C7:0D&stream=2090204&extension=ts&play_token=L25Gr9R5uF
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 2 UHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 2 UHD
 http://exclusifott.pro:80/play/live.php?mac=00:1A:79:A1:C7:0D&stream=2090203&extension=ts&play_token=cymBWtM6PQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKf5Ce8.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 3 UHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 VIP",WC| MW FUSSBALL 3 UHD
 http://exclusifott.pro:80/play/live.php?mac=00:1A:79:A1:C7:0D&stream=2090202&extension=ts&play_token=4ZMFjAjcQp
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/NPO1.png" group-title="WORLD CUP 2026 VIP",WC| NPO 1 FHD
 http://exclusifott.pro:80/play/live.php?mac=00:1A:79:A1:C7:0D&stream=2090201&extension=ts&play_token=ZY8ab0eQ1D
