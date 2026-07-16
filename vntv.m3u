@@ -697,19 +697,6 @@ http://exclusifott.pro:80/play/live.php?mac=00:1A:79:A1:C7:0D&stream=2090170&ext
 http://exclusifott.pro:80/play/live.php?mac=00:1A:79:A1:C7:0D&stream=2090169&extension=ts&play_token=sCOt2KEwEj
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/TVPSPORT.png" group-title="WORLD CUP 2026 VIP",WC| TVP SPORT FHD
 http://exclusifott.pro:80/play/live.php?mac=00:1A:79:A1:C7:0D&stream=2090168&extension=ts&play_token=F8N8e9WF02
-#EXTINF:-1 tvg-logo="https://picons.cmshulk.com/picons/arenasport1.png" group-title="WORLD CUP 2026",BA| ARENA SPORT 1 ⱽᴵᴾ ᴿᴬᵂ
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:A1:C7:0D&stream=2077057&extension=ts&play_token=KnczT5Nuab
-#EXTINF:-1 tvg-logo="https://picons.cmshulk.com/picons/arenasport2.png" group-title="WORLD CUP 2026",BA| ARENA SPORT 2 ⱽᴵᴾ ᴿᴬᵂ
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:A1:C7:0D&stream=2077056&extension=ts&play_token=eIdSE7nwJo
-#EXTINF:-1 tvg-logo="https://picons.cmshulk.com/picons/arenasport3.png" group-title="WORLD CUP 2026",BA| ARENA SPORT 3 ⱽᴵᴾ ᴿᴬᵂ
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:A1:C7:0D&stream=2077055&extension=ts&play_token=M49tlKMtVc
-#EXTINF:-1 tvg-logo="https://picons.cmshulk.com/picons/arenasport4.png" group-title="WORLD CUP 2026",BA| ARENA SPORT 4 ⱽᴵᴾ ᴿᴬᵂ
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:A1:C7:0D&stream=2077054&extension=ts&play_token=RfsOVvOip4
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/TELEMUNDO.png" group-title="WORLD CUP 2026",US| TELEMUNDO (EAST)
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:A1:C7:0D&stream=2076999&extension=ts&play_token=uPWHGiaQjs
-#EXTINF:-1 tvg-logo="" group-title="WORLD CUP 2026",VZ| TELEVEN
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:A1:C7:0D&stream=2076997&extension=ts&play_token=yWhT9pAFnK
-
 
 # # #  --------------------------------- VTV ----------------------------------------
 
