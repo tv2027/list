@@ -154,6 +154,58 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qubxnja5rl/
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/qubxnja5rl/out/v1/4ef0db80aa3341e2babb58314541f1e0/cenc.mpd
 
 
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 1
+http://mag.greatott.me/play/live.php?mac=A0:BB:3E:01:61:71&stream=2104163&extension=ts
+#EXTINF:-1 group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 2
+http://mag.greatott.me/play/live.php?mac=A0:BB:3E:01:61:71&stream=2104162&extension=ts
+#EXTINF:-1 group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 3
+http://mag.greatott.me/play/live.php?mac=A0:BB:3E:01:61:71&stream=2104161&extension=ts
+#EXTINF:-1 group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 4
+http://mag.greatott.me/play/live.php?mac=A0:BB:3E:01:61:71&stream=2104160&extension=ts
+#EXTINF:-1 group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 5
+http://mag.greatott.me/play/live.php?mac=A0:BB:3E:01:61:71&stream=2104159&extension=ts
+#EXTINF:-1 group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| BEIN SPORTS MAX ᵁᴴᴰ 4K FM
+http://mag.greatott.me/play/live.php?mac=A0:BB:3E:01:61:71&stream=2098112&extension=ts
+#EXTINF:-1 group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| BEIN SPORTS MAX ᵁᴴᴰ 4K NM
+http://mag.greatott.me/play/live.php?mac=A0:BB:3E:01:61:71&stream=2097322&extension=ts
+#EXTINF:-1 group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| BEIN SPORTS MAX ᵁᴴᴰ 4K
+http://mag.greatott.me/play/live.php?mac=A0:BB:3E:01:61:71&stream=2095904&extension=ts
+#EXTINF:-1 group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| BBC ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://mag.greatott.me/play/live.php?mac=A0:BB:3E:01:61:71&stream=2095903&extension=ts
+#EXTINF:-1 group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://mag.greatott.me/play/live.php?mac=A0:BB:3E:01:61:71&stream=2095902&extension=ts
+#EXTINF:-1 group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX [BK] ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://mag.greatott.me/play/live.php?mac=A0:BB:3E:01:61:71&stream=2095901&extension=ts
+#EXTINF:-1 group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX SPORTS 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://mag.greatott.me/play/live.php?mac=A0:BB:3E:01:61:71&stream=2095900&extension=ts
+#EXTINF:-1 group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX SPORTS 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://mag.greatott.me/play/live.php?mac=A0:BB:3E:01:61:71&stream=2095899&extension=ts
+#EXTINF:-1 group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| NOW SPORTS 616 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://mag.greatott.me/play/live.php?mac=A0:BB:3E:01:61:71&stream=2095898&extension=ts
+#EXTINF:-1 group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| NOW SPORTS 617 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://mag.greatott.me/play/live.php?mac=A0:BB:3E:01:61:71&stream=2095897&extension=ts
+#EXTINF:-1 group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| M6 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://mag.greatott.me/play/live.php?mac=A0:BB:3E:01:61:71&stream=2095896&extension=ts
+#EXTINF:-1 group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://mag.greatott.me/play/live.php?mac=A0:BB:3E:01:61:71&stream=2095895&extension=ts
+#EXTINF:-1 group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://mag.greatott.me/play/live.php?mac=A0:BB:3E:01:61:71&stream=2095894&extension=ts
+#EXTINF:-1 group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 2 ᵁᴴᴰ ³⁸⁴⁰ᴾᴾ
+http://mag.greatott.me/play/live.php?mac=A0:BB:3E:01:61:71&stream=2095893&extension=ts
+#EXTINF:-1 group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 1 [BK] ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://mag.greatott.me/play/live.php?mac=A0:BB:3E:01:61:71&stream=2095892&extension=ts
+#EXTINF:-1 group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 2 [BK] ᵁᴴᴰ ³⁸⁴⁰ᴾᴾ
+http://mag.greatott.me/play/live.php?mac=A0:BB:3E:01:61:71&stream=2095891&extension=ts
+#EXTINF:-1 group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| MW FUSSBALL 1 DE ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://mag.greatott.me/play/live.php?mac=A0:BB:3E:01:61:71&stream=2095890&extension=ts
+#EXTINF:-1 group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| MW FUSSBALL 2 DE ᵁᴴᴰ ³⁸⁴⁰ᴾᴾ
+http://mag.greatott.me/play/live.php?mac=A0:BB:3E:01:61:71&stream=2095889&extension=ts
+#EXTINF:-1 group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| UNIVERSO ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://mag.greatott.me/play/live.php?mac=A0:BB:3E:01:61:71&stream=2095888&extension=ts
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 1
 http://klaratv.com:80/play/live.php?mac=00:1A:79:BC:A4:4E&stream=2104163&extension=ts&play_token=ImFKMONzD5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| 4K 2
