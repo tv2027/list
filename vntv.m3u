@@ -838,8 +838,10 @@ https://247.dpdns.org/module/IPTV/?id=vtv3&accKenh=nactha
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https://vips-livecdn.fptplay.net/live/media/v3abr/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png" , VTV3 (tdprl) (1080p50)
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https://live.fptplay53.net/live/media/v3abr/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png" , VTV3 (tlgpr) (1080p)
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png" , VTV3 (tlgprv) (1080p)
 https://tinhlagi.pro/tivi/proxy.php?url=https://vips-livecdn.fptplay.net/live/media/v3abr/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png" , VTV3 (tlgprl) (1080p)
+https://tinhlagi.pro/tivi/proxy.php?url=https://live.fptplay53.net/live/media/v3abr/live247-hls-avc/index.m3u8
 
 
 #EXTINF:-1 tvg-id="vtvgo" group-title="VTV" tvg-logo="https://i.imgur.com/37kBglx.png" , VTV Go (Bình luận cảm xúc) (prva) (1080p)
@@ -925,8 +927,10 @@ https://247.dpdns.org/module/IPTV/?id=vtv6&accKenh=nactha
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https://vips-livecdn.fptplay.net/live/media/v6abr/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/GbrmnAP.png" , VTV6 (tdprl) (1080p50)
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https://live.fptplay53.net/live/media/v6abr/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/GbrmnAP.png" , VTV6 (tlgpr) (1080p)
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/GbrmnAP.png" , VTV6 (tlgprv) (1080p)
 https://tinhlagi.pro/tivi/proxy.php?url=https://vips-livecdn.fptplay.net/live/media/v6abr/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/GbrmnAP.png" , VTV6 (tlgprl) (1080p)
+https://tinhlagi.pro/tivi/proxy.php?url=https://live.fptplay53.net/live/media/v6abr/live247-hls-avc/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png" , VTV7 (l) (1080p50) [Geo-blocked]
 https://live.fptplay53.net/live/media/v7abr/live247-hls-avc/index.m3u8
@@ -958,14 +962,16 @@ https://vips-livecdn.fptplay.net/live/media/v9abr/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" , VTV9 (vatv) (1080p)
 #https://vpsttt.vietanhtv.top/tv360/tv360.php?id=8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" , VTV9 (nhanh) (1080p)
-https://247.dpdns.org/module/IPTV/?id=vtv3&accKenh=nactha
+https://247.dpdns.org/module/IPTV/?id=vtv9&accKenh=nactha
 #http://tpninosaga.duckdns.org/source/tv360.m3u8?id=8&token=NinoEra36
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" , VTV9 (tdprv) (1080p50)
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https://vips-livecdn.fptplay.net/live/media/v9abr/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" , VTV9 (tdprl) (1080p50)
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https://live.fptplay53.net/live/media/v9abr/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" , VTV9 (tlgpr) (1080p)
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" , VTV9 (tlgprv) (1080p)
 https://tinhlagi.pro/tivi/proxy.php?url=https://vips-livecdn.fptplay.net/live/media/v9abr/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" , VTV9 (tlgprl) (1080p)
+https://tinhlagi.pro/tivi/proxy.php?url=https://live.fptplay53.net/live/media/v9abr/live247-hls-avc/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://i.imgur.com/0DFnQRF.png" , VTV10 (l) (1080p) [Geo-blocked]
 https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist.m3u8
@@ -983,8 +989,10 @@ https://247.dpdns.org/module/IPTV/?id=vtv10&accKenh=nactha
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https://vips-livecdn.fptplay.net/live/media/v10abr/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://i.imgur.com/0DFnQRF.png" , VTV10 (tdprl) (1080p50)
 https://truyenhinhonline.trungdungmedia.com/proxy?url=https://live.fptplay53.net/live/media/v10abr/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://i.imgur.com/0DFnQRF.png" , VTV10 (tlgpr) (1080p)
+#EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://i.imgur.com/0DFnQRF.png" , VTV10 (tlgprv) (1080p)
 https://tinhlagi.pro/tivi/proxy.php?url=https://vips-livecdn.fptplay.net/live/media/v10abr/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://i.imgur.com/0DFnQRF.png" , VTV10 (tlgprl) (1080p)
+https://tinhlagi.pro/tivi/proxy.php?url=https://live.fptplay53.net/live/media/v10abr/live247-hls-avc/index.m3u8
 
 
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://i.imgur.com/p9bWxfm.png" , VietNam Today (1080p)
