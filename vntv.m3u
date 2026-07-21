@@ -7,52 +7,32 @@
 #EXTM3U Disclaimer: Links were collected on the internet by search engine like Google. For legal issues, please contact appropriate media file owners/hosters.
 
 ###// EXTM3U url-tvg="https://vnepg.site/epg.xml, https://vnepg.site/epgu.xml, https://vnepg.site/epg.xml.gz"
-
 ###// EXTM3U url-tvg="https://github.com/iptv-pro/iptv-pro.github.io/raw/main/epg/epg.xml.gz"
 
 
-#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/mv4WjUp.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA 2026",beIN Sports France 1
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/mv4WjUp.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA 2026",beIN Sports France 1 [test]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3acea01244785a6363fc04b25d696392": "f0b8f84dbd93407af6ab0b41fc774249", "9d8b1b819cfdcff845625b86cc4968f3": "480b03fe4476bc187c6a9d43ba85b9db", "3cf686dc4246f19bc4419c54da0f90bc": "b40f599266c8a262ccf4a384dadce08a", "b6362975ca29d0685b7cac721b6faa26": "da04d180e9028af27482b6a37c81e020", "6ca2f2c822444ff76d9570741dec7b2b": "9fc3d71ab30e8d33f09ee29e5e453608"}
+#KODIPROP:inputstream.adaptive.license_key=https://livesport.zhost.education/link/xxx.xml
 https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
 
-#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/j5OYmrk.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA 2026",Fussball tv 1
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/j5OYmrk.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA 2026",Fussball tv 1 [test]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"4f558eae1b005126b2ac6e9eb1a7849e":"17aea325d91b5e66f06a8c574f2f0b03","b73f76658d1f5ce38420f380421bafe3":"9ebdbf32f90b546f66603104b2ac3c8a","e1f8fc6898fc5bf7a00b5609af23fee0":"98b7133ee006d9fae111ec0cb366641c","e511fb81360c5f14b681605d1de52046":"ec72f335d0e436ac7dc1d936aea1144a"}
+#KODIPROP:inputstream.adaptive.license_key=https://livesport.zhost.education/link/xxx.xml
 https://at-live-99.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd
 
 
-#EXTINF:-1 group-title="WORLD CUP 2026", Fusstball 1 UHD
+#EXTINF:-1 group-title="WORLD CUP 2026", Fusstball 1 UHD [test]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"4f558eae1b005126b2ac6e9eb1a7849e": "17aea325d91b5e66f06a8c574f2f0b03", "b73f76658d1f5ce38420f380421bafe3": "9ebdbf32f90b546f66603104b2ac3c8a", "e1f8fc6898fc5bf7a00b5609af23fee0": "98b7133ee006d9fae111ec0cb366641c", "e511fb81360c5f14b681605d1de52046": "ec72f335d0e436ac7dc1d936aea1144a"}
+#KODIPROP:inputstream.adaptive.license_key=https://livesport.zhost.education/link/xxx.xml
 https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd
 
-#EXTINF:-1 group-title="WORLD CUP 2026", BBC UHD
-https://ve-uhd-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_042/iptv_uhd_v1.mpd
 
-#EXTINF:-1 group-title="WORLD CUP 2026", FOX UHD HDR10
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://live-pv-ta.amazon.fastly-edge.com/pdx-nitro/live/clients/dash/enc/stxrbahabo/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
-
-#EXTINF:-1 group-title="WORLD CUP 2026", FOX UHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/bw8hpnqprs/out/v1/9e895e2c1c894a75ac6d21a4deddd5d3/cenc.mpd
-
-#EXTINF:-1 group-title="WORLD CUP 2026", FOX
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/t7uu8qfape/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
 
 #EXTINF:-1 group-logo="https://flagicons.lipis.dev/flags/4x3/cz.svg" tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026" , FOX ONE (lhr) [?]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -74,6 +54,20 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ajfoeddkbz/
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
+#EXTINF:-1 group-logo="https://flagicons.lipis.dev/flags/4x3/cz.svg" tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026" , FOX ONE (iad) [?]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+
+
+#EXTINF:-1 group-logo="https://i.imgur.com/BUx9Txs.png" tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026" tvg-uid="4078e8b069853229bb2d02b0163e354a",FOX ONE UHD 4K (pdx) [?]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
+https://live-pv-ta.amazon.fastly-edge.com/pdx-nitro/live/clients/dash/enc/lsilniwjf7/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
 
 #EXTINF:-1 group-logo="https://i.imgur.com/BUx9Txs.png" tvg-logo="https://i.imgur.com/BUx9Txs.png" group-title="WORLD CUP 2026" tvg-uid="4078e8b069853229bb2d02b0163e354a",FOX ONE UHD 4K (lhr) [?]
 #KODIPROP:inputstream=inputstream.adaptive
